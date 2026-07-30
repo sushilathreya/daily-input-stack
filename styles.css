@@ -360,6 +360,16 @@ h1 {
   line-height: 1.7;
 }
 
+.signal-grid a {
+  display: inline-block;
+  margin-top: 0.8rem;
+  border-bottom: 1px solid var(--rule);
+  color: var(--green);
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  font-weight: 750;
+}
+
 .fragment-list {
   display: grid;
   gap: 1rem;
@@ -391,15 +401,36 @@ h1 {
   margin: 0.65rem 0 0;
 }
 
-.fragment-list blockquote {
+.tweet-shell {
+  margin-top: 1rem;
+}
+
+.twitter-tweet {
   margin: 0.75rem 0 0;
-  border-left: 0.28rem solid var(--red);
-  background: rgba(255, 248, 235, 0.72);
-  padding: 0.85rem 1rem;
+  border: 1px solid #d6d9de;
+  border-radius: 14px;
+  background: #ffffff;
+  padding: 1rem;
   color: var(--ink);
-  font-family: var(--serif-body);
-  font-size: 1rem;
-  line-height: 1.65;
+  font-family: var(--sans);
+  box-shadow: 0 10px 24px rgba(24, 21, 18, 0.06);
+}
+
+.twitter-tweet p {
+  margin: 0;
+  color: #0f1419;
+  font-family: var(--sans);
+  font-size: 0.98rem;
+  line-height: 1.45;
+}
+
+.twitter-tweet a {
+  display: inline-block;
+  margin-top: 0.85rem;
+  color: #1d9bf0;
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  font-weight: 700;
 }
 
 .output {
