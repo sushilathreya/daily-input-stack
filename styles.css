@@ -360,6 +360,47 @@ h1 {
   line-height: 1.7;
 }
 
+.fragment-list {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.fragment-list article {
+  border-top: 1px solid var(--hairline);
+  padding-top: 1rem;
+}
+
+.fragment-list span {
+  color: var(--gold);
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  font-weight: 750;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.fragment-list h3 {
+  margin-top: 0.45rem;
+  font-family: var(--serif-display);
+  font-size: 1.45rem;
+  line-height: 1.1;
+}
+
+.fragment-list p {
+  margin: 0.65rem 0 0;
+}
+
+.fragment-list a {
+  display: inline-block;
+  margin-top: 0.65rem;
+  border-bottom: 1px solid var(--rule);
+  color: var(--green);
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  font-weight: 750;
+}
+
 .output {
   margin-top: 1rem;
   border: 0;
