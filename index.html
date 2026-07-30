@@ -6,126 +6,377 @@
     <title>The Daily Input Stack</title>
     <meta
       name="description"
-      content="A private-feeling daily reading room for masters, fundamentals, current signals, and selected timeline gems."
+      content="A daily editorial reading room for masters, fundamentals, current signals, and selected timeline gems."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650;9..144,760&family=Inter:wght@400;500;650;750&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap"
+      rel="stylesheet"
     />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <header class="masthead">
-      <div class="masthead__inner">
-        <p class="kicker">The Daily Input Stack</p>
-        <h1>A quiet daily reading room for commercial human behavior and narrative.</h1>
-        <div class="issue">
-          <p>Thursday, 30 July 2026</p>
-          <p>Issue 001 / 55 min</p>
-          <p>Persuasion through narrative</p>
-        </div>
+    <header class="cover">
+      <nav class="topline" aria-label="Issue metadata">
+        <a class="brand" href="#top">The Daily Input Stack</a>
+        <span>Issue 001</span>
+        <span>Thursday, 30 July 2026</span>
+      </nav>
+
+      <div class="cover-grid" id="top">
+        <figure class="cover-image">
+          <img
+            src="assets/goss-printing-press.png"
+            alt="A 1905 drawing of a Goss straightline printing press."
+          />
+          <figcaption>
+            Goss straightline printing press, 1905. Public-domain image via Wikimedia Commons.
+          </figcaption>
+        </figure>
+
+        <section class="cover-story" aria-labelledby="cover-title">
+          <p class="eyebrow">Today&apos;s Study</p>
+          <h1 id="cover-title">Advertising stops being a gamble.</h1>
+          <p class="dek">
+            Claude Hopkins turns attention, copy, testing, and customer action into
+            a discipline. Today&apos;s reading stays on this page.
+          </p>
+          <div class="issue-strip">
+            <span>Masterwork: Scientific Advertising</span>
+            <span>Reading: 45-60 min</span>
+            <span>Output: one diagnostic hook</span>
+          </div>
+        </section>
       </div>
     </header>
 
-    <main class="layout">
-      <article class="edition">
-        <section class="panel">
-          <p class="kicker">01 / Masterwork</p>
-          <div class="section-title">
-            <div>
-              <p class="muted">Direct response and desire</p>
-              <h2>Eugene Schwartz on market awareness</h2>
-            </div>
-            <span class="pill">35 min</span>
-          </div>
-          <p class="body-copy">
-            Read for the core distinction between creating desire and channeling desire
-            that already exists. The daily question: what does your market already
-            believe, crave, fear, or resent before you say a word?
+    <main>
+      <section class="issue-map" aria-label="Issue contents">
+        <a href="#masterwork">Masterwork</a>
+        <a href="#drill">Fundamentals</a>
+        <a href="#signals">Signals</a>
+        <a href="#timeline">Timeline</a>
+        <a href="#output">Output</a>
+      </section>
+
+      <article class="reader">
+        <aside class="margin-note">
+          <p class="label">Editorial Direction</p>
+          <p>
+            A private magazine, not a dashboard: real text, real image, quiet metadata,
+            and a reading column built for staying put.
           </p>
-          <p class="source">Source: <em>Breakthrough Advertising</em>, chapters 1-2</p>
+        </aside>
+
+        <section class="article-head" id="masterwork">
+          <p class="label">01 / Masterwork</p>
+          <h2>Claude Hopkins: How Advertising Laws Are Established</h2>
+          <p class="standfirst">
+            Published in 1923, <em>Scientific Advertising</em> is old enough to be
+            public-domain and sharp enough to still sting. Read this chapter for one
+            central idea: good advertising is not vibes, opinions, or cleverness. It
+            is salesmanship exposed to measurement.
+          </p>
+          <div class="reading-meta">
+            <span>Field: persuasion fundamentals</span>
+            <span>Primary lens: testable salesmanship</span>
+            <span>Source: ScientificAdvertising.com public text</span>
+          </div>
         </section>
 
-        <section class="panel">
-          <p class="kicker">02 / Fundamentals Drill</p>
-          <h2>Market awareness</h2>
-          <p class="body-copy">
-            A person does not enter an offer as a blank mind. They arrive with a
-            level of pain, sophistication, skepticism, memory, and urgency. Your
-            message has to meet the stage they are already in.
+        <section class="master-text" aria-label="Masterwork text">
+          <h3>Chapter 1: How Advertising Laws Are Established</h3>
+
+          <p>
+            The time has come when advertising has in some hands reached the status
+            of a science. It is based on fixed principles and is reasonably exact.
+            The causes and effects have been analyzed until they are well
+            understood. The correct methods of procedure have been proved and
+            established. We know what is most effective, and we act on basic laws.
           </p>
-          <div class="exercise">
-            <p class="kicker">Today's Exercise</p>
+
+          <p>
+            Advertising, once a gamble, has thus become, under able direction, one
+            of the safest business ventures. Certainly no other enterprise with
+            comparable possibilities need involve so little risk.
+          </p>
+
+          <p>
+            Therefore, this book deals, not with theories and opinions, but with
+            well-proved principles and facts. It is written as a text book for
+            students and a safe guide for advertisers. Every statement has been
+            weighed. The book is confined to established fundamentals. If we enter
+            any realms of uncertainty we shall carefully denote them.
+          </p>
+
+          <p>
+            The present status of advertising is due to many reasons. Much national
+            advertising has long been handled by large organizations known as
+            advertising agencies. Some of these agencies, in their hundreds of
+            campaigns, have tested and compared the thousands of plans and ideas.
+            The results have been watched and recorded, so no lessons have been
+            lost.
+          </p>
+
+          <p>
+            Such agencies employ a high grade of talent. None but able and
+            experienced men can meet the requirements in national advertising.
+            Working in co-operation, learning from each other and from each new
+            undertaking, some of these men develop into masters.
+          </p>
+
+          <p>
+            Individuals may come and go, but they leave their records and ideas
+            behind them. These become a part of the organization&apos;s equipment, and a
+            guide to all who follow. Thus, in the course of decades, such agencies
+            become storehouses of advertising experiences, proved principles, and
+            methods.
+          </p>
+
+          <p>
+            The larger agencies also come into intimate contact with experts in
+            every department of business. Their clients are usually dominating
+            concerns. So they see the results of countless methods and policies.
+            They become a clearing house for everything pertaining to merchandising.
+            Nearly every selling question which arises in business is accurately
+            answered by many experiences.
+          </p>
+
+          <p>
+            Under these conditions, where they long exist, advertising and
+            merchandising become exact sciences. Every course is charted. The
+            compass of accurate knowledge directs the shortest, safest, cheapest
+            course to any destination.
+          </p>
+
+          <p>
+            We learn the principles and prove them by repeated tests. This is done
+            through keyed advertising, by traced returns, largely by the use of
+            coupons. We compare one way with many others, backward and forward, and
+            record the results. When one method invariably proves best, that method
+            becomes a fixed principle.
+          </p>
+
+          <p>
+            Mail order advertising is traced down to the fraction of a penny. The
+            cost per reply and cost per dollar of sale show up with utter exactness.
+          </p>
+
+          <p>
+            One ad is compared with another, one method with another. Headlines,
+            settings, sizes, arguments and pictures are compared. To reduce the cost
+            of results even one per cent means much in some mail order advertising.
+            So no guesswork is permitted. One must know what is best. Thus mail
+            order advertising first established many of our basic laws.
+          </p>
+
+          <p>
+            In lines where direct returns are impossible we compare one town with
+            another. Scores of methods may be compared in this way, measured by cost
+            of sales.
+          </p>
+
+          <p>
+            But the most common way is by use of the coupon. We offer a sample, a
+            book, a free package, or something to induce direct replies. Thus we
+            learn the amount of action which each ad engenders.
+          </p>
+
+          <p>
+            But those figures are not final. One ad may bring too many worthless
+            replies, another replies that are valuable. So our final conclusions
+            are always based on cost per customer or cost per dollar of sale.
+          </p>
+
+          <p>
+            These coupon plans are dealt with further in the chapter on &quot;Test
+            Campaigns.&quot; Here we explain only how we employ them to discover
+            advertising principles.
+          </p>
+
+          <p>
+            In a large ad agency coupon returns are watched and recorded on
+            hundreds of different lines. In a single line they are sometimes
+            recorded on thousands of separate ads. Thus we test everything
+            pertaining to advertising. We answer nearly every possible question by
+            multitudinous traced returns.
+          </p>
+
+          <p>
+            Some things we learn in this way apply only to particular lines. But
+            even those supply basic principles for analogous undertakings.
+          </p>
+
+          <p>
+            Others apply to all lines. They become fundamentals for advertising in
+            general. They are universally applied. No wise advertiser will ever
+            depart from those unvarying laws.
+          </p>
+
+          <p>
+            We propose in this book to deal with those fundamentals, those universal
+            principles. To teach only established technic. There is that technic in
+            advertising, as in all art, science and mechanics. And it is, as in all
+            lines, a basic essential.
+          </p>
+
+          <p>
+            The lack of those fundamentals has been the main trouble with
+            advertising of the past. Each worker was a law unto himself. All
+            previous knowledge, all progress in the line, was a closed book to him.
+            It was like a man trying to build a modern locomotive without first
+            ascertaining what others had done. It was like a Columbus starting out
+            to find an undiscovered land.
+          </p>
+
+          <p>
+            Men were guided by whims and fancies, vagrant, changing breezes. They
+            rarely arrived at their port. When they did, by accident, it was by a
+            long roundabout course.
+          </p>
+
+          <p>
+            Each early mariner in this sea mapped his own separate course. There
+            were no charts to guide him. Not a lighthouse marked a harbor, not a
+            buoy showed a reef. The wrecks were unrecorded, so countless ventures
+            came to grief on the same rocks and shoals.
+          </p>
+
+          <p>
+            Advertising was then a gamble, a speculation of the rashest sort. One
+            man&apos;s guess on the proper course was as likely to be as good as
+            another&apos;s. There were no safe pilots, because few sailed the same course
+            twice.
+          </p>
+
+          <p>
+            That condition has been corrected. Now the only uncertainties pertain
+            to people and to products, not to methods. It is hard to measure human
+            idiosyncrasies, the preferences and prejudices, the likes and dislikes
+            that exist. We cannot say that an article will be popular, but we know
+            how to find out very quickly. We do know how to sell it in the most
+            effective way.
+          </p>
+
+          <p>
+            Ventures may fail, but the failures are not disasters. Losses, when
+            they occur, are but trifling. And the causes are factors which have
+            nothing to do with the advertising.
+          </p>
+
+          <p>
+            Advertising has flourished under these new conditions. It has
+            multiplied in volume, in prestige and respect. The perils have been
+            almost eliminated. The results have increased many fold. Just because
+            the gamble has become a science, the speculation a very conservative
+            business.
+          </p>
+
+          <p>
+            These facts should be recognized by all. This is no proper field for
+            sophistry or theory, or for any other will-o&apos;-the-wisp. The blind
+            leading the blind is ridiculous. It is pitiful in a field with such vast
+            possibilities. Success is a rarity, maximum success an impossibility,
+            unless one is guided by laws as immutable as the law of gravitation.
+          </p>
+
+          <p>
+            So our main purpose here is to set down those laws, and to tell you how
+            to prove them for yourself. After them come a myriad of variations. No
+            two advertising campaigns are ever conducted on lines that are
+            identical. Individuality is an essential. Imitation is a reproach. But
+            those variable things which depend on ingenuity have no place in a text
+            book on advertising. This is for groundwork only.
+          </p>
+
+          <p>
+            Our hope is to foster advertising through a better understanding. To
+            place it on a business basis. To have it recognized as among the safest,
+            surest ventures which lead to large returns.
+          </p>
+
+          <p>
+            Thousands of conspicuous successes show its possibilities. Their variety
+            points out its almost unlimited scope. Yet thousands who need it, who
+            can never attain their deserts without it, still look upon its
+            accomplishments as somewhat accidental.
+          </p>
+
+          <p>That was so, but it is not so now. We hope that this book will throw some new lights on the subject.</p>
+        </section>
+
+        <section class="drill" id="drill">
+          <p class="label">02 / Fundamentals Drill</p>
+          <h2>The Fundamental: Action Must Be Traceable</h2>
+          <p>
+            Hopkins is not saying creativity is irrelevant. He is saying creativity
+            earns its place only when it can be tied to behavior. In modern terms:
+            a hook, landing page, offer, or content series is not good because it
+            sounds smart. It is good because it produces the next useful action.
+          </p>
+          <div class="prompt-box">
+            <span>Today&apos;s Exercise</span>
             <p>
-              Write one Unfireable hook for someone who knows they are overworked
-              but does not yet believe the workplace pattern is exploitive.
+              Rewrite one Unfireable hook so the promised action is measurable:
+              quiz completion, product click, reply, checkout intent, or saved
+              post. Remove any cleverness that cannot be linked to behavior.
             </p>
           </div>
         </section>
 
-        <section class="panel">
-          <p class="kicker">03 / Current Signals</p>
-          <div class="signal-list">
-            <div>
-              <h3>AI search is turning brand visibility into a measurable channel</h3>
+        <section class="signals" id="signals">
+          <p class="label">03 / Current Signals</p>
+          <h2>Three Signals To Keep In View</h2>
+          <div class="signal-grid">
+            <article>
+              <span>AI Search</span>
+              <h3>Visibility is becoming source-driven.</h3>
               <p>
-                Marketers will need to know not only where they rank, but which
-                sources models trust when answering buyer questions.
+                The practical question is moving from &quot;do we rank?&quot; to
+                &quot;which sources does the model trust when it explains the
+                market?&quot;
               </p>
-            </div>
-            <div>
-              <h3>Founder-led brands keep outperforming faceless category copy</h3>
+            </article>
+            <article>
+              <span>Brand</span>
+              <h3>Distinctive memory still beats clever language.</h3>
               <p>
-                The audience remembers a living point of view faster than an
-                optimized value proposition.
+                Hopkins gives us measurement. Sharp and Romaniuk later add the
+                memory layer: make the buyer recognize you in buying situations.
               </p>
-            </div>
-            <div>
-              <h3>Distribution is becoming more diagnosis-led</h3>
+            </article>
+            <article>
+              <span>Content</span>
+              <h3>Diagnosis is distribution.</h3>
               <p>
-                The strongest content acts like a small diagnostic tool: it names
-                the reader's situation before selling the solution.
+                People stop for material that names their situation before they
+                had language for it. That is why calculators, audits, and sharp
+                labels travel.
               </p>
-            </div>
+            </article>
           </div>
         </section>
 
-        <section class="panel">
-          <p class="kicker">04 / Timeline Gems</p>
-          <ol class="tweet-list">
-            <li>A sharp chart, thread, or quote will live here once the daily source list is connected.</li>
-            <li>The rule is five to ten selected timeline gems, never the full feed.</li>
-          </ol>
+        <section class="timeline" id="timeline">
+          <p class="label">04 / Timeline Gems</p>
+          <h2>Timeline Layer</h2>
+          <p>
+            This section stays intentionally constrained. Once the curated account
+            list exists, it will hold five to ten extracted gems, not the feed
+            itself. Today: no substitute slop.
+          </p>
         </section>
 
-        <section class="panel output">
-          <p class="kicker">05 / Output Prompt</p>
+        <section class="output" id="output">
+          <p class="label">05 / Output Prompt</p>
+          <h2>Write The Testable Hook</h2>
           <p>
-            Write a 150-word memo: What does your audience already want revenge,
-            recognition, relief, or proof from before they meet the product?
+            Write three versions of one hook. Beside each, name the behavior it is
+            meant to cause and the simplest way to observe whether it worked.
           </p>
         </section>
       </article>
-
-      <aside class="sidebar">
-        <section class="panel side">
-          <p class="kicker">Weekly Syllabus</p>
-          <h2>The next seven days</h2>
-          <ul>
-            <li>Monday: Hopkins and the offer</li>
-            <li>Tuesday: Schwartz and awareness</li>
-            <li>Wednesday: McKee and conflict</li>
-            <li>Thursday: Ries and mental position</li>
-            <li>Friday: Cialdini and proof</li>
-            <li>Saturday: Byron Sharp and memory</li>
-            <li>Sunday: syllabus reset and archive review</li>
-          </ul>
-        </section>
-
-        <section class="panel side">
-          <p class="kicker">Delivery</p>
-          <p>
-            Daily edition at 10:00 AM IST. Sunday syllabus at 12:00 PM IST.
-            Email carries one link; the reading happens here.
-          </p>
-        </section>
-      </aside>
     </main>
   </body>
 </html>
