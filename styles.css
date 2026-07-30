@@ -391,14 +391,15 @@ h1 {
   margin: 0.65rem 0 0;
 }
 
-.fragment-list a {
-  display: inline-block;
-  margin-top: 0.65rem;
-  border-bottom: 1px solid var(--rule);
-  color: var(--green);
-  font-family: var(--sans);
-  font-size: 0.82rem;
-  font-weight: 750;
+.fragment-list blockquote {
+  margin: 0.75rem 0 0;
+  border-left: 0.28rem solid var(--red);
+  background: rgba(255, 248, 235, 0.72);
+  padding: 0.85rem 1rem;
+  color: var(--ink);
+  font-family: var(--serif-body);
+  font-size: 1rem;
+  line-height: 1.65;
 }
 
 .output {
