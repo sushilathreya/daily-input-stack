@@ -231,7 +231,8 @@ h1 {
 }
 
 .source-actions {
-  display: grid;
+  display: flex;
+  flex-wrap: wrap;
   gap: 0.65rem;
   margin-top: 1.4rem;
   border: 1px solid var(--hairline);
@@ -259,7 +260,13 @@ h1 {
   color: var(--green);
 }
 
+.source-link.secondary {
+  background: transparent;
+  color: var(--green);
+}
+
 .source-actions code {
+  flex-basis: 100%;
   color: var(--muted);
   font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
   font-size: 0.76rem;
@@ -268,6 +275,7 @@ h1 {
 }
 
 .source-actions p {
+  flex-basis: 100%;
   margin: 0;
   color: var(--muted);
   font-size: 0.8rem;
