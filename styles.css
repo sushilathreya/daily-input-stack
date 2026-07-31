@@ -22,6 +22,7 @@
 html {
   background: var(--paper);
   scroll-behavior: smooth;
+  scroll-padding-top: 5rem;
 }
 
 body {
@@ -198,8 +199,8 @@ h1 {
 
 .reader {
   display: grid;
-  grid-template-columns: minmax(11rem, 0.45fr) minmax(0, 44rem) minmax(11rem, 0.45fr);
-  column-gap: clamp(1.5rem, 4vw, 4rem);
+  grid-template-columns: minmax(10rem, 0.4fr) minmax(0, 48rem) minmax(8rem, 0.32fr);
+  column-gap: clamp(1.25rem, 3vw, 3.5rem);
   max-width: 98rem;
   margin: 0 auto;
   padding: clamp(2.25rem, 6vw, 6rem) max(1rem, 4vw);
@@ -207,6 +208,7 @@ h1 {
 
 .reader > section {
   grid-column: 2;
+  scroll-margin-top: 5rem;
 }
 
 .margin-note {
@@ -259,7 +261,7 @@ h1 {
 }
 
 .master-text {
-  padding: clamp(2rem, 5vw, 4rem) 0;
+  padding: clamp(2rem, 5vw, 3.5rem) 0;
   counter-reset: para;
 }
 
@@ -278,21 +280,83 @@ h1 {
   margin: 0;
   color: #201b16;
   font-family: var(--serif-body);
-  font-size: clamp(1.05rem, 1.55vw, 1.22rem);
-  line-height: 1.9;
+  font-size: clamp(1rem, 1.1vw, 1.13rem);
+  line-height: 1.82;
 }
 
 .master-text p + p {
   margin-top: 1.05rem;
 }
 
-.master-text p:first-of-type::first-letter {
+.master-text:not(.source-led) p:first-of-type::first-letter {
   float: left;
   margin: 0.12rem 0.55rem 0 0;
   color: var(--red);
   font-family: var(--serif-display);
   font-size: 5.4rem;
   line-height: 0.78;
+}
+
+.source-instruction {
+  border-top: 1px solid var(--hairline);
+  border-bottom: 1px solid var(--hairline);
+  padding: 1rem 0;
+}
+
+.source-passage {
+  margin-top: 1.25rem;
+  border-left: 0.28rem solid var(--red);
+  background: rgba(255, 248, 235, 0.72);
+  padding: 1rem 1.15rem 1.05rem;
+}
+
+.source-passage span {
+  color: var(--green);
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  font-weight: 750;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.source-passage blockquote {
+  margin: 0.65rem 0 0;
+  color: var(--ink);
+  font-family: var(--serif-display);
+  font-size: clamp(1.35rem, 2vw, 1.9rem);
+  font-weight: 650;
+  line-height: 1.2;
+}
+
+.source-passage p {
+  margin-top: 0.7rem;
+  color: var(--soft-ink);
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.close-reading {
+  margin-top: 1.75rem;
+  border-top: 1px solid var(--hairline);
+  padding-top: 1.5rem;
+}
+
+.close-reading h3 {
+  margin-bottom: 0.8rem;
+}
+
+.close-reading ol {
+  margin: 0;
+  padding-left: 1.25rem;
+  color: var(--soft-ink);
+  font-family: var(--serif-body);
+  font-size: clamp(1rem, 1.1vw, 1.1rem);
+  line-height: 1.75;
+}
+
+.close-reading li + li {
+  margin-top: 0.55rem;
 }
 
 .drill,
@@ -331,6 +395,8 @@ h1 {
 
 .prompt-box p {
   margin: 0.65rem 0 0;
+  font-size: 1rem;
+  line-height: 1.7;
 }
 
 .signal-grid {
@@ -414,6 +480,7 @@ h1 {
   color: var(--ink);
   font-family: var(--sans);
   box-shadow: 0 10px 24px rgba(24, 21, 18, 0.06);
+  overflow-wrap: anywhere;
 }
 
 .twitter-tweet p {
