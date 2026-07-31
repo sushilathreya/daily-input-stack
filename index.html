@@ -19,11 +19,6 @@
       </nav>
 
       <div class="cover-grid" id="top">
-        <figure class="cover-image">
-          <img src="assets/goss-printing-press.png" alt="A 1905 drawing of a Goss straightline printing press." />
-          <figcaption>Goss straightline printing press, 1905. Public-domain image via Wikimedia Commons.</figcaption>
-        </figure>
-
         <section class="cover-story" aria-labelledby="cover-title">
           <p class="eyebrow">The Apprentice&apos;s Desk</p>
           <h1 id="cover-title">You do not create the desire.</h1>
@@ -53,6 +48,12 @@
           <h2>Eugene Schwartz: Find the hunger already in motion.</h2>
           <p class="standfirst">Today&apos;s reading is <em>Breakthrough Advertising</em>, Chapter 1, “Mass Desire: The Force That Makes Advertising Work—and How to Focus It Onto Your Product.” The page below is built as an on-page chapter reader: the argument, sequence, awareness ladder, passage anchors, and close-reading prompts are all here.</p>
           <div class="reading-meta"><span>Field: human desire / persuasion fundamentals</span><span>Reading: Chapter 1 from the opening through the State of Awareness section</span><span>Source: local copy in Books</span></div>
+          <div class="source-actions" aria-label="Source material access">
+            <a class="source-link" href="file:///Users/sushil/Documents/Operation%20Alpine%20Thunder/Books/Breakthrough%20Advertising%20Eugene%20Schwartz.pdf">Open local PDF</a>
+            <button type="button" data-copy-command='open "/Users/sushil/Documents/Operation Alpine Thunder/Books/Breakthrough Advertising Eugene Schwartz.pdf"'>Copy open command</button>
+            <code>/Users/sushil/Documents/Operation Alpine Thunder/Books/Breakthrough Advertising Eugene Schwartz.pdf</code>
+            <p>If the browser blocks local-file links, copy the command and run it in Terminal.</p>
+          </div>
         </section>
 
         <section class="master-text source-led" aria-label="Canon source packet">
@@ -154,6 +155,22 @@
         </section>
       </article>
     </main>
+    <script>
+      document.querySelectorAll("[data-copy-command]").forEach((button) => {
+        button.addEventListener("click", async () => {
+          const text = button.getAttribute("data-copy-command");
+          try {
+            await navigator.clipboard.writeText(text);
+            button.textContent = "Copied";
+            window.setTimeout(() => {
+              button.textContent = "Copy open command";
+            }, 1600);
+          } catch {
+            button.textContent = "Copy failed";
+          }
+        });
+      });
+    </script>
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </body>
 </html>
