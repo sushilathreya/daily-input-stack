@@ -1,0 +1,15 @@
+{
+  "date": "YYYY-MM-DD",
+  "status": "published_and_emailed",
+  "local_verified": false,
+  "git_commit": "",
+  "github_pages_run_id": "",
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_verified": false,
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": false,
+  "email_subject": "",
+  "created_at_ist": "",
+  "notes": ""
+}
+

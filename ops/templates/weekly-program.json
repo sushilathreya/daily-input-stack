@@ -1,0 +1,23 @@
+{
+  "date": "YYYY-MM-DD",
+  "week_start": "YYYY-MM-DD",
+  "week_end": "YYYY-MM-DD",
+  "status": "planned",
+  "theme": "",
+  "days": [
+    {
+      "date": "YYYY-MM-DD",
+      "master": "",
+      "work": "",
+      "chapter_or_section": "",
+      "fundamental": "",
+      "local_source_available": false,
+      "source_path": "",
+      "drive_link": "",
+      "fallback_acquire_note": ""
+    }
+  ],
+  "created_at_ist": "",
+  "created_by": "weekly-program-agent"
+}
+
