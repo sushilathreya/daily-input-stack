@@ -43,6 +43,8 @@ Forbidden:
 - browse X/Twitter
 - do morning field-note research
 
+Before self-assigning a canon reading, check prior issues and receipts. Do not repeat a masterwork chapter that has already been studied unless the user explicitly asks for a reread.
+
 ### Morning Signals
 
 Runs at 9 AM on the delivery day.
