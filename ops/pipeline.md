@@ -45,6 +45,8 @@ Forbidden:
 
 Before self-assigning a canon reading, check prior issues and receipts. Do not repeat a masterwork chapter that has already been studied unless the user explicitly asks for a reread.
 
+Canon prep must assign one bounded reading. Prefer one chapter or a clearly named section under 60 pages. If a source chapter is longer than 60 pages, assign a smaller page range with an explicit stop point. Never bundle multiple chapters or an entire book part into a daily reading.
+
 ### Morning Signals
 
 Runs at 9 AM on the delivery day.
