@@ -89,7 +89,7 @@ Forbidden:
 - X/Twitter browsing
 - sending success email before live verification
 
-### Watchdog
+### Rescue Watchdog
 
 Runs before the inbox deadline.
 
@@ -100,9 +100,17 @@ Checks:
 - publish receipt exists
 - success email was sent or publisher final confirms it
 
-If any check fails, send a delivery issue email. Do not silently hang.
+If any check fails, first try to recover delivery:
+
+- verify the best available local issue
+- commit and push if needed
+- wait briefly for GitHub Pages
+- curl the live page with a cache-busting query string
+- send the success email if the live page is current
+- write the publish receipt if recovery succeeds
+
+Only send a delivery issue email if recovery is not possible before the inbox deadline. Failure notice is the last resort, not the primary job.
 
 ## Quality Bar
 
 The page is a magazine, not a dashboard. The canon is source-first. The field notes must be timely, sourced, and varied. X fragments must be high-signal or omitted.
-
