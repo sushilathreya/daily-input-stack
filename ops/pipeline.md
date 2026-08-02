@@ -48,6 +48,8 @@ Before self-assigning a canon reading, check prior issues and receipts. Do not r
 
 Canon prep must assign one bounded reading. Prefer one chapter or a clearly named section under 60 pages. If a source chapter is longer than 60 pages, assign a smaller page range with an explicit stop point. Never bundle multiple chapters or an entire book part into a daily reading.
 
+For PDF sources, run a parser preflight before assigning the reading. Use `pdf-inspector` when available to classify text-based, scanned, image-based, or mixed PDFs and extract Markdown for native-text pages. If the PDF is scanned or mixed, do not trust empty text extraction; use OCR, rendered page inspection, or a verified table of contents/page range before writing the canon assignment.
+
 ### Morning Signals
 
 Runs at 9 AM on the delivery day.
