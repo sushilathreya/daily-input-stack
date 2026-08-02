@@ -15,6 +15,7 @@ Each stage writes a receipt into `ops/state/`:
 - `YYYY-MM-DD-morning-signals.json`
 - `YYYY-MM-DD-publish-receipt.json`
 - `YYYY-MM-DD-watchdog.json`
+- `YYYY-MM-DD-email.lock`
 
 ## Stage Rules
 
@@ -71,6 +72,14 @@ Forbidden:
 - sending email
 - mutating X/Twitter in any way
 
+The morning signals stage must not leave yesterday's field notes or X fragments on a new issue. It has three valid outcomes:
+
+- add fresh field notes and write `status: morning_signals_added`
+- add a visible "No fresh signals today" note and write `status: no_fresh_signals`
+- write `status: blocked` before publication begins
+
+If `status: blocked`, the publisher must not publish stale field notes or stale X fragments as if they belong to today's issue.
+
 ### Publisher And Delivery
 
 Runs after the morning signals stage.
@@ -79,12 +88,15 @@ Allowed:
 
 - verify required receipts
 - verify local page date and title
+- verify field notes and X fragments are fresh for today's issue, or visibly marked as no fresh signals
 - run local static checks
 - commit and push
 - wait for GitHub Pages
 - curl the live page
 - send success email only after live verification
 - write publish receipt
+
+Before sending a success email, acquire the local delivery lock by creating `ops/state/YYYY-MM-DD-email.lock`, then search Sent Gmail for the exact subject. If a matching success email already exists, do not send another. If the lock already exists, do not send; update the receipt from the existing delivery state instead.
 
 Forbidden:
 
@@ -107,10 +119,11 @@ Checks:
 If any check fails, first try to recover delivery:
 
 - verify the best available local issue
+- if signals are blocked or stale, add a visible no-fresh-signals note or perform a bounded signal rescue before publishing
 - commit and push if needed
 - wait briefly for GitHub Pages
 - curl the live page with a cache-busting query string
-- send the success email if the live page is current
+- acquire `ops/state/YYYY-MM-DD-email.lock`, search Sent Gmail for the exact subject, then send the success email only if no success email already exists
 - write the publish receipt if recovery succeeds
 
 Only send a delivery issue email if recovery is not possible before the inbox deadline. Failure notice is the last resort, not the primary job.
