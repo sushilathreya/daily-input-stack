@@ -1,0 +1,10 @@
+{
+  "date": "2026-08-02",
+  "status": "recovered_and_delivered",
+  "live_page_current": true,
+  "publish_receipt_present": true,
+  "email_confirmed": true,
+  "delivery_issue_email_sent": false,
+  "created_at_ist": "2026-08-02T12:26:44+05:30",
+  "notes": "At watchdog start the live page was still 1 August and no publish receipt existed. The pending 2 August issue was committed and deployed as 92ea64a; GitHub Pages run 30736816732 succeeded; the live page was verified before sending the success email."
+}
