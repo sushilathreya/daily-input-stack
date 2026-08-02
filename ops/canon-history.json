@@ -1,0 +1,36 @@
+[
+  {
+    "date": "2026-07-30",
+    "issueNumber": 1,
+    "author": "Claude Hopkins",
+    "work": "Scientific Advertising",
+    "chapter": "Just Salesmanship",
+    "notes": "Issue 001 used Hopkins on offer and salesmanship."
+  },
+  {
+    "date": "2026-07-31",
+    "issueNumber": 2,
+    "author": "Eugene Schwartz",
+    "work": "Breakthrough Advertising",
+    "chapter": "Mass Desire",
+    "notes": "Issue 002 studied the Mass Desire chapter."
+  },
+  {
+    "date": "2026-08-01",
+    "issueNumber": 3,
+    "author": "Robert McKee",
+    "work": "Story",
+    "chapter": "The Substance of Story",
+    "pageRange": "135-180",
+    "notes": "Issue 003 assigned only Chapter 7, not the full Part III arc."
+  },
+  {
+    "date": "2026-08-02",
+    "issueNumber": 4,
+    "author": "Eugene Schwartz",
+    "work": "Breakthrough Advertising",
+    "chapter": "Your Prospect's State of Awareness",
+    "notes": "Issue 004 follows Mass Desire with awareness states."
+  }
+]
+

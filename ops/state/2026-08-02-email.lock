@@ -1,0 +1,8 @@
+{
+  "date": "2026-08-02",
+  "subject": "Studying the Masters - Sunday - 2 August 2026",
+  "status": "sent",
+  "email_message_id": "19fc142d7d698a9c",
+  "sent_at_ist": "2026-08-02 12:26:50 IST",
+  "notes": "Created after duplicate-send audit. Gmail had two success emails for this subject; this lock prevents any further success send for the issue."
+}

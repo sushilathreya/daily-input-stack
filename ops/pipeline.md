@@ -2,6 +2,8 @@
 
 This system is a staged publication pipeline. No single automation owns the full issue.
 
+Agents produce issue manifests. Scripts validate, render, publish, and prepare delivery. Do not hand-edit `index.html` for normal daily production.
+
 ## Daily State
 
 Each issue uses this date key:
@@ -17,6 +19,18 @@ Each stage writes a receipt into `ops/state/`:
 - `YYYY-MM-DD-watchdog.json`
 - `YYYY-MM-DD-email.lock`
 
+Each issue has one manifest:
+
+- `ops/issues/YYYY-MM-DD.json`
+
+Core commands:
+
+- `node ops/scripts/validate-issue.mjs YYYY-MM-DD`
+- `node ops/scripts/render-issue.mjs YYYY-MM-DD`
+- `node ops/scripts/publish-issue.mjs YYYY-MM-DD`
+
+The publisher must use these scripts instead of manually editing and publishing `index.html`.
+
 ## Stage Rules
 
 ### Weekly Program
@@ -31,8 +45,8 @@ Runs at 10 PM the night before the issue. Builds the next issue locally only.
 
 Allowed:
 
-- edit `index.html`
-- edit `styles.css` only for necessary layout fixes
+- edit `ops/issues/YYYY-MM-DD.json`
+- edit `styles.css` only for necessary layout fixes that apply across rendered issues
 - read local books
 - add source-access links
 - write the canon prep receipt
@@ -43,6 +57,7 @@ Forbidden:
 - send email
 - browse X/Twitter
 - do morning field-note research
+- hand-edit `index.html` for normal issue content
 
 Before self-assigning a canon reading, check prior issues and receipts. Do not repeat a masterwork chapter that has already been studied unless the user explicitly asks for a reread.
 
@@ -65,6 +80,7 @@ Allowed:
 - update field notes
 - update X fragments
 - write morning signals receipt
+- edit `ops/issues/YYYY-MM-DD.json`
 
 Forbidden:
 
@@ -73,6 +89,7 @@ Forbidden:
 - pushing to GitHub
 - sending email
 - mutating X/Twitter in any way
+- hand-editing `index.html` for normal issue content
 
 The morning signals stage must not leave yesterday's field notes or X fragments on a new issue. It has three valid outcomes:
 
@@ -91,6 +108,8 @@ Allowed:
 - verify required receipts
 - verify local page date and title
 - verify field notes and X fragments are fresh for today's issue, or visibly marked as no fresh signals
+- run `node ops/scripts/validate-issue.mjs YYYY-MM-DD`
+- run `node ops/scripts/render-issue.mjs YYYY-MM-DD`
 - run local static checks
 - commit and push
 - wait for GitHub Pages

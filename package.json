@@ -1,0 +1,13 @@
+{
+  "name": "studying-the-masters",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node ops/scripts/validate-issue.mjs",
+    "render": "node ops/scripts/render-issue.mjs",
+    "publish": "node ops/scripts/publish-issue.mjs",
+    "email:begin": "node ops/scripts/begin-email-send.mjs",
+    "email:sent": "node ops/scripts/record-email-sent.mjs"
+  }
+}

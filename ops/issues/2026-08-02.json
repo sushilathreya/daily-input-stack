@@ -1,0 +1,117 @@
+{
+  "date": "2026-08-02",
+  "displayDate": "Sunday, 2 August 2026",
+  "issueNumber": 4,
+  "title": "Meet the mind where it is.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "Eugene Schwartz's next discipline is sequence: the right appeal depends on how much the prospect already knows about the problem, the product, and the promise. Awareness decides the opening move.",
+  "meta": {
+    "canon": "Eugene Schwartz, <em>Breakthrough Advertising</em>",
+    "study": "45-60 min",
+    "practice": "one awareness ladder"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "Study sequence after desire. The same product needs different openings depending on what the buyer already understands."
+  },
+  "canon": {
+    "author": "Eugene Schwartz",
+    "work": "Breakthrough Advertising",
+    "chapter": "Your Prospect's State of Awareness",
+    "chapterLabel": "Part I, Chapter 2, \"Your Prospect's State of Awareness\"",
+    "field": "advertising / market awareness",
+    "pageRange": "",
+    "pageCount": 32,
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Breakthrough Advertising Eugene Schwartz.pdf",
+      "driveUrl": "https://drive.google.com/file/d/1HMVnMMmOMxmqrZz0Zcb6-dmbTdMZ0ezI/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "scanned_or_mixed",
+        "notes": "Local source available. Exact chapter selected from known sequence after 2026-07-31 Mass Desire."
+      }
+    },
+    "heading": "Eugene Schwartz: Match the market's awareness.",
+    "standfirst": "Today's reading is Eugene Schwartz's <em>Breakthrough Advertising</em>, Part I, Chapter 2: \"Your Prospect's State of Awareness.\" This follows the Mass Desire chapter you already studied on 31 July. Read the full chapter as a sequence of five market states: from most aware to least aware.",
+    "readerIntro": "Schwartz now changes the question. After choosing the desire, he asks how much the prospect already knows. The answer determines whether the headline can name the product, name the problem, dramatize the desire, or must first open the territory.",
+    "blocks": [
+      {
+        "label": "01 / The Continuum",
+        "paragraphs": [
+          "Read the chapter as a ladder, not a list. Schwartz moves from the easiest selling situation to the hardest: a prospect who knows your product and wants it; one who knows the product but has not yet decided; one who knows the desired result but not your product; one who knows the problem but not the solution; and one who does not yet recognize the problem in useful language.",
+          "The craft point is restraint. Do not use a mysterious, educational, or problem-first opening when the prospect is already ready to buy. Do not use a direct product claim when the prospect does not yet understand why the category matters."
+        ]
+      },
+      {
+        "label": "02 / Most Aware",
+        "paragraphs": [
+          "At the top of the ladder, the prospect already knows the product and the desire. The job is not to educate. It is to give the best offer terms: price, bonus, guarantee, immediacy, availability, or a reason to act now. Here, clarity beats drama because the market is already close to action.",
+          "Look for Schwartz's discipline: the headline should not waste space restating what the buyer has already accepted. It should reduce friction at the point of decision."
+        ]
+      },
+      {
+        "label": "03 / Product-Aware",
+        "paragraphs": [
+          "The next prospect knows the product, but does not yet want it enough. The message must sharpen the product's performance: what it does, how much better it is, what makes it different, or why this version matters now. Proof and differentiation matter more than broad desire language.",
+          "For modern work, this is the crowded comparison page, the feature launch, the category with several familiar alternatives. The buyer is not blank. They are unconvinced."
+        ]
+      },
+      {
+        "label": "04 / Solution-Aware",
+        "paragraphs": [
+          "Now the prospect wants the result, but does not know your product can deliver it. The opening should start with the desired result, then bridge to the mechanism or product that makes it credible. The product is introduced after the desire is activated, not before.",
+          "This is often the most useful commercial state: the buyer wants relief, growth, status, speed, beauty, control, or certainty, but has not attached that want to your offer."
+        ]
+      },
+      {
+        "label": "05 / Problem-Aware",
+        "paragraphs": [
+          "Lower on the ladder, the prospect recognizes pain or frustration but not the solution. The message must name the problem sharply enough that the reader feels diagnosed. It must then reframe the problem into a solvable condition before presenting the product.",
+          "Do not rush. If the buyer has only a vague complaint, a product pitch feels premature. The first proof is often the accuracy of the diagnosis."
+        ]
+      },
+      {
+        "label": "06 / Unaware",
+        "paragraphs": [
+          "At the hardest level, the prospect does not yet connect their situation to the problem or desire you serve. Schwartz's answer is indirect opening: begin with a curiosity, identification, story, or large claim that can earn enough attention to create the bridge.",
+          "The risk is self-indulgence. The opening can be broader, but it still has to move toward the desire and the product's performance. Indirect does not mean vague."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "state of awareness",
+      "most aware",
+      "knows of your product",
+      "not aware of the desire itself"
+    ],
+    "closeReading": [
+      "Draw the five awareness states in the margin before reading the examples.",
+      "For each state, mark what the prospect already believes and what the headline must add.",
+      "Notice when Schwartz allows the product name to appear early. What has to be true first?",
+      "Find the point where a problem-first message becomes stronger than a product-first message.",
+      "For one current offer, write the same promise five times: most aware, product-aware, solution-aware, problem-aware, unaware."
+    ]
+  },
+  "principle": {
+    "heading": "The opening must match what the buyer already knows.",
+    "body": "Schwartz's awareness ladder prevents over-explaining to ready buyers and over-pitching to cold ones. The same offer can need an offer-led, product-led, result-led, problem-led, or curiosity-led opening.",
+    "exampleLabel": "One example",
+    "example": "For an Unfireable asset, a most-aware buyer may need \"Get the manager-proof work record template.\" A problem-aware buyer may need \"You are doing invisible work, and that is why praise keeps turning into more work.\" Same product. Different doorway.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one offer. Write five headlines for the five awareness states. Next to each, write what the prospect already knows. Delete any headline that asks the reader to accept two new ideas at once."
+  },
+  "signals": {
+    "status": "no_fresh_signals",
+    "collectedAt": "2026-08-02",
+    "heading": "No fresh field notes today.",
+    "note": "The morning signals stage missed its integration window, so stale field notes and tweets are intentionally omitted. Treat today's issue as a canon-only study."
+  },
+  "output": {
+    "heading": "Make one awareness ladder.",
+    "body": "Keep the five-headline ladder from today's drill beside one current offer. The test is simple: does each opening match what the buyer already knows, or are you forcing the reader to accept too much at once?"
+  }
+}
+
