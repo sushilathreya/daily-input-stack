@@ -1,0 +1,26 @@
+{
+  "date": "2026-08-02",
+  "status": "blocked",
+  "field_notes": {
+    "minutes_spent": 10,
+    "source_categories_used": [
+      "brand/marketing",
+      "product/tech",
+      "consumer/culture",
+      "creator/media",
+      "strategy/business"
+    ],
+    "items_added": 0
+  },
+  "x_fragments": {
+    "minutes_spent": 10,
+    "sources_sampled": [
+      "bird-readonly home --plain"
+    ],
+    "items_added": 0,
+    "readonly_only": true
+  },
+  "canon_rewritten": false,
+  "created_at_ist": "2026-08-02 12:24:53 IST",
+  "notes": "Hard stop was exceeded before safe page integration and verification could be completed. The issue page was not modified by this morning-signals run. Field sources were sampled across five categories and X was read only through bird-readonly; no X mutations, publish, push, or email were attempted."
+}

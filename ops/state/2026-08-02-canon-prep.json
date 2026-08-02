@@ -1,0 +1,15 @@
+{
+  "date": "2026-08-02",
+  "status": "canon_prepped",
+  "issue_file": "index.html",
+  "master": "Eugene Schwartz",
+  "work": "Breakthrough Advertising",
+  "chapter_or_section": "Part I, Chapter 2, Your Prospect's State of Awareness (the five awareness states from most aware to unaware)",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": false,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "created_at_ist": "2026-08-01 22:02:16 IST",
+  "notes": "Bootstrap fallback: no ops/state/*-weekly-program.json receipt exists for the first Sunday after pipeline creation. Corrected after review because Mass Desire was already studied on 2026-07-31. Selected Eugene Schwartz, Breakthrough Advertising, Part I Chapter 2 as the next canonical step: awareness state after mass desire. Source checked locally at /Users/sushil/Documents/Operation Alpine Thunder/Books/Breakthrough Advertising Eugene Schwartz.pdf; Drive link verified from books-drive-links.json. The canon reader includes the exact target, source argument in order, distinctions, short passage anchors, close-reading prompts, source access, and one drill. No publish, push, email, X/Twitter, or morning field-note work was attempted. Source UI provides Read on phone, Books folder, Copy open command, local path, and helper text."
+}
