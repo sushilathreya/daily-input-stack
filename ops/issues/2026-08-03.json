@@ -1,0 +1,118 @@
+{
+  "date": "2026-08-03",
+  "displayDate": "Monday, 3 August 2026",
+  "issueNumber": 5,
+  "title": "Notice the cue before it decides for you.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "Robert B. Cialdini begins with a hard fact about persuasion: in a crowded world, people rely on shortcuts. Study the cue, the condition that makes it useful, and the point at which it becomes a trap.",
+  "meta": {
+    "canon": "Robert B. Cialdini, <em>Influence</em>",
+    "study": "45–60 min",
+    "practice": "one cue audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A shortcut is not automatically a trick. Learn why it works before deciding whether you are using it clearly, carelessly, or exploitatively."
+  },
+  "canon": {
+    "author": "Robert B. Cialdini",
+    "work": "Influence: The Psychology of Persuasion",
+    "chapter": "Weapons of Influence",
+    "chapterLabel": "Chapter 1, \"Weapons of Influence\"",
+    "field": "persuasion / behavioral psychology",
+    "pageRange": "book pages 1–12 (PDF pages 11–22); stop before Chapter 2, \"Reciprocation\"",
+    "pageCount": 12,
+    "stopPoint": "Stop at the end of the Chapter 1 Reader's Report on book page 12; Chapter 2 begins on PDF page 23.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Influence - Robert Cialdini.pdf",
+      "driveUrl": "https://drive.google.com/file/d/1sTpikK8Y7ebUBiSRRkiZoBcbNSh4Dk_Y/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "pdftotext_verified",
+        "classification": "text_based",
+        "tool": "pdfinfo + pdftotext",
+        "nativeTextPages": "PDF pages 11–22",
+        "tableOfContentsVerified": true,
+        "notes": "pdf-inspector was unavailable. pdfinfo reports a 279-page unencrypted PDF; pdftotext extracted native selectable text from the assigned pages. The contents lists Chapter 1 at book pages 1–12, and PDF page 23 starts Chapter 2."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1sTpikK8Y7ebUBiSRRkiZoBcbNSh4Dk_Y/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Influence - Robert Cialdini.pdf\""
+    },
+    "heading": "Robert B. Cialdini: Learn the shortcut before you use it.",
+    "standfirst": "Read Chapter 1, \"Weapons of Influence,\" from Robert B. Cialdini's <em>Influence</em>. It introduces the book's governing problem: automatic responses save time and effort, but they can be activated by a cue that is no longer trustworthy.",
+    "readerIntro": "Read in sequence. Cialdini moves from an apparently absurd animal trigger, to human shortcuts, to the people who learn to activate those shortcuts. The chapter is an orientation: it gives you a way to see later principles such as reciprocity, social proof, authority, liking, and scarcity.",
+    "blocks": [
+      {
+        "label": "01 / Start with the anomaly",
+        "paragraphs": [
+          "Cialdini opens with the turquoise store: a mistaken price increase makes unsold jewelry sell out. Do not rush to call the customers irrational. First ask what cue they used when they lacked the knowledge or time to judge quality directly.",
+          "The opening matters because it frames persuasion as applied judgment under constraint, not simply as clever wording. A cue can be useful in the usual case and still fail spectacularly in a manipulated one."
+        ]
+      },
+      {
+        "label": "02 / The click, then the whirr",
+        "paragraphs": [
+          "The turkey and trigger-feature examples supply Cialdini's model: a small signal can activate a reliable sequence without a full evaluation of the situation. Mark the distinction between the trigger and the behavior that follows it.",
+          "Then watch Cialdini make the human turn. The point is not that people are animals in disguise. It is that complexity, speed, and limited attention make rules of thumb necessary."
+        ]
+      },
+      {
+        "label": "03 / Separate a reason from the word that signals one",
+        "paragraphs": [
+          "In the copier-line experiment, the word \"because\" can produce compliance even when the sentence that follows adds no meaningful reason. Read this slowly: the useful lesson is not to add filler to a request; it is to see how a familiar cue can substitute for evaluation.",
+          "For your own work, test whether an explanation changes the reader's understanding or merely gives the shape of an explanation. A legitimate reason should survive after the cue word is removed."
+        ]
+      },
+      {
+        "label": "04 / Why the shortcut persists",
+        "paragraphs": [
+          "Cialdini does not argue that automatic responding is foolish by default. The price-quality rule, coupons, and other shortcuts persist because they are often efficient ways to act in an information-heavy world.",
+          "The discipline is two-sided: identify the environmental condition that normally makes the shortcut sound, then identify the condition that breaks that relationship. That is where a marketer can clarify a decision—or manufacture a false signal."
+        ]
+      },
+      {
+        "label": "05 / The weapon is already in the situation",
+        "paragraphs": [
+          "The chapter closes by naming the ethical and practical tension. A compliance professional does not create all influence from personal force; they can arrange or imitate cues already carrying social power. Cialdini compares this to using leverage rather than brute strength.",
+          "Carry that question into the rest of the book: what principle is doing the work, what cue activates it, and is the cue honestly connected to the value or choice it is meant to support?"
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "trigger feature",
+      "click, whirr",
+      "a shortcut version of betting the odds",
+      "weapons of automatic influence",
+      "manipulate without the appearance of manipulation"
+    ],
+    "closeReading": [
+      "On the first pass, underline every cue Cialdini says can stand in for fuller evaluation: price, the word \"because,\" a coupon, comparison, or an authority-like signal.",
+      "For each cue, write two conditions: when it is a sensible shortcut and when it becomes misleading.",
+      "Compare the turkey trigger with the copier-line request. What is analogous, and what must not be collapsed between animal fixed action and human judgment?",
+      "Find Cialdini's explanation for why automatic responding is adaptive. State it without using the word \"manipulation.\"",
+      "At the chapter's close, identify one influence cue in a current offer that is present in the situation rather than created by the copy."
+    ]
+  },
+  "principle": {
+    "heading": "A cue earns its force from the relationship behind it.",
+    "body": "A shortcut is useful when the cue reliably points to the thing the buyer needs to judge. The ethical and strategic failure is to borrow the cue's authority after breaking that relationship.",
+    "exampleLabel": "One example",
+    "example": "A customer count can reduce uncertainty when it is current, relevant, and specific. A vague \"trusted by thousands\" badge asks for the same automatic response without letting the reader judge what, who, or why.",
+    "practiceLabel": "Deliberate practice — 15 minutes",
+    "practice": "Choose one landing page, email, or product screen. List its three strongest cues: price, proof, urgency, popularity, authority, or comparison. For each, write the underlying fact that makes the cue legitimate. Remove or rewrite any cue whose fact you cannot name in one sentence."
+  },
+  "signals": {
+    "status": "no_fresh_signals",
+    "heading": "No fresh signals today.",
+    "note": "The morning signals stage has not run. This manifest intentionally contains no field notes or X fragments; tomorrow's issue remains a canon-only study until that stage updates it."
+  },
+  "output": {
+    "heading": "Complete one cue audit.",
+    "body": "Keep the audit beside the work you reviewed. The result is not a ban on persuasion; it is a cleaner standard for knowing whether your cue helps someone decide or merely rushes them past a decision."
+  }
+}
