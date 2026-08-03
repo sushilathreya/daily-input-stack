@@ -1,0 +1,88 @@
+{
+  "date": "2026-08-02",
+  "week_start": "2026-08-03",
+  "week_end": "2026-08-09",
+  "status": "planned",
+  "theme": "Attention that earns action: from the mind's shortcuts to a growth system",
+  "days": [
+    {
+      "date": "2026-08-03",
+      "master": "Robert B. Cialdini",
+      "work": "Influence",
+      "chapter_or_section": "Chapter 1, Weapons of Influence",
+      "fundamental": "Persuasion: identify the automatic decision shortcuts and the conditions that make a cue legitimate rather than manipulative.",
+      "local_source_available": true,
+      "source_path": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Influence - Robert Cialdini.pdf",
+      "drive_link": "https://drive.google.com/file/d/1sTpikK8Y7ebUBiSRRkiZoBcbNSh4Dk_Y/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive."
+    },
+    {
+      "date": "2026-08-04",
+      "master": "Robert McKee",
+      "work": "Story",
+      "chapter_or_section": "Chapter 11, The Inciting Incident",
+      "fundamental": "Storytelling: make the destabilizing event specific enough to create a gap in the protagonist's life and force a meaningful response.",
+      "local_source_available": true,
+      "source_path": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Robert McKee - Story .pdf",
+      "drive_link": "https://drive.google.com/file/d/1B1FBVTR0Z2YvQYJ7zoEOgmEI-q8GHetu/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This is distinct from the previously studied Chapter 7, The Substance of Story."
+    },
+    {
+      "date": "2026-08-05",
+      "master": "Al Ries and Jack Trout",
+      "work": "Positioning: The Battle for Your Mind",
+      "chapter_or_section": "Chapter 1, What Positioning Is All About",
+      "fundamental": "Positioning/brand: work with the prospect's existing mental map instead of trying to manufacture a new reality in an overcrowded mind.",
+      "local_source_available": true,
+      "source_path": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Positioning - Al Ries and Jack Trout.pdf",
+      "drive_link": "https://drive.google.com/file/d/1fISuTXG4QmxQ6MrFaI3wxE6eR6EoEh-p/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive."
+    },
+    {
+      "date": "2026-08-06",
+      "master": "Rory Sutherland",
+      "work": "Alchemy",
+      "chapter_or_section": "Introduction, Cracking the (Human) Code",
+      "fundamental": "Human desire/psychology: separate stated rational reasons from psycho-logic so the offer can solve the felt problem, not merely the measurable one.",
+      "local_source_available": true,
+      "source_path": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Alchemy - Rory Sutherland.pdf",
+      "drive_link": "https://drive.google.com/file/d/1N3T4Qh1LHH6_Fibe-8WlW6COvwEiJyN4/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive."
+    },
+    {
+      "date": "2026-08-07",
+      "master": "Clayton M. Christensen",
+      "work": "The Innovator's Dilemma",
+      "chapter_or_section": "Chapter 1, How Can Great Firms Fail? Insights from the Hard Disk Drive Industry",
+      "fundamental": "Technology/strategy: see how sound resource-allocation decisions inside a value network can systematically exclude disruptive trajectories.",
+      "local_source_available": true,
+      "source_path": "/Users/sushil/Documents/Operation Alpine Thunder/Books/The Innovator’s Dilemma - Clayton Christensen.pdf",
+      "drive_link": "https://drive.google.com/file/d/1X5-ZodswFwiIg2uFtgLMZNHzmJqCtu8w/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive."
+    },
+    {
+      "date": "2026-08-08",
+      "master": "Sean Ellis and Morgan Brown",
+      "work": "Hacking Growth",
+      "chapter_or_section": "Chapter One, Building Growth Teams",
+      "fundamental": "Distribution/growth: turn growth from a marketing department's output into a cross-functional, high-tempo learning system with a clear owner.",
+      "local_source_available": true,
+      "source_path": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Hacking Growth.epub",
+      "drive_link": "https://drive.google.com/file/d/1wtU-SZ-6s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive."
+    },
+    {
+      "date": "2026-08-09",
+      "master": "Claude C. Hopkins",
+      "work": "Scientific Advertising",
+      "chapter_or_section": "Chapter 5, Headlines",
+      "fundamental": "Writing/taste: make the headline select and qualify the right reader by putting a concrete benefit or relevant fact before mere cleverness.",
+      "local_source_available": false,
+      "source_path": "",
+      "drive_link": "",
+      "fallback_acquire_note": "Not in the local Books folder or Drive manifest. Acquire or provide a licensed edition before the Saturday-night canon-prep run; do not substitute the already studied Just Salesmanship chapter."
+    }
+  ],
+  "created_at_ist": "2026-08-02 21:26:47 IST",
+  "created_by": "weekly-program-agent"
+}

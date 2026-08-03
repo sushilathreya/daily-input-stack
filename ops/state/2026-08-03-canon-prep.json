@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-03",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-08-03.json",
+  "master": "Robert B. Cialdini",
+  "work": "Influence: The Psychology of Persuasion",
+  "chapter_or_section": "Chapter 1, Weapons of Influence; book pages 1–12 (PDF pages 11–22), stopping before Chapter 2",
+  "weekly_program_receipt": "ops/state/2026-08-02-weekly-program.json",
+  "weekly_assignment_used": true,
+  "bootstrap_fallback_used": false,
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_source_present": true,
+  "copy_open_command_present": true,
+  "canon_is_source_first": true,
+  "parser_preflight": {
+    "status": "pdftotext_verified",
+    "classification": "text_based",
+    "tool": "pdfinfo + pdftotext",
+    "notes": "pdf-inspector unavailable. Native text extracted from assigned PDF pages 11–22; contents and PDF page 23 verify the Chapter 1 boundary."
+  },
+  "no_publish_attempted": true,
+  "created_at_ist": "2026-08-02 21:35 IST",
+  "notes": "Prepared from the active weekly program. No repeat: canon history contains no prior Robert B. Cialdini / Influence / Weapons of Influence assignment. No render, publish, push, email, X/Twitter browsing, or morning-signal work was performed."
+}

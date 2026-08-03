@@ -1,0 +1,11 @@
+{
+  "date": "2026-08-03",
+  "status": "blocked",
+  "local_verified": true,
+  "git_commit": "3d25aa5",
+  "github_pages_run_id": "30738812710",
+  "live_verified": false,
+  "email_sent": false,
+  "created_at_ist": "2026-08-03 10:13:24 IST",
+  "exact_script_output": "OK 2026-08-03 issue manifest passed validation\\nRendered 2026-08-03 to index.html\\n[main 3d25aa5] Publish Studying the Masters issue for 2026-08-03\\n 3 files changed, 143 insertions(+), 19 deletions(-)\\n create mode 100644 ops/issues/2026-08-03.json\\nTo https://github.com/sushilathreya/daily-input-stack.git\\n   babb7a9..3d25aa5  main -> main\\nRun pages-build-deployment (30738812710) has already completed with 'success'\\nfile:///Users/sushil/Documents/Operation%20Alpine%20Thunder/daily-input-stack-public/ops/scripts/publish-issue.mjs:59\\n  throw new Error(\"Live page does not contain expected issue date and issue number\");\\n        ^\\n\\nError: Live page does not contain expected issue date and issue number\\n    at file:///Users/sushil/Documents/Operation%20Alpine%20Thunder/daily-input-stack-public/ops/scripts/publish-issue.mjs:59:9\\n    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)\\n    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:580:26)\\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)\\n\\nNode.js v23.6.1\\n"
+}
