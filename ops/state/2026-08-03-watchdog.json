@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-03",
+  "status": "pass",
+  "watchdog": "rescue-watchdog",
+  "recovery_required": true,
+  "initial_failure": "publisher encountered untracked state receipts after the issue commit; the earlier live-page check was stale",
+  "recovery_actions": [
+    "committed pending state receipts",
+    "reran deterministic publisher",
+    "waited for Pages deployment 30794223476",
+    "verified live date, issue number, and title with a cache-busting request",
+    "searched Sent Gmail before acquiring the email lock",
+    "sent the publisher-generated success email once",
+    "recorded Gmail message ID in the atomic email lock"
+  ],
+  "live_verified": true,
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 3 August 2026",
+  "gmail_message_id": "19fc68d43b6a09f4",
+  "completed_at_ist": "2026-08-03 13:07:12 IST"
+}
