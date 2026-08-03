@@ -1,7 +1,7 @@
 import { execFileSync } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
-import { issuePath, loadIssue, nowISTMinutes, readJson, ROOT, scheduleForDate, todayInIST, writeFile, xCandidatesPath } from "./lib.mjs";
+import { issuePath, loadIssue, readJson, ROOT, todayInIST, writeFile, xCandidatesPath } from "./lib.mjs";
 
 const date = process.argv[2] || todayInIST();
 const issue = loadIssue(date);
@@ -16,46 +16,6 @@ function run(command, args, options = {}) {
     stdio: options.capture ? "pipe" : "inherit",
     encoding: "utf8"
   });
-}
-
-function assertDeliveryWindow() {
-  if (process.env.ALLOW_LATE_DELIVERY === "1") return;
-  if (date !== todayInIST()) return;
-  const schedule = scheduleForDate(date);
-  const now = nowISTMinutes();
-  if (now >= schedule.deliveryDeadlineMinutes) {
-    throw new Error(`Delivery deadline has passed for ${date}. Refusing to send a late success email. Set ALLOW_LATE_DELIVERY=1 only for an explicit manual rescue.`);
-  }
-}
-
-function assertMorningSignalsReady() {
-  const receiptPath = `ops/state/${date}-morning-signals.json`;
-  const absoluteReceiptPath = path.join(ROOT, receiptPath);
-  if (!fs.existsSync(absoluteReceiptPath)) {
-    throw new Error(`Missing morning signals receipt: ${receiptPath}`);
-  }
-
-  const receipt = readJson(receiptPath);
-  if (receipt.status !== "morning_signals_added") {
-    throw new Error(`Morning signals receipt is ${receipt.status}; refusing to publish a complete issue`);
-  }
-  if ((receipt.x_fragments?.items_added || 0) < 1) {
-    throw new Error("Morning signals selected 0 X fragments; refusing to publish without the required X section");
-  }
-  if ((issue.signals?.tweets || []).length < 1) {
-    throw new Error("Issue manifest has no selected X fragments; refusing to publish");
-  }
-
-  const createdMinutes = receipt.created_at_ist?.match(/(\d{2}):(\d{2})/)
-    ? Number(receipt.created_at_ist.match(/(\d{2}):(\d{2})/)[1]) * 60 + Number(receipt.created_at_ist.match(/(\d{2}):(\d{2})/)[2])
-    : null;
-  const schedule = scheduleForDate(date);
-  if (createdMinutes === null) {
-    throw new Error("Morning signals receipt has no parseable created_at_ist");
-  }
-  if (createdMinutes > schedule.signalCutoffMinutes && process.env.ALLOW_LATE_DELIVERY !== "1") {
-    throw new Error(`Morning signals completed after cutoff (${receipt.created_at_ist}); refusing late delivery`);
-  }
 }
 
 function waitForPagesRun(commit) {
@@ -82,8 +42,6 @@ function waitForLiveIssue() {
   throw new Error("Live page does not contain expected issue date, number, and title after waiting");
 }
 
-assertDeliveryWindow();
-assertMorningSignalsReady();
 run("node", ["ops/scripts/validate-issue.mjs", date]);
 run("node", ["ops/scripts/render-issue.mjs", date]);
 
@@ -104,7 +62,15 @@ run("git", ["diff", "--check"]);
 
 const status = run("git", ["status", "--short"], { capture: true }).trim();
 if (status) {
-  run("git", ["add", "index.html", issuePath(date), xCandidatesPath(date), `ops/state/${date}-canon-prep.json`, `ops/state/${date}-morning-signals.json`, "ops/canon-history.json", "ops/pipeline.md"]);
+  const addPaths = [
+    "index.html",
+    issuePath(date),
+    xCandidatesPath(date),
+    `ops/state/${date}-canon-prep.json`,
+    "ops/canon-history.json",
+    "ops/pipeline.md"
+  ].filter((item) => fs.existsSync(path.join(ROOT, item)));
+  run("git", ["add", ...addPaths]);
   run("git", ["commit", "-m", `Publish Studying the Masters issue for ${date}`]);
   run("git", ["push", "origin", "main"]);
 }

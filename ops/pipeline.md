@@ -1,8 +1,8 @@
 # Studying the Masters Pipeline
 
-This system is a staged publication pipeline. No single automation owns the full issue.
+This system is intentionally small: one issue manifest, one morning edition run, one email.
 
-Agents produce issue manifests. Scripts validate, render, publish, and prepare delivery. Do not hand-edit `index.html` for normal daily production.
+Agents edit the issue manifest. Scripts validate, render, publish, and prepare delivery. Do not hand-edit `index.html` for normal daily production.
 
 ## Daily State
 
@@ -14,9 +14,7 @@ Each stage writes a receipt into `ops/state/`:
 
 - `YYYY-MM-DD-weekly-program.json`
 - `YYYY-MM-DD-canon-prep.json`
-- `YYYY-MM-DD-morning-signals.json`
 - `YYYY-MM-DD-publish-receipt.json`
-- `YYYY-MM-DD-watchdog.json`
 - `YYYY-MM-DD-email.lock`
 
 Each issue has one manifest:
@@ -26,6 +24,7 @@ Each issue has one manifest:
 Core commands:
 
 - `node ops/scripts/validate-issue.mjs YYYY-MM-DD`
+- `node ops/scripts/validate-issue.mjs YYYY-MM-DD --draft`
 - `node ops/scripts/render-issue.mjs YYYY-MM-DD`
 - `node ops/scripts/capture-x-candidates.mjs YYYY-MM-DD`
 - `node ops/scripts/publish-issue.mjs YYYY-MM-DD`
@@ -66,93 +65,42 @@ Canon prep must assign one bounded reading. Prefer one chapter or a clearly name
 
 For PDF sources, run a parser preflight before assigning the reading. Use `pdf-inspector` when available to classify text-based, scanned, image-based, or mixed PDFs and extract Markdown for native-text pages. If the PDF is scanned or mixed, do not trust empty text extraction; use OCR, rendered page inspection, or a verified table of contents/page range before writing the canon assignment.
 
-### Morning Signals
+### Morning Edition
 
-Runs before 9 AM on the delivery day so integration is finished by 9:20 AM IST. On Sunday, the same stage must finish by 11:20 AM IST.
+Runs early enough to deliver the email at the promised inbox time: 10:00 AM IST Monday-Saturday, 12:00 PM IST Sunday.
+
+It fills the two fresh sections, publishes the page, and sends the email. No separate publisher or watchdog is part of the normal system.
 
 Budget:
 
-- 10 minutes for field-note source scan
-- exactly 10 minutes for X/Twitter sampling, beginning with `node ops/scripts/capture-x-candidates.mjs YYYY-MM-DD`
-- remaining time only for integrating concise signals into the local page
+- 10-15 minutes for field-note source scan
+- 10 minutes for X/Twitter sampling, beginning with `node ops/scripts/capture-x-candidates.mjs YYYY-MM-DD`
+- remaining time for integrating concise signals, publishing, verification, and timed email delivery
 
 Allowed:
 
 - update field notes
 - update X fragments
-- write morning signals receipt
 - edit `ops/issues/YYYY-MM-DD.json`
+- run validator, renderer, publisher, and email lock scripts
+- send the daily email exactly once
 
 Forbidden:
 
 - rewriting the canon from scratch
 - open-ended research
-- pushing to GitHub
-- sending email
 - mutating X/Twitter in any way
 - hand-editing `index.html` for normal issue content
 
-The morning signals stage must not leave yesterday's field notes or X fragments on a new issue. It has three valid outcomes:
+Completion rule: the final issue must contain all three sections.
 
-- add fresh field notes, select 1-2 X fragments from `ops/raw/YYYY-MM-DD-x-candidates.json`, and write `status: morning_signals_added`
-- add a visible "No fresh signals today" note and write `status: no_fresh_signals` only when the user explicitly approves a canon-only issue for that date
-- write `status: blocked` before publication begins
+- canon/masterwork
+- 3-5 fresh field notes
+- 1-2 embedded X fragments from `ops/raw/YYYY-MM-DD-x-candidates.json`
 
-Zero selected X fragments is not a complete morning-signals run. The validator rejects it.
-
-If `status: blocked`, the publisher must not publish stale field notes or stale X fragments as if they belong to today's issue.
-
-### Publisher And Delivery
-
-Runs after the morning signals stage.
-
-Allowed:
-
-- verify required receipts
-- verify local page date and title
-- verify field notes and X fragments are fresh for today's issue, or visibly marked as no fresh signals
-- run `node ops/scripts/validate-issue.mjs YYYY-MM-DD`
-- run `node ops/scripts/render-issue.mjs YYYY-MM-DD`
-- run local static checks
-- commit and push
-- wait for GitHub Pages
-- curl the live page
-- send success email only after live verification
-- write publish receipt
+`node ops/scripts/validate-issue.mjs YYYY-MM-DD` enforces this. Draft canon prep may use `--draft`; delivery may not.
 
 Before sending a success email, acquire the local delivery lock by creating `ops/state/YYYY-MM-DD-email.lock`, then search Sent Gmail for the exact subject. If a matching success email already exists, do not send another. If the lock already exists, do not send; update the receipt from the existing delivery state instead.
-
-The publisher rejects late success delivery. Weekday success delivery must happen before 10:00 AM IST; Sunday success delivery must happen before 12:00 PM IST. A manual late rescue requires `ALLOW_LATE_DELIVERY=1` and must not send another email unless the user explicitly asks for it.
-
-Forbidden:
-
-- broad editorial rewriting
-- new field-note research
-- X/Twitter browsing
-- sending success email before live verification
-
-### Rescue Watchdog
-
-Runs before the inbox deadline.
-
-Checks:
-
-- live page contains today's date
-- live page contains today's issue title
-- publish receipt exists
-- success email was sent or publisher final confirms it
-
-If any check fails, first try to recover delivery:
-
-- verify the best available local issue
-- if signals are blocked or stale, perform a bounded signal rescue before publishing; do not send a success email for a canon-only issue unless the user explicitly approved that exception
-- commit and push if needed
-- wait briefly for GitHub Pages
-- curl the live page with a cache-busting query string
-- acquire `ops/state/YYYY-MM-DD-email.lock`, search Sent Gmail for the exact subject, then send the success email only if no success email already exists
-- write the publish receipt if recovery succeeds
-
-Only send a delivery issue email if recovery is not possible before the inbox deadline. Failure notice is the last resort, not the primary job.
 
 ## Quality Bar
 

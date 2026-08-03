@@ -3,6 +3,7 @@ import path from "node:path";
 import { daysBetween, issuePath, loadIssue, normalizeText, readJson, ROOT, todayInIST, xCandidatesPath } from "./lib.mjs";
 
 const date = process.argv[2] || todayInIST();
+const draft = process.argv.includes("--draft");
 const errors = [];
 const warnings = [];
 
@@ -71,6 +72,9 @@ if (!fs.existsSync(path.join(ROOT, issuePath(date)))) {
   }
   if (signals.status === "no_fresh_signals") {
     requireString(signals, "note", "signals.note");
+    if (!draft) {
+      fail("final issue requires all 3 sections: canon, field notes, and X fragments");
+    }
   }
   if (signals.status === "morning_signals_added") {
     if (!Array.isArray(signals.fieldNotes) || signals.fieldNotes.length < 3) {
