@@ -107,9 +107,43 @@
     "practice": "Choose one landing page, email, or product screen. List its three strongest cues: price, proof, urgency, popularity, authority, or comparison. For each, write the underlying fact that makes the cue legitimate. Remove or rewrite any cue whose fact you cannot name in one sentence."
   },
   "signals": {
-    "status": "no_fresh_signals",
-    "heading": "No fresh signals today.",
-    "note": "The morning signals stage has not run. This manifest intentionally contains no field notes or X fragments; tomorrow's issue remains a canon-only study until that stage updates it."
+    "status": "morning_signals_added",
+    "collectedAt": "2026-08-03",
+    "heading": "Three places where the cue is doing the work.",
+    "tweetHeading": "No X fragment cleared the bar.",
+    "fieldNotes": [
+      {
+        "collectedAt": "2026-08-03",
+        "source": "NOAA",
+        "sourceDate": "2026-07-27",
+        "title": "NOAA moves weather-model operations toward commercial cloud infrastructure",
+        "whatHappened": "NOAA said it will move its operational weather-model supercomputing to commercial cloud infrastructure, with Google Cloud as the primary provider and a phased transition through 2027.",
+        "whyItMatters": "The announcement makes a product choice legible as a reliability cue: faster updates, elastic capacity, and fewer outages are not features in the abstract when the public needs timely forecasts.",
+        "watch": "Whether the transition improves the clarity and speed of public warnings, not merely the technical architecture behind them.",
+        "url": "https://www.noaa.gov/news-release/noaas-use-of-cloud-infrastructure-grows-to-include-weather-prediction-models"
+      },
+      {
+        "collectedAt": "2026-08-03",
+        "source": "Harvard Business Review",
+        "sourceDate": "2026-07-27",
+        "title": "Three questions to pressure-test priorities",
+        "whatHappened": "Karen Walker argues that leaders can improve high-stakes choices by testing priorities instead of treating every urgent request as equally strategic.",
+        "whyItMatters": "Priority language can become a shortcut that ends evaluation. A decision earns force when the underlying trade-off is named, so the cue points to a real commitment rather than a familiar managerial word.",
+        "watch": "Which organizations turn priority-setting into explicit exclusions and resource choices, rather than a longer list of initiatives.",
+        "url": "https://hbr.org/2026/07/3-questions-to-pressure-test-your-priorities"
+      },
+      {
+        "collectedAt": "2026-08-03",
+        "source": "Marie Claire UK",
+        "sourceDate": "2026-07-28",
+        "title": "Gambling brands are reframing pop-culture knowledge as a financial edge",
+        "whatHappened": "Reporting traces how gambling and prediction-market marketing is using reality TV, celebrity culture, influencers, and lifestyle aesthetics to reach women as a growth audience.",
+        "whyItMatters": "The signal is not only a new audience segment; it is a change in the moral framing of the offer. Familiar cues of fandom, community, and financial literacy can make a risky product feel like savvy participation.",
+        "watch": "Whether consumer protections and disclosure keep pace as entertainment and financial-risk cues become harder to separate.",
+        "url": "https://www.marieclaire.co.uk/life/gambling-companies-targeting-women"
+      }
+    ],
+    "tweets": []
   },
   "output": {
     "heading": "Complete one cue audit.",
