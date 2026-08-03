@@ -27,6 +27,7 @@ Core commands:
 
 - `node ops/scripts/validate-issue.mjs YYYY-MM-DD`
 - `node ops/scripts/render-issue.mjs YYYY-MM-DD`
+- `node ops/scripts/capture-x-candidates.mjs YYYY-MM-DD`
 - `node ops/scripts/publish-issue.mjs YYYY-MM-DD`
 
 The publisher must use these scripts instead of manually editing and publishing `index.html`.
@@ -67,12 +68,12 @@ For PDF sources, run a parser preflight before assigning the reading. Use `pdf-i
 
 ### Morning Signals
 
-Runs at 9 AM on the delivery day.
+Runs before 9 AM on the delivery day so integration is finished by 9:20 AM IST. On Sunday, the same stage must finish by 11:20 AM IST.
 
 Budget:
 
 - 10 minutes for field-note source scan
-- exactly 10 minutes for X/Twitter sampling
+- exactly 10 minutes for X/Twitter sampling, beginning with `node ops/scripts/capture-x-candidates.mjs YYYY-MM-DD`
 - remaining time only for integrating concise signals into the local page
 
 Allowed:
@@ -93,9 +94,11 @@ Forbidden:
 
 The morning signals stage must not leave yesterday's field notes or X fragments on a new issue. It has three valid outcomes:
 
-- add fresh field notes and write `status: morning_signals_added`
-- add a visible "No fresh signals today" note and write `status: no_fresh_signals`
+- add fresh field notes, select 1-2 X fragments from `ops/raw/YYYY-MM-DD-x-candidates.json`, and write `status: morning_signals_added`
+- add a visible "No fresh signals today" note and write `status: no_fresh_signals` only when the user explicitly approves a canon-only issue for that date
 - write `status: blocked` before publication begins
+
+Zero selected X fragments is not a complete morning-signals run. The validator rejects it.
 
 If `status: blocked`, the publisher must not publish stale field notes or stale X fragments as if they belong to today's issue.
 
@@ -119,6 +122,8 @@ Allowed:
 
 Before sending a success email, acquire the local delivery lock by creating `ops/state/YYYY-MM-DD-email.lock`, then search Sent Gmail for the exact subject. If a matching success email already exists, do not send another. If the lock already exists, do not send; update the receipt from the existing delivery state instead.
 
+The publisher rejects late success delivery. Weekday success delivery must happen before 10:00 AM IST; Sunday success delivery must happen before 12:00 PM IST. A manual late rescue requires `ALLOW_LATE_DELIVERY=1` and must not send another email unless the user explicitly asks for it.
+
 Forbidden:
 
 - broad editorial rewriting
@@ -140,7 +145,7 @@ Checks:
 If any check fails, first try to recover delivery:
 
 - verify the best available local issue
-- if signals are blocked or stale, add a visible no-fresh-signals note or perform a bounded signal rescue before publishing
+- if signals are blocked or stale, perform a bounded signal rescue before publishing; do not send a success email for a canon-only issue unless the user explicitly approved that exception
 - commit and push if needed
 - wait briefly for GitHub Pages
 - curl the live page with a cache-busting query string
@@ -151,4 +156,4 @@ Only send a delivery issue email if recovery is not possible before the inbox de
 
 ## Quality Bar
 
-The page is a magazine, not a dashboard. The canon is source-first. The field notes must be timely, sourced, and varied. X fragments must be high-signal or omitted.
+The page is a magazine, not a dashboard. The canon is source-first. The field notes must be timely, sourced, and varied. X fragments must be high-signal and present in every complete issue.

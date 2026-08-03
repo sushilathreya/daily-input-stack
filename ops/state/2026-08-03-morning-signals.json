@@ -14,13 +14,14 @@
     "minutes_spent": 10,
     "sources_sampled": [
       "home timeline",
+      "following timeline",
       "brand/marketing/creator search",
       "product/strategy/consumer search"
     ],
-    "items_added": 0,
+    "items_added": 1,
     "readonly_only": true
   },
   "canon_rewritten": false,
   "created_at_ist": "2026-08-03 13:04 IST",
-  "notes": "Added three fresh field notes from distinct publication families. Read-only X sampling produced no high-signal fragment worth carrying into the issue; no tweets were added. No render, publish, push, or email was performed."
+  "notes": "Added three fresh field notes from distinct publication families. Read-only X capture produced 80 candidates from For You and Following; selected Patrick Collison's aesthetics/markets post as the daily fragment. No render, publish, push, or email was performed by the morning stage."
 }

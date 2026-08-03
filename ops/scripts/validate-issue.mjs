@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import { daysBetween, issuePath, loadIssue, normalizeText, readJson, ROOT, todayInIST } from "./lib.mjs";
+import { daysBetween, issuePath, loadIssue, normalizeText, readJson, ROOT, todayInIST, xCandidatesPath } from "./lib.mjs";
 
 const date = process.argv[2] || todayInIST();
 const errors = [];
@@ -76,9 +76,21 @@ if (!fs.existsSync(path.join(ROOT, issuePath(date)))) {
     if (!Array.isArray(signals.fieldNotes) || signals.fieldNotes.length < 3) {
       fail("fresh signals require at least 3 field notes");
     }
-    if (!Array.isArray(signals.tweets)) {
-      fail("fresh signals require tweets array, even if empty");
+    if (!Array.isArray(signals.tweets) || signals.tweets.length < 1) {
+      fail("fresh signals require at least 1 selected X fragment");
     }
+    if ((signals.tweets || []).length > 2) {
+      fail("fresh signals allow at most 2 selected X fragments");
+    }
+
+    const candidatesPath = path.join(ROOT, xCandidatesPath(date));
+    if (!fs.existsSync(candidatesPath)) {
+      fail(`Missing X candidate capture: ${xCandidatesPath(date)}`);
+    }
+    const candidateUrls = fs.existsSync(candidatesPath)
+      ? new Set((readJson(xCandidatesPath(date)).candidates || []).map((tweet) => tweet.url))
+      : new Set();
+
     for (const [index, item] of (signals.fieldNotes || []).entries()) {
       requireString(item, "title", `signals.fieldNotes[${index}].title`);
       requireString(item, "source", `signals.fieldNotes[${index}].source`);
@@ -90,9 +102,16 @@ if (!fs.existsSync(path.join(ROOT, issuePath(date)))) {
       }
     }
     for (const [index, tweet] of (signals.tweets || []).entries()) {
+      requireString(tweet, "title", `signals.tweets[${index}].title`);
+      requireString(tweet, "summary", `signals.tweets[${index}].summary`);
+      requireString(tweet, "text", `signals.tweets[${index}].text`);
+      requireString(tweet, "author", `signals.tweets[${index}].author`);
       requireString(tweet, "url", `signals.tweets[${index}].url`);
       requireString(tweet, "collectedAt", `signals.tweets[${index}].collectedAt`);
       if (tweet.collectedAt !== issue.date) fail(`tweet "${tweet.url}" collectedAt is not issue date`);
+      if (candidateUrls.size > 0 && !candidateUrls.has(tweet.url)) {
+        fail(`tweet "${tweet.url}" was not present in today's captured X candidates`);
+      }
     }
   }
 }
@@ -104,4 +123,3 @@ if (errors.length > 0) {
 }
 
 console.log(`OK ${date} issue manifest passed validation`);
-

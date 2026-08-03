@@ -1,5 +1,7 @@
 import { execFileSync } from "node:child_process";
-import { issuePath, loadIssue, readJson, ROOT, todayInIST, writeFile } from "./lib.mjs";
+import fs from "node:fs";
+import path from "node:path";
+import { issuePath, loadIssue, nowISTMinutes, readJson, ROOT, scheduleForDate, todayInIST, writeFile, xCandidatesPath } from "./lib.mjs";
 
 const date = process.argv[2] || todayInIST();
 const issue = loadIssue(date);
@@ -16,6 +18,72 @@ function run(command, args, options = {}) {
   });
 }
 
+function assertDeliveryWindow() {
+  if (process.env.ALLOW_LATE_DELIVERY === "1") return;
+  if (date !== todayInIST()) return;
+  const schedule = scheduleForDate(date);
+  const now = nowISTMinutes();
+  if (now >= schedule.deliveryDeadlineMinutes) {
+    throw new Error(`Delivery deadline has passed for ${date}. Refusing to send a late success email. Set ALLOW_LATE_DELIVERY=1 only for an explicit manual rescue.`);
+  }
+}
+
+function assertMorningSignalsReady() {
+  const receiptPath = `ops/state/${date}-morning-signals.json`;
+  const absoluteReceiptPath = path.join(ROOT, receiptPath);
+  if (!fs.existsSync(absoluteReceiptPath)) {
+    throw new Error(`Missing morning signals receipt: ${receiptPath}`);
+  }
+
+  const receipt = readJson(receiptPath);
+  if (receipt.status !== "morning_signals_added") {
+    throw new Error(`Morning signals receipt is ${receipt.status}; refusing to publish a complete issue`);
+  }
+  if ((receipt.x_fragments?.items_added || 0) < 1) {
+    throw new Error("Morning signals selected 0 X fragments; refusing to publish without the required X section");
+  }
+  if ((issue.signals?.tweets || []).length < 1) {
+    throw new Error("Issue manifest has no selected X fragments; refusing to publish");
+  }
+
+  const createdMinutes = receipt.created_at_ist?.match(/(\d{2}):(\d{2})/)
+    ? Number(receipt.created_at_ist.match(/(\d{2}):(\d{2})/)[1]) * 60 + Number(receipt.created_at_ist.match(/(\d{2}):(\d{2})/)[2])
+    : null;
+  const schedule = scheduleForDate(date);
+  if (createdMinutes === null) {
+    throw new Error("Morning signals receipt has no parseable created_at_ist");
+  }
+  if (createdMinutes > schedule.signalCutoffMinutes && process.env.ALLOW_LATE_DELIVERY !== "1") {
+    throw new Error(`Morning signals completed after cutoff (${receipt.created_at_ist}); refusing late delivery`);
+  }
+}
+
+function waitForPagesRun(commit) {
+  const deadline = Date.now() + 10 * 60 * 1000;
+  while (Date.now() < deadline) {
+    const runs = JSON.parse(run("gh", ["run", "list", "--repo", "sushilathreya/daily-input-stack", "--limit", "10", "--json", "databaseId,headSha,status,conclusion"], { capture: true }));
+    const match = runs.find((item) => item.headSha === commit);
+    if (match?.databaseId) return String(match.databaseId);
+    Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, 10000);
+  }
+  throw new Error(`No GitHub Pages run appeared for commit ${commit}`);
+}
+
+function waitForLiveIssue() {
+  const deadline = Date.now() + 10 * 60 * 1000;
+  const expectedIssue = `Issue ${String(issue.issueNumber).padStart(3, "0")}`;
+  while (Date.now() < deadline) {
+    const live = run("curl", ["-Ls", `https://sushilathreya.github.io/daily-input-stack/?verify=${Date.now()}`], { capture: true });
+    if (live.includes(issue.displayDate) && live.includes(expectedIssue) && live.includes(issue.title)) {
+      return;
+    }
+    Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, 15000);
+  }
+  throw new Error("Live page does not contain expected issue date, number, and title after waiting");
+}
+
+assertDeliveryWindow();
+assertMorningSignalsReady();
 run("node", ["ops/scripts/validate-issue.mjs", date]);
 run("node", ["ops/scripts/render-issue.mjs", date]);
 
@@ -36,7 +104,7 @@ run("git", ["diff", "--check"]);
 
 const status = run("git", ["status", "--short"], { capture: true }).trim();
 if (status) {
-  run("git", ["add", "index.html", issuePath(date), "ops/canon-history.json", "ops/pipeline.md"]);
+  run("git", ["add", "index.html", issuePath(date), xCandidatesPath(date), `ops/state/${date}-canon-prep.json`, `ops/state/${date}-morning-signals.json`, "ops/canon-history.json", "ops/pipeline.md"]);
   run("git", ["commit", "-m", `Publish Studying the Masters issue for ${date}`]);
   run("git", ["push", "origin", "main"]);
 }
@@ -44,20 +112,13 @@ if (status) {
 const commit = run("git", ["rev-parse", "HEAD"], { capture: true }).trim();
 let runId = "";
 try {
-  const runs = JSON.parse(run("gh", ["run", "list", "--repo", "sushilathreya/daily-input-stack", "--limit", "5", "--json", "databaseId,headSha,status,conclusion"], { capture: true }));
-  const match = runs.find((item) => item.headSha === commit) || runs[0];
-  if (match?.databaseId) {
-    runId = String(match.databaseId);
-    run("gh", ["run", "watch", runId, "--repo", "sushilathreya/daily-input-stack", "--exit-status"]);
-  }
+  runId = waitForPagesRun(commit);
+  run("gh", ["run", "watch", runId, "--repo", "sushilathreya/daily-input-stack", "--exit-status"]);
 } catch (error) {
   console.warn(`WARN Could not watch GitHub Pages run: ${error.message}`);
 }
 
-const live = run("curl", ["-Ls", `https://sushilathreya.github.io/daily-input-stack/?verify=${Date.now()}`], { capture: true });
-if (!live.includes(issue.displayDate) || !live.includes(`Issue ${String(issue.issueNumber).padStart(3, "0")}`)) {
-  throw new Error("Live page does not contain expected issue date and issue number");
-}
+waitForLiveIssue();
 
 writeFile(`ops/state/${date}-publish-ready.json`, JSON.stringify({
   date,

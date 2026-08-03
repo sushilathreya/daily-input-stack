@@ -31,12 +31,12 @@ function signalsSection(signals) {
   }
 
   const notes = signals.fieldNotes.map((item) => `<article><span>${escapeHtml(item.source)} / ${escapeHtml(item.sourceDate)}</span><h3>${escapeHtml(item.title)}</h3><p><strong>What happened:</strong> ${inline(item.whatHappened)} <strong>Why it matters:</strong> ${inline(item.whyItMatters)} <strong>Watch:</strong> ${inline(item.watch)}</p><a href="${escapeHtml(item.url)}">Read source</a></article>`).join("\n          ");
-  const tweets = (signals.tweets || []).map((tweet) => `<article><span>${escapeHtml(tweet.author)} / ${escapeHtml(tweet.feed || "X")} / ${escapeHtml(tweet.sourceDate || tweet.collectedAt)}</span><h3>${escapeHtml(tweet.title)}</h3><p>${inline(tweet.summary)}</p><div class="tweet-shell"><blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">${escapeHtml(tweet.text || "")}</p><a href="${escapeHtml(tweet.url)}">Open on X</a></blockquote></div></article>`).join("\n          ");
+  const tweets = signals.tweets.map((tweet) => `<article><span>${escapeHtml(tweet.author)} / ${escapeHtml(tweet.feed || "X")} / ${escapeHtml(tweet.sourceDate || tweet.collectedAt)}</span><h3>${escapeHtml(tweet.title)}</h3><p>${inline(tweet.summary)}</p><div class="tweet-shell"><blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">${escapeHtml(tweet.text || "")}</p><a href="${escapeHtml(tweet.url)}">Open on X</a></blockquote></div></article>`).join("\n          ");
   return `<section class="signals" id="signals"><p class="label">03 / Field Notes</p><h2>${escapeHtml(signals.heading || "What the field is teaching now.")}</h2><div class="signal-grid">
           ${notes}
         </div></section>
         <section class="timeline" id="timeline"><p class="label">04 / Collected Fragments</p><h2>${escapeHtml(signals.tweetHeading || "Collected fragments.")}</h2><div class="fragment-list">
-          ${tweets || `<article><span>${escapeHtml(issue.displayDate)}</span><h3>No X fragment cleared the bar.</h3><p>The canon stays primary today.</p></article>`}
+          ${tweets}
         </div></section>`;
 }
 
@@ -80,4 +80,3 @@ const html = `<!doctype html>
 
 writeFile("index.html", html);
 console.log(`Rendered ${date} to index.html`);
-

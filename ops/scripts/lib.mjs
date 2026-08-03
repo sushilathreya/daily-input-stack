@@ -12,6 +12,10 @@ export function writeFile(relativePath, content) {
   fs.writeFileSync(path.join(ROOT, relativePath), content);
 }
 
+export function ensureDir(relativePath) {
+  fs.mkdirSync(path.join(ROOT, relativePath), { recursive: true });
+}
+
 export function issuePath(date) {
   return `ops/issues/${date}.json`;
 }
@@ -66,3 +70,45 @@ export function normalizeText(value) {
   return String(value ?? "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
 }
 
+export function isSunday(date) {
+  return parseDate(date).getUTCDay() === 0;
+}
+
+export function scheduleForDate(date) {
+  if (isSunday(date)) {
+    return {
+      xCaptureCutoffMinutes: 10 * 60 + 45,
+      signalCutoffMinutes: 11 * 60 + 20,
+      publishStartMinutes: 11 * 60 + 25,
+      deliveryDeadlineMinutes: 12 * 60
+    };
+  }
+  return {
+    xCaptureCutoffMinutes: 8 * 60 + 45,
+    signalCutoffMinutes: 9 * 60 + 20,
+    publishStartMinutes: 9 * 60 + 25,
+    deliveryDeadlineMinutes: 10 * 60
+  };
+}
+
+export function istTimestampToMinutes(value) {
+  const match = String(value ?? "").match(/(\d{4}-\d{2}-\d{2})[ T](\d{2}):(\d{2})/);
+  if (!match) return null;
+  return Number(match[2]) * 60 + Number(match[3]);
+}
+
+export function nowISTMinutes() {
+  const parts = new Intl.DateTimeFormat("en-GB", {
+    timeZone: "Asia/Kolkata",
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false
+  }).formatToParts(new Date());
+  const hour = Number(parts.find((part) => part.type === "hour")?.value);
+  const minute = Number(parts.find((part) => part.type === "minute")?.value);
+  return hour * 60 + minute;
+}
+
+export function xCandidatesPath(date) {
+  return `ops/raw/${date}-x-candidates.json`;
+}

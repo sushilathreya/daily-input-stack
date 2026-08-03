@@ -143,7 +143,20 @@
         "url": "https://www.marieclaire.co.uk/life/gambling-companies-targeting-women"
       }
     ],
-    "tweets": []
+    "tweetHeading": "One fragment worth keeping.",
+    "tweets": [
+      {
+        "collectedAt": "2026-08-03",
+        "sourceDate": "2026-08-03",
+        "feed": "Following",
+        "author": "Patrick Collison",
+        "handle": "patrickc",
+        "title": "Aesthetics as a market-shaping cue",
+        "summary": "Collison's thread is useful beside Cialdini because it treats beauty not as decoration, but as a signal that can shape standards, demand, and the work people consider worth doing.",
+        "text": "Someone asked me recently why I’ve become interested in aesthetics after having spent most of my life more interested in STEM-adjacent topics. I hadn’t really considered the question consciously before, but I’m certainly thinking about aesthetics more than I used to. I think it’s a confluence of things:\n\n• Many things today are ugly and far uglier than they used to be or need to be. Once you see this, it’s kinda hard to stop perceiving it.\n• Relatedly, much of modernism involved a kind of explicit repudiation of cultural continuity and represented a schism with prior practices.\n• I’m generally interested in markets and the dynamics of creation. In aesthetics broadly, I find the reflexivity between supply- and demand-side factors to be very thought-provoking.",
+        "url": "https://x.com/patrickc/status/2083931939673878592"
+      }
+    ]
   },
   "output": {
     "heading": "Complete one cue audit.",
