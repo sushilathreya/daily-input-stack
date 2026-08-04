@@ -21,6 +21,30 @@ function requireString(object, key, label = key) {
   }
 }
 
+function requireUrl(object, key, label = key) {
+  requireString(object, key, label);
+  if (typeof object?.[key] === "string" && !/^https?:\/\//i.test(object[key])) {
+    fail(`${label} must be an http(s) URL`);
+  }
+}
+
+function checkFreshSourceDate(value, label, maxAgeDays) {
+  requireString({ value }, "value", label);
+  if (typeof value !== "string" || value.trim() === "") return;
+  const age = daysBetween(date, value);
+  if (!Number.isFinite(age)) {
+    fail(`${label} must be YYYY-MM-DD`);
+    return;
+  }
+  if (age < 0) {
+    fail(`${label} is after issue date`);
+  } else if (age > maxAgeDays) {
+    const message = `${label} is older than ${maxAgeDays} days`;
+    if (draft) warn(message);
+    else fail(message);
+  }
+}
+
 if (!fs.existsSync(path.join(ROOT, issuePath(date)))) {
   fail(`Missing issue manifest: ${issuePath(date)}`);
 } else {
@@ -29,6 +53,13 @@ if (!fs.existsSync(path.join(ROOT, issuePath(date)))) {
   requireString(issue, "title", "issue.title");
   requireString(issue, "displayDate", "issue.displayDate");
   if (!Number.isInteger(issue.issueNumber)) fail("issue.issueNumber must be an integer");
+  requireString(issue, "eyebrow", "issue.eyebrow");
+  requireString(issue, "dek", "issue.dek");
+  requireString(issue.meta, "canon", "issue.meta.canon");
+  requireString(issue.meta, "study", "issue.meta.study");
+  requireString(issue.meta, "practice", "issue.meta.practice");
+  requireString(issue.marginNote, "label", "issue.marginNote.label");
+  requireString(issue.marginNote, "body", "issue.marginNote.body");
 
   requireString(issue.canon, "author", "canon.author");
   requireString(issue.canon, "work", "canon.work");
@@ -36,10 +67,18 @@ if (!fs.existsSync(path.join(ROOT, issuePath(date)))) {
   requireString(issue.canon, "chapterLabel", "canon.chapterLabel");
   requireString(issue.canon, "heading", "canon.heading");
   requireString(issue.canon, "standfirst", "canon.standfirst");
+  requireString(issue.canon, "field", "canon.field");
+  requireString(issue.canon, "readerIntro", "canon.readerIntro");
   requireString(issue.canon?.source, "localPath", "canon.source.localPath");
-  requireString(issue.canon?.source, "driveUrl", "canon.source.driveUrl");
-  requireString(issue.canon?.source, "booksFolderUrl", "canon.source.booksFolderUrl");
+  requireUrl(issue.canon?.source, "driveUrl", "canon.source.driveUrl");
+  requireUrl(issue.canon?.source, "booksFolderUrl", "canon.source.booksFolderUrl");
   requireString(issue.canon?.source?.parserPreflight, "status", "canon.source.parserPreflight.status");
+  if (!["pdftotext_verified", "rendered_pages_verified", "manual_verified"].includes(issue.canon?.source?.parserPreflight?.status)) {
+    fail("canon.source.parserPreflight.status must be a verified status");
+  }
+  if (issue.canon?.source?.parserPreflight?.tableOfContentsVerified !== true) {
+    fail("canon.source.parserPreflight.tableOfContentsVerified must be true");
+  }
 
   if (issue.canon?.pageCount && issue.canon.pageCount > 60 && !issue.canon.stopPoint) {
     fail(`Canon reading is ${issue.canon.pageCount} pages; add a smaller page range or explicit stopPoint`);
@@ -51,10 +90,41 @@ if (!fs.existsSync(path.join(ROOT, issuePath(date)))) {
 
   if (!Array.isArray(issue.canon?.blocks) || issue.canon.blocks.length === 0) {
     fail("canon.blocks must contain source-led reader blocks");
+  } else {
+    for (const [index, block] of issue.canon.blocks.entries()) {
+      requireString(block, "label", `canon.blocks[${index}].label`);
+      if (!Array.isArray(block.paragraphs) || block.paragraphs.length === 0) {
+        fail(`canon.blocks[${index}].paragraphs must contain at least 1 paragraph`);
+      }
+      for (const [paragraphIndex, paragraph] of (block.paragraphs || []).entries()) {
+        if (typeof paragraph !== "string" || paragraph.trim() === "") {
+          fail(`canon.blocks[${index}].paragraphs[${paragraphIndex}] must be a non-empty string`);
+        }
+      }
+    }
   }
   if (!Array.isArray(issue.canon?.closeReading) || issue.canon.closeReading.length < 3) {
     fail("canon.closeReading must contain at least 3 prompts");
   }
+  for (const [index, prompt] of (issue.canon?.closeReading || []).entries()) {
+    if (typeof prompt !== "string" || prompt.trim() === "") {
+      fail(`canon.closeReading[${index}] must be a non-empty string`);
+    }
+  }
+  for (const [index, anchor] of (issue.canon?.passageAnchors || []).entries()) {
+    if (typeof anchor !== "string" || anchor.trim() === "") {
+      fail(`canon.passageAnchors[${index}] must be a non-empty string`);
+    }
+  }
+
+  requireString(issue.principle, "heading", "principle.heading");
+  requireString(issue.principle, "body", "principle.body");
+  requireString(issue.principle, "exampleLabel", "principle.exampleLabel");
+  requireString(issue.principle, "example", "principle.example");
+  requireString(issue.principle, "practiceLabel", "principle.practiceLabel");
+  requireString(issue.principle, "practice", "principle.practice");
+  requireString(issue.output, "heading", "output.heading");
+  requireString(issue.output, "body", "output.body");
 
   const history = readJson("ops/canon-history.json");
   const canonKey = normalizeText(`${issue.canon.author} ${issue.canon.work} ${issue.canon.chapter}`);
@@ -91,28 +161,34 @@ if (!fs.existsSync(path.join(ROOT, issuePath(date)))) {
     if (!fs.existsSync(candidatesPath)) {
       fail(`Missing X candidate capture: ${xCandidatesPath(date)}`);
     }
-    const candidateUrls = fs.existsSync(candidatesPath)
-      ? new Set((readJson(xCandidatesPath(date)).candidates || []).map((tweet) => tweet.url))
-      : new Set();
+    const capture = fs.existsSync(candidatesPath) ? readJson(xCandidatesPath(date)) : {};
+    if (capture.date && capture.date !== issue.date) fail(`X candidate capture date ${capture.date} does not match issue date`);
+    if (capture.readonlyOnly !== true) fail("X candidate capture must be readonlyOnly");
+    if (typeof capture.capturedAtIST !== "string" || !capture.capturedAtIST.startsWith(issue.date)) {
+      fail("X candidate capture must be collected on the issue date");
+    }
+    const candidateUrls = new Set((capture.candidates || []).map((tweet) => tweet.url));
 
     for (const [index, item] of (signals.fieldNotes || []).entries()) {
       requireString(item, "title", `signals.fieldNotes[${index}].title`);
       requireString(item, "source", `signals.fieldNotes[${index}].source`);
-      requireString(item, "url", `signals.fieldNotes[${index}].url`);
+      requireUrl(item, "url", `signals.fieldNotes[${index}].url`);
+      requireString(item, "whatHappened", `signals.fieldNotes[${index}].whatHappened`);
+      requireString(item, "whyItMatters", `signals.fieldNotes[${index}].whyItMatters`);
+      requireString(item, "watch", `signals.fieldNotes[${index}].watch`);
       requireString(item, "collectedAt", `signals.fieldNotes[${index}].collectedAt`);
       if (item.collectedAt !== issue.date) fail(`field note "${item.title}" collectedAt is not issue date`);
-      if (item.sourceDate && daysBetween(issue.date, item.sourceDate) > 7) {
-        warn(`field note "${item.title}" sourceDate is older than 7 days`);
-      }
+      checkFreshSourceDate(item.sourceDate, `signals.fieldNotes[${index}].sourceDate`, 7);
     }
     for (const [index, tweet] of (signals.tweets || []).entries()) {
       requireString(tweet, "title", `signals.tweets[${index}].title`);
       requireString(tweet, "summary", `signals.tweets[${index}].summary`);
       requireString(tweet, "text", `signals.tweets[${index}].text`);
       requireString(tweet, "author", `signals.tweets[${index}].author`);
-      requireString(tweet, "url", `signals.tweets[${index}].url`);
+      requireUrl(tweet, "url", `signals.tweets[${index}].url`);
       requireString(tweet, "collectedAt", `signals.tweets[${index}].collectedAt`);
       if (tweet.collectedAt !== issue.date) fail(`tweet "${tweet.url}" collectedAt is not issue date`);
+      checkFreshSourceDate(tweet.sourceDate, `signals.tweets[${index}].sourceDate`, 1);
       if (candidateUrls.size > 0 && !candidateUrls.has(tweet.url)) {
         fail(`tweet "${tweet.url}" was not present in today's captured X candidates`);
       }

@@ -1,7 +1,7 @@
 import { execFileSync } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
-import { issuePath, loadIssue, readJson, ROOT, todayInIST, writeFile, xCandidatesPath } from "./lib.mjs";
+import { escapeHtml, issuePath, loadIssue, readJson, ROOT, todayInIST, writeFile, xCandidatesPath } from "./lib.mjs";
 
 const date = process.argv[2] || todayInIST();
 const issue = loadIssue(date);
@@ -31,19 +31,53 @@ function waitForPagesRun(commit) {
 
 function waitForLiveIssue() {
   const deadline = Date.now() + 10 * 60 * 1000;
-  const expectedIssue = `Issue ${String(issue.issueNumber).padStart(3, "0")}`;
   while (Date.now() < deadline) {
     const live = run("curl", ["-Ls", `https://sushilathreya.github.io/daily-input-stack/?verify=${Date.now()}`], { capture: true });
-    if (live.includes(issue.displayDate) && live.includes(expectedIssue) && live.includes(issue.title)) {
+    try {
+      verifyIssueHtml(live, "live page");
       return;
+    } catch {
+      // Keep polling until the current issue is fully visible on GitHub Pages.
     }
     Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, 15000);
   }
-  throw new Error("Live page does not contain expected issue date, number, and title after waiting");
+  throw new Error("Live page does not contain the complete expected issue after waiting");
+}
+
+function expectedHtmlSnippets() {
+  const snippets = [
+    `Issue ${String(issue.issueNumber).padStart(3, "0")}`,
+    escapeHtml(issue.displayDate),
+    escapeHtml(issue.title),
+    escapeHtml(issue.canon.heading),
+    escapeHtml(issue.principle.heading),
+    escapeHtml(issue.output.heading)
+  ];
+  for (const note of issue.signals.fieldNotes || []) {
+    snippets.push(escapeHtml(note.title));
+    snippets.push(escapeHtml(note.source));
+  }
+  for (const tweet of issue.signals.tweets || []) {
+    snippets.push(escapeHtml(tweet.title));
+    snippets.push(escapeHtml(tweet.url));
+  }
+  return snippets;
+}
+
+function verifyIssueHtml(html, label) {
+  for (const snippet of expectedHtmlSnippets()) {
+    if (!html.includes(snippet)) {
+      throw new Error(`${label} is missing expected content: ${snippet}`);
+    }
+  }
+  if (/(^|[>\s])(undefined|null|NaN|\[object Object\])([<\s]|$)/.test(html)) {
+    throw new Error(`${label} contains an unresolved placeholder`);
+  }
 }
 
 run("node", ["ops/scripts/validate-issue.mjs", date]);
 run("node", ["ops/scripts/render-issue.mjs", date]);
+verifyIssueHtml(fs.readFileSync(path.join(ROOT, "index.html"), "utf8"), "rendered issue");
 
 const history = readJson("ops/canon-history.json");
 if (!history.some((entry) => entry.date === issue.date)) {
@@ -71,8 +105,20 @@ if (status) {
     "ops/pipeline.md"
   ].filter((item) => fs.existsSync(path.join(ROOT, item)));
   run("git", ["add", ...addPaths]);
-  run("git", ["commit", "-m", `Publish Studying the Masters issue for ${date}`]);
-  run("git", ["push", "origin", "main"]);
+  const hasStagedChanges = (() => {
+    try {
+      run("git", ["diff", "--cached", "--quiet"]);
+      return false;
+    } catch {
+      return true;
+    }
+  })();
+  if (hasStagedChanges) {
+    run("git", ["commit", "-m", `Publish Studying the Masters issue for ${date}`]);
+    run("git", ["push", "origin", "main"]);
+  } else {
+    console.warn("WARN No publishable staged changes; continuing to live verification");
+  }
 }
 
 const commit = run("git", ["rev-parse", "HEAD"], { capture: true }).trim();

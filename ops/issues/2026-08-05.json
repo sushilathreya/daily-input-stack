@@ -1,0 +1,110 @@
+{
+  "date": "2026-08-05",
+  "displayDate": "Wednesday, 5 August 2026",
+  "issueNumber": 7,
+  "title": "Occupy the place the mind already has available.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "Ries and Trout begin positioning with a ruthless correction: communication does not happen in the market you wish existed. It happens inside an overloaded prospect's existing mind.",
+  "meta": {
+    "canon": "Al Ries and Jack Trout, <em>Positioning</em>",
+    "study": "35-45 min",
+    "practice": "one mental-map audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "Do not start with what the product wants to say. Start with what the prospect already believes, remembers, compares, ignores, and has room to accept."
+  },
+  "canon": {
+    "author": "Al Ries and Jack Trout",
+    "work": "Positioning: The Battle for Your Mind",
+    "chapter": "What Positioning Is All About",
+    "chapterLabel": "Chapter 1, \"What Positioning Is All About\"",
+    "field": "positioning / brand strategy",
+    "pageRange": "PDF pages 15-18; stop before Chapter 2, \"The Assault on the Mind\"",
+    "pageCount": 4,
+    "stopPoint": "Stop at the end of PDF page 18. Chapter 2 begins on PDF page 19.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Positioning - Al Ries and Jack Trout.pdf",
+      "driveUrl": "https://drive.google.com/file/d/1fISuTXG4QmxQ6MrFaI3wxE6eR6EoEh-p/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "pdftotext_verified",
+        "classification": "native_text_pdf",
+        "tool": "pdfinfo + pdftotext",
+        "nativeTextPages": "usable native text extracted for table of contents and assigned chapter pages",
+        "tableOfContentsVerified": true,
+        "notes": "pdfinfo reports a 169-page unencrypted PDF. pdftotext extraction verifies the table of contents entry for Chapter 1 and shows Chapter 1 begins on PDF page 15 while Chapter 2 begins on PDF page 19."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1fISuTXG4QmxQ6MrFaI3wxE6eR6EoEh-p/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Positioning - Al Ries and Jack Trout.pdf\""
+    },
+    "heading": "Ries and Trout: Positioning begins in the prospect's mind.",
+    "standfirst": "Read Chapter 1, \"What Positioning Is All About,\" from Al Ries and Jack Trout's <em>Positioning</em>. The chapter establishes the outside-in premise: the winning move is not to invent a reality, but to work with the mental structures already present.",
+    "readerIntro": "Read this short chapter slowly. It is not a toolkit yet; it is a correction of instinct. Watch how Ries and Trout move from creativity and communication toward reality, mental overload, simplification, and the prospect's point of view.",
+    "blocks": [
+      {
+        "label": "01 / Start with reality, not invention",
+        "paragraphs": [
+          "Ries and Trout open by puncturing a common creative fantasy: in an overcrowded market, the marketer does not get a blank mental canvas. The only reality that matters is the one already lodged in the prospect's mind.",
+          "As you read, mark every place they redirect attention away from the product and toward the prospect. That move is the foundation of positioning."
+        ]
+      },
+      {
+        "label": "02 / Notice the constraint on communication",
+        "paragraphs": [
+          "The chapter treats the mind as defensive. Because people receive too much information, they screen, reject, and simplify. More communication does not automatically create more meaning.",
+          "Do not read this as pessimism. Read it as design discipline: if the mind is selective, the message must fit a slot the prospect can actually use."
+        ]
+      },
+      {
+        "label": "03 / Study oversimplification",
+        "paragraphs": [
+          "Ries and Trout's answer is not to make the product smaller. It is to make the message sharper. The burden is on the communicator to strip away ambiguity until one position can enter the mind.",
+          "This is where good taste becomes commercial leverage: not ornament, not cleverness, but the courage to make one idea unmistakable."
+        ]
+      },
+      {
+        "label": "04 / Turn the process around",
+        "paragraphs": [
+          "The closing movement is the practical heart of the chapter: focus on the prospect rather than the product. The communicator is not the judge of clarity; the receiver is.",
+          "Use the chapter to build an outside-in habit. Before writing a claim, ask what mental comparison the prospect is already making and what existing belief your message can retie."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "the only reality that counts",
+      "what's already in the prospect's mind",
+      "the oversimplified mind",
+      "the oversimplified message",
+      "focusing on the prospect rather than the product"
+    ],
+    "closeReading": [
+      "Write Ries and Trout's definition of positioning in your own words. What does it shift away from the product and toward the prospect?",
+      "List three things your audience already believes about your category before you say a word.",
+      "Find the chapter's argument for why more communication can reduce actual communication. Where do you see this in current brand behavior?",
+      "Choose one product you care about. What position is already occupied in the prospect's mind, and what position is realistically still available?",
+      "Reduce one messy product claim to a single outside-in sentence a prospect could remember."
+    ]
+  },
+  "principle": {
+    "heading": "A position is accepted when it fits the mind's existing map.",
+    "body": "Positioning is not self-expression by a brand. It is disciplined selection: choose the simplest, most credible place you can occupy in a prospect's already crowded mind.",
+    "exampleLabel": "One example",
+    "example": "A project-management app can say it is \"AI-powered work orchestration,\" but the prospect may only have room for \"the thing that keeps client work from slipping.\" The second phrase has a mental slot.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Pick one offer. Write the category ladder your prospect already has in their head, including the default choice, the premium choice, the cheap choice, and the confusing alternatives. Then write one position you can credibly own without asking them to rebuild the ladder."
+  },
+  "signals": {
+    "status": "no_fresh_signals",
+    "note": "Morning edition pending. The 7 AM run must add 3-5 fresh field notes and 1-2 X fragments before final validation, publication, and email delivery."
+  },
+  "output": {
+    "heading": "Draw one ladder in the mind.",
+    "body": "After reading, choose a real category and sketch the prospect's mental ladder before you write any message. The useful output is not a clever line; it is the available position the line must serve."
+  }
+}

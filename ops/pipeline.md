@@ -100,7 +100,7 @@ Completion rule: the final issue must contain all three sections.
 
 `node ops/scripts/validate-issue.mjs YYYY-MM-DD` enforces this. Draft canon prep may use `--draft`; delivery may not.
 
-Before sending a success email, acquire the local delivery lock by creating `ops/state/YYYY-MM-DD-email.lock`, then search Sent Gmail for the exact subject. If a matching success email already exists, do not send another. If the lock already exists, do not send; update the receipt from the existing delivery state instead.
+Before sending a success email, search Sent Gmail for the exact subject, then acquire the local delivery lock with `node ops/scripts/begin-email-send.mjs YYYY-MM-DD`. If a matching success email already exists or the lock status is `sent`, do not send another. If Gmail fails after the lock is acquired, immediately record it with `node ops/scripts/record-email-failed.mjs YYYY-MM-DD <reason>`; a later retry may recover only a `failed_send` lock or a stale `sending` lock.
 
 ## Quality Bar
 
