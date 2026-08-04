@@ -12,6 +12,7 @@
     "email:begin": "node ops/scripts/begin-email-send.mjs",
     "email:sent": "node ops/scripts/record-email-sent.mjs",
     "email:failed": "node ops/scripts/record-email-failed.mjs",
+    "delivery:status": "node ops/scripts/delivery-status.mjs",
     "test:validator": "node ops/scripts/test-validate-issue-failures.mjs",
     "test:email-lock": "node ops/scripts/test-email-lock.mjs"
   }
