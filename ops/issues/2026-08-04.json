@@ -1,0 +1,164 @@
+{
+  "date": "2026-08-04",
+  "displayDate": "Tuesday, 4 August 2026",
+  "issueNumber": 6,
+  "title": "Make the change that makes the old life impossible.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "Robert McKee's inciting incident is not an announcement or a decorative disruption. It is the first major event that upsets a life and makes a consequential response necessary.",
+  "meta": {
+    "canon": "Robert McKee, <em>Story</em>",
+    "study": "45-60 min",
+    "practice": "one inciting-incident test"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A story begins to move when its existing balance cannot hold. The useful question is not whether an event is dramatic; it is what life it makes unavailable."
+  },
+  "canon": {
+    "author": "Robert McKee",
+    "work": "Story: Substance, Structure, Style, and the Principles of Screenwriting",
+    "chapter": "The Inciting Incident",
+    "chapterLabel": "Chapter 8, \"The Inciting Incident\"",
+    "field": "storytelling / narrative design",
+    "pageRange": "book pages 181-207 (PDF pages 180-206); stop before Chapter 9, \"Act Design\"",
+    "pageCount": 27,
+    "stopPoint": "Stop at the end of book page 207. Chapter 9, \"Act Design,\" begins on book page 208 / PDF page 207.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Robert McKee - Story .pdf",
+      "driveUrl": "https://drive.google.com/file/d/1B1FBVTR0Z2YvQYJ7zoEOgmEI-q8GHetu/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "rendered_pages_verified",
+        "classification": "scanned_image_based",
+        "tool": "pdfinfo + pdftotext + pdftoppm visual inspection",
+        "nativeTextPages": "none; assigned pages are scanned images",
+        "tableOfContentsVerified": true,
+        "notes": "pdf-inspector was unavailable. pdfinfo reports a 427-page unencrypted PDF; pdftotext returned no usable native text. Rendered table of contents identifies Chapter 8, The Inciting Incident, at book page 181. Visual inspection confirms its opener at PDF page 180 and Chapter 9, Act Design, at PDF page 207. The weekly program called this 'Chapter 11'; the source table of contents establishes the correct chapter number as 8."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1B1FBVTR0Z2YvQYJ7zoEOgmEI-q8GHetu/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Robert McKee - Story .pdf\""
+    },
+    "heading": "Robert McKee: The event that breaks the old balance.",
+    "standfirst": "Read Chapter 8, \"The Inciting Incident,\" from Robert McKee's <em>Story</em>. McKee defines the event that puts the rest of a story in motion: it disturbs the protagonist's life so decisively that a response becomes necessary.",
+    "readerIntro": "Read the chapter in sequence. McKee first expands the story world, then distinguishes the inciting incident from later turning points, and finally tests it against stakes, timing, and the protagonist's desire. Treat his film examples as diagnostic tools: what changes, for whom, and what can no longer be ignored?",
+    "blocks": [
+      {
+        "label": "01 / Start with the five-part design",
+        "paragraphs": [
+          "McKee opens by locating the inciting incident inside a larger design: it is the first major event and the primary cause of what follows. Do not reduce it to a hook. Its work is causal: it starts progressive complications, crisis, climax, and resolution moving.",
+          "Mark the distinction between an event that merely occurs and one that changes the conditions of life. The latter creates the need for a response."
+        ]
+      },
+      {
+        "label": "02 / Build the pressure in the world",
+        "paragraphs": [
+          "Before naming the incident itself, McKee walks through the physical and social world of the story: work, politics, rituals, values, and genre. This is not scene-setting for its own sake. A disruption only has force because the prior order had a specific shape.",
+          "For a product story, define that prior order precisely. What routine, assumption, or tolerated inconvenience gives the change its meaning?"
+        ]
+      },
+      {
+        "label": "03 / Find the first major imbalance",
+        "paragraphs": [
+          "McKee's inciting incident must radically upset the balance of the protagonist's life. It can be quiet or explosive, but it cannot leave the existing pattern intact. The effect matters more than the noise around the moment.",
+          "Underline every place he connects the incident to an object of desire. The disruption becomes story when it gives the protagonist something they must pursue to restore, replace, or transform their life."
+        ]
+      },
+      {
+        "label": "04 / Separate cause from escalation",
+        "paragraphs": [
+          "The next chapter begins with progressive complications, which makes McKee's boundary useful: the inciting incident is the initiating cause, not the entire escalating sequence. Stop before Chapter 9 so the distinction remains sharp.",
+          "A launch announcement, a customer complaint, or a new competitor is not automatically an inciting incident. It becomes one only when it changes the protagonist's options and demands a response with real consequence."
+        ]
+      },
+      {
+        "label": "05 / Test the promise of the change",
+        "paragraphs": [
+          "McKee repeatedly frames the event in terms of best and worst possibilities. A strong beginning does not merely identify a problem; it opens a charged uncertainty about what the protagonist can gain, lose, or become.",
+          "Use that test on a narrative you are writing. If the event resolves uncertainty instead of generating it, it is probably background, exposition, or a later payoff rather than the true beginning."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "the first major event of the telling",
+      "the primary cause for all that follows",
+      "the balance of the protagonist's life",
+      "object of desire",
+      "best possible thing / worst possible thing"
+    ],
+    "closeReading": [
+      "Write McKee's five-part design in order. What does he mean by calling the inciting incident the primary cause rather than simply the first event?",
+      "Choose one story you know. Name the old balance, the event that disrupts it, the object of desire it creates, and the response it makes necessary.",
+      "Find one of McKee's examples in which the inciting incident is quiet. Explain why its effect on the protagonist is still radical.",
+      "Compare an attention-grabbing opening with an inciting incident. What evidence would show that the opening has actually changed the character's available life?",
+      "Draft a before-and-after sentence for your own narrative: 'Before this, ___; after this, ___ can no longer continue.'"
+    ]
+  },
+  "principle": {
+    "heading": "The beginning earns attention by changing the available future.",
+    "body": "An inciting incident is not a burst of activity. It is the cause that breaks an existing balance, gives a protagonist a consequential desire, and makes a response unavoidable.",
+    "exampleLabel": "One example",
+    "example": "'We launched a new dashboard' is a product update. 'Your weekly reporting process now fails because the client requires a metric you cannot produce' is an inciting incident: a stable routine breaks, stakes appear, and an action becomes necessary.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Take one case study, sales narrative, or onboarding flow. State the customer's old balance in one sentence. Then identify the first event that makes that balance untenable, the new desire it creates, and the action your product enables. If no action is necessary, rewrite the opening around the real disruption."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "collectedAt": "2026-08-04",
+    "heading": "Four current examples of a changed future being made legible.",
+    "fieldNotes": [
+      {
+        "collectedAt": "2026-08-04",
+        "source": "TechRadar",
+        "sourceDate": "2026-08-01",
+        "title": "Story Kitchen treats game adaptations as a change in what game stories can become",
+        "whatHappened": "A feature on Story Kitchen examines the studio's effort to adapt game worlds such as Sonic and Life is Strange for film and television while preserving the choices and creative identity that made the games matter.",
+        "whyItMatters": "Adaptation has real stakes when it changes the audience's available relationship with a familiar world. The useful question is not whether the property is popular, but what experience becomes possible—or unavailable—once its original form changes.",
+        "watch": "Whether adaptations retain the causal choices that made the source material compelling instead of importing only its recognizable imagery.",
+        "url": "https://www.techradar.com/streaming/entertainment/story-kitchen-long-form-feature"
+      },
+      {
+        "collectedAt": "2026-08-04",
+        "source": "Android Central",
+        "sourceDate": "2026-07-29",
+        "title": "Samsung's foldable launch makes an AI assistant part of everyday device behaviour",
+        "whatHappened": "Coverage of Samsung's summer Unpacked event describes the new Fold and Flip devices alongside Gemini features designed to work across common apps, watches, and forthcoming glasses.",
+        "whyItMatters": "The important shift is a change in the user's next action: an assistant moves from a separate destination into the moment a task begins. That makes the product promise testable as a new routine, not just a list of capabilities.",
+        "watch": "Whether cross-app assistance removes a meaningful step for users while keeping the handoff legible and trustworthy.",
+        "url": "https://www.androidcentral.com/phones/live/samsung-galaxy-unpacked-2026-launch-live-latest-news-on-z-fold-8-ultra-z-fold-8-z-flip-8-and-galaxy-glasses"
+      },
+      {
+        "collectedAt": "2026-08-04",
+        "source": "GamesRadar+",
+        "sourceDate": "2026-07-31",
+        "title": "A release calendar turns a future catalogue into a sequence of moments",
+        "whatHappened": "GamesRadar's updated 2026 PS5 guide places newly released and forthcoming games in a dated sequence, including titles arriving in the first days of August.",
+        "whyItMatters": "A calendar is narrative infrastructure: each date changes what the audience can anticipate, discuss, and act on. The structure only works when the next event has enough consequence to reorganize attention around it.",
+        "watch": "Which launches use their release moment to create an enduring player journey instead of a single burst of announcement attention.",
+        "url": "https://www.gamesradar.com/upcoming-ps5-games/"
+      }
+    ],
+    "tweetHeading": "One fragment worth keeping.",
+    "tweets": [
+      {
+        "collectedAt": "2026-08-04",
+        "sourceDate": "2026-08-04",
+        "feed": "Following",
+        "author": "Josh Elman",
+        "handle": "joshelman",
+        "title": "A product-placement change makes the commercial intervention visible",
+        "summary": "Elman's repost is a compact example of McKee's test: an ordinary display becomes consequential when it changes the conditions under which the audience encounters a familiar product.",
+        "text": "RT @pitdesi: seems crazy. The movie Spider-Man: Brand New Day paid BMW to take over the display of every BMW made after 2020. When you st…",
+        "url": "https://x.com/joshelman/status/2084458474679972171"
+      }
+    ]
+  },
+  "output": {
+    "heading": "Write one balance-breaking event.",
+    "body": "Keep the before-and-after sentence beside the narrative you are shaping. If the change does not alter the protagonist's available future, it may be interesting detail, but it is not yet the event that starts the story."
+  }
+}
