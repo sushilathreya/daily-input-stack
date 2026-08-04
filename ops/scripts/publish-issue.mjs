@@ -77,6 +77,7 @@ function verifyIssueHtml(html, label) {
 
 run("node", ["ops/scripts/validate-issue.mjs", date]);
 run("node", ["ops/scripts/render-issue.mjs", date]);
+run("node", ["ops/scripts/render-archive.mjs", date]);
 verifyIssueHtml(fs.readFileSync(path.join(ROOT, "index.html"), "utf8"), "rendered issue");
 
 const history = readJson("ops/canon-history.json");
@@ -98,6 +99,8 @@ const status = run("git", ["status", "--short"], { capture: true }).trim();
 if (status) {
   const addPaths = [
     "index.html",
+    "archive",
+    "editions",
     issuePath(date),
     xCandidatesPath(date),
     `ops/state/${date}-canon-prep.json`,

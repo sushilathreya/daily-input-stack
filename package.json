@@ -6,6 +6,7 @@
   "scripts": {
     "validate": "node ops/scripts/validate-issue.mjs",
     "render": "node ops/scripts/render-issue.mjs",
+    "render:archive": "node ops/scripts/render-archive.mjs",
     "x:capture": "node ops/scripts/capture-x-candidates.mjs",
     "publish": "node ops/scripts/publish-issue.mjs",
     "email:begin": "node ops/scripts/begin-email-send.mjs",
