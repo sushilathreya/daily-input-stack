@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-04",
+  "status": "published_and_emailed",
+  "delivery_status": "delayed",
+  "target_inbox_time_ist": "2026-08-04 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "599e22879536dda3a1767b206eab76edb2a8e6a2",
+  "github_pages_run_id": "30889981491",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Tuesday, 4 August 2026",
+    "Issue 006",
+    "Make the change that makes the old life impossible."
+  ],
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 4 August 2026",
+  "gmail_message_id": "19fcbc92fce17947",
+  "completed_at_ist": "2026-08-04 13:29:54 IST",
+  "delay_note": "Complete issue became live and was sent at 13:29 IST, after the 10:00 IST target."
+}
