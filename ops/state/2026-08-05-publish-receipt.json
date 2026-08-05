@@ -1,0 +1,22 @@
+{
+  "date": "2026-08-05",
+  "status": "published_and_emailed",
+  "delivery_status": "delayed",
+  "target_inbox_time_ist": "2026-08-05 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "69f8fc6a785886145f36548b7ebb0d0156b88ff8",
+  "github_pages_run_id": "30988772828",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Wednesday, 5 August 2026",
+    "Issue 007",
+    "Occupy the place the mind already has available."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 5 August 2026",
+  "gmail_message_id": "19fd105843739cc8",
+  "completed_at_ist": "2026-08-05 13:53:54 IST",
+  "delay_note": "Complete issue became live and was sent at 13:53 IST, after the 10:00 IST target."
+}
