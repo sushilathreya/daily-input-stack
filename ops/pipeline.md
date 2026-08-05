@@ -29,6 +29,7 @@ Core commands:
 - `node ops/scripts/capture-x-candidates.mjs YYYY-MM-DD`
 - `node ops/scripts/publish-issue.mjs YYYY-MM-DD`
 - `node ops/scripts/delivery-status.mjs YYYY-MM-DD`
+- `node ops/scripts/finalize-delivery.mjs YYYY-MM-DD`
 
 The publisher must use these scripts instead of manually editing and publishing `index.html`.
 
@@ -101,7 +102,7 @@ Completion rule: the final issue must contain all three sections.
 
 `node ops/scripts/validate-issue.mjs YYYY-MM-DD` enforces this. Draft canon prep may use `--draft`; delivery may not.
 
-Before sending a success email, run `node ops/scripts/delivery-status.mjs YYYY-MM-DD`. If it says `ready_to_send`, search Sent Gmail for the exact subject, then acquire the local delivery lock with `node ops/scripts/begin-email-send.mjs YYYY-MM-DD` and send immediately. If a matching success email already exists or the lock status is `sent`, do not send another. If Gmail fails after the lock is acquired, immediately record it with `node ops/scripts/record-email-failed.mjs YYYY-MM-DD <reason>`; a later retry may recover only a `failed_send` lock or a stale `sending` lock.
+Before sending a success email, run `node ops/scripts/delivery-status.mjs YYYY-MM-DD`. If it says `ready_to_send`, search Sent Gmail for the exact subject, then acquire the local delivery lock with `node ops/scripts/begin-email-send.mjs YYYY-MM-DD` and send immediately. After `node ops/scripts/record-email-sent.mjs YYYY-MM-DD <gmail-message-id>`, run `node ops/scripts/finalize-delivery.mjs YYYY-MM-DD`, commit the lock/ready/receipt, push, and stop. If a matching success email already exists or the lock status is `sent`, do not send another. If Gmail fails after the lock is acquired, immediately record it with `node ops/scripts/record-email-failed.mjs YYYY-MM-DD <reason>`; a later retry may recover only a `failed_send` lock or a stale `sending` lock.
 
 ## Quality Bar
 
