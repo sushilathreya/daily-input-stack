@@ -100,8 +100,66 @@
     "practice": "Pick one offer. Write the category ladder your prospect already has in their head, including the default choice, the premium choice, the cheap choice, and the confusing alternatives. Then write one position you can credibly own without asking them to rebuild the ladder."
   },
   "signals": {
-    "status": "no_fresh_signals",
-    "note": "Morning edition pending. The 7 AM run must add 3-5 fresh field notes and 1-2 X fragments before final validation, publication, and email delivery."
+    "status": "morning_signals_added",
+    "collectedAt": "2026-08-05",
+    "heading": "Three reminders that the available position is set by the customer's actual environment.",
+    "fieldNotes": [
+      {
+        "collectedAt": "2026-08-05",
+        "source": "TechRadar Pro",
+        "sourceDate": "2026-08-03",
+        "title": "AI search exposes the digital estate a brand has already left behind",
+        "whatHappened": "A TechRadar Pro analysis argues that brands are increasingly represented in AI answers by the scattered material already available online, including outdated pages and contradictory documents; its cited assessment found only a small share of major brand sites leading on AI readiness.",
+        "whyItMatters": "Ries and Trout's outside-in premise now has a technical corollary: the market's mental map is partly assembled from the public evidence a brand has already made easy to retrieve. A new claim cannot reliably outrun stale proof.",
+        "watch": "Whether teams give one owner the job of reconciling product facts, policies, and legacy pages before optimizing their phrasing for AI discovery.",
+        "url": "https://www.techradar.com/pro/why-even-the-biggest-brands-have-low-ai-readiness"
+      },
+      {
+        "collectedAt": "2026-08-05",
+        "source": "TechRadar Pro",
+        "sourceDate": "2026-08-03",
+        "title": "The agent pitch shifts from making assets to running a defined business job",
+        "whatHappened": "In an interview, Bluehost's CEO distinguishes single-asset AI tools from agents intended to carry a bounded business outcome across workflows, such as a front desk that answers questions, checks availability, and books appointments from current business information.",
+        "whyItMatters": "Positioning improves when the category is named by the job a customer can recognize. 'An AI agent' is abstract; a reliably bounded role gives the prospect a usable comparison and a reason to believe it.",
+        "watch": "Whether vendors limit early agents to narrow, inspectable permissions rather than asking customers to accept an expansive autonomous promise.",
+        "url": "https://www.techradar.com/pro/every-small-business-will-eventually-have-a-digital-workforce-of-ai-agents-bluehost-ceo-on-how-ai-agents-are-reshaping-business"
+      },
+      {
+        "collectedAt": "2026-08-05",
+        "source": "CivicScience",
+        "sourceDate": "2026-07-30",
+        "title": "Social channels remain part of the route into consumer technology purchases",
+        "whatHappened": "CivicScience's recent Q3 consumer-electronics shopping-intent analysis points to social media as an increasingly important influence on tech buying across age groups, alongside a high-intent segment planning a purchase within three months.",
+        "whyItMatters": "A position is not merely a sentence on a landing page; it must survive in the channels where a category is compared. The message needs a compact, recognizable slot before the buyer reaches the product page.",
+        "watch": "Which technology brands preserve the same category cue from social discovery through comparison and purchase rather than changing the promise at each step.",
+        "url": "https://civicscience.com/despite-economic-headwinds-51-of-americans-are-planning-tech-purchases-this-summer/"
+      }
+    ],
+    "tweetHeading": "Two fragments on the position a product earns by solving a visible job.",
+    "tweets": [
+      {
+        "collectedAt": "2026-08-05",
+        "sourceDate": "2026-08-04",
+        "feed": "For You",
+        "author": "Ben Zhang",
+        "handle": "un1c0rnioz",
+        "title": "A one-off tool earns clarity from the moment of need",
+        "summary": "Zhang's account of using an AI-generated Bluetooth meter to find a lost phone is a useful positioning test: the value becomes legible as a concrete job completed, not as a general claim about AI capability.",
+        "text": "Lost my phone at the office and spent 30 minutes turning the place over. Find My was disabled by MDM. Out of ideas, I asked Claude how I could find it. It suggested tracking the Bluetooth signal strength, then wrote me a meter in about a minute. I walked around watching the number climb. Found it. Apparently you can just make the tool you need now.",
+        "url": "https://x.com/un1c0rnioz/status/2084686552299634805"
+      },
+      {
+        "collectedAt": "2026-08-05",
+        "sourceDate": "2026-08-04",
+        "feed": "For You",
+        "author": "signüll",
+        "handle": "signulll",
+        "title": "A visible substitute changes the default comparison",
+        "summary": "This Waymo anecdote makes a category shift unusually concrete: the comparison is no longer an autonomous-car future but the total cost and friction of a teenager's car. That is the mental ladder the service must win.",
+        "text": "i met someone who waymos her daughter to school & back everyday. they calculated the cost for a car, gas, & insurance for a 16 year old driver is more expensive than using waymo’s. the future is remarkably visible but not yet full accessible.",
+        "url": "https://x.com/signulll/status/2084740552512467406"
+      }
+    ]
   },
   "output": {
     "heading": "Draw one ladder in the mind.",
