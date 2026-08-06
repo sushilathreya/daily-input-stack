@@ -1,0 +1,22 @@
+{
+  "date": "2026-08-06",
+  "status": "published_and_emailed",
+  "delivery_status": "delayed",
+  "target_inbox_time_ist": "2026-08-06 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "ee54d58cdd06cd4afbd5bb51b7b2bc1ef546c7b3",
+  "github_pages_run_id": "31093498378",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Thursday, 6 August 2026",
+    "Issue 008",
+    "The buyer is not a spreadsheet."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 6 August 2026",
+  "gmail_message_id": "19fd6a401bfd5176",
+  "completed_at_ist": "2026-08-06 16:05:10 IST",
+  "delay_note": "Complete issue was sent at 2026-08-06 16:05:10 IST, after the 2026-08-06 10:00:00 IST target."
+}
