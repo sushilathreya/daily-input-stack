@@ -1,0 +1,150 @@
+{
+  "date": "2026-08-06",
+  "displayDate": "Thursday, 6 August 2026",
+  "issueNumber": 8,
+  "title": "The buyer is not a spreadsheet.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "Rory Sutherland asks a more useful question than whether a choice is rational: what human logic made it useful? His answer turns research from a hunt for stated reasons into a search for the context, signals, and feelings that actually govern choice.",
+  "meta": {
+    "canon": "Rory Sutherland, <em>Alchemy</em>",
+    "study": "25-35 min",
+    "practice": "one psycho-logic audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "Do not mistake a customer's fluent explanation for the full cause of their behaviour. A useful account must explain what they do, not merely what they can say about it."
+  },
+  "canon": {
+    "author": "Rory Sutherland",
+    "work": "Alchemy",
+    "chapter": "Introducing Psycho-Logic",
+    "chapterLabel": "Introduction, \"Introducing Psycho-Logic\"",
+    "field": "human behaviour / marketing psychology",
+    "pageRange": "PDF page 18 only; stop before the illustration on PDF page 19 and the next section, \"Some Things Are Dishwasher-Proof, Others Are Reason-Proof,\" on PDF page 20",
+    "pageCount": 1,
+    "stopPoint": "Stop at the end of PDF page 18. The following page is an illustration; do not continue into the next named section on PDF page 20.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Alchemy - Rory Sutherland.pdf",
+      "driveUrl": "https://drive.google.com/file/d/1N3T4Qh1LHH6_Fibe-8WlW6COvwEiJyN4/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "pdftotext_verified",
+        "classification": "native_text_pdf",
+        "tool": "pdfinfo + pdftotext + rendered page inspection",
+        "nativeTextPages": "usable native text extracted from the contents and assigned page; PDF page 18 contains the complete named section",
+        "tableOfContentsVerified": true,
+        "notes": "pdfinfo reports a 628-page unencrypted PDF. pdftotext verifies the contents entry and the complete one-page section \"Introducing Psycho-Logic\" on PDF page 18. A rendered visual inspection confirms the heading, legible text, and end of section; PDF page 19 is an illustration and the next named section begins on PDF page 20."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1N3T4Qh1LHH6_Fibe-8WlW6COvwEiJyN4/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Alchemy - Rory Sutherland.pdf\""
+    },
+    "heading": "Sutherland: Human decisions follow psycho-logic.",
+    "standfirst": "Read the single named section \"Introducing Psycho-Logic\" from the introduction to Rory Sutherland's <em>Alchemy</em>. In one page, Sutherland names the practical discipline: treat human choices as adaptive and contextual before dismissing them as irrational.",
+    "readerIntro": "Read this compact section twice. First, identify the distinction Sutherland draws between optimisation and usefulness. Then read again for its working implication: a decision that looks irrational in an abstract model may make complete sense in its social setting.",
+    "blocks": [
+      {
+        "label": "01 / Name the operating system",
+        "paragraphs": [
+          "Sutherland introduces psycho-logic to separate the way humans actually decide from the simplified logic of mathematics or introductory economics. The claim is not that reason is useless; it is that human judgement evolved to be useful in lived conditions, not to look optimal in a model.",
+          "Mark the move carefully. It gives you permission to inspect a behaviour before correcting it. A choice may carry information about safety, identity, effort, reciprocity, or context that a narrow calculation cannot see."
+        ]
+      },
+      {
+        "label": "02 / Do not use emotion as a dismissal",
+        "paragraphs": [
+          "The section resists the reflex to make emotion logic's inferior twin. Feelings are often treated as evidence of error because they are difficult to justify in a boardroom. Sutherland instead treats them as signals whose cause may be real even when the person cannot state it cleanly.",
+          "That distinction matters in commercial work. The task is not to flatter every stated preference or invent a manipulative trigger; it is to discover which human condition changes the meaning of the offer."
+        ]
+      },
+      {
+        "label": "03 / Put context back into the explanation",
+        "paragraphs": [
+          "Sutherland's examples show that the same material act can mean opposite things once the social setting changes. An incentive can be useful in one context and insulting in another. A model that removes the setting can therefore produce a precise answer to the wrong problem.",
+          "For a marketer, this is a research standard: do not ask only which claim wins. Ask what situation, relationship, and perceived trade-off make that claim feel credible, generous, risky, or beside the point."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "psycho-logic",
+      "designed to be optimal",
+      "evolved to be useful",
+      "social context is absolutely critical",
+      "knowing when and how to abandon it"
+    ],
+    "closeReading": [
+      "In your own words, distinguish a decision that is optimal in a model from one that is useful in a human setting. What information does the model leave out?",
+      "Choose one customer behaviour your team has labelled irrational. List three contextual explanations before proposing a fix.",
+      "Where could calling a buyer 'emotional' hide a legitimate concern about trust, status, effort, or social risk?",
+      "Take one incentive in your product or offer. In what situation could it change from generous to awkward or insulting?",
+      "Write one research question that would reveal the real condition behind a customer's stated reason, without leading them toward your preferred answer."
+    ]
+  },
+  "principle": {
+    "heading": "Useful beats tidy when people are making the choice.",
+    "body": "A commercial explanation earns its keep when it accounts for behaviour in context. Do not reject an observation because it violates a clean model; use the violation to find the missing human variable.",
+    "exampleLabel": "One example",
+    "example": "A free implementation call can look like an obvious conversion incentive. For a time-poor buyer who fears a hard sell, it may instead create a new obligation. Reframing it as a short fit check with a clear agenda can change the social meaning without changing the service.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one confusing customer behaviour: a stalled trial, a low-value plan choice, or an ignored feature. Make two columns: the stated reason and the possible psycho-logic. Add at least three contextual hypotheses, then write the smallest observation or test that could distinguish them."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "collectedAt": "2026-08-06",
+    "heading": "Three signals about context, memory, and visible jobs.",
+    "fieldNotes": [
+      {
+        "collectedAt": "2026-08-06",
+        "source": "Marketing Dive",
+        "sourceDate": "2026-08-03",
+        "title": "Goldfish makes back-to-school proof feel familiar",
+        "whatHappened": "Goldfish is extending its long-running \"The Snack That Smiles Back\" platform for back-to-school with parent-facing messages about real cheese, no artificial flavors or colors, and baked rather than fried snacks.",
+        "whyItMatters": "This is Sutherland's psycho-logic in ordinary grocery form: the rational claims matter because they are wrapped in a memory structure parents already trust. The campaign is not asking buyers to process a new category argument from scratch.",
+        "watch": "Whether more packaged-food brands pair cleaner-label proof with old assets instead of treating nostalgia and functional reassurance as separate campaigns.",
+        "url": "https://www.marketingdive.com/news/goldfish-blends-nostalgia-with-better-for-you-messaging-in-new-ads/826760/"
+      },
+      {
+        "collectedAt": "2026-08-06",
+        "source": "Retail Dive",
+        "sourceDate": "2026-08-04",
+        "title": "Express uses Y2K memory as a confidence shortcut",
+        "whatHappened": "Express launched \"Too Easy to Look This Good,\" a fashion-and-music campaign running across streaming video, digital, social, print, stores, and ecommerce while building on its \"Dress to Express\" platform.",
+        "whyItMatters": "The strategic move is not simply nostalgia. It uses a remembered cultural texture to reduce the buyer's effort: confidence and self-expression become easier to feel before the product details are evaluated.",
+        "watch": "Whether the campaign keeps one emotional cue intact across store, social, and product pages, or lets each channel fragment the promise.",
+        "url": "https://www.retaildive.com/news/express-nods-to-its-y2k-heyday-in-campaign-that-unites-fashion-music/826923/"
+      },
+      {
+        "collectedAt": "2026-08-06",
+        "source": "TechCrunch",
+        "sourceDate": "2026-08-05",
+        "title": "Meta frames coding agents around bounded work, not vague magic",
+        "whatHappened": "Meta released Muse Code in beta, positioning it as a terminal coding agent for large repositories that can plan changes, write code, validate results, and split large jobs across parallel sub-agents in isolated worktrees.",
+        "whyItMatters": "The interesting commercial signal is the framing. Instead of selling general intelligence, the product is attached to a recognizable developer anxiety: complex codebase work without damaging the working copy.",
+        "watch": "Whether AI tooling brands keep moving toward concrete job boundaries, auditability, and workflow safety as their main trust signals.",
+        "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
+      }
+    ],
+    "tweetHeading": "One fragment on product leadership as a visible operating job.",
+    "tweets": [
+      {
+        "collectedAt": "2026-08-06",
+        "sourceDate": "2026-08-06",
+        "feed": "Following",
+        "author": "Nikita Bier",
+        "handle": "nikitabier",
+        "title": "The product role becomes legible through shipped surface area",
+        "summary": "Bier's handoff note is useful because it translates an abstract product-leadership role into a list of visible surfaces rebuilt: timeline, onboarding, notifications, chat, Android, and more. It is a reminder that a product story becomes believable when the work can be named at the level users actually touch.",
+        "text": "Ladies and gentlemen, it's time to pass the torch and demote myself to my natural state: a poster. I'll be stepping back from leading product for 𝕏 and will continue on as an advisor.\n\nServing the X community has been the privilege of a lifetime. X is, and will remain, the most important communication technology in history. But running this app is a 24/7 job and it's now time to take a breather.\n\nThe app is seeing unprecedented growth in new users & engagement. We continue to break records every month. We've climbed 70 spots in the App Store since this time last year.\n\nAnd in the last 400 days, we rebuilt almost every aspect of X: the Timeline, the Android app, onboarding, notifications, chat and more.\n\nWe also launched nearly 30 new products while protecting the integrity of the town square: becoming the first app to show Country-of-Origin on profiles and mounting defenses against AI bots. There's certainly much more work to be done, but our foundation is stronger than ever.\n\nNone of this would have been possible without the incredible team here. The next leaders will take X to even greater heights with @benjitaylor on design, @singhai on core product engineering and @dinkin_flickaa on mobile engineering -- among many other great people.\n\nThank you to Elon and the X team for welcoming me into the company. See you on the Timeline.",
+        "url": "https://x.com/nikitabier/status/2085105586966827343"
+      }
+    ]
+  },
+  "output": {
+    "heading": "Find the variable the model erased.",
+    "body": "After reading, keep one behaviour that does not fit the tidy explanation. Your output is a short psycho-logic audit: the behaviour, the context you may be missing, and the smallest next observation that could reveal it."
+  }
+}

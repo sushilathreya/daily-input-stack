@@ -1,0 +1,26 @@
+{
+  "date": "2026-08-06",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-08-06.json",
+  "master": "Rory Sutherland",
+  "work": "Alchemy",
+  "chapter_or_section": "Introduction, \"Introducing Psycho-Logic\"",
+  "page_range": "PDF page 18 only; stop before the illustration on PDF page 19 and the next named section on PDF page 20",
+  "page_count": 1,
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-08-02-weekly-program.json",
+  "fallback_used": false,
+  "parser_preflight": {
+    "status": "pdftotext_verified",
+    "classification": "native_text_pdf",
+    "tool": "pdfinfo + pdftotext + rendered page inspection",
+    "notes": "The local 628-page unencrypted PDF has usable native text. Contents and assigned page were verified with pdftotext; rendered inspection confirmed the complete named section on PDF page 18 and its boundary before the next section."
+  },
+  "validation": "node ops/scripts/validate-issue.mjs 2026-08-06 --draft: passed",
+  "created_at_ist": "2026-08-05 22:02:25 IST",
+  "notes": "Prepared from the weekly program. No prior canon-history entry repeats this chapter or named section. Signals remain no_fresh_signals for the morning edition sender. No publication, push, email, X/Twitter activity, or rendered HTML edit was attempted."
+}
