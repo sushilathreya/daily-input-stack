@@ -1,0 +1,150 @@
+{
+  "date": "2026-08-07",
+  "displayDate": "Friday, 7 August 2026",
+  "issueNumber": 9,
+  "title": "The evidence can be right and still point you wrong.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "Clayton Christensen begins with a paradox: excellent companies can listen closely to customers, invest hard in better products, and still be organised to miss the next market. The mistake is not ignorance of technology; it is treating the current performance measure as the only one that counts.",
+  "meta": {
+    "canon": "Clayton M. Christensen, <em>The Innovator's Dilemma</em>",
+    "study": "25-35 min",
+    "practice": "one performance-trajectory audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A strong customer signal can be true and still be incomplete. Ask which job, segment, or performance dimension the signal cannot see before turning it into a roadmap rule."
+  },
+  "canon": {
+    "author": "Clayton M. Christensen",
+    "work": "The Innovator's Dilemma",
+    "chapter": "The Impact of Technological Change",
+    "chapterLabel": "Chapter 1, \"How Can Great Firms Fail? Insights from the Hard Disk Drive Industry\" - \"The Impact of Technological Change\"",
+    "field": "technology strategy / market disruption",
+    "pageRange": "Printed pages 8-9 (PDF pages 40-41); stop before \"Sustaining Technological Changes\" on printed page 10 (PDF page 42)",
+    "pageCount": 2,
+    "stopPoint": "Stop at the end of printed page 9 / PDF page 41. Do not continue into the next named section, \"Sustaining Technological Changes,\" on PDF page 42.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/The Innovator’s Dilemma - Clayton Christensen.pdf",
+      "driveUrl": "https://drive.google.com/file/d/1X5-ZodswFwiIg2uFtgLMZNHzmJqCtu8w/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "rendered_pages_verified",
+        "classification": "scanned_image_pdf",
+        "tool": "pdfinfo + pdftotext + pdftoppm + visual page inspection",
+        "nativeTextPages": "No usable native text: pdftotext produced only a 319-byte output. Section boundaries and reading content were verified from rendered pages.",
+        "tableOfContentsVerified": true,
+        "notes": "pdfinfo reports a 319-page unencrypted PDF. Rendered contents page (PDF page 5) lists Chapter 1 at printed page 3 and Chapter 2 at printed page 33. Rendered PDF page 40 begins the assigned named section at printed page 8; PDF page 41 completes it at printed page 9; PDF page 42 begins the next named section, \"Sustaining Technological Changes.\""
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1X5-ZodswFwiIg2uFtgLMZNHzmJqCtu8w/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/The Innovator’s Dilemma - Clayton Christensen.pdf\""
+    },
+    "heading": "Christensen: Better technology is not always better for the market that matters next.",
+    "standfirst": "Read the two-page section \"The Impact of Technological Change\" from Chapter 1 of Clayton M. Christensen's <em>The Innovator's Dilemma</em>. It separates changes that extend an established performance trajectory from changes that reset what performance means - and shows why the second kind can unseat well-managed incumbents.",
+    "readerIntro": "Read once for the reversal: the pace and difficulty of change are not the cause of leaders' failure. Read again to identify the hidden measurement choice: which performance trajectory defines success, and whose use case does it leave out?",
+    "blocks": [
+      {
+        "label": "01 / Reject the comforting diagnosis",
+        "paragraphs": [
+          "Christensen tests the intuitive story that leaders lose because technology moves too fast for them to keep up. His disk-drive evidence leads elsewhere: the established firms were not simply passive, arrogant, or unable to execute. The speed and difficulty of change did not explain the pattern.",
+          "That is the useful discipline in this opening. Do not accept a flattering or easy diagnosis merely because it explains a failure in familiar language. Locate the measurement that would distinguish lack of effort from a system that rewards the wrong response."
+        ]
+      },
+      {
+        "label": "02 / Name the trajectory",
+        "paragraphs": [
+          "Some technologies sustain the trajectory customers already value. They can be incremental or radical, but they make the existing product better by the established measure. In the disk-drive industry, incumbents routinely led these changes because their customers wanted more of the performance they already recognised.",
+          "A disruptive technology works differently. It changes or redefines the performance trajectory, often serving a different use case at first. Asking whether it is simply better than the current product misses the decision: better for whom, on which dimension, and at what stage of adoption?"
+        ]
+      },
+      {
+        "label": "03 / Treat the early mismatch as evidence",
+        "paragraphs": [
+          "The section sets up the central tension: an entrant can initially look inferior on the incumbent's metric while being the beginning of a new trajectory. Leaders may then make locally sensible choices - investing in what current customers reward - while becoming less able to see the new market's logic.",
+          "For commercial work, this is a guardrail against both panic and complacency. Do not call every novelty disruptive. But when a smaller, simpler, or apparently weaker offer is winning a distinct job, investigate the new performance dimension before comparing feature lists."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "technology mudslide hypothesis",
+      "neither the pace nor the difficulty",
+      "sustained the industry's rate of improvement",
+      "disrupted or redefined performance trajectories",
+      "established firms"
+    ],
+    "closeReading": [
+      "What evidence does Christensen use to reject the claim that leaders failed because technological change was simply too fast or difficult?",
+      "In your own words, distinguish a sustaining technology from a disruptive one without using the words incremental, radical, better, or worse.",
+      "Name one metric your team treats as the definition of product progress. Which customer or use case might that metric fail to represent?",
+      "Find a product that looked weaker on the incumbent's main measure when it entered. What alternate performance trajectory made it useful to its first users?",
+      "What observation would tell you that a new offer is merely a novelty rather than the start of a distinct performance trajectory?"
+    ]
+  },
+  "principle": {
+    "heading": "A performance metric is a map, not the territory.",
+    "body": "Customer evidence is indispensable for sustaining work, but it cannot reveal a market that has not yet learned how to ask. When a new offer underperforms on the established measure, inspect the job and trajectory before deciding it has no future.",
+    "exampleLabel": "One example",
+    "example": "A design team keeps increasing an analytics product's number of dashboards because power users ask for more control. A lightweight daily briefing looks weak beside that suite. But if managers adopt it because it replaces a 20-minute morning scan with one clear decision, the comparison is not dashboard count; it is time-to-orientation.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one emerging competitor, workflow, or customer workaround. Make two columns: the established performance measure and the possible new trajectory. For each, write the user, the job, what initially looks worse, and the smallest interview or usage observation that could test whether the new trajectory is real."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "collectedAt": "2026-08-07",
+    "heading": "Three reminders that a new trajectory first looks like a weaker version of the old thing.",
+    "fieldNotes": [
+      {
+        "collectedAt": "2026-08-07",
+        "source": "TechCrunch",
+        "sourceDate": "2026-08-07",
+        "title": "Runway turns a crowded model market into a routing decision",
+        "whatHappened": "Runway launched an AI model router as the market for generative-media models becomes more crowded, making model selection part of the product workflow rather than a one-time platform choice.",
+        "whyItMatters": "The useful shift is from buying the highest headline capability to matching a model to a job, constraint, and moment. That is a different performance trajectory from treating one model as the product.",
+        "watch": "Whether creative-AI products make routing legible as a user benefit, or leave customers to infer why a task was assigned to one model rather than another.",
+        "url": "https://techcrunch.com/"
+      },
+      {
+        "collectedAt": "2026-08-07",
+        "source": "TechCrunch",
+        "sourceDate": "2026-08-07",
+        "title": "Google Photos adds a Video Remix tool",
+        "whatHappened": "Google Photos added an AI Video Remix feature, moving a generative capability into a familiar personal-media workflow rather than asking users to begin inside a specialist creation tool.",
+        "whyItMatters": "A capability can look less impressive beside a dedicated generator and still win on a new measure: how little setup it takes to turn an existing memory into something shareable.",
+        "watch": "Whether consumer AI features earn repeat use through placement in existing habits instead of through increasingly elaborate creation controls.",
+        "url": "https://techcrunch.com/"
+      },
+      {
+        "collectedAt": "2026-08-07",
+        "source": "TechCrunch",
+        "sourceDate": "2026-08-07",
+        "title": "Google's deepfake detector is used to test a political-image claim",
+        "whatHappened": "TechCrunch reported that Google's deepfake-detection system was used to help debunk an allegedly manipulated image, giving a detection technology a concrete public-facing verification job.",
+        "whyItMatters": "Trust technologies are often evaluated as abstract accuracy claims. Their real trajectory may be whether they fit into the moment someone needs a decision, explanation, and evidence trail.",
+        "watch": "Whether provenance and detection tools compete on workflow clarity and usable proof, not only on technical benchmark results.",
+        "url": "https://techcrunch.com/"
+      }
+    ],
+    "tweetHeading": "One fragment on a product that began as an internal workaround.",
+    "tweets": [
+      {
+        "collectedAt": "2026-08-07",
+        "sourceDate": "2026-08-07",
+        "feed": "Following",
+        "author": "a16z",
+        "handle": "a16z",
+        "title": "Slack started with the job its original company needed",
+        "summary": "This Slack origin story is a clean Christensen prompt: an internal communication tool did not initially resemble a conventional enterprise software bet. Its value became visible because it solved a real operating job for the people already using it.",
+        "text": ".@bhorowitz on how a game studio turned its last $6 million into Slack: the team had built a tool for its engineering group to communicate, then considered putting that tool out as a product rather than continuing the game.",
+        "url": "https://x.com/a16z/status/2085518489700421954"
+      }
+    ]
+  },
+  "output": {
+    "heading": "Find the measure that makes the newcomer look weak.",
+    "body": "After reading, produce a short trajectory audit: the incumbent metric, the emerging use case, and one observation that would show whether the newcomer is building a different performance curve rather than merely trailing on the old one."
+  }
+}

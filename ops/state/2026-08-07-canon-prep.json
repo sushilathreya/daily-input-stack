@@ -1,0 +1,18 @@
+{
+  "date": "2026-08-07",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-08-07.json",
+  "master": "Clayton M. Christensen",
+  "work": "The Innovator's Dilemma",
+  "chapter_or_section": "Chapter 1, \"The Impact of Technological Change\" (printed pages 8-9; PDF pages 40-41)",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-08-02-weekly-program.json",
+  "parser_preflight": "scanned_image_pdf; pdfinfo + pdftotext + pdftoppm + visual page inspection. pdftotext produced no usable native text; rendered contents and assigned pages verified.",
+  "created_at_ist": "2026-08-06 23:25:26 IST",
+  "validation": "node ops/scripts/validate-issue.mjs 2026-08-07 --draft: passed",
+  "notes": "Weekly program assigned Chapter 1. The full chapter spans printed pages 3-32, so this prep assigns only the named two-page section \"The Impact of Technological Change\" on printed pages 8-9, stopping before \"Sustaining Technological Changes\" on printed page 10. Canon history was checked: this chapter and named section have not been studied. Signals intentionally remain no_fresh_signals for the morning edition sender to replace. No publish, push, email, X/Twitter activity, morning field-note research, or rendered HTML edit was attempted."
+}
