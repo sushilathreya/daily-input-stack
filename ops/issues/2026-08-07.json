@@ -95,40 +95,40 @@
   "signals": {
     "status": "morning_signals_added",
     "collectedAt": "2026-08-07",
-    "heading": "Three reminders that a new trajectory first looks like a weaker version of the old thing.",
+    "heading": "Three signals that the old measure can conceal the next customer decision.",
     "fieldNotes": [
       {
         "collectedAt": "2026-08-07",
-        "source": "TechCrunch",
-        "sourceDate": "2026-08-07",
-        "title": "Runway turns a crowded model market into a routing decision",
-        "whatHappened": "Runway launched an AI model router as the market for generative-media models becomes more crowded, making model selection part of the product workflow rather than a one-time platform choice.",
-        "whyItMatters": "The useful shift is from buying the highest headline capability to matching a model to a job, constraint, and moment. That is a different performance trajectory from treating one model as the product.",
-        "watch": "Whether creative-AI products make routing legible as a user benefit, or leave customers to infer why a task was assigned to one model rather than another.",
-        "url": "https://techcrunch.com/"
+        "source": "Marketing Dive",
+        "sourceDate": "2026-08-06",
+        "title": "Kraft Heinz adds nearly $100M to marketing as it seeks a turnaround",
+        "whatHappened": "Kraft Heinz said it is putting nearly $100 million more into marketing, with executives pointing to higher-impact media partnerships and stronger creative as early positive signs for its U.S. brands.",
+        "whyItMatters": "The spend is not the lesson by itself. In Christensen's terms, it is a sustaining move: improve the effectiveness of the system customers already recognise. The useful question is whether the company is also testing a different route to relevance, not merely making the existing route louder.",
+        "watch": "Whether the extra investment produces a repeatable audience or channel advantage, rather than only a temporary lift on established brand measures.",
+        "url": "https://www.marketingdive.com/news/kraft-heinz-zeroes-in-on-marketing-as-it-pours-another-100m-into-turnaroun/827183/"
+      },
+      {
+        "collectedAt": "2026-08-07",
+        "source": "Retail Dive",
+        "sourceDate": "2026-08-06",
+        "title": "Claire's refreshes the piercing service, not just the merchandise",
+        "whatHappened": "Claire's is rolling out updated training, store displays, earrings, and related changes as part of a broader upgrade to its in-store piercing service.",
+        "whyItMatters": "A retailer can be judged on assortment and price while the customer is actually choosing a confidence-bearing service moment. The redesign is a reminder to inspect the job and performance dimension that the current category metrics may leave out.",
+        "watch": "Whether the upgraded experience changes first-time conversion, repeat visits, or recommendation more meaningfully than the product-level changes alone.",
+        "url": "https://www.retaildive.com/news/claires-revamps-in-store-piercing-experience/826321/"
       },
       {
         "collectedAt": "2026-08-07",
         "source": "TechCrunch",
-        "sourceDate": "2026-08-07",
-        "title": "Google Photos adds a Video Remix tool",
-        "whatHappened": "Google Photos added an AI Video Remix feature, moving a generative capability into a familiar personal-media workflow rather than asking users to begin inside a specialist creation tool.",
-        "whyItMatters": "A capability can look less impressive beside a dedicated generator and still win on a new measure: how little setup it takes to turn an existing memory into something shareable.",
-        "watch": "Whether consumer AI features earn repeat use through placement in existing habits instead of through increasingly elaborate creation controls.",
-        "url": "https://techcrunch.com/"
-      },
-      {
-        "collectedAt": "2026-08-07",
-        "source": "TechCrunch",
-        "sourceDate": "2026-08-07",
-        "title": "Google's deepfake detector is used to test a political-image claim",
-        "whatHappened": "TechCrunch reported that Google's deepfake-detection system was used to help debunk an allegedly manipulated image, giving a detection technology a concrete public-facing verification job.",
-        "whyItMatters": "Trust technologies are often evaluated as abstract accuracy claims. Their real trajectory may be whether they fit into the moment someone needs a decision, explanation, and evidence trail.",
-        "watch": "Whether provenance and detection tools compete on workflow clarity and usable proof, not only on technical benchmark results.",
-        "url": "https://techcrunch.com/"
+        "sourceDate": "2026-08-06",
+        "title": "OpenAI's reported speaker price puts the AI-device test in a familiar category",
+        "whatHappened": "TechCrunch reports that OpenAI's forthcoming AI device could be a smart-speaker-like product priced between $300 and $400, adding a consumer price anchor to a still indistinct hardware proposition.",
+        "whyItMatters": "New hardware often looks weak when compared feature-for-feature with the incumbent category. A price and form factor make the real test clearer: can the device earn a distinct recurring job, rather than be evaluated only as another speaker?",
+        "watch": "Whether the eventual product is explained through a concrete daily use case that justifies a separate performance trajectory from conventional voice assistants.",
+        "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/"
       }
     ],
-    "tweetHeading": "One fragment on a product that began as an internal workaround.",
+    "tweetHeading": "Two fragments on the work a new trajectory makes visible.",
     "tweets": [
       {
         "collectedAt": "2026-08-07",
@@ -136,10 +136,21 @@
         "feed": "Following",
         "author": "a16z",
         "handle": "a16z",
-        "title": "Slack started with the job its original company needed",
-        "summary": "This Slack origin story is a clean Christensen prompt: an internal communication tool did not initially resemble a conventional enterprise software bet. Its value became visible because it solved a real operating job for the people already using it.",
-        "text": ".@bhorowitz on how a game studio turned its last $6 million into Slack: the team had built a tool for its engineering group to communicate, then considered putting that tool out as a product rather than continuing the game.",
+        "title": "Slack began as an internal tool with a different market ahead of it",
+        "summary": "This retelling of Slack's pivot makes Christensen's question practical: an internal communication tool could look peripheral to a game studio, then become the product that fit a different customer and market trajectory.",
+        "text": ".@bhorowitz on how a game studio turned it's last $6 million into Slack:\n\n\"Stewart calls me. He says, 'Ben, I've got $6 million left. I have no way to raise money because I've made really no progress. So I've got three choices. I can pray for rain and try and finish it, I can shut down the company and give you your $6 million back, or we built this tool that we use in our engineering team to communicate with each other, and I could just put that out as a product.'\"\n\n\"I'm like, 'What? You just built some tool to talk to each other and you want to put that out as a product? And you're a consumer guy, and you want to become an enterprise software guy?'\"\n\n\"$6 million is not gonna make any difference in my life. If you really think it's a good idea, go ahead.\"\n\nBen Horowitz Talks Honesty, Failure, and Secrets at UC Berkeley (2016)",
         "url": "https://x.com/a16z/status/2085518489700421954"
+      },
+      {
+        "collectedAt": "2026-08-07",
+        "sourceDate": "2026-08-06",
+        "feed": "Following",
+        "author": "TBPN",
+        "handle": "tbpn",
+        "title": "Intentional rule-breaking resists an average aesthetic",
+        "summary": "Figma CEO Dylan Field's Brat-cover example is a useful design analogue for disruptive trajectories: the answer that optimises existing aesthetic norms can miss a deliberate signal whose power comes from changing the evaluation frame.",
+        "text": "Figma's @zoink explains how the Brat album cover is a great example of how 'intentionally bad' design can actually be super effective:\n\n\"AI will never generate that.\"\n\n\"Let's say we had the perfect aesthetic model. It's not going to give you Brat's album cover.\"\n\n\"It breaks the rules.\"\n\n\"There's a great talk from Config this year on the Brat album cover. And what was really cool about that talk – it basically goes into all of the process behind that cover, and how they got there.\"\n\n\"It's a really, really well-done talk, and it shows the level of intentionality that was brought — and how much work was done — to arrive at something so simple that breaks the rules just perfectly.\"",
+        "url": "https://x.com/tbpn/status/2085500251700687061"
       }
     ]
   },
