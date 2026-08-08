@@ -1,0 +1,22 @@
+{
+  "date": "2026-08-08",
+  "status": "published_and_emailed",
+  "delivery_status": "delayed",
+  "target_inbox_time_ist": "2026-08-08 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "a7c41571d9f379c4f44a080bca525e07488456a8",
+  "github_pages_run_id": "31257849074",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Saturday, 8 August 2026",
+    "Issue 010",
+    "Growth is a team sport before it is a metric."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 8 August 2026",
+  "gmail_message_id": "19fe16ab1eedba49",
+  "completed_at_ist": "2026-08-08 18:18:18 IST",
+  "delay_note": "Complete issue was sent at 2026-08-08 18:18:18 IST, after the 2026-08-08 10:00:00 IST target."
+}
