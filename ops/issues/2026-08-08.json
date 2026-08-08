@@ -1,0 +1,149 @@
+{
+  "date": "2026-08-08",
+  "displayDate": "Saturday, 8 August 2026",
+  "issueNumber": 10,
+  "title": "Growth is a team sport before it is a metric.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "Sean Ellis and Morgan Brown argue that sustainable growth is not the output of a clever channel or a marketing department. It is a cross-functional learning system with clear ownership, executive cover and one meaningful problem at a time.",
+  "meta": {
+    "canon": "Sean Ellis and Morgan Brown, <em>Hacking Growth</em>",
+    "study": "25-35 min",
+    "practice": "one growth-team charter"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A growth metric can create activity without creating learning. Give a small cross-functional team authority over a single customer problem, then ask it to produce evidence before asking it to produce scale."
+  },
+  "canon": {
+    "author": "Sean Ellis and Morgan Brown",
+    "work": "Hacking Growth",
+    "chapter": "Building Growth Teams",
+    "chapterLabel": "Chapter One, \"Building Growth Teams\"",
+    "field": "growth / organizational design",
+    "pageRange": "EPUB Chapter One, sections \"Executive Sponsorship Required\" through \"The Reporting Structures for Teams\" (approximately printed pages 47-52); stop before \"Melding Minds and Dismissing Lore\"",
+    "pageCount": 6,
+    "stopPoint": "Stop before the named section \"Melding Minds and Dismissing Lore.\" Do not continue into the chapter's discussion of culture and resistance.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_epub",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Hacking Growth.epub",
+      "driveUrl": "https://drive.google.com/file/d/1wtU-SZ-6s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "native_text_epub",
+        "tool": "unzip -p + source-text inspection",
+        "tableOfContentsVerified": true,
+        "notes": "The local EPUB contains Chapter One as OEBPS/Elli_9780451497222_epub3_c01_r1.xhtml. The assigned sections identify executive sponsorship, cross-functional authority, and functional versus independent reporting structures."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1wtU-SZ-6s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Hacking Growth.epub\""
+    },
+    "heading": "Ellis and Brown: Growth needs authority to cross the lines on the org chart.",
+    "standfirst": "Read the six-page run from \"Executive Sponsorship Required\" through \"The Reporting Structures for Teams\" in Chapter One of <em>Hacking Growth</em>. It makes a simple claim: a growth team is not an experiment factory bolted onto marketing. It is a small, cross-functional unit with enough sponsorship to test across product, data, design and distribution.",
+    "readerIntro": "Read once for the organizational constraint: what prevents a team from acting on a good experiment? Read again for the design choice: who owns the outcome, which functions must be represented, and how will conflict be resolved when the work crosses their boundaries?",
+    "blocks": [
+      {
+        "label": "01 / Give the work a real sponsor",
+        "paragraphs": [
+          "Ellis and Brown are explicit that growth cannot be a side project. A team that must negotiate every product, design, data and channel decision after the fact will learn slowly, whatever its dashboard says. The growth lead needs a clear reporting line and senior backing strong enough to cut through ordinary departmental ownership.",
+          "That is not a plea for executive theatre. It is a practical precondition for running a coherent loop: form a hypothesis, make a change, measure it, and decide what to do next. If the team cannot make or secure the change, the loop is broken before the data arrives."
+        ]
+      },
+      {
+        "label": "02 / Put the full customer path in the room",
+        "paragraphs": [
+          "The book treats growth as a shared problem because the customer does not experience a company in functional silos. An acquisition promise, an onboarding screen, a product interaction and a retention message are one journey to the person using the product. The team therefore needs product, engineering, design, data and marketing perspectives close enough to work as one unit.",
+          "Cross-functional does not mean a standing committee. It means each specialist has a defined contribution to a single growth priority and can make decisions at the speed of the experiment. A team that merely collects updates from functions has coordination; it does not yet have shared learning."
+        ]
+      },
+      {
+        "label": "03 / Choose the structure that protects learning",
+        "paragraphs": [
+          "The authors distinguish product-led teams, which report into product leadership, from independent teams with a broader mandate. Neither model is universally right. The useful question is whether the structure gives the team enough proximity to the customer problem and enough freedom to test across the funnel.",
+          "Start with the narrowest mission that can generate a credible win: improve activation for one audience, repair a retention moment, or learn one acquisition channel. A visible, well-instrumented result earns the trust and operating room required for a wider mandate."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "Growth cannot be a side project",
+      "cross the bounds of established departmental responsibilities",
+      "functional (or product-led) model",
+      "independent teams",
+      "strong backing of top management"
+    ],
+    "closeReading": [
+      "What decision rights does a growth team need in order to complete one experiment loop without a handoff?",
+      "Which customer problem currently crosses the most functions in your organization? Who can convene the people needed to learn from it?",
+      "Is your current growth work product-led, independent, or neither? What does that structure make easy and what does it make slow?",
+      "What is the smallest mission that could produce a credible win within four weeks?",
+      "Where is executive sponsorship necessary to resolve a real trade-off, rather than simply to approve a dashboard?"
+    ]
+  },
+  "principle": {
+    "heading": "The unit of growth is the learning loop, not the department.",
+    "body": "If a customer problem crosses product, design, data and distribution, the team learning about it must cross those same boundaries. Name an owner, give the group one decision-sized mission, and judge it by the evidence it produces—not by the number of ideas it collects.",
+    "exampleLabel": "One example",
+    "example": "A subscription product sees trial starts rising while week-two retention falls. Marketing wants more qualified traffic, product wants a new feature and design wants a cleaner onboarding flow. Instead of three separate roadmaps, a small growth team owns one question: what action in the first session predicts a return? It runs one onboarding test, instruments the result and takes the evidence back to all three functions.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Write a one-page charter for one growth problem: name the customer moment, a single owner, the five functions that must contribute, one leading behavior, one guardrail, and the exact decision the team can make without asking for another meeting."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "collectedAt": "2026-08-08",
+    "heading": "Three signals that growth gets faster when the customer loop, not the silo, owns the work.",
+    "fieldNotes": [
+      {
+        "collectedAt": "2026-08-08",
+        "source": "Marketing Dive",
+        "sourceDate": "2026-08-03",
+        "title": "Domino’s pays diners to beta test its relaunched app, website",
+        "whatHappened": "Domino’s is offering eligible digital-order customers a $5 coupon while it promotes and gathers feedback around its relaunched website and app, linking the product experience, offer and customer response in one programme.",
+        "whyItMatters": "This is more useful than treating a relaunch as a finished product handoff. The campaign puts distribution, use and feedback into the same loop—the kind of cross-functional surface a growth team can learn from quickly.",
+        "watch": "Whether the feedback and repeat-order behavior identify a specific ordering friction that the next product and messaging iteration can resolve.",
+        "url": "https://www.marketingdive.com/news/dominos-pays-diners-to-beta-test-its-relaunched-website-app/826846/"
+      },
+      {
+        "collectedAt": "2026-08-08",
+        "source": "Retail Dive",
+        "sourceDate": "2026-08-06",
+        "title": "Home Depot reshuffles leadership to accelerate tech innovation",
+        "whatHappened": "Home Depot moved store, supply-chain and Pro-product technology teams under its new CTO while tying the change to simpler core offerings, interconnected shopping and professional-customer growth.",
+        "whyItMatters": "The reorganization treats customer experience as a system rather than a store, supply-chain or app metric. That is the organizational premise in today’s reading: growth work moves at the speed of the slowest boundary it must cross.",
+        "watch": "Whether the shared leadership model yields visibly shorter cycles between operational insight and a better DIY or Pro customer experience.",
+        "url": "https://www.retaildive.com/news/home-depot-leadership-tech-innovation/827161/"
+      },
+      {
+        "collectedAt": "2026-08-08",
+        "source": "TechCrunch",
+        "sourceDate": "2026-08-07",
+        "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+        "whatHappened": "Rippling built an internal tool to make AI spend and employee-level return more visible after moving quickly on AI tools, turning a broad technology budget into a question of adoption and value.",
+        "whyItMatters": "A growth team needs a measure close enough to the behavior it is trying to improve. The lesson is not to install more measurement; it is to create shared visibility that lets finance, operators and product teams test the same value hypothesis.",
+        "watch": "Whether the tool changes allocation decisions and workflows, rather than becoming a retrospective cost dashboard.",
+        "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
+      }
+    ],
+    "tweetHeading": "One fragment on reducing the handoff cost of a multi-session workflow.",
+    "tweets": [
+      {
+        "collectedAt": "2026-08-08",
+        "sourceDate": "2026-08-07",
+        "feed": "For You",
+        "author": "ClaudeDevs",
+        "handle": "ClaudeDevs",
+        "title": "Claude Code adds session-to-session summaries",
+        "summary": "The feature is a small example of a growth-team concern: make the context needed for the next action portable, so a useful loop does not reset at every handoff.",
+        "text": "New in Claude Code: your sessions can now message each other. Instead of having to re-explain yourself in another session, you can now tell Claude to do it. It sends a summary (not your history or files), and the other session picks it up mid-task.",
+        "url": "https://x.com/ClaudeDevs/status/2085817074816070014"
+      }
+    ]
+  },
+  "output": {
+    "heading": "Design the team around one customer learning loop.",
+    "body": "After reading, produce a growth-team charter for one customer moment: the owner, functions represented, decision rights, leading behavior, guardrail and the first experiment the team can run without a chain of handoffs."
+  }
+}
