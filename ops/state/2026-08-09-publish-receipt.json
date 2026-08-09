@@ -1,0 +1,22 @@
+{
+  "date": "2026-08-09",
+  "status": "published_and_emailed",
+  "delivery_status": "delayed",
+  "target_inbox_time_ist": "2026-08-09 12:00:00 IST",
+  "local_verified": true,
+  "git_commit": "ec6856996ab8936dec7078a22aa4ce0f7b652396",
+  "github_pages_run_id": "31320338866",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Sunday, 9 August 2026",
+    "Issue 011",
+    "A headline earns attention by refusing the wrong reader."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - Sunday - 9 August 2026",
+  "gmail_message_id": "19fe7134bafb998c",
+  "completed_at_ist": "2026-08-09 20:40:37 IST",
+  "delay_note": "Complete issue was sent at 2026-08-09 20:40:37 IST, after the 2026-08-09 12:00:00 IST target."
+}
