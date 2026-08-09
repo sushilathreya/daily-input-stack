@@ -1,0 +1,88 @@
+{
+  "date": "2026-08-09",
+  "week_start": "2026-08-10",
+  "week_end": "2026-08-16",
+  "status": "planned",
+  "theme": "Make the market move: turn a human motive into a clear, testable path from attention to adoption.",
+  "days": [
+    {
+      "date": "2026-08-10",
+      "master": "Robert B. Cialdini",
+      "work": "Influence: The Psychology of Persuasion",
+      "chapter_or_section": "Chapter 2, \"Reciprocation: The Old Give and Take…and Take\"",
+      "fundamental": "Persuasion: understand why an unsolicited concession can create a felt obligation, and distinguish a genuinely useful first gift from a tactic that exploits indebtedness.",
+      "local_source_available": true,
+      "source_path": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Influence - Robert Cialdini.pdf",
+      "drive_link": "https://drive.google.com/file/d/1sTpikK8Y7ebUBiSRRkiZoBcbNSh4Dk_Y/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This advances from the previously studied Chapter 1, \"Weapons of Influence.\""
+    },
+    {
+      "date": "2026-08-11",
+      "master": "Robert McKee",
+      "work": "Story: Substance, Structure, Style, and the Principles of Screenwriting",
+      "chapter_or_section": "Chapter 9, \"Act Design\"",
+      "fundamental": "Storytelling: arrange progressive complications into an act whose turning point changes the value at stake and makes the next movement unavoidable.",
+      "local_source_available": true,
+      "source_path": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Robert McKee - Story .pdf",
+      "drive_link": "https://drive.google.com/file/d/1B1FBVTR0Z2YvQYJ7zoEOgmEI-q8GHetu/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon prep must bound this scanned chapter to a verified under-60-page range; it follows the already studied \"The Inciting Incident.\""
+    },
+    {
+      "date": "2026-08-12",
+      "master": "Byron Sharp",
+      "work": "How Brands Grow",
+      "chapter_or_section": "Chapter 1, \"Evidence-based Marketing\"",
+      "fundamental": "Positioning/brand: replace comforting but untested diagnoses of loyalty, differentiation, and target buyers with generalisable evidence about how brands are bought and grow.",
+      "local_source_available": true,
+      "source_path": "/Users/sushil/Documents/Operation Alpine Thunder/Books/How Brands Grow - Byron Sharp.pdf",
+      "drive_link": "https://drive.google.com/file/d/1v-1gh4_y8s4yauwnVTEpphSBhpEBbBJE/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This changes the brand lens after last week's introductory Ries and Trout reading."
+    },
+    {
+      "date": "2026-08-13",
+      "master": "Rory Sutherland",
+      "work": "Alchemy",
+      "chapter_or_section": "Introduction, \"Some Things Are Dishwasher-Proof, Others Are Reason-Proof\"",
+      "fundamental": "Human desire/psychology: avoid stripping away contextual and emotional value merely because a simplified model cannot measure it, and look for the human reason a rationalisation misses.",
+      "local_source_available": true,
+      "source_path": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Alchemy - Rory Sutherland.pdf",
+      "drive_link": "https://drive.google.com/file/d/1N3T4Qh1LHH6_Fibe-8WlW6COvwEiJyN4/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This is the next named introduction section after \"Introducing Psycho-Logic.\""
+    },
+    {
+      "date": "2026-08-14",
+      "master": "Clayton M. Christensen",
+      "work": "The Innovator's Dilemma",
+      "chapter_or_section": "Chapter 1, \"Sustaining Technological Changes\"",
+      "fundamental": "Technology/strategy: see why incumbents can improve rapidly on established performance dimensions while still becoming exposed when the basis of competition changes.",
+      "local_source_available": true,
+      "source_path": "/Users/sushil/Documents/Operation Alpine Thunder/Books/The Innovator’s Dilemma - Clayton Christensen.pdf",
+      "drive_link": "https://drive.google.com/file/d/1X5-ZodswFwiIg2uFtgLMZNHzmJqCtu8w/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This follows last week's bounded \"The Impact of Technological Change\" section; canon prep must verify the exact scanned-page boundary."
+    },
+    {
+      "date": "2026-08-15",
+      "master": "Sean Ellis and Morgan Brown",
+      "work": "Hacking Growth",
+      "chapter_or_section": "Chapter Two, opening section \"The Flameout of BranchOut\"",
+      "fundamental": "Distribution/growth: diagnose why acquisition cannot rescue a product people do not experience as must-have, and locate the early value moment before scaling reach.",
+      "local_source_available": true,
+      "source_path": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Hacking Growth.epub",
+      "drive_link": "https://drive.google.com/file/d/1wtU-SZ-6s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. The bounded opening case is distinct from last week's Chapter One growth-team reading."
+    },
+    {
+      "date": "2026-08-16",
+      "master": "John Caples",
+      "work": "Tested Advertising Methods",
+      "chapter_or_section": "Chapter 1, \"How to Make People Read Advertisements\"",
+      "fundamental": "Writing/taste: make the reader's immediate self-interest and the offer's concrete benefit legible before asking for sustained attention.",
+      "local_source_available": true,
+      "source_path": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Tested Advertising Methods.pdf",
+      "drive_link": "https://drive.google.com/file/d/16fm09bdOkdiH8MZwoTKFnOXV16fJcZOZ/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon prep must parser-preflight this PDF and confirm the printed chapter title and bounded stop point."
+    }
+  ],
+  "created_at_ist": "2026-08-09 20:36:01 IST",
+  "created_by": "weekly-program-agent"
+}
