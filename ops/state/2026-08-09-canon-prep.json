@@ -1,0 +1,15 @@
+{
+  "date": "2026-08-09",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-08-09.json",
+  "master": "Claude C. Hopkins",
+  "work": "Scientific Advertising",
+  "chapter_or_section": "Chapter Five, Headlines (PDF pages 16-18; stop before Chapter Six, Psychology)",
+  "source_access_checked": true,
+  "drive_link_present": false,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "created_at_ist": "2026-08-09 16:41:00 IST",
+  "notes": "Assigned from the 2026-08-02 weekly program. Canon history confirms this is distinct from the 2026-07-30 Scientific Advertising reading, Just Salesmanship. Weekly-program fallback was required because no local or Drive-manifest edition was available: a public-domain native-text PDF was acquired locally and parser-preflighted with pdfinfo, pdftotext, and rendered page inspection. No publication, push, email, X/Twitter browsing, morning signals, or rendered HTML edits were attempted."
+}
