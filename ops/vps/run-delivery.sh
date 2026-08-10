@@ -20,4 +20,5 @@ else
 fi
 
 cd "$REPO"
+export STM_BOOKS_DIR="$BASE/Books"
 exec flock -n "$LOCK_FILE" "$NODE" ops/scripts/vps-deliver.mjs

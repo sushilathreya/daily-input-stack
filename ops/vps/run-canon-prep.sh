@@ -19,6 +19,7 @@ if [[ -f "$ENV_FILE" ]]; then
 fi
 
 export PATH="$NODE_BIN:$PATH"
+export STM_BOOKS_DIR="$BOOKS"
 
 DATE="$("$NODE_BIN/node" -e 'const d=new Date(Date.now()+86400000); console.log(new Intl.DateTimeFormat("en-CA",{timeZone:"Asia/Kolkata",year:"numeric",month:"2-digit",day:"2-digit"}).format(d));')"
 PROMPT_FILE="$(mktemp)"

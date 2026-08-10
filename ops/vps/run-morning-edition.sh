@@ -18,6 +18,7 @@ if [[ -f "$ENV_FILE" ]]; then
 fi
 
 export PATH="$NODE_BIN:$PATH"
+export STM_BOOKS_DIR="$BASE/Books"
 
 DATE="$("$NODE_BIN/node" -e 'console.log(new Intl.DateTimeFormat("en-CA",{timeZone:"Asia/Kolkata",year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date()));')"
 PROMPT_FILE="$(mktemp)"

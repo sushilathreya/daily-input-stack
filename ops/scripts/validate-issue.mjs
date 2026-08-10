@@ -46,6 +46,12 @@ function checkFreshSourceDate(value, label, maxAgeDays) {
   }
 }
 
+function sourceExists(sourcePath) {
+  if (fs.existsSync(sourcePath)) return true;
+  const booksDir = process.env.STM_BOOKS_DIR || "/home/sushil/studying-the-masters/Books";
+  return fs.existsSync(path.join(booksDir, path.basename(sourcePath)));
+}
+
 if (!fs.existsSync(path.join(ROOT, issuePath(date)))) {
   fail(`Missing issue manifest: ${issuePath(date)}`);
 } else {
@@ -85,7 +91,7 @@ if (!fs.existsSync(path.join(ROOT, issuePath(date)))) {
     fail(`Canon reading is ${issue.canon.pageCount} pages; add a smaller page range or explicit stopPoint`);
   }
 
-  if (issue.canon?.source?.localPath && !fs.existsSync(issue.canon.source.localPath)) {
+  if (issue.canon?.source?.localPath && !sourceExists(issue.canon.source.localPath)) {
     fail(`Local source does not exist: ${issue.canon.source.localPath}`);
   }
 
