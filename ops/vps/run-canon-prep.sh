@@ -29,6 +29,7 @@ sed "s/DATE_PLACEHOLDER/$DATE/g" "$REPO/ops/vps/canon-prep-prompt.md" > "$PROMPT
 cd "$REPO"
 
 exec flock -n "$LOCK_FILE" timeout 55m "$CODEX" exec \
+  -m gpt-5.4 \
   -C "$REPO" \
   --add-dir "$BOOKS" \
   -s workspace-write \
