@@ -50,6 +50,26 @@ ops/vps/install-bird-readonly.sh
 
 The wrapper blocks common mutating X commands and pins the Node path needed by the pnpm-installed `bird` launcher under cron.
 
+## Canon Prep
+
+Canon prep runs at 10 PM IST:
+
+`./ops/vps/run-canon-prep.sh`
+
+It uses the VPS Codex CLI to prepare tomorrow's canon-only draft. It must pass draft validation and must not publish, push, email, browse X, or add field notes.
+
+Required:
+
+- Codex CLI installed at `/home/sushil/.nvm/versions/node/v22.22.0/bin/codex`
+- Fresh Codex login on the VPS
+- Books copied to `/home/sushil/studying-the-masters/Books`
+
+If Codex reports `refresh_token_reused`, run `codex logout` and `codex login` on the VPS, then rerun the smoke test:
+
+```sh
+PATH=/home/sushil/.nvm/versions/node/v22.22.0/bin:$PATH codex exec -C /home/sushil/studying-the-masters/daily-input-stack -s read-only -c approval_policy='"never"' "Reply with CODEX_READY only."
+```
+
 ## Cron
 
 Install with:
