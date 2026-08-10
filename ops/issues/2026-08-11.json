@@ -1,0 +1,119 @@
+{
+  "date": "2026-08-11",
+  "issueNumber": 13,
+  "title": "An act earns momentum by making the next choice harder than the last.",
+  "displayDate": "Tuesday, 11 August 2026",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "Robert McKee's account of act design turns structure from a page-count formula into a chain of irreversible consequences. The useful discipline is to make each response to conflict demand more capacity, create a larger risk, and close off the easy return to the status quo.",
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "Progress is not the mere addition of events. Each move should alter what is possible next: raise the cost, expose a new force of opposition, or force a choice that cannot be undone. If the old move would still solve the problem, the story has not yet advanced."
+  },
+  "meta": {
+    "canon": "Robert McKee, <em>Story</em>",
+    "study": "45-60 min",
+    "practice": "one progression map"
+  },
+  "canon": {
+    "author": "Robert McKee",
+    "work": "Story: Substance, Structure, Style, and the Principles of Screenwriting",
+    "chapter": "Act Design",
+    "chapterLabel": "Chapter 9, \"Act Design\"",
+    "field": "storytelling / narrative structure",
+    "pageRange": "PDF pages 207-231 (printed pages 208-232); stop before Chapter 10, \"Scene Design,\" on PDF page 232.",
+    "pageCount": 25,
+    "stopPoint": "Stop at the end of PDF page 231 / printed page 232, after McKee's final discussion of the main plot and subplot relationship. Do not continue to Chapter 10, \"Scene Design,\" which begins on PDF page 232.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_scanned_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Robert McKee - Story .pdf",
+      "driveUrl": "https://drive.google.com/file/d/1B1FBVTR0Z2YvQYJ7zoEOgmEI-q8GHetu/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "rendered_pages_verified",
+        "classification": "scanned",
+        "tool": "pdfinfo + pdftotext + pdftoppm rendered-page inspection",
+        "nativeTextPages": "None; pdftotext returned no usable native text for this ScanSnap PDF.",
+        "tableOfContentsVerified": true,
+        "notes": "pdf-inspector was unavailable. pdfinfo reports a 427-page, unencrypted ScanSnap PDF. Rendered inspection of the contents page confirms Chapter 9, Act Design, begins at printed page 208 and Chapter 10, Scene Design, at printed page 233. Rendered PDF page 207 begins Chapter 9; PDF page 231 is its final printed page (232); PDF page 232 begins Chapter 10."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1B1FBVTR0Z2YvQYJ7zoEOgmEI-q8GHetu/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Robert McKee - Story .pdf\""
+    },
+    "heading": "Robert McKee: An act moves when the previous answer no longer works.",
+    "standfirst": "Read Chapter 9, \"Act Design,\" from Robert McKee's <em>Story</em>, through PDF page 231. McKee describes an act as more than a stretch of runtime: it is a progression of complications in which each action meets stronger opposition, opens a wider gap between expectation and result, and forces a more consequential next choice.",
+    "readerIntro": "Read for the causal chain, not for a three-act template. Mark each point where a character's attempt produces an unanticipated reaction, where a former strategy is ruled out, and where the next action must ask more of the character. Then separate escalation from noise: an event is progressive only when it changes the available path forward.",
+    "blocks": [
+      {
+        "label": "01 / An act is a movement through complications, not a container for pages",
+        "paragraphs": [
+          "McKee frames the middle movement of story as progressive complications: a sequence that runs from the Inciting Incident toward the final Crisis/Climax. The point is not that a screenplay must display a prescribed number of acts. The point is that the protagonist's pursuit keeps meeting resistance that makes the original plan insufficient.",
+          "That definition transfers cleanly to any narrative with a decision at its center. If the next scene, beat, email, or product moment simply restates the first problem, the sequence is busy but static. The reader should be able to name what has changed in the situation and why the old answer is now too small."
+        ]
+      },
+      {
+        "label": "02 / A point of no return removes the easy move",
+        "paragraphs": [
+          "McKee's first mechanism is the gap between expectation and result. A character acts to restore balance, the world reacts in an unforeseen way, and the gap signals that the initial effort will not work. The response must therefore draw on greater willpower, capacity, risk, or invention.",
+          "This is why he calls the progression a movement through points of no return. The reader does not need a louder incident; they need to see that a lesser action has become implausible. A story advances when the choice narrows because something meaningful has already happened."
+        ]
+      },
+      {
+        "label": "03 / Escalate the quality of action, not just its volume",
+        "paragraphs": [
+          "McKee warns against retreating to actions of lesser quality or magnitude. The writer cannot preserve momentum by repeating a version of the move that already failed. Each new attempt must enter a more demanding level of conflict and push toward a final action beyond which the audience cannot imagine another.",
+          "For commercial storytelling, this is a useful test for a launch sequence or case study. Do not add more claims merely to prolong attention. Let a proof point create a new question, let that question reveal a real constraint, and make the next proof answer the higher-stakes objection. The sequence should earn its escalation."
+        ]
+      },
+      {
+        "label": "04 / Conflict is what carries attention through time",
+        "paragraphs": [
+          "McKee calls conflict the soul of story because it makes time feel consequential. But he also distinguishes meaningful conflict from spectacle for its own sake. Opposition matters when it is honestly tied to a desire, a scarcity, or a force that can block the character's attempt to restore balance.",
+          "The practical question is therefore not, 'How can I make this more dramatic?' It is, 'What force would make the desired result genuinely harder, and what changed action would meet it?' That question protects a narrative from both flat harmony and arbitrary chaos."
+        ]
+      },
+      {
+        "label": "05 / Subplots should complicate the central movement, not decorate it",
+        "paragraphs": [
+          "McKee closes by examining the relationship between a central plot and a subplot. Their strongest use is not mere variety. They can create contrast, deepen a controlling idea, raise a pressure that the central plot cannot express alone, or mirror the same dilemma on another plane.",
+          "Use that standard when you add a supporting thread to a narrative. If removing it leaves the central choice unchanged, it may be ornament. If it reframes the central desire, sharpens a contradiction, or makes the ultimate choice costlier, it belongs in the design."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "Progressive Complications",
+      "Points of No Return",
+      "the Gap between expectation and result",
+      "A story must not retreat to actions of lesser quality or magnitude",
+      "The Law of Conflict",
+      "Central Plot and Subplot"
+    ],
+    "closeReading": [
+      "What changes when McKee defines an act by progressive complications rather than by a fixed number of pages or turning points?",
+      "Map one point of no return in McKee's sequence: what does the character expect, what reaction opens the gap, and which easier action is now eliminated?",
+      "Why is a larger action not automatically a more progressive action? Use McKee's distinction between increased magnitude and increased quality of action.",
+      "Where does McKee distinguish meaningful conflict from arbitrary spectacle, and what does that distinction imply for a commercial narrative?",
+      "Take a story, launch, or case study you are writing. Identify its central plot and one supporting thread. Does the supporting thread complicate the central choice, mirror it, or merely decorate it?",
+      "Write the next three moves in a live customer narrative. For each, name the prior action that can no longer solve the problem and the higher-stakes question the next move must answer."
+    ]
+  },
+  "principle": {
+    "heading": "Make each proof change the question, not merely add another answer.",
+    "body": "A persuasive narrative gains force when every meaningful answer alters the buyer's understanding of what remains unresolved. Begin with the live problem, introduce a credible constraint, and show how the next action changes the cost of staying put. Do not manufacture drama. Let real stakes and real trade-offs remove the easy option.",
+    "exampleLabel": "One example",
+    "example": "A security product's story begins with a team overwhelmed by alert volume. A dashboard demo alone is a repeated first move. A stronger sequence shows the team filtering noise, then discovering that faster triage still leaves a blind spot in privileged access, then confronting the decision to change the approval path before an audit. Each proof creates a more specific question and makes the next action necessary.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one narrative you are building: a landing page, sales deck, launch email, or case study. List its three most important moves. For each, write (1) the expectation, (2) the result that complicates it, (3) the old response now ruled out, and (4) the more demanding next action. Replace one repeated claim with a move that changes the stakes."
+  },
+  "output": {
+    "heading": "Complete one progression map.",
+    "body": "Keep the four-part map beside a live narrative. Your output is a sequence in which each move closes off an easy answer and earns the next, more consequential question."
+  },
+  "signals": {
+    "status": "no_fresh_signals",
+    "note": "Canon prepared locally on 2026-08-10. The morning edition sender will replace this placeholder with fresh field notes and read-only X fragments on 2026-08-11."
+  }
+}

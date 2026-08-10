@@ -1,0 +1,15 @@
+{
+  "date": "2026-08-11",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-08-11.json",
+  "master": "Robert McKee",
+  "work": "Story: Substance, Structure, Style, and the Principles of Screenwriting",
+  "chapter_or_section": "Chapter 9, \"Act Design\" (PDF pages 207-231; printed pages 208-232)",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "created_at_ist": "2026-08-10 22:06:51 IST",
+  "notes": "Weekly program assignment verified against canon history: this is the scheduled McKee Chapter 9 reading, distinct from the 2026-08-04 Chapter 8, The Inciting Incident. PDF preflight used pdfinfo, pdftotext, and rendered-page inspection: the scan has no usable native text; the contents page lists Act Design at printed page 208 and Scene Design at printed page 233; PDF page 207 starts Chapter 9 and PDF page 232 starts Chapter 10. The bounded 25-page chapter passed draft validation. No signals, publishing, push, email, X/Twitter browsing, or rendered HTML editing were performed."
+}
