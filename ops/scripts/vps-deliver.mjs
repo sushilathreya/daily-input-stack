@@ -18,6 +18,28 @@ function run(command, args, options = {}) {
   });
 }
 
+function istMinutes() {
+  const parts = new Intl.DateTimeFormat("en-GB", {
+    timeZone: "Asia/Kolkata",
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false
+  }).formatToParts(new Date());
+  const hour = Number(parts.find((part) => part.type === "hour")?.value);
+  const minute = Number(parts.find((part) => part.type === "minute")?.value);
+  return hour * 60 + minute;
+}
+
+function isSunday(value) {
+  const [year, month, day] = value.split("-").map(Number);
+  return new Date(Date.UTC(year, month - 1, day)).getUTCDay() === 0;
+}
+
+const xOptionalCutoff = isSunday(date) ? 11 * 60 + 45 : 9 * 60 + 45;
+if (istMinutes() >= xOptionalCutoff) {
+  process.env.STM_ALLOW_MISSING_X = "1";
+}
+
 function status() {
   return JSON.parse(run("node", ["ops/scripts/delivery-status.mjs", date], { capture: true }));
 }

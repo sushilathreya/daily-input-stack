@@ -4,6 +4,7 @@ import { daysBetween, issuePath, loadIssue, normalizeText, readJson, ROOT, today
 
 const date = process.argv[2] || todayInIST();
 const draft = process.argv.includes("--draft");
+const allowMissingX = process.argv.includes("--allow-missing-x") || process.env.STM_ALLOW_MISSING_X === "1";
 const errors = [];
 const warnings = [];
 
@@ -150,22 +151,26 @@ if (!fs.existsSync(path.join(ROOT, issuePath(date)))) {
     if (!Array.isArray(signals.fieldNotes) || signals.fieldNotes.length < 3) {
       fail("fresh signals require at least 3 field notes");
     }
-    if (!Array.isArray(signals.tweets) || signals.tweets.length < 1) {
+    if ((!Array.isArray(signals.tweets) || signals.tweets.length < 1) && !allowMissingX) {
       fail("fresh signals require at least 1 selected X fragment");
+    } else if ((!Array.isArray(signals.tweets) || signals.tweets.length < 1) && allowMissingX) {
+      warn("fresh signals have no selected X fragment; allowed by delivery cutoff rule");
     }
     if ((signals.tweets || []).length > 2) {
       fail("fresh signals allow at most 2 selected X fragments");
     }
 
     const candidatesPath = path.join(ROOT, xCandidatesPath(date));
-    if (!fs.existsSync(candidatesPath)) {
+    if (!fs.existsSync(candidatesPath) && !allowMissingX) {
       fail(`Missing X candidate capture: ${xCandidatesPath(date)}`);
     }
     const capture = fs.existsSync(candidatesPath) ? readJson(xCandidatesPath(date)) : {};
-    if (capture.date && capture.date !== issue.date) fail(`X candidate capture date ${capture.date} does not match issue date`);
-    if (capture.readonlyOnly !== true) fail("X candidate capture must be readonlyOnly");
-    if (typeof capture.capturedAtIST !== "string" || !capture.capturedAtIST.startsWith(issue.date)) {
-      fail("X candidate capture must be collected on the issue date");
+    if ((signals.tweets || []).length > 0 || fs.existsSync(candidatesPath)) {
+      if (capture.date && capture.date !== issue.date) fail(`X candidate capture date ${capture.date} does not match issue date`);
+      if (capture.readonlyOnly !== true) fail("X candidate capture must be readonlyOnly");
+      if (typeof capture.capturedAtIST !== "string" || !capture.capturedAtIST.startsWith(issue.date)) {
+        fail("X candidate capture must be collected on the issue date");
+      }
     }
     const candidateUrls = new Set((capture.candidates || []).map((tweet) => tweet.url));
 
