@@ -42,6 +42,14 @@ BIRD_CT0=""
 
 `BIRD_AUTH_TOKEN` and `BIRD_CT0` are read-only X session cookies used by `/home/sushil/.local/bin/bird-readonly`.
 
+Install the read-only wrapper:
+
+```sh
+ops/vps/install-bird-readonly.sh
+```
+
+The wrapper blocks common mutating X commands and pins the Node path needed by the pnpm-installed `bird` launcher under cron.
+
 ## Cron
 
 Install with:
