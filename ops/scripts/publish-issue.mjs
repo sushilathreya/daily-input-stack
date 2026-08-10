@@ -5,17 +5,32 @@ import { escapeHtml, issuePath, loadIssue, readJson, ROOT, todayInIST, writeFile
 
 const date = process.argv[2] || todayInIST();
 const issue = loadIssue(date);
+const pushRepo = process.env.GITHUB_TOKEN
+  ? `https://x-access-token:${process.env.GITHUB_TOKEN}@github.com/sushilathreya/daily-input-stack.git`
+  : "origin";
 const subject = issue.displayDate.startsWith("Sunday")
   ? `Studying the Masters - Sunday - ${issue.displayDate.replace(/^Sunday, /, "")}`
   : `Studying the Masters - ${issue.displayDate.replace(/^[A-Za-z]+, /, "")}`;
 const body = `Today's Studying the Masters issue is live:\n\nhttps://sushilathreya.github.io/daily-input-stack/`;
 
 function run(command, args, options = {}) {
-  return execFileSync(command, args, {
+  return execFileSync(command === "node" ? process.execPath : command, args, {
     cwd: ROOT,
     stdio: options.capture ? "pipe" : "inherit",
     encoding: "utf8"
   });
+}
+
+function commandExists(command) {
+  try {
+    execFileSync("sh", ["-lc", `command -v ${command}`], {
+      cwd: ROOT,
+      stdio: "ignore"
+    });
+    return true;
+  } catch {
+    return false;
+  }
 }
 
 function waitForPagesRun(commit) {
@@ -118,7 +133,7 @@ if (status) {
   })();
   if (hasStagedChanges) {
     run("git", ["commit", "-m", `Publish Studying the Masters issue for ${date}`]);
-    run("git", ["push", "origin", "main"]);
+    run("git", ["push", pushRepo, "main"]);
   } else {
     console.warn("WARN No publishable staged changes; continuing to live verification");
   }
@@ -126,11 +141,15 @@ if (status) {
 
 const commit = run("git", ["rev-parse", "HEAD"], { capture: true }).trim();
 let runId = "";
-try {
-  runId = waitForPagesRun(commit);
-  run("gh", ["run", "watch", runId, "--repo", "sushilathreya/daily-input-stack", "--exit-status"]);
-} catch (error) {
-  console.warn(`WARN Could not watch GitHub Pages run: ${error.message}`);
+if (commandExists("gh")) {
+  try {
+    runId = waitForPagesRun(commit);
+    run("gh", ["run", "watch", runId, "--repo", "sushilathreya/daily-input-stack", "--exit-status"]);
+  } catch (error) {
+    console.warn(`WARN Could not watch GitHub Pages run: ${error.message}`);
+  }
+} else {
+  console.warn("WARN GitHub CLI not found; relying on live page verification");
 }
 
 waitForLiveIssue();

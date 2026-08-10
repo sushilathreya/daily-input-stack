@@ -1,0 +1,11 @@
+SHELL=/bin/bash
+CRON_TZ=Asia/Kolkata
+
+# Weekday delivery: primary send before 10:00, assurance shortly after.
+55 9 * * 1-6 /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-delivery.sh >> /home/sushil/studying-the-masters/logs/delivery.log 2>&1
+7 10 * * 1-6 /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-delivery.sh >> /home/sushil/studying-the-masters/logs/delivery.log 2>&1
+
+# Sunday delivery: primary send before 12:00, assurance shortly after.
+55 11 * * 0 /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-delivery.sh >> /home/sushil/studying-the-masters/logs/delivery.log 2>&1
+7 12 * * 0 /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-delivery.sh >> /home/sushil/studying-the-masters/logs/delivery.log 2>&1
+
