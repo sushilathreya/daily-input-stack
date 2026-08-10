@@ -1,0 +1,22 @@
+{
+  "date": "2026-08-10",
+  "status": "published_and_emailed",
+  "delivery_status": "delayed",
+  "target_inbox_time_ist": "2026-08-10 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "f3783a2269750aca74d8edf887b04042b7081ef8",
+  "github_pages_run_id": "31355916048",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Monday, 10 August 2026",
+    "Issue 012",
+    "A gift is never just an object once it creates an obligation."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 10 August 2026",
+  "gmail_message_id": "19fe9f55c57c6ac9",
+  "completed_at_ist": "2026-08-10 10:06:49 IST",
+  "delay_note": "Complete issue was sent at 2026-08-10 10:06:49 IST, after the 2026-08-10 10:00:00 IST target."
+}
