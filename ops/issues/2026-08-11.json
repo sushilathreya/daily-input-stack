@@ -113,7 +113,43 @@
     "body": "Keep the four-part map beside a live narrative. Your output is a sequence in which each move closes off an easy answer and earns the next, more consequential question."
   },
   "signals": {
-    "status": "no_fresh_signals",
-    "note": "Canon prepared locally on 2026-08-10. The morning edition sender will replace this placeholder with fresh field notes and read-only X fragments on 2026-08-11."
+    "status": "morning_signals_added",
+    "collectedAt": "2026-08-11",
+    "heading": "Three signals about making progression visible before the audience loses the thread.",
+    "fieldNotes": [
+      {
+        "collectedAt": "2026-08-11",
+        "source": "The Verge",
+        "sourceDate": "2026-08-11",
+        "title": "Google's Pixel launch is being framed as an ecosystem event",
+        "whatHappened": "The Verge previewed Google's August 12 Made by Google event as a broad hardware launch, with the Pixel 11 lineup, Pixel Watch 5, Pixel Buds updates, and a possible Pixel Tag expected to appear together.",
+        "whyItMatters": "The useful marketing signal is not another phone spec sheet. Google is trying to make the next act of Pixel feel like an ecosystem progression: phone, watch, buds, tracker, and Gemini features reinforcing one another instead of asking each product to carry attention alone.",
+        "watch": "Whether Google makes the act structure clear at launch: which user problem gets harder without the connected system, and which device earns the next step rather than merely adding inventory.",
+        "url": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event"
+      },
+      {
+        "collectedAt": "2026-08-11",
+        "source": "Retail Dive",
+        "sourceDate": "2026-08-10",
+        "title": "Foot Locker launches a new sneaker-culture brand platform",
+        "whatHappened": "Retail Dive reported that Foot Locker launched \"It Always Will Be Foot Locker,\" an integrated brand platform built around its place in sneaker culture, anchored by a two-minute hero film and supported across broadcast, social, digital, out-of-home, and stores.",
+        "whyItMatters": "This is a clean brand example of act design. Foot Locker is not trying to invent a new role; it is using archive, culture, channel breadth, and in-store proof to argue that its next act follows from the role it has already played since 1974.",
+        "watch": "Whether the platform moves beyond nostalgia and makes Foot Locker's current retail experience feel like the necessary home for the next sneaker-culture moment.",
+        "url": "https://www.retaildive.com/news/foot-locker-role-in-sneaker-culture-with-new-brand-platform/827324/"
+      },
+      {
+        "collectedAt": "2026-08-11",
+        "source": "MarTech",
+        "sourceDate": "2026-08-10",
+        "title": "OpenAI is adding ad-tech primitives, not just ad inventory",
+        "whatHappened": "MarTech reported that OpenAI is adding technology meant to compete for ad dollars, including product carousels and AppsFlyer attribution capabilities.",
+        "whyItMatters": "For marketers, the important shift is from attention surface to measurable sequence. Product recommendations inside ChatGPT become commercially serious only when the buyer can move from discovery to action and the advertiser can see what happened after the click.",
+        "watch": "Whether brands treat this as another performance channel or redesign the persuasion path around conversational qualification, comparison, and assisted purchase.",
+        "url": "https://martech.org/"
+      }
+    ],
+    "tweetHeading": "No X fragment cleared the timing bar today.",
+    "tweets": [],
+    "tweetNote": "X capture missed the 15-minute pre-send cutoff. Per the delivery rule, the edition should ship without waiting for it."
   }
 }
