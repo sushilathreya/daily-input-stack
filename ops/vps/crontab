@@ -1,20 +1,21 @@
 SHELL=/bin/bash
-CRON_TZ=Asia/Kolkata
 
-# Canon prep: prepare tomorrow's mandatory source-first canon section.
-0 22 * * * /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-canon-prep.sh >> /home/sushil/studying-the-masters/logs/canon-prep.log 2>&1
+# VPS cron runs in UTC. These times are pinned to IST.
 
-# Weekly canon program: plan the next canon week on Sunday evening.
-0 18 * * 0 /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-weekly-program.sh >> /home/sushil/studying-the-masters/logs/weekly-program.log 2>&1
+# Canon prep: prepare tomorrow's mandatory source-first canon section at 22:00 IST.
+30 16 * * * /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-canon-prep.sh >> /home/sushil/studying-the-masters/logs/canon-prep.log 2>&1
 
-# Morning edition: add field notes and optional X before the delivery runner.
-0 9 * * 1-6 /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-morning-edition.sh >> /home/sushil/studying-the-masters/logs/morning-edition.log 2>&1
-0 11 * * 0 /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-morning-edition.sh >> /home/sushil/studying-the-masters/logs/morning-edition.log 2>&1
+# Weekly canon program: plan the next canon week Sunday at 18:00 IST.
+30 12 * * 0 /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-weekly-program.sh >> /home/sushil/studying-the-masters/logs/weekly-program.log 2>&1
 
-# Weekday delivery: primary send before 10:00, assurance shortly after.
-55 9 * * 1-6 /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-delivery.sh >> /home/sushil/studying-the-masters/logs/delivery.log 2>&1
-7 10 * * 1-6 /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-delivery.sh >> /home/sushil/studying-the-masters/logs/delivery.log 2>&1
+# Morning edition: add field notes and optional X before delivery, 09:00 IST weekdays / 11:00 IST Sunday.
+30 3 * * 1-6 /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-morning-edition.sh >> /home/sushil/studying-the-masters/logs/morning-edition.log 2>&1
+30 5 * * 0 /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-morning-edition.sh >> /home/sushil/studying-the-masters/logs/morning-edition.log 2>&1
 
-# Sunday delivery: primary send before 12:00, assurance shortly after.
-55 11 * * 0 /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-delivery.sh >> /home/sushil/studying-the-masters/logs/delivery.log 2>&1
-7 12 * * 0 /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-delivery.sh >> /home/sushil/studying-the-masters/logs/delivery.log 2>&1
+# Weekday delivery: primary send 09:55 IST, assurance 10:07 IST.
+25 4 * * 1-6 /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-delivery.sh >> /home/sushil/studying-the-masters/logs/delivery.log 2>&1
+37 4 * * 1-6 /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-delivery.sh >> /home/sushil/studying-the-masters/logs/delivery.log 2>&1
+
+# Sunday delivery: primary send 11:55 IST, assurance 12:07 IST.
+25 6 * * 0 /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-delivery.sh >> /home/sushil/studying-the-masters/logs/delivery.log 2>&1
+37 6 * * 0 /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-delivery.sh >> /home/sushil/studying-the-masters/logs/delivery.log 2>&1

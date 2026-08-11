@@ -33,6 +33,5 @@ exec flock -n "$LOCK_FILE" timeout 50m "$CODEX" exec \
   -C "$REPO" \
   -s workspace-write \
   -c approval_policy='"never"' \
-  --search \
   --output-last-message "$BASE/logs/morning-edition-$DATE.last.txt" \
   - < "$PROMPT_FILE"
