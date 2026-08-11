@@ -1,0 +1,118 @@
+{
+  "date": "2026-08-12",
+  "displayDate": "Wednesday, 12 August 2026",
+  "issueNumber": 14,
+  "title": "Evidence matters when it overturns a story the market already likes to tell.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "Byron Sharp opens <em>How Brands Grow</em> by attacking a familiar habit in marketing: explaining performance with elegant stories about loyalty, differentiation, and the right kind of buyer before checking what broad empirical patterns actually show.",
+  "meta": {
+    "canon": "Byron Sharp, <em>How Brands Grow</em>",
+    "study": "35-45 min",
+    "practice": "one myth-to-evidence audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A persuasive internal story is not yet a reliable explanation. Before building a plan around a diagnosis, ask what repeated market evidence would have to be true for that diagnosis to hold."
+  },
+  "canon": {
+    "author": "Byron Sharp",
+    "work": "How Brands Grow",
+    "chapter": "Evidence-based Marketing",
+    "chapterLabel": "Chapter 4, \"Evidence-based Marketing\"",
+    "field": "brand strategy / marketing science",
+    "pageRange": "PDF pages 27-44; stop before Chapter 5, \"How Do Brands Grow?\" on PDF page 46.",
+    "pageCount": 18,
+    "stopPoint": "Stop at the end of PDF page 44, after Sharp's setup for law-like recurring patterns in marketing. PDF page 45 is a separator page; do not continue to Chapter 5, \"How Do Brands Grow?,\" which begins on PDF page 46.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/How Brands Grow - Byron Sharp.pdf",
+      "driveUrl": "https://drive.google.com/file/d/1v-1gh4_y8s4yauwnVTEpphSBhpEBbBJE/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "text_based",
+        "tool": "local Python PDF stream decode",
+        "nativeTextPages": "Verified readable text on PDF pages 27-44",
+        "tableOfContentsVerified": true,
+        "notes": "Local CLI PDF tools were unavailable, so verification used a local Python decompression pass over the PDF page-content streams in /home/sushil/studying-the-masters/Books. The source text layer confirms the contents sequence, Chapter 4, \"Evidence-based Marketing,\" beginning on PDF page 27, a separator page on PDF page 45, and Chapter 5, \"How Do Brands Grow?,\" beginning on PDF page 46."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1v-1gh4_y8s4yauwnVTEpphSBhpEBbBJE/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/How Brands Grow - Byron Sharp.pdf\""
+    },
+    "heading": "Byron Sharp: evidence should break the comforting diagnosis before it improves the plan.",
+    "standfirst": "Read Chapter 4, \"Evidence-based Marketing,\" from Byron Sharp's <em>How Brands Grow</em>, through PDF page 44. Sharp begins with a plausible brand-analysis story about loyalty, switchers, and perception problems, then shows how quickly that story can outrun what broad, repeatable market evidence actually supports.",
+    "readerIntro": "Read first for the trap: a set of charts, a familiar vocabulary, and a confident recommendation can create the feeling of insight before a real explanation has been earned. Then read for Sharp's alternative standard. He is not asking for less interpretation; he is asking for interpretation disciplined by recurring empirical patterns that hold across markets often enough to deserve trust.",
+    "blocks": [
+      {
+        "label": "01 / The chapter begins by showing how easy it is to overread a neat diagnosis",
+        "paragraphs": [
+          "Sharp opens with a market-research case that feels persuasive because it resembles the work many teams already do. Colgate appears to have a loyalty problem, a perception problem, and perhaps even the wrong type of buyer. Each graph invites an explanatory leap, and each leap sounds managerial enough to justify a plan.",
+          "That opening matters because Sharp is not arguing against data. He is demonstrating how easily descriptive slices of the data become a story about causes, remedies, and brand weakness without the discipline of broader evidence."
+        ]
+      },
+      {
+        "label": "02 / A useful explanation must survive beyond the single brand story",
+        "paragraphs": [
+          "The correction is not to become cynical about research but to distinguish case interpretation from law-like recurrence. Sharp's standard is that an explanation becomes valuable when it holds across many categories, brands, and buying situations, not merely when it can be made to fit a single troubled case.",
+          "That shift is severe and productive. It asks the reader to give up flattering exceptions and look for regularities in how brands are actually bought, how market share relates to buyer behavior, and which metrics consistently mislead managers."
+        ]
+      },
+      {
+        "label": "03 / Wrong assumptions create expensive priorities",
+        "paragraphs": [
+          "Sharp's list of familiar marketing beliefs is useful because most of them sound sophisticated. Retention seems cheaper than acquisition. Loyalty appears nobler than penetration. Differentiation appears more strategic than salience or availability. The problem is not that these claims are emotionally appealing. The problem is that many are weak guides to how brands grow.",
+          "Read this section as a budgeting warning. A mistaken picture of buyer behavior does not remain theoretical for long; it becomes the reason a team overinvests in the wrong audience, the wrong message, or the wrong performance metric."
+        ]
+      },
+      {
+        "label": "04 / Evidence-based marketing is a demand for better questions",
+        "paragraphs": [
+          "Sharp's strongest move is to tie evidence to question quality. When marketers rely on folk wisdom, they ask questions that merely decorate the old framework. When they know the recurring patterns, they can ask sharper questions about penetration, category entry points, price effects, cross-selling limits, and the real scale of behavioral change.",
+          "This makes the chapter more than a polemic. It is an apprenticeship in what deserves to be investigated before a brand team celebrates a narrative or commits to a program built on it."
+        ]
+      },
+      {
+        "label": "05 / The practical discipline is to prefer repeatable market truths over flattering brand myths",
+        "paragraphs": [
+          "By the end of the chapter, Sharp has not given a full alternative system yet; he has prepared the ground for it by stripping authority from popular but weak assumptions. That is why the reading is so useful early in a study sequence on brand strategy. It resets the reader's standard of proof before the later laws arrive.",
+          "Use the chapter to test your own working vocabulary. Which of your team's favorite words describe a measurable pattern in market behavior, and which mainly summarize a preferred interpretation after the fact?"
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "Evidence-based Marketing",
+      "the Colgate case",
+      "brand insights",
+      "commonplace marketing mistakes",
+      "law-like reoccurring patterns",
+      "many of the facts marketing people believe are incorrect"
+    ],
+    "closeReading": [
+      "Why does Sharp begin with a plausible brand case rather than with an abstract attack on marketing myths?",
+      "Which step in the Colgate-style diagnosis turns description into an unearned explanation?",
+      "What does Sharp gain by insisting on recurring patterns across many markets rather than persuasive interpretation inside one market?",
+      "List one metric or belief your team treats as explanatory. What broader evidence would you need before relying on it as a cause rather than a story?",
+      "Sharp links bad assumptions to bad priorities. Which current marketing priority of yours would change first if penetration mattered more than the favored explanation behind it?"
+    ]
+  },
+  "principle": {
+    "heading": "Do not confuse an articulate diagnosis with a tested law.",
+    "body": "A brand team becomes more dangerous when it can tell a sophisticated story about loyalty, perception, or customer quality using a handful of charts. The better discipline is to ask whether the claimed mechanism appears repeatedly across markets and whether acting on it would still make sense if the comforting narrative disappeared.",
+    "exampleLabel": "One example",
+    "example": "A subscription software company sees that its heaviest users renew at much higher rates than light users and concludes that the growth plan should focus on deepening existing-user engagement. An evidence-first review might show a different pattern: the brand is simply small, so it has fewer light and occasional buyers than larger rivals. The useful growth question is no longer how to turn everyone into a heavy loyalist, but how to make the product easier to notice, try, and buy for more of the category.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one repeated claim from your work: 'our problem is loyalty,' 'we attract the wrong customer,' 'we need stronger differentiation,' or another favorite explanation. Write the evidence you actually have, then separate it into description, inference, and proven recurrence. Replace one unsupported inference with the real question you would need to answer next."
+  },
+  "output": {
+    "heading": "Complete one myth-to-evidence audit.",
+    "body": "Keep one live marketing diagnosis on the page and mark which parts are observed facts, which are interpretation, and which would require broad recurring evidence before you should trust them."
+  },
+  "signals": {
+    "status": "no_fresh_signals",
+    "note": "Canon prepared locally on 2026-08-11. This is a draft canon-only issue for the morning edition sender; field notes and X fragments were intentionally not added in this prep run."
+  }
+}
