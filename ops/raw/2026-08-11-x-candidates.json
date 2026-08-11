@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-11",
+  "capturedAtIST": "2026-08-11 14:42:48",
+  "command": "bird-readonly home --json plus bird-readonly home --following --json",
+  "readonlyOnly": true,
+  "minimumSelectionRequired": 1,
+  "rawCounts": {
+    "for_you": 0,
+    "following": 0
+  },
+  "candidates": []
+}
