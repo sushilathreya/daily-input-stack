@@ -118,6 +118,7 @@ if (status) {
     "editions",
     issuePath(date),
     xCandidatesPath(date),
+    `ops/state/${date}-x-selection.json`,
     `ops/state/${date}-canon-prep.json`,
     "ops/canon-history.json",
     "ops/pipeline.md"

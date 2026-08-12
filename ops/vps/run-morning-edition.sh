@@ -28,10 +28,23 @@ sed "s/DATE_PLACEHOLDER/$DATE/g" "$REPO/ops/vps/morning-edition-prompt.md" > "$P
 
 cd "$REPO"
 
-exec flock -n "$LOCK_FILE" timeout 50m "$CODEX" exec \
-  -m gpt-5.4 \
-  -C "$REPO" \
-  -s workspace-write \
-  -c approval_policy='"never"' \
-  --output-last-message "$BASE/logs/morning-edition-$DATE.last.txt" \
-  - < "$PROMPT_FILE"
+(
+  flock -n 9
+
+  "$NODE_BIN/node" ops/scripts/capture-x-candidates.mjs "$DATE" || true
+
+  timeout 50m "$CODEX" exec \
+    -m gpt-5.4 \
+    -C "$REPO" \
+    -s workspace-write \
+    -c approval_policy='"never"' \
+    --output-last-message "$BASE/logs/morning-edition-$DATE.last.txt" \
+    - < "$PROMPT_FILE"
+
+  "$NODE_BIN/node" ops/scripts/select-x-fragment.mjs "$DATE" || true
+
+  if git status --short -- "ops/issues/$DATE.json" "ops/state/$DATE-x-selection.json" | grep -q .; then
+    "$NODE_BIN/node" ops/scripts/validate-issue.mjs "$DATE"
+    "$NODE_BIN/node" ops/scripts/publish-issue.mjs "$DATE"
+  fi
+) 9>"$LOCK_FILE"
