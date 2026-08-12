@@ -112,7 +112,53 @@
     "body": "Keep one live marketing diagnosis on the page and mark which parts are observed facts, which are interpretation, and which would require broad recurring evidence before you should trust them."
   },
   "signals": {
-    "status": "no_fresh_signals",
-    "note": "Canon prepared locally on 2026-08-11. This is a draft canon-only issue for the morning edition sender; field notes and X fragments were intentionally not added in this prep run."
+    "status": "morning_signals_added",
+    "collectedAt": "2026-08-12",
+    "heading": "Four signals about how platforms are tightening the path from discovery to action while raising the proof bar for creators and brands.",
+    "fieldNotes": [
+      {
+        "collectedAt": "2026-08-12",
+        "source": "TechCrunch",
+        "sourceDate": "2026-08-05",
+        "title": "Shopify says AI search is sending buyers deeper into product pages",
+        "whatHappened": "TechCrunch reported that Shopify told investors AI-driven traffic and orders to Shopify stores tripled year over year in Q2, while traditional search traffic also kept growing.",
+        "whyItMatters": "This is a useful check against the easy story that AI discovery simply replaces search. Shopify's evidence suggests the more important shift is compression: buyers arrive with narrower intent and land closer to decision, which raises the value of structured product data and trustworthy checkout.",
+        "watch": "Whether more brands start treating product metadata, catalog quality and conversion design as the real AI-search moat instead of chasing visibility hacks alone.",
+        "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/"
+      },
+      {
+        "collectedAt": "2026-08-12",
+        "source": "TechCrunch",
+        "sourceDate": "2026-08-06",
+        "title": "eBay is pushing live shopping harder after strong quarter results",
+        "whatHappened": "TechCrunch reported that eBay said eBay Live's gross merchandise volume rose about eight times year over year across seven markets, with seller, viewer and item-sold activity also increasing.",
+        "whyItMatters": "Live commerce only matters if it changes marketplace behavior, not if it remains a novelty format. eBay is signaling that timed presentation, seller energy and faster discovery can still create an advantage in categories where static listings feel interchangeable.",
+        "watch": "Whether eBay can turn live shopping from a collectibles-heavy growth pocket into a broader marketplace habit without losing the speed and trust that make conventional listings work.",
+        "url": "https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/"
+      },
+      {
+        "collectedAt": "2026-08-12",
+        "source": "TechCrunch",
+        "sourceDate": "2026-08-06",
+        "title": "OpenAI is removing text-chat limits for free ChatGPT users",
+        "whatHappened": "TechCrunch reported that OpenAI is lifting limits on text-based chats for free ChatGPT users, with GPT-5.6 Luna becoming the default free model and a new Think button arriving for harder questions.",
+        "whyItMatters": "For consumer AI products, widening access is not just a generosity move; it resets the baseline for habit formation. If basic usage becomes effectively unlimited, the next competitive question is which paid or partner experiences still feel meaningfully better, faster or more action-oriented.",
+        "watch": "Whether broader free access increases expectation for AI-assisted research and shopping flows across other consumer products that still ration core interactions more tightly.",
+        "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/"
+      },
+      {
+        "collectedAt": "2026-08-12",
+        "source": "TechCrunch",
+        "sourceDate": "2026-08-10",
+        "title": "YouTube is raising the threshold for creators to start earning",
+        "whatHappened": "TechCrunch reported that YouTube will require new creators to hit 8,000 qualified watch hours or 20 million qualified Shorts views to begin monetizing, doubling the prior watch-hours threshold.",
+        "whyItMatters": "This is a clean creator-economy signal about proof standards. Platforms still want more supply, but they increasingly want monetization reserved for creators who can demonstrate durable audience formation rather than early momentum alone.",
+        "watch": "Whether creators respond by consolidating around fewer, more repeatable formats and whether brands shift more spend toward creators who already clear distribution and monetization thresholds.",
+        "url": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/"
+      }
+    ],
+    "tweetHeading": "No X fragment was strong enough before cutoff.",
+    "tweets": [],
+    "tweetNote": "The required read-only X capture was attempted on 2026-08-12, but it returned zero candidates. No fragment is selected."
   }
 }
