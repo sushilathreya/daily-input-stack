@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-12",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-08-12 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "1287ec7db645f2ad735b6d6d58a277a20dfcccd6",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Wednesday, 12 August 2026",
+    "Issue 014",
+    "Evidence matters when it overturns a story the market already likes to tell."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 12 August 2026",
+  "gmail_message_id": "a42f754f-c33f-4306-9a8f-d2fb309ebc9b",
+  "completed_at_ist": "2026-08-12 09:55:38 IST"
+}
