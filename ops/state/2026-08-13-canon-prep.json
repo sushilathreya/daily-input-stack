@@ -1,0 +1,15 @@
+{
+  "date": "2026-08-13",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-08-13.json",
+  "master": "Rory Sutherland",
+  "work": "Alchemy",
+  "chapter_or_section": "Introduction, \"Some Things Are Dishwasher-Proof, Others Are Reason-Proof\" (PDF pages 21-25)",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "created_at_ist": "2026-08-12 00:00:00 IST",
+  "notes": "Prepared from ops/state/2026-08-09-weekly-program.json for the 2026-08-13 assignment. Canon history confirms there is no prior Rory Sutherland / Alchemy / Some Things Are Dishwasher-Proof, Others Are Reason-Proof reading; only the earlier introduction section \"Introducing Psycho-Logic\" was previously studied on 2026-08-06. Source verification used the local Books copy because standard shell PDF tools were unavailable in this environment: direct PDF outline inspection confirmed \"Introducing Psycho-Logic\" on PDF page 19, the target section on PDF page 21, and the next named section, \"Crime, Fiction and Post-Rationalism: Or Why Reality Isn't Nearly as Logical as We Think,\" on PDF page 26. Draft validation remains required after this prep. No publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
