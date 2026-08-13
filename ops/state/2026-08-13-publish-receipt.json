@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-13",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-08-13 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "ceb5049f22350b2ad89806f82ce288168707006c",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Thursday, 13 August 2026",
+    "Issue 015",
+    "The thing that does not make sense in the model may be the clue that matters."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 13 August 2026",
+  "gmail_message_id": "f5b20961-b2bb-4e98-ab66-945f424a437f",
+  "completed_at_ist": "2026-08-13 09:55:03 IST"
+}
