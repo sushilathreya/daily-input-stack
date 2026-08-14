@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-14",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-08-14 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "ea9136f80badb69fd94ef9aaa8fe8ca9b45b8276",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Friday, 14 August 2026",
+    "Issue 016",
+    "The best-run company can still miss the market that does not yet pay it to listen."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 14 August 2026",
+  "gmail_message_id": "b9831ea3-afac-4913-a237-fc2168b219e9",
+  "completed_at_ist": "2026-08-14 09:55:03 IST"
+}
