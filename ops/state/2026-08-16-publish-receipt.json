@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-16",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-08-16 12:00:00 IST",
+  "local_verified": true,
+  "git_commit": "8dab7ff81d167c948c386d3b5966ada9fd8b1a9a",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Sunday, 16 August 2026",
+    "Issue 018",
+    "An advertisement earns the right to persuade only after it proves it belongs to the reader."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - Sunday - 16 August 2026",
+  "gmail_message_id": "96ffd7a6-9331-40f5-ae8f-c08f1a70f200",
+  "completed_at_ist": "2026-08-16 11:55:04 IST"
+}
