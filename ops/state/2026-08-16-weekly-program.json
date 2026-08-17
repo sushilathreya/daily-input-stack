@@ -1,0 +1,88 @@
+{
+  "date": "2026-08-16",
+  "week_start": "2026-08-17",
+  "week_end": "2026-08-23",
+  "status": "planned",
+  "theme": "From human motive to market movement: how desire becomes story, position, product strategy, distribution, and decisive writing.",
+  "days": [
+    {
+      "date": "2026-08-17",
+      "master": "Robert B. Cialdini",
+      "work": "Influence: The Psychology of Persuasion",
+      "chapter_or_section": "Chapter 3, \"Commitment and Consistency: Hobgoblins of the Mind\"",
+      "fundamental": "Persuasion: see how small public commitments reshape later behavior, and distinguish durable self-persuasion from coerced compliance theatre.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Influence - Robert Cialdini.pdf",
+      "drive_link": "https://drive.google.com/file/d/1sTpikK8Y7ebUBiSRRkiZoBcbNSh4Dk_Y/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This advances beyond the already studied Chapter 1, \"Weapons of Influence,\" and Chapter 2, \"Reciprocation.\""
+    },
+    {
+      "date": "2026-08-18",
+      "master": "Robert McKee",
+      "work": "Story: Substance, Structure, Style, and the Principles of Screenwriting",
+      "chapter_or_section": "Chapter 10, \"Scene Design\"",
+      "fundamental": "Storytelling: build scenes around changing value, turning behavior, and subtext so each unit forces the next instead of merely explaining it.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Robert McKee - Story .pdf",
+      "drive_link": "https://drive.google.com/file/d/1B1FBVTR0Z2YvQYJ7zoEOgmEI-q8GHetu/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This follows the already studied McKee readings \"The Substance of Story,\" \"The Inciting Incident,\" and \"Act Design.\" Canon prep must keep the scanned-PDF reading bounded to the verified Chapter 10 range."
+    },
+    {
+      "date": "2026-08-19",
+      "master": "Al Ries and Jack Trout",
+      "work": "Positioning: The Battle for Your Mind",
+      "chapter_or_section": "Chapter 2, \"The Assault on the Mind\"",
+      "fundamental": "Positioning/brand: understand that market messages compete inside an already overloaded mind, so winning often means subtraction, contrast, and mental fit rather than more claims.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Positioning - Al Ries and Jack Trout.pdf",
+      "drive_link": "https://drive.google.com/file/d/1fISuTXG4QmxQ6MrFaI3wxE6eR6EoEh-p/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This is the direct follow-on to the already studied Chapter 1, \"What Positioning Is All About.\""
+    },
+    {
+      "date": "2026-08-20",
+      "master": "Rory Sutherland",
+      "work": "Alchemy",
+      "chapter_or_section": "Introduction, \"Cracking the (Human) Code\"",
+      "fundamental": "Human desire/psychology: treat apparently irrational behavior as adaptive signal, then ask what emotional, social, or contextual job the choice is really doing.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Alchemy - Rory Sutherland.pdf",
+      "drive_link": "https://drive.google.com/file/d/1N3T4Qh1LHH6_Fibe-8WlW6COvwEiJyN4/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This remains unused in canon history and extends the earlier Alchemy readings \"Introducing Psycho-Logic\" and \"Some Things Are Dishwasher-Proof, Others Are Reason-Proof.\""
+    },
+    {
+      "date": "2026-08-21",
+      "master": "Clayton M. Christensen",
+      "work": "The Innovator's Dilemma",
+      "chapter_or_section": "Chapter 2, \"Value Networks and the Impetus to Innovate\"",
+      "fundamental": "Tech/strategy: map how a firm's customers, margins, and performance metrics channel innovation effort toward one market logic while making adjacent demand look unattractive.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/The Innovator’s Dilemma - Clayton Christensen.pdf",
+      "drive_link": "https://drive.google.com/file/d/1X5-ZodswFwiIg2uFtgLMZNHzmJqCtu8w/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This moves into Chapter 2 after the two already studied Chapter 1 sections, and canon prep must verify the scanned-PDF boundary before assigning pages."
+    },
+    {
+      "date": "2026-08-22",
+      "master": "Sean Ellis and Morgan Brown",
+      "work": "Hacking Growth",
+      "chapter_or_section": "Chapter Two, section \"What's the Aha Moment?\"",
+      "fundamental": "Distribution/growth: identify the user experience that makes the product click, then design onboarding and growth loops to accelerate arrival at that moment rather than inflate top-of-funnel noise.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Hacking Growth.epub",
+      "drive_link": "https://drive.google.com/file/d/1wtU-SZ-6s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. The local EPUB confirms this named section follows the already studied \"The Flameout of BranchOut\" inside Chapter Two."
+    },
+    {
+      "date": "2026-08-23",
+      "master": "John Caples",
+      "work": "Tested Advertising Methods",
+      "chapter_or_section": "Chapter 2, \"The Most Important Part of an Advertisement\"",
+      "fundamental": "Writing/taste: make the opening promise carry the burden of attention by foregrounding the prospect's self-interest before style, atmosphere, or cleverness.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Tested Advertising Methods.pdf",
+      "drive_link": "https://drive.google.com/file/d/16fm09bdOkdiH8MZwoTKFnOXV16fJcZOZ/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This follows the already studied Caples Chapter 1, \"The New Advertising Strategy,\" and uses the source edition's verified chapter title."
+    }
+  ],
+  "created_at_ist": "2026-08-16 18:02:04 IST",
+  "created_by": "weekly-program-agent"
+}
