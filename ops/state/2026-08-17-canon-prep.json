@@ -1,0 +1,17 @@
+{
+  "date": "2026-08-17",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-08-17.json",
+  "master": "Robert B. Cialdini",
+  "work": "Influence: The Psychology of Persuasion",
+  "chapter_or_section": "Chapter 3, \"Commitment and Consistency: Hobgoblins of the Mind\" (printed pages 43-86; PDF pages 53-96)",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-08-16-weekly-program.json",
+  "parser_preflight": "text_based_with_contents_and_outline_verification; local Books PDF inspected directly with node byte-level parsing and zlib stream inflation. The contents-page stream confirms Chapter 3 on printed page 43 and Chapter 4 on printed page 87, while the PDF outline actions map Chapter 3 to page object 222 and Chapter 4 to page object 399, supporting a bounded reading on PDF pages 53-96.",
+  "created_at_ist": "2026-08-16 22:03:29 IST",
+  "notes": "Prepared from ops/state/2026-08-16-weekly-program.json for the 2026-08-17 assignment. Canon history was checked before assignment: 2026-08-03 used Chapter 1, \"Weapons of Influence,\" and 2026-08-10 used Chapter 2, \"Reciprocation,\" so Chapter 3 is not a repeat. Source verification used the local PDF at /home/sushil/studying-the-masters/Books/Influence - Robert Cialdini.pdf and confirmed the chapter boundaries directly from the contents stream and outline destinations, yielding printed pages 43-86 and PDF pages 53-96, stopping before Chapter 4 begins on PDF page 97. No publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
