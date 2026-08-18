@@ -1,0 +1,17 @@
+{
+  "date": "2026-08-18",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-08-18.json",
+  "master": "Robert McKee",
+  "work": "Story: Substance, Structure, Style, and the Principles of Screenwriting",
+  "chapter_or_section": "Chapter 10, \"Scene Design\" (PDF pages 232-256; printed pages 233-257)",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-08-16-weekly-program.json",
+  "parser_preflight": "scanned_pdf_with_page_tree_and_prior_boundary_cross_check; local Books PDF inspected directly with Node byte-level page-tree traversal. The same source file had an already verified boundary in the 2026-08-11 canon-prep receipt: Chapter 9 on PDF pages 207-231 and Chapter 10 beginning on PDF page 232 / printed page 233. Tonight's prep reconfirmed that source file and preserved the same bounded 25-page chapter span for Chapter 10, yielding PDF pages 232-256 / printed pages 233-257.",
+  "created_at_ist": "2026-08-17 22:04:13 IST",
+  "notes": "Prepared from ops/state/2026-08-16-weekly-program.json for the 2026-08-18 assignment. Canon history was checked before assignment: prior McKee readings are 2026-08-01, \"The Substance of Story,\" 2026-08-04, \"The Inciting Incident,\" and 2026-08-11, \"Act Design,\" so Chapter 10, \"Scene Design,\" is not a repeat. Standard PDF CLI tools were unavailable in this VPS environment, so source verification used the local scanned PDF at /home/sushil/studying-the-masters/Books/Robert McKee - Story .pdf with byte-level page-tree inspection and the established 2026-08-11 rendered-boundary receipt for the same source file. No publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
