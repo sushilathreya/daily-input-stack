@@ -1,0 +1,17 @@
+{
+  "date": "2026-08-19",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-08-19.json",
+  "master": "Al Ries and Jack Trout",
+  "work": "Positioning: The Battle for Your Mind",
+  "chapter_or_section": "Chapter 2, \"The Assault on the Mind\" (PDF pages 19-24)",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-08-16-weekly-program.json",
+  "parser_preflight": "native_text_pdf_with_outline_boundary_verification; local Books PDF inspected directly with Python catalog/outline parsing and page-object mapping. Chapter 2, \"The Assault on the Mind,\" resolves to outline destination page object 55 and Chapter 3, \"Getting into the Mind,\" resolves to page object 67; mapping across the 169 /Type /Page objects yields PDF pages 19-24 for the assigned bounded reading.",
+  "created_at_ist": "2026-08-18 22:01:48 IST",
+  "notes": "Prepared from ops/state/2026-08-16-weekly-program.json for the 2026-08-19 assignment. Canon history was checked before assignment: 2026-08-05 used Chapter 1, \"What Positioning Is All About,\" so Chapter 2, \"The Assault on the Mind,\" is not a repeat. Source verification used the local PDF at /home/sushil/studying-the-masters/Books/Positioning - Al Ries and Jack Trout.pdf plus direct PDF outline/page-object inspection because pdfinfo and pdftotext were unavailable in this VPS environment. No publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}

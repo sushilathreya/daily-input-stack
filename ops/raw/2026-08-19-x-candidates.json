@@ -1,0 +1,1213 @@
+{
+  "date": "2026-08-19",
+  "capturedAtIST": "2026-08-19 09:00:06",
+  "command": "bird-readonly home --json plus bird-readonly home --following --json",
+  "readonlyOnly": true,
+  "minimumSelectionRequired": 1,
+  "rawCounts": {
+    "for_you": 80,
+    "following": 80
+  },
+  "candidates": [
+    {
+      "id": "2089793392146514197",
+      "url": "https://x.com/FabrizioRomano/status/2089793392146514197",
+      "text": "🚨 Jamal Musiala statement on his physical conditions.\n\n“First things first - I’m doing well! Above all, I’m incredibly grateful for all your messages and your support! I understand that many of you are worried. I want to put those concerns to rest today and explain a little more: I have been diagnosed with brief, temporary episodes of absence that are easily treatable and are caused by a neurological dysfunction. These can lead to the moments that have occurred recently, such as against Leipzig and now in Heidenheim. I know that they may seem scary at first glance - but for me, they are currently simply part of my everyday life. I am receiving the best possible medical care in this regard, and I am very optimistic. FC Bayern and the people closest to me are always by my side and supporting me on this journey\n\nWhat is important is that there is no additional health risk beyond this. In close consultation and regular communication with the specialists, it was my personal wish to face this challenge and, with the approval of the neurological specialists, to continue doing what helps me most in my recovery: simply living my everyday life and continuing to pursue my passion of playing football. I have taken responsibility for that decision. Overall, I have a very good feeling and I am on a good path. What helps me most along the way is continuing to chase victories and titles with my team, with your incredible support. I hope this helps you understand me better. At the same time, I ask for your understanding that I would like to continue keeping this matter within the circle of my closest confidants, the club and the experts.\n\nThank you very much”.",
+      "createdAt": "Tue Aug 18 19:15:45 +0000 2026",
+      "author": "Fabrizio Romano",
+      "handle": "FabrizioRomano",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 1247,
+        "reposts": 4371,
+        "likes": 66401
+      },
+      "score": 57.1
+    },
+    {
+      "id": "2089758713183613266",
+      "url": "https://x.com/cursor_ai/status/2089758713183613266",
+      "text": "We're making Git hosting more reliable, performant, and scalable.\n\nThis post traces 20 years of Git infrastructure and explains how that history led us to design and operate our Git storage, Origin, as if it were a database.\n\nhttps://t.co/UW7jHuItSX",
+      "createdAt": "Tue Aug 18 16:57:57 +0000 2026",
+      "author": "Cursor",
+      "handle": "cursor_ai",
+      "feed": "following",
+      "metrics": {
+        "replies": 136,
+        "reposts": 276,
+        "likes": 3532
+      },
+      "score": 56.7
+    },
+    {
+      "id": "2089850135551279436",
+      "url": "https://x.com/DocStrangelove2/status/2089850135551279436",
+      "text": "Friendly reminder a group of Redditors harassed this woman day and night till she ended her own life. None have faced any charges for what they did.",
+      "createdAt": "Tue Aug 18 23:01:14 +0000 2026",
+      "author": "Doc Strangelove",
+      "handle": "DocStrangelove2",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 194,
+        "reposts": 3120,
+        "likes": 52113
+      },
+      "score": 55.9
+    },
+    {
+      "id": "2085371731334615551",
+      "url": "https://x.com/vovudebosh/status/2085371731334615551",
+      "text": "Explee just hit $2M ARR. 3 months after launch.\n\nthe product that sells for us IS the product: it finds buyers, writes the emails, books the calls — for our customers and for us.\n\nsee it work on your site: $30 free 👇\n\nhttps://t.co/GDOYEVZusO",
+      "createdAt": "Thu Aug 06 14:25:39 +0000 2026",
+      "author": "Vladimir Bayandin",
+      "handle": "vovudebosh",
+      "feed": "following",
+      "metrics": {
+        "replies": 134,
+        "reposts": 127,
+        "likes": 2577
+      },
+      "score": 55.1
+    },
+    {
+      "id": "2089753624532353200",
+      "url": "https://x.com/starcowboyfan/status/2089753624532353200",
+      "text": "If Pokemon were real most psychic types would be treated as actual citizens in the sense you'd see posts like \"her ass evolved a year ago and she STILL hasn't gotten a job\" with a picture of a Gardevoir stealing food from the fridge at 3 am",
+      "createdAt": "Tue Aug 18 16:37:44 +0000 2026",
+      "author": "Román 🦋🔥 On my STP era",
+      "handle": "starcowboyfan",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 84,
+        "reposts": 2287,
+        "likes": 25979
+      },
+      "score": 53.2
+    },
+    {
+      "id": "2089799535686295762",
+      "url": "https://x.com/awilkinson/status/2089799535686295762",
+      "text": "I don’t know how Wispr Flow is a business in 2027. \n\nLiterally weeks away from not needing to exist. \n\nI have never seen a clearer example of  Feature Not a Product.",
+      "createdAt": "Tue Aug 18 19:40:10 +0000 2026",
+      "author": "Andrew Wilkinson",
+      "handle": "awilkinson",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 217,
+        "reposts": 12,
+        "likes": 951
+      },
+      "score": 51.5
+    },
+    {
+      "id": "2089798176060674383",
+      "url": "https://x.com/ChampRDS/status/2089798176060674383",
+      "text": "Khabib's reaction to Edson Barboza's retirement from MMA:\n\n\"Long time ago sport leave him, but today he leaves the sport too. When you're 40 years old you have to think [about] your family.\n\nFamily is better than to be beat up like this. But he's a legend of the sport.\"\n\n(via @WillHarrisAOAF)",
+      "createdAt": "Tue Aug 18 19:34:46 +0000 2026",
+      "author": "Championship Rounds",
+      "handle": "ChampRDS",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 18,
+        "reposts": 133,
+        "likes": 5128
+      },
+      "score": 45.5
+    },
+    {
+      "id": "2089891927659585918",
+      "url": "https://x.com/thsottiaux/status/2089891927659585918",
+      "text": "Hi!\n\nRecapping some changes we have rolled out over the last couple of weeks that have further reduced the risk associated to potentially destructive actions being performed by Codex during its work. \n\nA few weeks ago, we started investigating a small number of reports where GPT-5.6 in Codex took destructive actions outside what the user asked for. The most serious pattern we found was a command meant to clean up temporary work that could instead delete the user files. This should obviously not happen. \n\nHere’s what we found:\n- Codex sometimes creates temporary folders while working and cleans them up afterward. In rare cases, GPT-5.6 got that cleanup wrong. One pattern involved reusing a system environment variable like $HOME for temporary work. A malformed cleanup command could then point at the actual home directory instead of the temporary folder. \n- There were cases where the model tried to delete or overwrite a temporary path without checking what was already there.\n\nWe’ve added protections at several layers:\n- Codex is now explicitly instructed to check deletion targets before acting, create fresh temporary directories, avoid repurposing system environment variables, prefer recoverable actions, and stop when the scope is unclear.\n- We strengthened the execution checks that identify high-risk deletion commands and escalate them for review. If a command is rejected, the model is directed to take a safer approach.\n- We made Full access harder to enable accidentally, added clearer warnings, and further restricted especially risky permission combinations.\n- We updated Auto-review to better identify destructive actions.\n- We built targeted evaluations that replay the failures we observed. We’re also adding reinforcement-learning tasks and graders focused on these risks, and filtering destructive actions from training data.\n\nIn those replay evaluations, the changes substantially reduced the behavior while preserving Codex’s ability to complete normal coding work. \n\nTwo things to do on your end:\n- Keep the Codex app up to date. We are always improving safety, performance and many other things.\n- Use one of the sandbox modes: \"Ask for approval\" or \"Approve for me\". Only use Full access for environments you trust and can recover.\n\nThanks and happy Codexing out there!",
+      "createdAt": "Wed Aug 19 01:47:18 +0000 2026",
+      "author": "Tibo",
+      "handle": "thsottiaux",
+      "feed": "following",
+      "metrics": {
+        "replies": 672,
+        "reposts": 151,
+        "likes": 2929
+      },
+      "score": 44.7
+    },
+    {
+      "id": "2089627633919148423",
+      "url": "https://x.com/the_aiju/status/2089627633919148423",
+      "text": "it's so strange to me that homes dont have a dedicated spot for clothes that you wore like once or twice but dont need washing just yet. where am i supposed to put my clothing L1 cache. currently it's just a little pile in the corner lol",
+      "createdAt": "Tue Aug 18 08:17:05 +0000 2026",
+      "author": "Emily",
+      "handle": "the_aiju",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 157,
+        "reposts": 119,
+        "likes": 3919
+      },
+      "score": 44.6
+    },
+    {
+      "id": "2089816482330943800",
+      "url": "https://x.com/ChampRDS/status/2089816482330943800",
+      "text": "🚨 Carlos Prates reveals he has signed a new 8-fight deal with the UFC, and was told he's next in line to fight Islam Makhachev 👀\n\n\"I'm the next for the title. I think [Morales] gonna fight maybe Belal Muhammad, or another fighter. But he needs to fight one more.\"\n\n(via @arielhelwani)",
+      "createdAt": "Tue Aug 18 20:47:30 +0000 2026",
+      "author": "Championship Rounds",
+      "handle": "ChampRDS",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 41,
+        "reposts": 90,
+        "likes": 3243
+      },
+      "score": 43.6
+    },
+    {
+      "id": "2089901671963058676",
+      "url": "https://x.com/Nithin0dha/status/2089901671963058676",
+      "text": "RT @nikhilkamathcio: To the 16-year-young startup Zerodha, happy birthday\n\nKey learnings from the day: Nithin is back and can laugh sometim…",
+      "createdAt": "Wed Aug 19 02:26:01 +0000 2026",
+      "author": "Nithin Kamath",
+      "handle": "Nithin0dha",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 71,
+        "likes": 0
+      },
+      "score": 43.3
+    },
+    {
+      "id": "2089771621150032090",
+      "url": "https://x.com/mrsharma/status/2089771621150032090",
+      "text": "I have a lot of respect for anyone building in the consumer AI space…\n\nBut why is everyone so excited about these assistant apps that are basically just a black box?\n\nThey’re essentially a Hermes agent with skills to be a better assistant … why not just build that for yourself and own the infrastructure? \n\nIt only takes 45 min to setup and you’ll have the memory, context, skills for all your agents + the knowledge of how this stuff all works! \n\nCall me old school, but I’d rather have one system with 20 agents vs 20 systems running 20 bifurcated experiences",
+      "createdAt": "Tue Aug 18 17:49:15 +0000 2026",
+      "author": "Nik Sharma",
+      "handle": "mrsharma",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 33,
+        "reposts": 4,
+        "likes": 112
+      },
+      "score": 42.8
+    },
+    {
+      "id": "2089806085045502378",
+      "url": "https://x.com/FightluckBet/status/2089806085045502378",
+      "text": "🚨BACKSTAGE FOOTAGE: USMAN NURMAGOMEDOV ROASTS ISLAM MAKHACHEV AFTER THE IAN GARRY FIGHT 😭🥶\n\n🗣️Usman: everything hurt right now but it's good kind of pain \n\n🗣️Brother he barely did anything to you .. one to the body one to the head that's it\n\n🗣️ “You can’t go home looking like that. If your mom sees you like this… no way.” 😂\n\n🎥 Via the one and only   @WillHarrisAOAF",
+      "createdAt": "Tue Aug 18 20:06:12 +0000 2026",
+      "author": "FightLuck",
+      "handle": "FightluckBet",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 11,
+        "reposts": 71,
+        "likes": 2655
+      },
+      "score": 42.6
+    },
+    {
+      "id": "2089856213798539664",
+      "url": "https://x.com/alessio_joseph/status/2089856213798539664",
+      "text": "every few years the marketing machine coheres around a generic and endlessly replicable mode of imagery \n\nwhat do you all think is the current one",
+      "createdAt": "Tue Aug 18 23:25:23 +0000 2026",
+      "author": "Joseph Alessio",
+      "handle": "alessio_joseph",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 35,
+        "reposts": 1,
+        "likes": 101
+      },
+      "score": 42.4
+    },
+    {
+      "id": "2089888401973501955",
+      "url": "https://x.com/THATBOYMMAGURU/status/2089888401973501955",
+      "text": "One of the most devastating KO's I've ever witnessed live #DWCS \n\nAfter a scrap for two straight rounds, for Brito to pull this out of the bag in the third, putting Fazil to sleep\n\nI don't think there's a fighter alive that eats this punch\n\nNgannou &amp; Vettori have the best chance",
+      "createdAt": "Wed Aug 19 01:33:17 +0000 2026",
+      "author": "THE MMA GURU",
+      "handle": "THATBOYMMAGURU",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 42,
+        "reposts": 46,
+        "likes": 2132
+      },
+      "score": 41.7
+    },
+    {
+      "id": "2089758405137412571",
+      "url": "https://x.com/DMC_Ryan/status/2089758405137412571",
+      "text": "New gif for ultimate sadness just dropped.",
+      "createdAt": "Tue Aug 18 16:56:44 +0000 2026",
+      "author": "Ryan McCaffrey",
+      "handle": "DMC_Ryan",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 56,
+        "reposts": 3195,
+        "likes": 64971
+      },
+      "score": 40.7
+    },
+    {
+      "id": "2089752460784971851",
+      "url": "https://x.com/europemaxxed/status/2089752460784971851",
+      "text": "get mad that he's 70 years old and doesn't 'know a guy'",
+      "createdAt": "Tue Aug 18 16:33:07 +0000 2026",
+      "author": "Mads",
+      "handle": "europemaxxed",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 20,
+        "reposts": 1907,
+        "likes": 66454
+      },
+      "score": 40.6
+    },
+    {
+      "id": "2089795740159950957",
+      "url": "https://x.com/arielhelwani/status/2089795740159950957",
+      "text": "\"I think the only person in the UFC right now who has a chance against [Usman Nurmagomedov] is Topuria.\n\nI've been in 10 rounds with him. I know his capabilities, and I know the style required to beat him.\n\nThe only people in the world who can beat him are myself and Ilia... He beats Gaethje, absolutely, no problem at all. He could definitely be the champion of the UFC right now.\"\n\n@paulhughesmma believes Usman Nurmagomedov could have a dominant run in the UFC.",
+      "createdAt": "Tue Aug 18 19:25:05 +0000 2026",
+      "author": "Ariel Helwani",
+      "handle": "arielhelwani",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 69,
+        "reposts": 31,
+        "likes": 1195
+      },
+      "score": 39.5
+    },
+    {
+      "id": "2089764735935721512",
+      "url": "https://x.com/MaccaCoaching/status/2089764735935721512",
+      "text": "If you're involved in football, at any level, then please take 5 minutes to read this thread, you won't regret it.\n\n18 months ago me and my brother began a football project that would have us chasing our dream, day and night. 👍",
+      "createdAt": "Tue Aug 18 17:21:53 +0000 2026",
+      "author": "Macca",
+      "handle": "MaccaCoaching",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 20,
+        "reposts": 103,
+        "likes": 1021
+      },
+      "score": 39.4
+    },
+    {
+      "id": "2077351381368021292",
+      "url": "https://x.com/RevenueCat/status/2077351381368021292",
+      "text": "🚀 Join the world's biggest mobile hackathon and compete for $1M in prizes. Register now -&gt;",
+      "createdAt": "Wed Jul 15 11:15:39 +0000 2026",
+      "author": "RevenueCat",
+      "handle": "RevenueCat",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 130,
+        "reposts": 280,
+        "likes": 2058
+      },
+      "score": 39
+    },
+    {
+      "id": "2089824280339230819",
+      "url": "https://x.com/arielhelwani/status/2089824280339230819",
+      "text": "Carlos Prates breaks down the holes he saw in Islam Makhachev’s game at UFC 330:\n\n\"On the takedowns, I saw the way I can defend some things and stop some takedowns.\n\nI saw parts of his defense. He has good kickboxing, bro, but of course I'm much better, so I'm excited to test myself against him.\"",
+      "createdAt": "Tue Aug 18 21:18:30 +0000 2026",
+      "author": "Ariel Helwani",
+      "handle": "arielhelwani",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 17,
+        "reposts": 26,
+        "likes": 1110
+      },
+      "score": 38.9
+    },
+    {
+      "id": "2089834499827761482",
+      "url": "https://x.com/naruto11eth/status/2089834499827761482",
+      "text": "it is actually a bad product, not because of implementation but the idea.\n\ndue to rise of ai and bad market conditions, recruiters get 500+ applications every hour. you can check this stat with a linkedin premium or ask recruiter friends.\n\nwhat's happening is that people are building similar products using ai. what used to be a cumbersome process of:\n\nbuilding a resume -> writing a cover letter -> finding a job on linkedin -> dming team members and founders for referral -> creating account on workday -> applying\n\nthis whole process would take users 10mins per applications. now it is automated by ai and can be done in less than a min for more than 50 jobs.\n\nthis puts pressure on recruiters to go thru so many resumes. ultimately, recruiters, now, rely on close friends/sources/their own due diligence to hire than to go thru their hiring portal.\n\nofcourse, they use ai to filter out applicants and give top 10% but even that messes up and some deserving candidate can be missed.\n\ni remember pre-ai, i applied for almost 800+ jobs, kept a google sheet of \"jobs applied to\" and a sheet of \"active interviews\"\n\ni would spend 4 hours applying to 50-100 jobs, create insane number of workday accounts (which is shit btw, i hate workday from the bottom of my heart), but this kept me grounded and i figured the best way to approach recruiters, founders and companies.\n\ni really believe that if you do things on your own, nothing is wasted and you get to learn a few things vs relying on ai.\n\nbtw, this product might be great but you can achieve similar things using claude alone. :))",
+      "createdAt": "Tue Aug 18 21:59:06 +0000 2026",
+      "author": "Naruto11.eth",
+      "handle": "naruto11eth",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 10,
+        "reposts": 1,
+        "likes": 51
+      },
+      "score": 38.8
+    },
+    {
+      "id": "2089811149202260139",
+      "url": "https://x.com/sur4js/status/2089811149202260139",
+      "text": "Well that didn’t last long https://t.co/SGq9tHoU76",
+      "createdAt": "Tue Aug 18 20:26:19 +0000 2026",
+      "author": "sur4js",
+      "handle": "sur4js",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 107,
+        "reposts": 262,
+        "likes": 40630
+      },
+      "score": 38.2
+    },
+    {
+      "id": "2075123930168258948",
+      "url": "https://x.com/MScDigital/status/2075123930168258948",
+      "text": "Enrol free in UNIC's online Blockchain and Digital Assets MOOC and build foundational knowledge in Web3, wallets, DeFi, stablecoins, policy and tokenisation through the free Introductory Track.",
+      "createdAt": "Thu Jul 09 07:44:33 +0000 2026",
+      "author": "Digital Currency",
+      "handle": "MScDigital",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 36,
+        "reposts": 99,
+        "likes": 679
+      },
+      "score": 38.2
+    },
+    {
+      "id": "2089735337618620517",
+      "url": "https://x.com/thisis_rahmat/status/2089735337618620517",
+      "text": "Serious question, how does one get into hardware. Like what is the CS50 into to programming version of this but for hardware ?\n\nHow does one learn to build something like this ?",
+      "createdAt": "Tue Aug 18 15:25:04 +0000 2026",
+      "author": "rahmat",
+      "handle": "thisis_rahmat",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 82,
+        "reposts": 23,
+        "likes": 728
+      },
+      "score": 37.8
+    },
+    {
+      "id": "2089906956593172730",
+      "url": "https://x.com/ponnappa/status/2089906956593172730",
+      "text": "RT @IceSolst: Wait so all of these incidents are attributed to a single company responsible for the sandboxing failures? Lmao https://t.co/…",
+      "createdAt": "Wed Aug 19 02:47:01 +0000 2026",
+      "author": "Sidu Ponnappa",
+      "handle": "ponnappa",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 283,
+        "likes": 0
+      },
+      "score": 37.3
+    },
+    {
+      "id": "2089742943795945609",
+      "url": "https://x.com/danywander/status/2089742943795945609",
+      "text": "there is one thing about this website that makes my eyes wet. it was made according to the canons of 2010s web design.\n\ni might even take a wild guess that whoever made it is in their late 30s :-D\n\nplease, tag them.",
+      "createdAt": "Tue Aug 18 15:55:18 +0000 2026",
+      "author": "dany",
+      "handle": "danywander",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 47
+      },
+      "score": 37.2
+    },
+    {
+      "id": "2089807103636722039",
+      "url": "https://x.com/0x_ultra/status/2089807103636722039",
+      "text": "so i was looking at the source code of kaito pulse and found some interesting things:\n\n- it fingerprints your device. it hashes how your gpu renders an invisible image, your gpu model, and how your hardware handles a test tone. that combo is unique to your laptop and it doesn't change\n\n- it goes up with your twitter id attached, so every x account you use on that laptop points back to the same machine\n\n- they can see what you see and replay your whole session. every post your feed served you including the ones you scrolled straight past, how many milliseconds you spent on each, every click, follow and unfollow, and a ping every 30 seconds with idle detection so they know exactly when you were on and for how long. not just your timeline either, it covers your search results and your bookmarks\n\n- it reads your claude and chatgpt subscriptions, which plan you pay for and what percent of your rate limit you've burned (not your conversations though)\n\n- on chatgpt it opens your settings page and clicks through to Usage by itself\n\n- on binance it clicks the Positions tab for you, then re-sends your logged in requests to read wallet balances, futures positions, pnl, and deposit and withdrawal history\n\n- the zktls is a fork of a project called primus\n\nthe 12 domains it runs on:\n\n- markets: binance, okx, bybit, hyperliquid, lighter, polymarket, tradexyz, variational\n- ai: chatgpt, claude\n- social:  X (all the telemetry is here)\n- kaito (only site allowed to talk to the extension)",
+      "createdAt": "Tue Aug 18 20:10:14 +0000 2026",
+      "author": "ultra",
+      "handle": "0x_ultra",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 136,
+        "reposts": 41,
+        "likes": 358
+      },
+      "score": 36.8
+    },
+    {
+      "id": "2089884327740158288",
+      "url": "https://x.com/tszzl/status/2089884327740158288",
+      "text": "people on here are thinkers so they assume that reasoning about alignment is the hard part and making sure millions(1) of task types, environments, and their respective virtual machines are configured correctly is the easy part but it’s essentially the opposite. you need to have worked in a large technology organization to appreciate the complexity and unreliability of this intuitively\n\n(1) made up order of magnitude",
+      "createdAt": "Wed Aug 19 01:17:06 +0000 2026",
+      "author": "roon",
+      "handle": "tszzl",
+      "feed": "following",
+      "metrics": {
+        "replies": 78,
+        "reposts": 26,
+        "likes": 476
+      },
+      "score": 36.5
+    },
+    {
+      "id": "2089229484796813316",
+      "url": "https://x.com/vovudebosh/status/2089229484796813316",
+      "text": "i'm sorry, Claude can WHAT?\n\nit can take your website link, find people who need your product, email them and book the calls?\n\nsince when?? i've been doing this by hand for a YEAR.\n\nok. testing it: $30 free 👇\n\nhttps://t.co/adMOx5xd6C",
+      "createdAt": "Mon Aug 17 05:54:59 +0000 2026",
+      "author": "Vladimir Bayandin",
+      "handle": "vovudebosh",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 35
+      },
+      "score": 36
+    },
+    {
+      "id": "2089902782665130219",
+      "url": "https://x.com/ponnappa/status/2089902782665130219",
+      "text": "RT @acolombiadev: I work at GitHub. yesterday was rough and i'm not pretending otherwise. full root cause report is up if you want the time…",
+      "createdAt": "Wed Aug 19 02:30:26 +0000 2026",
+      "author": "Sidu Ponnappa",
+      "handle": "ponnappa",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 170,
+        "likes": 0
+      },
+      "score": 35.1
+    },
+    {
+      "id": "2089881974865539509",
+      "url": "https://x.com/steipete/status/2089881974865539509",
+      "text": "RT @gabriel1: biggest startup learning so far: ignore literally everything and everyone that is not immediately ultra critical to what the…",
+      "createdAt": "Wed Aug 19 01:07:45 +0000 2026",
+      "author": "Peter Steinberger 🦞",
+      "handle": "steipete",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 27,
+        "likes": 0
+      },
+      "score": 35.1
+    },
+    {
+      "id": "2089851311487635607",
+      "url": "https://x.com/zachklein/status/2089851311487635607",
+      "text": "My wife, first week at new job, introducing herself on Slack. https://t.co/5mIRdvX8c3",
+      "createdAt": "Tue Aug 18 23:05:54 +0000 2026",
+      "author": "Zach Klein",
+      "handle": "zachklein",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 17,
+        "reposts": 7,
+        "likes": 1037
+      },
+      "score": 34.4
+    },
+    {
+      "id": "2068114115353350271",
+      "url": "https://x.com/Starlink/status/2068114115353350271",
+      "text": "Get connected with fast, reliable internet for streaming, video calls, online gaming and more.\n\nOrder online in minutes.",
+      "createdAt": "Fri Jun 19 23:30:03 +0000 2026",
+      "author": "Starlink",
+      "handle": "Starlink",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 54,
+        "reposts": 37,
+        "likes": 821
+      },
+      "score": 34.2
+    },
+    {
+      "id": "2089885611155128597",
+      "url": "https://x.com/johncoogan/status/2089885611155128597",
+      "text": "Why is no one selling ad inventory against email autoresponders?\n\nYou’re emailing me. I’m on vacation. No better time to tell you about saving time and money with Ramp.",
+      "createdAt": "Wed Aug 19 01:22:12 +0000 2026",
+      "author": "John Coogan",
+      "handle": "johncoogan",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 20,
+        "reposts": 6,
+        "likes": 317
+      },
+      "score": 33.8
+    },
+    {
+      "id": "2089733265733148874",
+      "url": "https://x.com/NewDumbMoney/status/2089733265733148874",
+      "text": "Phantom took the best wallet UI in the world and made it impossible to use like how tf do you send tokens now",
+      "createdAt": "Tue Aug 18 15:16:50 +0000 2026",
+      "author": "🆕🤡💵",
+      "handle": "NewDumbMoney",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 112,
+        "reposts": 15,
+        "likes": 508
+      },
+      "score": 32.9
+    },
+    {
+      "id": "2089902047319687255",
+      "url": "https://x.com/ponnappa/status/2089902047319687255",
+      "text": "RT @kimmonismus: A \"refusal-removed\" version of Qwen3.8-27B can now run locally on Apple Silicon.\n\nEven its creators warn that it can provi…",
+      "createdAt": "Wed Aug 19 02:27:31 +0000 2026",
+      "author": "Sidu Ponnappa",
+      "handle": "ponnappa",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 103,
+        "likes": 0
+      },
+      "score": 32.9
+    },
+    {
+      "id": "2089732061011513838",
+      "url": "https://x.com/willbakerships/status/2089732061011513838",
+      "text": "buying a house is a big mistake imo:\n\n- it's only an asset once you own it (a mortgage is a liability)\n\n- property is pretty illiquid (not helpful in an emergency where you need to sell)\n\n- you're tying yourself down geographically (missing out on what the world has to offer)\n\nwe are in the geohacking era - travel, rent cheap and invest in yourself until you can afford the house outright",
+      "createdAt": "Tue Aug 18 15:12:03 +0000 2026",
+      "author": "Will",
+      "handle": "willbakerships",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 58,
+        "reposts": 1,
+        "likes": 146
+      },
+      "score": 32.2
+    },
+    {
+      "id": "2089888160566374889",
+      "url": "https://x.com/orenmeetsworld/status/2089888160566374889",
+      "text": "How pricing is used strategically by brands to build a product mix that appeals to different consumers https://t.co/pXodpNQ4Uz",
+      "createdAt": "Wed Aug 19 01:32:20 +0000 2026",
+      "author": "Oren John",
+      "handle": "orenmeetsworld",
+      "feed": "following",
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 32
+      },
+      "score": 32.1
+    },
+    {
+      "id": "2089900288044138909",
+      "url": "https://x.com/mylesdaughtry/status/2089900288044138909",
+      "text": "fwa represents the liquidity gate for speculative on-chain experiments/experiences (gambling).  \n\nwithin that I’m interested in conceptually saying many things through gamified distribution protocols. \n\ncould be ideas. \ncould be a token.\ncould be a nft.\n\ntbh the vessel is less relevant.",
+      "createdAt": "Wed Aug 19 02:20:31 +0000 2026",
+      "author": "Myles Daughtry",
+      "handle": "mylesdaughtry",
+      "feed": "following",
+      "metrics": {
+        "replies": 3,
+        "reposts": 1,
+        "likes": 5
+      },
+      "score": 31.8
+    },
+    {
+      "id": "2089806307591365059",
+      "url": "https://x.com/camworboys/status/2089806307591365059",
+      "text": "Meet Berd\n\nWe just dropped the best way to run your favorite models + agents in one interface.\n\nOpen source.\nSuper clean UI.\nGloopies.\n\nLike Codex, but more vibey. Give it a try. I love it.\n\nhttps://t.co/wsgs7j393F https://t.co/buH3mCC6mK",
+      "createdAt": "Tue Aug 18 20:07:05 +0000 2026",
+      "author": "cam worboys",
+      "handle": "camworboys",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 25,
+        "reposts": 12,
+        "likes": 146
+      },
+      "score": 31.7
+    },
+    {
+      "id": "2089903660973150418",
+      "url": "https://x.com/mdudas/status/2089903660973150418",
+      "text": "$pump a 2.5x off the late June low, bullish unlocks, delightful to be nonconsenus and correct\n\nprinting $1.7m in fees daily while the rest of the onchain economy is in an extended slumber, just getting started https://t.co/ZMBjqfgVA9",
+      "createdAt": "Wed Aug 19 02:33:55 +0000 2026",
+      "author": "Mike Dudas",
+      "handle": "mdudas",
+      "feed": "following",
+      "metrics": {
+        "replies": 36,
+        "reposts": 8,
+        "likes": 86
+      },
+      "score": 30.6
+    },
+    {
+      "id": "2087165429873865187",
+      "url": "https://x.com/MScDigital/status/2087165429873865187",
+      "text": "Free online blockchain course from UNIC. Start with the university MOOC running since 2014, trusted by 150,000+ learners worldwide. Eight-week Introductory Track. No payment to enrol or complete.",
+      "createdAt": "Tue Aug 11 13:13:10 +0000 2026",
+      "author": "Digital Currency",
+      "handle": "MScDigital",
+      "feed": "following",
+      "metrics": {
+        "replies": 7,
+        "reposts": 18,
+        "likes": 108
+      },
+      "score": 30.5
+    },
+    {
+      "id": "2089858406899433806",
+      "url": "https://x.com/The_SummerMan/status/2089858406899433806",
+      "text": "wrote about Sterling Point coming in at the summer TV buzzer (on The OC's anniversary, no less) and restoring that old WB feeling https://t.co/v4XLCN1cxu",
+      "createdAt": "Tue Aug 18 23:34:06 +0000 2026",
+      "author": "Frazier Tharpe II",
+      "handle": "The_SummerMan",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 1,
+        "reposts": 11,
+        "likes": 121
+      },
+      "score": 30
+    },
+    {
+      "id": "2089628074648518775",
+      "url": "https://x.com/abhiontwt/status/2089628074648518775",
+      "text": "farcaster raised $180m and made $2.8m in five years\n\nthen said every dollar goes back to a16z and paradigm\n\nthat's not the sad part\n\n> in january it got handed to neynar\n> seven months later neynar wants out too\n> second owner in seven months, third one still not named\n\n> lens raised $46m\n> same week, aave handed it to mask network\n\n> friend(dot)tech did almost $90m in fees its first year\n> by the end it was doing under $100 a day\n> the team sent the keys to a null address and walked\n\neveryone blames the wallet, the $5 signup, the token\n\n> bluesky has none of that\n> no token, no wallet, just an email\n> 46m signups\n\nits app is down to 10.4m monthly actives\nlost half since 2024\n\nso it was never the crypto part\n\n\"own your social graph\" is not a reason to open an app tomorrow\n\n+ people show up for people\n+ none of these ever got the people\n\nso is decentralized social dying?\n\nor am i missing the one that's actually working\n\nname it",
+      "createdAt": "Tue Aug 18 08:18:51 +0000 2026",
+      "author": "abhinav",
+      "handle": "abhiontwt",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 22,
+        "reposts": 2,
+        "likes": 86
+      },
+      "score": 29.4
+    },
+    {
+      "id": "2089814066223100404",
+      "url": "https://x.com/mdudas/status/2089814066223100404",
+      "text": "fomo Kols already mass reported this, good afternoon 🐸s https://t.co/ZUNL01h4Tm",
+      "createdAt": "Tue Aug 18 20:37:54 +0000 2026",
+      "author": "Mike Dudas",
+      "handle": "mdudas",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 60,
+        "reposts": 10,
+        "likes": 152
+      },
+      "score": 28.8
+    },
+    {
+      "id": "2089751881677681106",
+      "url": "https://x.com/a16z/status/2089751881677681106",
+      "text": "It's been 5 weeks since we learned about the OpenAI/Hugging Face breach, which revealed an awkward reality: defenders have to ask models the same questions attackers do.\n\nIn this conversation, Cotool CEO Max Pollard and Neo CEO Nick Warner sit down with a16z's Joel de la Garza at Black Hat to discuss how security tools were designed to stop people or malware (and how AI agents are neither), what breaks when half of enterprise software goes agentic, and how teams are routing around cyber refusals.\n\n00:00 Intro\n01:00 Models escaping containment & the Hugging Face breach\n01:50 Why models refuse to help the good guys\n05:45 Built to stop people and malware, but agents are neither\n06:45 \"The end justifies the means, in the mind of the model\"\n10:45 50% of enterprise apps agentic before 2027\n14:20 When your honeypot becomes a false positive machine\n15:25 Signatures are dead, and so is behavioral detection\n18:55 Defending AI and defending from AI\n\n@maxpollard415 @cotoolai @neo_ai_security",
+      "createdAt": "Tue Aug 18 16:30:48 +0000 2026",
+      "author": "a16z",
+      "handle": "a16z",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 17,
+        "reposts": 11,
+        "likes": 53
+      },
+      "score": 28.8
+    },
+    {
+      "id": "2089748152371016089",
+      "url": "https://x.com/hrithikk/status/2089748152371016089",
+      "text": "every time I visit HDFC their employees force me into some FD or investment scheme like I'm their personal commission target\n\nhere's the scary part: these employees have full access to your account balance, transaction history, everything\n\nthey call randomly like \"sir you have X amount sitting idle, invest in this plan\"\n\nbruh I didn't ask for financial advice from someone who gets commission on trapping customers\n\nthe privacy violation is insane, any random employee can peek into your account data without restrictions\n\nclosed my HDFC account and every relationship with them bc of this harassment\n\nif this is how \"well renowned private banks\" operate in India. \n\nI'd rather keep my money under my mattress\n\nhave you dealt with this bs?\n\nhow do Indian banks get away with zero data privacy?",
+      "createdAt": "Tue Aug 18 16:15:59 +0000 2026",
+      "author": "hrithik ( 히리틱 )",
+      "handle": "hrithikk",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 25,
+        "reposts": 1,
+        "likes": 57
+      },
+      "score": 28.5
+    },
+    {
+      "id": "2089908460305436762",
+      "url": "https://x.com/blankspac_e/status/2089908460305436762",
+      "text": "\"Media Burn\" by Ant Farm featured a modified Cadillac crashing through burning televisions, staging a literal collision between American consumer culture and mass media (1975) https://t.co/Y7MWCeglCS",
+      "createdAt": "Wed Aug 19 02:53:00 +0000 2026",
+      "author": "𝙗𝙡𝙖𝙣𝙠",
+      "handle": "blankspac_e",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      },
+      "score": 28.5
+    },
+    {
+      "id": "2089862630932353297",
+      "url": "https://x.com/chiefofautism/status/2089862630932353297",
+      "text": "RT @raz_liu: Waiting for the landing video. Still need 2nd stage to complete its work before say it a successful mission https://t.co/peT4L…",
+      "createdAt": "Tue Aug 18 23:50:53 +0000 2026",
+      "author": "chiefofautism",
+      "handle": "chiefofautism",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 37,
+        "likes": 0
+      },
+      "score": 28.5
+    },
+    {
+      "id": "2089898307694854524",
+      "url": "https://x.com/artenpedia/status/2089898307694854524",
+      "text": "RT @carolemadge: On 18 August, we remember Khaled al-Asaad, the heroic Syrian archaeologist who was murdered by ISIS on 18 August 2015 for…",
+      "createdAt": "Wed Aug 19 02:12:39 +0000 2026",
+      "author": "Art Encyclopedia",
+      "handle": "artenpedia",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 86,
+        "likes": 0
+      },
+      "score": 28.1
+    },
+    {
+      "id": "2075302316647788767",
+      "url": "https://x.com/IBKR/status/2075302316647788767",
+      "text": "Level up options—analyze, screen, and construct complex trades with confidence. Capital you invest is at risk.",
+      "createdAt": "Thu Jul 09 19:33:24 +0000 2026",
+      "author": "Interactive Brokers",
+      "handle": "IBKR",
+      "feed": "following",
+      "metrics": {
+        "replies": 5,
+        "reposts": 12,
+        "likes": 193
+      },
+      "score": 27.8
+    },
+    {
+      "id": "2075302316618534986",
+      "url": "https://x.com/IBKR/status/2075302316618534986",
+      "text": "Rated lowest margin fees by StockBrokers. com. Borrow against your securities at low cost. Capital you invest is at risk.",
+      "createdAt": "Thu Jul 09 19:33:24 +0000 2026",
+      "author": "Interactive Brokers",
+      "handle": "IBKR",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 7,
+        "reposts": 6,
+        "likes": 200
+      },
+      "score": 27.7
+    },
+    {
+      "id": "2089901848778142057",
+      "url": "https://x.com/ponnappa/status/2089901848778142057",
+      "text": "RT @acorn: This was written around 2000 years ago.  Things haven't changed much. \n=== \nMilinda:  “Revered Nagasena, will you converse with…",
+      "createdAt": "Wed Aug 19 02:26:43 +0000 2026",
+      "author": "Sidu Ponnappa",
+      "handle": "ponnappa",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 75,
+        "likes": 0
+      },
+      "score": 27.5
+    },
+    {
+      "id": "2089860757328662698",
+      "url": "https://x.com/SamoBurja/status/2089860757328662698",
+      "text": "Is there something very wrong with how we do science today? I think so, and I believe our civilization needs to make a serious course correction or stagnate and collapse. \n\nI recently went on @benlandautaylor's show @0xthestudents to discuss. Watch here:\n\nhttps://t.co/SlW7Xlj1xC",
+      "createdAt": "Tue Aug 18 23:43:26 +0000 2026",
+      "author": "Samo Burja",
+      "handle": "SamoBurja",
+      "feed": "following",
+      "metrics": {
+        "replies": 2,
+        "reposts": 9,
+        "likes": 51
+      },
+      "score": 27.2
+    },
+    {
+      "id": "2089840312432656659",
+      "url": "https://x.com/nateliason/status/2089840312432656659",
+      "text": "Slightly embarrassed to admit that for our two older girls, saying:\n\n“Princesses don’t do that”\n\nWorks extremely well",
+      "createdAt": "Tue Aug 18 22:22:12 +0000 2026",
+      "author": "Nat Eliason",
+      "handle": "nateliason",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 7,
+        "reposts": 2,
+        "likes": 184
+      },
+      "score": 27.1
+    },
+    {
+      "id": "2089802385795219861",
+      "url": "https://x.com/HeyYoGB/status/2089802385795219861",
+      "text": "building a personal brand is a must\n\nif you dont believe it hire someone who does",
+      "createdAt": "Tue Aug 18 19:51:30 +0000 2026",
+      "author": "GBE",
+      "handle": "HeyYoGB",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 7
+      },
+      "score": 26.8
+    },
+    {
+      "id": "2089914552699781375",
+      "url": "https://x.com/chiefofautism/status/2089914552699781375",
+      "text": "RT @beaverd: \"strong demand for our models\" means you wouldn't be increasing usage limits.\n\nThey're paying $1.25 billion/month to xAI until…",
+      "createdAt": "Wed Aug 19 03:17:12 +0000 2026",
+      "author": "chiefofautism",
+      "handle": "chiefofautism",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 25,
+        "likes": 0
+      },
+      "score": 26.8
+    },
+    {
+      "id": "2089901297382080634",
+      "url": "https://x.com/otogs_/status/2089901297382080634",
+      "text": "RT @ikuzoeth: ever had a dream about me? \n\ndrop your addy \n\nand pull up to the telegram \n\nhttps://t.co/OPlVPCFAXD\n\ntime is limited… ⏳ https…",
+      "createdAt": "Wed Aug 19 02:24:32 +0000 2026",
+      "author": "toghu",
+      "handle": "otogs_",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 25,
+        "likes": 0
+      },
+      "score": 26.8
+    },
+    {
+      "id": "2085676765905613263",
+      "url": "https://x.com/FTMO_com/status/2085676765905613263",
+      "text": "Find your trading peace on a demo account with a prop trading platform operating since 2015.",
+      "createdAt": "Fri Aug 07 10:37:45 +0000 2026",
+      "author": "FTMO.com",
+      "handle": "FTMO_com",
+      "feed": "following",
+      "metrics": {
+        "replies": 2,
+        "reposts": 4,
+        "likes": 171
+      },
+      "score": 26.7
+    },
+    {
+      "id": "2082113134110666999",
+      "url": "https://x.com/skinsauna/status/2082113134110666999",
+      "text": "Sell your CS2 skins, get paid in minutes. Skip the wait, get 3% extra on your first trade!",
+      "createdAt": "Tue Jul 28 14:37:09 +0000 2026",
+      "author": "Skinsauna.gg",
+      "handle": "skinsauna",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 8,
+        "reposts": 9,
+        "likes": 128
+      },
+      "score": 26.4
+    },
+    {
+      "id": "2089752978802835918",
+      "url": "https://x.com/ShaanVP/status/2089752978802835918",
+      "text": "we need a DOGE-like department but just for replacing American phrases with cooler phrases from other languages every 4 years",
+      "createdAt": "Tue Aug 18 16:35:10 +0000 2026",
+      "author": "Shaan Puri",
+      "handle": "ShaanVP",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 13,
+        "reposts": 1,
+        "likes": 138
+      },
+      "score": 26.3
+    },
+    {
+      "id": "2089909849559871814",
+      "url": "https://x.com/YUDHO_XYZ/status/2089909849559871814",
+      "text": "RT @zen0m: It's dangerous out there, take a rest by the fire 🏕️ #pixelart https://t.co/qSjYhwV7pw",
+      "createdAt": "Wed Aug 19 02:58:31 +0000 2026",
+      "author": "YUDHO",
+      "handle": "YUDHO_XYZ",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 53,
+        "likes": 0
+      },
+      "score": 26
+    },
+    {
+      "id": "2089861567810507181",
+      "url": "https://x.com/chiefofautism/status/2089861567810507181",
+      "text": "RT @rosslazer: this is largely the sentiment in the company slack https://t.co/rTEzRgzMi8",
+      "createdAt": "Tue Aug 18 23:46:40 +0000 2026",
+      "author": "chiefofautism",
+      "handle": "chiefofautism",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 0,
+        "reposts": 44,
+        "likes": 0
+      },
+      "score": 25.2
+    },
+    {
+      "id": "2089902745130328349",
+      "url": "https://x.com/ponnappa/status/2089902745130328349",
+      "text": "RT @FioraStarlight: my partner and I printed and bound a physical collection of Janus's blog posts from 2021 to 2023 ^^ https://t.co/SpZXEb…",
+      "createdAt": "Wed Aug 19 02:30:17 +0000 2026",
+      "author": "Sidu Ponnappa",
+      "handle": "ponnappa",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 17,
+        "likes": 0
+      },
+      "score": 25.2
+    },
+    {
+      "id": "2089877190422974974",
+      "url": "https://x.com/steipete/status/2089877190422974974",
+      "text": "512GB RAM Studios. Apple was good to us. 🦞 https://t.co/NyvtNH6lRa",
+      "createdAt": "Wed Aug 19 00:48:44 +0000 2026",
+      "author": "Peter Steinberger 🦞",
+      "handle": "steipete",
+      "feed": "following",
+      "metrics": {
+        "replies": 122,
+        "reposts": 22,
+        "likes": 1760
+      },
+      "score": 25.2
+    },
+    {
+      "id": "2089464379377147955",
+      "url": "https://x.com/modemdev/status/2089464379377147955",
+      "text": "hunk turns your coding agent's messy multi-file diff into a readable terminal review. ⭐ Open sourced on Github.",
+      "createdAt": "Mon Aug 17 21:28:23 +0000 2026",
+      "author": "Modem",
+      "handle": "modemdev",
+      "feed": "following",
+      "metrics": {
+        "replies": 1,
+        "reposts": 8,
+        "likes": 103
+      },
+      "score": 25.1
+    },
+    {
+      "id": "2089820693106245856",
+      "url": "https://x.com/orenmeetsworld/status/2089820693106245856",
+      "text": "I am working on a video about people who took courses to invest in self storage\n\nI am curious if anyone has any anecdotes or has gone through that experience on one end or the other",
+      "createdAt": "Tue Aug 18 21:04:14 +0000 2026",
+      "author": "Oren John",
+      "handle": "orenmeetsworld",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 6,
+        "reposts": 0,
+        "likes": 37
+      },
+      "score": 25
+    },
+    {
+      "id": "2089903681995206698",
+      "url": "https://x.com/ponnappa/status/2089903681995206698",
+      "text": "RT @Dadsaysjokes: It's like my mom always told me...\n\n\"You might not be the dumbest guy in the world, but you better hope he doesn't die.\"",
+      "createdAt": "Wed Aug 19 02:34:00 +0000 2026",
+      "author": "Sidu Ponnappa",
+      "handle": "ponnappa",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 42,
+        "likes": 0
+      },
+      "score": 25
+    },
+    {
+      "id": "2089865138182709432",
+      "url": "https://x.com/andrew__reed/status/2089865138182709432",
+      "text": "RT @paraga: Great to have rigorous independent benchmarking for search that measures end-to-end quality, cost, latency for agents. \n\nParall…",
+      "createdAt": "Wed Aug 19 00:00:51 +0000 2026",
+      "author": "Andrew Reed",
+      "handle": "andrew__reed",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 14,
+        "likes": 0
+      },
+      "score": 24.3
+    },
+    {
+      "id": "2089774148755017780",
+      "url": "https://x.com/jackfriks/status/2089774148755017780",
+      "text": "big mistake for you and your current goals and vision of the future***\n\ngreat idea for me as someone who wants to stay exactly where i am living and make babies who grow up in the same home :D and then pass the land down",
+      "createdAt": "Tue Aug 18 17:59:17 +0000 2026",
+      "author": "jack friks",
+      "handle": "jackfriks",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 32
+      },
+      "score": 23.7
+    },
+    {
+      "id": "2089875199244337626",
+      "url": "https://x.com/jessepollak/status/2089875199244337626",
+      "text": "RT @b3labs: We had strong conviction B3IQ would resonate. The demand we've seen has proven our thesis and led us to double down on capacity…",
+      "createdAt": "Wed Aug 19 00:40:50 +0000 2026",
+      "author": "jesse.base.eth",
+      "handle": "jessepollak",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 12,
+        "likes": 0
+      },
+      "score": 23.7
+    },
+    {
+      "id": "2089874386325262542",
+      "url": "https://x.com/andrew__reed/status/2089874386325262542",
+      "text": "it’s a hot round when the company gets\npreempted after only a week or two of fundraising",
+      "createdAt": "Wed Aug 19 00:37:36 +0000 2026",
+      "author": "Andrew Reed",
+      "handle": "andrew__reed",
+      "feed": "following",
+      "metrics": {
+        "replies": 6,
+        "reposts": 0,
+        "likes": 81
+      },
+      "score": 23.7
+    },
+    {
+      "id": "2089846273428128240",
+      "url": "https://x.com/camworboys/status/2089846273428128240",
+      "text": "My little agent team on Berd \n\nNumbers, Lookie Loo and CTO are probs my favs. \n\nhttps://t.co/wsgs7j393F https://t.co/NB2Ut4kOTM",
+      "createdAt": "Tue Aug 18 22:45:53 +0000 2026",
+      "author": "cam worboys",
+      "handle": "camworboys",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 3,
+        "reposts": 4,
+        "likes": 58
+      },
+      "score": 22.9
+    },
+    {
+      "id": "2089869524254314665",
+      "url": "https://x.com/GRITCULT/status/2089869524254314665",
+      "text": "ok played around with this - its super fun. one of the most fun AI apps ive ever used\n\nFound a top i liked on a model, extracted the top, then created my own version w my logo, then got ai to put it on other people. \n\nimage generation quality - not the best on free https://t.co/mjZEfkTix8",
+      "createdAt": "Wed Aug 19 00:18:17 +0000 2026",
+      "author": "GRITCULT",
+      "handle": "GRITCULT",
+      "feed": "following",
+      "metrics": {
+        "replies": 3,
+        "reposts": 0,
+        "likes": 22
+      },
+      "score": 22.6
+    },
+    {
+      "id": "2089871977292927241",
+      "url": "https://x.com/ripe0x/status/2089871977292927241",
+      "text": "RT @internetphysics: Introducing Hypertoadz, a recursively evolving, fully on-chain digital species on @ethereum. https://t.co/CqIc2TivqV",
+      "createdAt": "Wed Aug 19 00:28:01 +0000 2026",
+      "author": "ripe",
+      "handle": "ripe0x",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 24,
+        "likes": 0
+      },
+      "score": 22.6
+    },
+    {
+      "id": "2084552825871253617",
+      "url": "https://x.com/FTMO_com/status/2084552825871253617",
+      "text": "Simulated trading with FTMO can bring you closer to your trading goals and dreams. Start your FTMO Challenge today!",
+      "createdAt": "Tue Aug 04 08:11:37 +0000 2026",
+      "author": "FTMO.com",
+      "handle": "FTMO_com",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 3,
+        "reposts": 5,
+        "likes": 49
+      },
+      "score": 22.5
+    },
+    {
+      "id": "2089819413620854890",
+      "url": "https://x.com/jack/status/2089819413620854890",
+      "text": "what's the word, https://t.co/iTe4OIcV71",
+      "createdAt": "Tue Aug 18 20:59:09 +0000 2026",
+      "author": "jack",
+      "handle": "jack",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 84,
+        "reposts": 47,
+        "likes": 811
+      },
+      "score": 22.5
+    },
+    {
+      "id": "2089879016148996231",
+      "url": "https://x.com/blankspac_e/status/2089879016148996231",
+      "text": "\"TV Cello\" by Nam June Paik turned stacked television sets into a playable instrument, performed by Charlotte Moorman while wearing TV Glasses in New York (1971) https://t.co/6EMAEV0ZeA",
+      "createdAt": "Wed Aug 19 00:56:00 +0000 2026",
+      "author": "𝙗𝙡𝙖𝙣𝙠",
+      "handle": "blankspac_e",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 21
+      },
+      "score": 22.5
+    },
+    {
+      "id": "2089875335252963362",
+      "url": "https://x.com/steipete/status/2089875335252963362",
+      "text": "RT @jxnlco: if you contribute to NumPy, pandas, pytest, Pydantic, Requests, Django, Git, OpenSSL, rustls, Serde, DuckDB, SQLite, Kafka, Pos…",
+      "createdAt": "Wed Aug 19 00:41:22 +0000 2026",
+      "author": "Peter Steinberger 🦞",
+      "handle": "steipete",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 9,
+        "likes": 0
+      },
+      "score": 22.5
+    }
+  ]
+}
