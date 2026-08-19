@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-19",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-08-19 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "04aaf7416051833cb1cb20d96b287197d6e550e4",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Wednesday, 19 August 2026",
+    "Issue 021",
+    "Winning starts when you respect the mind's overload."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 19 August 2026",
+  "gmail_message_id": "3359eec5-d212-4f7c-a849-c327b7b26002",
+  "completed_at_ist": "2026-08-19 09:55:03 IST"
+}
