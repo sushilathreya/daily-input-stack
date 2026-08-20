@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-20",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-08-20 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "7729ae860c246ea961108f61177a4cb2227b2936",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Thursday, 20 August 2026",
+    "Issue 022",
+    "When people look irrational, start by asking what job the behavior is doing."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 20 August 2026",
+  "gmail_message_id": "e85a166b-9539-49cf-943c-37a29a9931ba",
+  "completed_at_ist": "2026-08-20 09:55:04 IST"
+}
