@@ -1,0 +1,18 @@
+{
+  "date": "2026-08-21",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-08-21.json",
+  "master": "Clayton M. Christensen",
+  "work": "The Innovator's Dilemma",
+  "chapter_or_section": "Chapter 2, \"Value Networks and the Impetus to Innovate\" (printed pages 33-68; PDF pages 64-99)",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-08-16-weekly-program.json",
+  "parser_preflight": "scanned_image_pdf_with_embedded_jpeg_page_verification; local Books PDF inspected directly with Python JPEG extraction and visual page review. The contents page on PDF page 5 lists Chapter 2 at printed page 33 and Chapter 3 at printed page 69. The Chapter 2 opener appears on PDF page 64, the final Chapter 2 page is PDF page 99 / printed page 68, and Chapter 3 opens on PDF page 100.",
+  "created_at_ist": "2026-08-20 22:00:00 IST",
+  "validation": "node ops/scripts/validate-issue.mjs 2026-08-21 --draft: passed",
+  "notes": "Prepared from ops/state/2026-08-16-weekly-program.json for the 2026-08-21 assignment. Canon history was checked before assignment: 2026-08-07 used only the Chapter 1 section \"The Impact of Technological Change\" and 2026-08-14 used the later Chapter 1 section \"Sustaining Technological Changes,\" so Chapter 2, \"Value Networks and the Impetus to Innovate,\" is not a repeat. Source verification used the local scanned PDF at /home/sushil/studying-the-masters/Books/The Innovator’s Dilemma - Clayton Christensen.pdf plus direct embedded-page extraction because standard shell PDF tools were unavailable in this VPS environment. No publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
