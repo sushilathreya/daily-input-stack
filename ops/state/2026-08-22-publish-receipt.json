@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-22",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-08-22 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "1aca78290f3b5fa8e8bf3854fd250d490d0c81fa",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Saturday, 22 August 2026",
+    "Issue 024",
+    "Growth begins when the product's value clicks fast enough to change behavior."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 22 August 2026",
+  "gmail_message_id": "cd705be5-2f84-4faf-b521-507b507aa2b5",
+  "completed_at_ist": "2026-08-22 09:56:08 IST"
+}
