@@ -1,0 +1,17 @@
+{
+  "date": "2026-08-22",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-08-22.json",
+  "master": "Sean Ellis and Morgan Brown",
+  "work": "Hacking Growth",
+  "chapter_or_section": "Chapter Two, section \"What's the Aha Moment?\" (printed pages 63-86)",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-08-16-weekly-program.json",
+  "parser_preflight": "native_text_epub_with_page_map_verified_boundaries; local Books EPUB inspected directly with unzip and native XHTML extraction. The section heading \"WHAT'S THE AHA MOMENT?\" appears immediately after the prior bounded BranchOut reading on printed page 63 and continues through printed page 86, stopping before Chapter Three on printed page 87.",
+  "created_at_ist": "2026-08-21 22:00:00 IST",
+  "notes": "Prepared from ops/state/2026-08-16-weekly-program.json for the 2026-08-22 assignment. Canon history was checked before assignment: 2026-08-08 used Chapter One, \"Building Growth Teams,\" and 2026-08-15 used the Chapter Two opening section \"The Flameout of BranchOut,\" so \"What's the Aha Moment?\" is not a repeat. Source verification used the local EPUB at /home/sushil/studying-the-masters/Books/Hacking Growth.epub plus the EPUB nav, page-list, page-map, and extracted Chapter Two XHTML to confirm that the section begins on printed page 63 immediately after BranchOut ends and runs through printed page 86, stopping before Chapter Three on printed page 87. No publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
