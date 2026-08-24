@@ -1,0 +1,88 @@
+{
+  "date": "2026-08-23",
+  "week_start": "2026-08-24",
+  "week_end": "2026-08-30",
+  "status": "planned",
+  "theme": "Move from social proof to story, mental position, desire, strategic disruption, growth levers, and disciplined copy so the market case compounds across the week.",
+  "days": [
+    {
+      "date": "2026-08-24",
+      "master": "Robert B. Cialdini",
+      "work": "Influence: The Psychology of Persuasion",
+      "chapter_or_section": "Chapter 4, \"Social Proof: Truths are Us\"",
+      "fundamental": "Persuasion: study how people borrow evidence from the crowd under uncertainty, and separate legitimate social proof from herd cues that erase independent judgment.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Influence - Robert Cialdini.pdf",
+      "drive_link": "https://drive.google.com/file/d/1sTpikK8Y7ebUBiSRRkiZoBcbNSh4Dk_Y/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This advances beyond the already studied Influence chapters \"Weapons of Influence,\" \"Reciprocation,\" and \"Commitment and Consistency: Hobgoblins of the Mind.\""
+    },
+    {
+      "date": "2026-08-25",
+      "master": "Donald Miller",
+      "work": "Building a StoryBrand",
+      "chapter_or_section": "Chapter 1, \"The Key to Being Seen, Heard, and Understood\"",
+      "fundamental": "Storytelling: clarify why audiences ignore noise but respond to narrative compression, then use story as a practical device for making the commercial message legible.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Building a Stroybrand.epub",
+      "drive_link": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This opens a new storytelling line in canon history without repeating prior McKee assignments."
+    },
+    {
+      "date": "2026-08-26",
+      "master": "Al Ries and Jack Trout",
+      "work": "Positioning: The Battle for Your Mind",
+      "chapter_or_section": "Chapter 3, \"Getting into the Mind\"",
+      "fundamental": "Positioning/brand: learn why timing, category entry, and mental simplicity matter more than message volume when trying to occupy a durable slot in the prospect's mind.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Positioning - Al Ries and Jack Trout.pdf",
+      "drive_link": "https://drive.google.com/file/d/1fISuTXG4QmxQ6MrFaI3wxE6eR6EoEh-p/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This follows the already studied Positioning chapters \"What Positioning Is All About\" and \"The Assault on the Mind.\""
+    },
+    {
+      "date": "2026-08-27",
+      "master": "Eugene Schwartz",
+      "work": "Breakthrough Advertising",
+      "chapter_or_section": "Part I, Chapter 3, \"The Sophistication of the Market\"",
+      "fundamental": "Human desire/psychology: track how repeated exposure changes what the market can still feel, believe, and notice, and how mature desire demands sharper emotional framing.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Breakthrough Advertising Eugene Schwartz.pdf",
+      "drive_link": "https://drive.google.com/file/d/1HMVnMMmOMxmqrZz0Zcb6-dmbTdMZ0ezI/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This continues the earlier Breakthrough Advertising readings \"Mass Desire\" and \"Your Prospect's State of Awareness\" without repeating them."
+    },
+    {
+      "date": "2026-08-28",
+      "master": "Clayton M. Christensen",
+      "work": "The Innovator's Dilemma",
+      "chapter_or_section": "Chapter 3, \"Disruptive Technological Change in the Mechanical Excavator Industry\"",
+      "fundamental": "Tech/strategy: see the disruptive pattern in a second industry so the theory stops feeling anecdotal and starts reading as an operating constraint on incumbent decision-making.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/The Innovator’s Dilemma - Clayton Christensen.pdf",
+      "drive_link": "https://drive.google.com/file/d/1X5-ZodswFwiIg2uFtgLMZNHzmJqCtu8w/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This advances beyond the already studied Innovator's Dilemma sections from Chapters 1 and 2 and should be bounded carefully during canon prep."
+    },
+    {
+      "date": "2026-08-29",
+      "master": "Sean Ellis and Morgan Brown",
+      "work": "Hacking Growth",
+      "chapter_or_section": "Chapter Three, \"Identifying Your Growth Levers\"",
+      "fundamental": "Distribution/growth: define the growth equation before ideation so testing effort compounds against the metric that actually governs durable expansion.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Hacking Growth.epub",
+      "drive_link": "https://drive.google.com/file/d/1wtU-SZ-6s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This moves forward from the already studied Hacking Growth readings \"Building Growth Teams,\" \"The Flameout of BranchOut,\" and \"What's the Aha Moment?\""
+    },
+    {
+      "date": "2026-08-30",
+      "master": "Claude C. Hopkins",
+      "work": "Scientific Advertising",
+      "chapter_or_section": "Chapter 6, \"Psychology\"",
+      "fundamental": "Writing/taste: sharpen copy by grounding claims in observed motive, so wording follows actual buying behavior instead of ornamental language or writerly preference.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Scientific Advertising - Claude C. Hopkins.pdf",
+      "drive_link": "",
+      "fallback_acquire_note": "Available locally. No dedicated Scientific Advertising Drive file is listed in books-drive-links.json, so canon prep should use the local PDF unless a verified Drive duplicate is found later."
+    }
+  ],
+  "created_at_ist": "2026-08-23 18:02:48 IST",
+  "created_by": "weekly-program-agent"
+}
