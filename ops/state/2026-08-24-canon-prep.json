@@ -1,0 +1,17 @@
+{
+  "date": "2026-08-24",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-08-24.json",
+  "master": "Robert B. Cialdini",
+  "work": "Influence: The Psychology of Persuasion",
+  "chapter_or_section": "Chapter 4, \"Social Proof: Truths Are Us\" (printed pages 87-125; PDF pages 97-135)",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-08-23-weekly-program.json",
+  "parser_preflight": "text_based_with_contents_and_outline_verification; local Books PDF inspected directly with node byte-level parsing, zlib stream inflation, and raw outline-object review. The contents-page stream confirms Chapter 4 on printed page 87 and Chapter 5 on printed page 126, and the raw outline objects expose Chapter 4 and Chapter 5 destinations in the same sequence, supporting a bounded reading on PDF pages 97-135.",
+  "created_at_ist": "2026-08-23 22:01:41 IST",
+  "notes": "Prepared from ops/state/2026-08-23-weekly-program.json for the 2026-08-24 assignment. Canon history was checked before assignment: 2026-08-03 used Chapter 1, \"Weapons of Influence,\" 2026-08-10 used Chapter 2, \"Reciprocation,\" and 2026-08-17 used Chapter 3, \"Commitment and Consistency: Hobgoblins of the Mind,\" so Chapter 4 is not a repeat. Source verification used the local PDF at /home/sushil/studying-the-masters/Books/Influence - Robert Cialdini.pdf and confirmed the chapter boundaries directly from the contents stream plus raw outline objects, yielding printed pages 87-125 and PDF pages 97-135, stopping before Chapter 5 begins on printed page 126 / PDF page 136. No publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
