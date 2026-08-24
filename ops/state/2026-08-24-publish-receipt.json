@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-24",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-08-24 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "fbad77a53c0122eea6103930cff1851f06726c61",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Monday, 24 August 2026",
+    "Issue 026",
+    "When people are unsure, the crowd can lend confidence faster than evidence."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 24 August 2026",
+  "gmail_message_id": "c42ba59c-ecd8-4adb-9a3f-390aa8f80e0d",
+  "completed_at_ist": "2026-08-24 09:55:39 IST"
+}
