@@ -1,0 +1,18 @@
+{
+  "date": "2026-08-25",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-08-25.json",
+  "master": "Donald Miller",
+  "work": "Building a StoryBrand",
+  "chapter_or_section": "Chapter 1, \"The Key to Being Seen, Heard, and Understood\" (EPUB Chapter 1 only; stop before Chapter 2)",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-08-23-weekly-program.json",
+  "parser_preflight": "native_text_epub_with_toc_and_split-file_boundary_verification; local Books EPUB inspected directly with unzip and native XHTML extraction. The EPUB nav confirms Chapter 1 and Chapter 2 in sequence, and the native split files show that Chapter 1 is fully contained in `index_split_008.html` while Chapter 2 begins in `index_split_009.html`.",
+  "created_at_ist": "2026-08-24 22:01:24 IST",
+  "validation": "node ops/scripts/validate-issue.mjs 2026-08-25 --draft: passed",
+  "notes": "Prepared from ops/state/2026-08-23-weekly-program.json for the 2026-08-25 assignment. Canon history was checked before assignment and shows no prior Donald Miller / Building a StoryBrand chapter has been studied, so Chapter 1 is not a repeat. Source verification used the local EPUB at /home/sushil/studying-the-masters/Books/Building a Stroybrand.epub plus the EPUB nav and extracted native XHTML. This EPUB does not expose the printed-page map used by some other EPUB sources, so the bounded reading is assigned by verified chapter-file boundary: Chapter 1 in `index_split_008.html`, stopping before Chapter 2 begins in `index_split_009.html`. No publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
