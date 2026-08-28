@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-28",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-08-28 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "7651e9541d9a74dab266cde992627f72eae46646",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Friday, 28 August 2026",
+    "Issue 030",
+    "A disruptive technology rarely looks persuasive when the incumbent measures it with the incumbent market's ruler."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 28 August 2026",
+  "gmail_message_id": "2bccc2e1-25ad-4da0-b162-8d341e778f7e",
+  "completed_at_ist": "2026-08-28 09:55:53 IST"
+}
