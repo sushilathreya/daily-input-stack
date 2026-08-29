@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-29",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-08-29 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "8843c986e73da9db1e3efcc7c5f50d1a09237e2f",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Saturday, 29 August 2026",
+    "Issue 031",
+    "Growth gets sharper when the team stops chasing activity in general and names the few variables that actually govern expansion."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 29 August 2026",
+  "gmail_message_id": "61e5941a-9941-48e8-abe3-9f6c462f632f",
+  "completed_at_ist": "2026-08-29 09:55:52 IST"
+}
