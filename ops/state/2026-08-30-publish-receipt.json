@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-30",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-08-30 12:00:00 IST",
+  "local_verified": true,
+  "git_commit": "502a56aa31f308ffd602aff2e563da439365e98c",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Sunday, 30 August 2026",
+    "Issue 032",
+    "Copy sharpens when the writer stops admiring language and studies the reactions that language predictably triggers."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - Sunday - 30 August 2026",
+  "gmail_message_id": "af3558f7-2da0-4064-848c-9892338c50fe",
+  "completed_at_ist": "2026-08-30 11:55:53 IST"
+}
