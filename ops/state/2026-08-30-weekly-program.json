@@ -1,0 +1,88 @@
+{
+  "date": "2026-08-30",
+  "week_start": "2026-08-31",
+  "week_end": "2026-09-06",
+  "status": "planned",
+  "theme": "Move from social affinity to narrative clarity, mental position, psycho-logic, disruptive constraint, growth experimentation, and precise copy so commercial behavior is studied as a connected system across the week.",
+  "days": [
+    {
+      "date": "2026-08-31",
+      "master": "Robert B. Cialdini",
+      "work": "Influence: The Psychology of Persuasion",
+      "chapter_or_section": "Chapter 5, \"Liking: The Friendly Thief\"",
+      "fundamental": "Persuasion: study how affinity, resemblance, praise, and association lower resistance, then separate earned trust from charm that quietly disarms judgment.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Influence - Robert Cialdini.pdf",
+      "drive_link": "https://drive.google.com/file/d/1sTpikK8Y7ebUBiSRRkiZoBcbNSh4Dk_Y/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history already used Chapters 1 through 4, so Chapter 5 advances the Influence track without repetition."
+    },
+    {
+      "date": "2026-09-01",
+      "master": "Donald Miller",
+      "work": "Building a StoryBrand",
+      "chapter_or_section": "Chapter 2, \"The Secret Weapon That Will Grow Your Business\"",
+      "fundamental": "Storytelling: understand why story functions as a compression device for attention, then use narrative structure to make the offer legible before the audience tunes out.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Building a Stroybrand.epub",
+      "drive_link": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. The local EPUB table of contents confirms this is the next StoryBrand chapter after the already studied Chapter 1."
+    },
+    {
+      "date": "2026-09-02",
+      "master": "Al Ries and Jack Trout",
+      "work": "Positioning: The Battle for Your Mind",
+      "chapter_or_section": "Chapter 4, \"Those Little Lungs in the 1960s\"",
+      "fundamental": "Positioning/brand: see how a brand can win by attaching itself to a sharp mental contrast, not by explaining more features than the market can retain.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Positioning - Al Ries and Jack Trout.pdf",
+      "drive_link": "https://drive.google.com/file/d/1fISuTXG4QmxQ6MrFaI3wxE6eR6EoEh-p/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This continues the Positioning sequence after the already studied Chapters 1 through 3."
+    },
+    {
+      "date": "2026-09-03",
+      "master": "Rory Sutherland",
+      "work": "Alchemy",
+      "chapter_or_section": "Introduction, \"The Danger of Technocratic Elites\"",
+      "fundamental": "Human desire/psychology: examine what gets missed when human motives are forced into overly rational models, and learn to treat irrational-looking behavior as signal rather than noise.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Alchemy - Rory Sutherland.pdf",
+      "drive_link": "https://drive.google.com/file/d/1N3T4Qh1LHH6_Fibe-8WlW6COvwEiJyN4/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. The local PDF bookmark trail shows this is the next named introduction section after the already studied Alchemy introduction readings."
+    },
+    {
+      "date": "2026-09-04",
+      "master": "Clayton M. Christensen",
+      "work": "The Innovator's Dilemma",
+      "chapter_or_section": "Chapter 4, \"What Goes Up, Can't Go Down\"",
+      "fundamental": "Tech/strategy: follow how performance overshoots mainstream demand, creating the opening where disruptive entrants can improve on a dimension incumbents are not organized to honor.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/The Innovator’s Dilemma - Clayton Christensen.pdf",
+      "drive_link": "https://drive.google.com/file/d/1X5-ZodswFwiIg2uFtgLMZNHzmJqCtu8w/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history used bounded readings from Chapters 1 through 3, so this is the next strategic step; canon prep must verify the scanned-PDF chapter boundary before assigning pages."
+    },
+    {
+      "date": "2026-09-05",
+      "master": "Sean Ellis and Morgan Brown",
+      "work": "Hacking Growth",
+      "chapter_or_section": "Chapter Four: Testing at High Tempo",
+      "fundamental": "Distribution/growth: build a growth operating rhythm where throughput, disciplined hypothesis design, and fast learning matter more than isolated clever experiments.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Hacking Growth.epub",
+      "drive_link": "https://drive.google.com/file/d/1wtU-SZ-6s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. The local EPUB table of contents confirms this is the next full Hacking Growth chapter after the already studied Chapter Three."
+    },
+    {
+      "date": "2026-09-06",
+      "master": "Claude C. Hopkins",
+      "work": "Scientific Advertising",
+      "chapter_or_section": "Chapter 7, \"Being Specific\"",
+      "fundamental": "Writing/taste: sharpen commercial prose by replacing vague claims with concrete detail that gives the reader a reason to believe, compare, and remember.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Scientific Advertising - Claude C. Hopkins.pdf",
+      "drive_link": "",
+      "fallback_acquire_note": "Available locally. Canon history already used \"Just Salesmanship,\" \"Headlines,\" and \"Psychology\"; this advances the Scientific Advertising line, and canon prep should keep using the verified local PDF because no dedicated Drive file is established in current repo metadata."
+    }
+  ],
+  "created_at_ist": "2026-08-30 18:02:53 IST",
+  "created_by": "weekly-program-agent"
+}
