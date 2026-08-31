@@ -1,0 +1,17 @@
+{
+  "date": "2026-08-31",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-08-31.json",
+  "master": "Robert B. Cialdini",
+  "work": "Influence: The Psychology of Persuasion",
+  "chapter_or_section": "Chapter 5, \"Liking: The Friendly Thief\" (book pages 126-156 / PDF pages 136-166)",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-08-30-weekly-program.json",
+  "parser_preflight": "text_based_with_contents_and_chapter_opener_verification; local Books PDF inspected directly with Node byte-level stream inflation. The contents page confirms Chapter 5 on printed page 126 and Chapter 6 on printed page 157, while separate chapter-opener streams confirm the Chapter 5 and Chapter 6 openers in sequence, yielding the bounded Chapter 5 assignment on PDF pages 136-166.",
+  "created_at_ist": "2026-08-30 22:01:46 IST",
+  "notes": "Prepared from ops/state/2026-08-30-weekly-program.json for the 2026-08-31 assignment. Canon history was checked before assignment: 2026-08-03 used Chapter 1, \"Weapons of Influence,\" 2026-08-10 used Chapter 2, \"Reciprocation,\" 2026-08-17 used Chapter 3, \"Commitment and Consistency,\" and 2026-08-24 used Chapter 4, \"Social Proof,\" so Chapter 5, \"Liking: The Friendly Thief,\" is not a repeat. Source verification used the local PDF at /home/sushil/studying-the-masters/Books/Influence - Robert Cialdini.pdf together with direct contents-stream and chapter-opener inspection on the VPS. No publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
