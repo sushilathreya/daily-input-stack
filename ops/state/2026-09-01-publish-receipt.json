@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-01",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-09-01 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "a06110a21ddf8a147f286b401a1410d151794414",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Tuesday, 1 September 2026",
+    "Issue 034",
+    "Story holds attention because it turns scattered claims into a sequence the mind can follow."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 1 September 2026",
+  "gmail_message_id": "39d4a6de-0af9-49d1-80f7-2d3389002156",
+  "completed_at_ist": "2026-09-01 09:55:53 IST"
+}
