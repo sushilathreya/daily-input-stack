@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-01",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-09-01.json",
+  "master": "Donald Miller",
+  "work": "Building a StoryBrand",
+  "chapter_or_section": "Chapter 2, \"The Secret Weapon That Will Grow Your Business\" (EPUB `index_split_009.html`; stop before `index_split_010.html`)",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-08-30-weekly-program.json",
+  "parser_preflight": "native_text_epub_with_toc_and_split-file_boundary_verification; local Books EPUB inspected directly with unzip and native XHTML extraction. The `toc.ncx` nav confirms Chapter 2, \"The Secret Weapon That Will Grow Your Business,\" and the chapter boundary is clean: Chapter 2 occupies `index_split_009.html`, while Chapter 3 begins at the start of `index_split_010.html`.",
+  "created_at_ist": "2026-08-31 22:01:09 IST",
+  "notes": "Prepared from ops/state/2026-08-30-weekly-program.json for the 2026-09-01 assignment. Canon history was checked before assignment: 2026-08-25 used Chapter 1, \"The Key to Being Seen, Heard, and Understood,\" and there is no prior use of Chapter 2, \"The Secret Weapon That Will Grow Your Business,\" so this is not a repeat. Source verification used the local EPUB at /home/sushil/studying-the-masters/Books/Building a Stroybrand.epub together with direct `toc.ncx` and split-file inspection on the VPS. No publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
