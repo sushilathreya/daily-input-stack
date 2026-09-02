@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-02",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-09-02 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "f58f90a1a302b8bae6bdc42f468a6798c7fa0c07",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Wednesday, 2 September 2026",
+    "Issue 035",
+    "The mind ranks brands on simple ladders long before it reviews the full case."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 2 September 2026",
+  "gmail_message_id": "b3868e88-dd41-4002-bce9-e33be1be79ae",
+  "completed_at_ist": "2026-09-02 09:56:08 IST"
+}
