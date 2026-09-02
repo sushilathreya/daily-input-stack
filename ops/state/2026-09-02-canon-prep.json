@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-02",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-09-02.json",
+  "master": "Al Ries and Jack Trout",
+  "work": "Positioning: The Battle for Your Mind",
+  "chapter_or_section": "Chapter 4, \"Those Little Ladders in Your Head\" (PDF pages 31-35)",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-08-30-weekly-program.json",
+  "parser_preflight": "native_text_pdf_with_outline_boundary_verification; local Books PDF inspected directly with Python object/page mapping against the PDF's linked contents destinations. Chapter 4 resolves to destination page object 79 and Chapter 5 resolves to page object 89; mapping across the 169 /Type /Page objects yields the bounded reading on PDF pages 31-35, with Chapter 5 beginning on PDF page 36.",
+  "created_at_ist": "2026-09-01 22:02:22 IST",
+  "notes": "Prepared from ops/state/2026-08-30-weekly-program.json for the 2026-09-02 assignment. Canon history was checked before assignment: 2026-08-05 used Chapter 1, \"What Positioning Is All About,\" 2026-08-19 used Chapter 2, \"The Assault on the Mind,\" and 2026-08-26 used Chapter 3, \"Getting into the Mind,\" so Chapter 4 is not a repeat. Source verification on the local PDF at /home/sushil/studying-the-masters/Books/Positioning - Al Ries and Jack Trout.pdf also corrected the weekly-program label: this source edition names Chapter 4 \"Those Little Ladders in Your Head,\" not \"Those Little Lungs in the 1960s.\" No publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
