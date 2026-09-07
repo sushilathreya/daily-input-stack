@@ -1,4 +1,4 @@
-import { execFileSync } from "node:child_process";
+import { execFileSync, spawnSync } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
 import { escapeHtml, issuePath, loadIssue, readJson, ROOT, todayInIST, writeFile, xCandidatesPath } from "./lib.mjs";
@@ -14,16 +14,37 @@ const subject = issue.displayDate.startsWith("Sunday")
 const body = `Today's Studying the Masters issue is live:\n\nhttps://sushilathreya.github.io/daily-input-stack/`;
 
 function run(command, args, options = {}) {
-  return execFileSync(command === "node" ? process.execPath : command, args, {
+  if (command === "node") {
+    return execFileSync(process.execPath, args, {
+      cwd: ROOT,
+      stdio: options.capture ? "pipe" : "inherit",
+      encoding: "utf8"
+    });
+  }
+
+  const result = spawnSync(command, args, {
     cwd: ROOT,
     stdio: options.capture ? "pipe" : "inherit",
     encoding: "utf8"
   });
+
+  if (result.error) {
+    throw result.error;
+  }
+  if (result.status && result.status !== 0) {
+    const error = new Error(`Command failed: ${command} ${args.join(" ")}`);
+    error.status = result.status;
+    error.stdout = result.stdout;
+    error.stderr = result.stderr;
+    throw error;
+  }
+
+  return options.capture ? (result.stdout || "") : "";
 }
 
 function commandExists(command) {
   try {
-    execFileSync("sh", ["-lc", `command -v ${command}`], {
+    execFileSync("which", [command], {
       cwd: ROOT,
       stdio: "ignore"
     });

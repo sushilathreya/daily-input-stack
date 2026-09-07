@@ -8,6 +8,7 @@ ENV_FILE="$BASE/.env"
 LOCK_FILE="$BASE/canon-prep.lock"
 NODE_BIN="/home/sushil/.nvm/versions/node/v22.22.0/bin"
 CODEX="$NODE_BIN/codex"
+CODEX_MODEL="${STM_CODEX_MODEL:-gpt-5.4-mini}"
 
 mkdir -p "$BASE/logs"
 
@@ -30,7 +31,7 @@ sed "s/DATE_PLACEHOLDER/$DATE/g" "$REPO/ops/vps/canon-prep-prompt.md" > "$PROMPT
 cd "$REPO"
 
 exec flock -n "$LOCK_FILE" timeout 55m "$CODEX" exec \
-  -m gpt-5.4 \
+  -m "$CODEX_MODEL" \
   -C "$REPO" \
   --add-dir "$BOOKS" \
   -s workspace-write \

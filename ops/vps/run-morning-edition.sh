@@ -7,6 +7,7 @@ ENV_FILE="$BASE/.env"
 LOCK_FILE="$BASE/morning-edition.lock"
 NODE_BIN="/home/sushil/.nvm/versions/node/v22.22.0/bin"
 CODEX="$NODE_BIN/codex"
+CODEX_MODEL="${STM_CODEX_MODEL:-gpt-5.4-mini}"
 
 mkdir -p "$BASE/logs"
 
@@ -34,7 +35,7 @@ cd "$REPO"
   "$NODE_BIN/node" ops/scripts/capture-x-candidates.mjs "$DATE" || true
 
   timeout 50m "$CODEX" exec \
-    -m gpt-5.4 \
+    -m "$CODEX_MODEL" \
     -C "$REPO" \
     -s workspace-write \
     -c approval_policy='"never"' \

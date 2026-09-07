@@ -7,6 +7,7 @@ ENV_FILE="$BASE/.env"
 LOCK_FILE="$BASE/weekly-program.lock"
 NODE_BIN="/home/sushil/.nvm/versions/node/v22.22.0/bin"
 CODEX="$NODE_BIN/codex"
+CODEX_MODEL="${STM_CODEX_MODEL:-gpt-5.4-mini}"
 
 mkdir -p "$BASE/logs"
 
@@ -24,7 +25,7 @@ DATE="$("$NODE_BIN/node" -e 'console.log(new Intl.DateTimeFormat("en-CA",{timeZo
 cd "$REPO"
 
 exec flock -n "$LOCK_FILE" timeout 35m "$CODEX" exec \
-  -m gpt-5.4 \
+  -m "$CODEX_MODEL" \
   -C "$REPO" \
   -s workspace-write \
   -c approval_policy='"never"' \

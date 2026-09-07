@@ -50,10 +50,14 @@ function ensureDir(relativePath) {
 }
 
 function writeLegacyEdition(edition) {
-  const html = execFileSync("git", ["show", `${edition.snapshotCommit}:index.html`], {
-    cwd: ROOT,
-    encoding: "utf8"
-  })
+  const existingPath = path.join(ROOT, `editions/${edition.date}/index.html`);
+  const sourceHtml = fs.existsSync(existingPath)
+    ? fs.readFileSync(existingPath, "utf8")
+    : execFileSync("git", ["show", `${edition.snapshotCommit}:index.html`], {
+        cwd: ROOT,
+        encoding: "utf8"
+      });
+  const html = sourceHtml
     .replace("</head>", `    <base href="../../" />\n    <link rel="canonical" href="https://sushilathreya.github.io/daily-input-stack/editions/${edition.date}/" />\n  </head>`)
     .replace(/(<nav class="topline"[^>]*>)(?!<a class="brand")/, "$1<a class=\"brand\" href=\"../../\">Studying the Masters</a>")
     .replace(/(<nav class="topline"[^>]*>.*?<a[^>]*class="brand"[^>]*>.*?<\/a>)/s, "$1<a href=\"../../archive/\">Archive</a>");
