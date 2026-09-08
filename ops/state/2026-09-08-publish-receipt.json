@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-08",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-09-08 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "51bcb9a939d2d4d072d8073e72c857e33d12323a",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Tuesday, 8 September 2026",
+    "Issue 039",
+    "The strongest claim is the one that keeps talking until the case feels complete."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 8 September 2026",
+  "gmail_message_id": "22e3dd11-58a7-4d56-a235-cb3a1f5ef256",
+  "completed_at_ist": "2026-09-08 09:55:03 IST"
+}
