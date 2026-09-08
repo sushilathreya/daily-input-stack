@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-08",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-09-08.json",
+  "master": "Claude C. Hopkins",
+  "work": "Scientific Advertising",
+  "chapter_or_section": "Chapter 8, \"Tell Your Full Story\" (PDF pages 24-26)",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": null,
+  "parser_preflight": "native_text_pdf_with_local_stream_boundary_verification; the local Books PDF /home/sushil/studying-the-masters/Books/Scientific Advertising - Claude C. Hopkins.pdf was inspected directly by decompressing page streams with python3. The page stream for Chapter 8, \"Tell Your Full Story,\" opens on PDF page 24, and the next chapter, Chapter 9, \"Art In Advertising,\" opens on PDF page 27, yielding the bounded reading on PDF pages 24-26.",
+  "created_at_ist": "2026-09-07 22:00:00 IST",
+  "notes": "Prepared for the 2026-09-08 canon slot using canon-history fallback because no 2026-09-08 weekly-program file was available in this workspace. Canon history was checked before assignment: 2026-07-30 used \"Just Salesmanship,\" 2026-08-09 used Chapter 5, \"Headlines,\" 2026-08-30 used Chapter 6, \"Psychology,\" and 2026-09-07 used Chapter 7, \"Being Specific,\" so Chapter 8, \"Tell Your Full Story,\" is not a repeat. Source verification used the local PDF already present in /home/sushil/studying-the-masters/Books together with direct stream inspection on the VPS. No publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
