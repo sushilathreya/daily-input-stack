@@ -7,7 +7,7 @@ ENV_FILE="$BASE/.env"
 LOCK_FILE="$BASE/morning-edition.lock"
 NODE_BIN="/home/sushil/.nvm/versions/node/v22.22.0/bin"
 CODEX="$NODE_BIN/codex"
-CODEX_MODEL="${STM_CODEX_MODEL:-gpt-5.4-mini}"
+CODEX_MODEL="${STM_CODEX_MODEL:-gpt-5.6-luna}"
 
 mkdir -p "$BASE/logs"
 
@@ -31,6 +31,8 @@ cd "$REPO"
 
 (
   flock -n 9
+
+  CODEX_MODEL="$("$REPO/ops/vps/select-codex-model.sh")"
 
   "$NODE_BIN/node" ops/scripts/capture-x-candidates.mjs "$DATE" || true
 
