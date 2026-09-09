@@ -22,6 +22,7 @@ export PATH="$NODE_BIN:$PATH"
 export STM_BOOKS_DIR="$BASE/Books"
 
 DATE="$("$NODE_BIN/node" -e 'console.log(new Intl.DateTimeFormat("en-CA",{timeZone:"Asia/Kolkata",year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date()));')"
+RUN_LOG="$BASE/logs/morning-edition-$DATE.run.log"
 PROMPT_FILE="$(mktemp)"
 trap 'rm -f "$PROMPT_FILE"' EXIT
 
@@ -31,6 +32,7 @@ cd "$REPO"
 
 (
   flock -n 9
+  exec >>"$RUN_LOG" 2>&1
 
   CODEX_MODEL="$("$REPO/ops/vps/select-codex-model.sh")"
 

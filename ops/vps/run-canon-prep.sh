@@ -23,6 +23,7 @@ export PATH="$NODE_BIN:$PATH"
 export STM_BOOKS_DIR="$BOOKS"
 
 DATE="$("$NODE_BIN/node" -e 'const d=new Date(Date.now()+86400000); console.log(new Intl.DateTimeFormat("en-CA",{timeZone:"Asia/Kolkata",year:"numeric",month:"2-digit",day:"2-digit"}).format(d));')"
+RUN_LOG="$BASE/logs/canon-prep-$DATE.run.log"
 PROMPT_FILE="$(mktemp)"
 trap 'rm -f "$PROMPT_FILE"' EXIT
 
@@ -30,6 +31,7 @@ sed "s/DATE_PLACEHOLDER/$DATE/g" "$REPO/ops/vps/canon-prep-prompt.md" > "$PROMPT
 
 cd "$REPO"
 
+exec >>"$RUN_LOG" 2>&1
 CODEX_MODEL="$("$REPO/ops/vps/select-codex-model.sh")"
 
 exec flock -n "$LOCK_FILE" timeout 55m "$CODEX" exec \

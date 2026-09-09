@@ -21,9 +21,11 @@ fi
 export PATH="$NODE_BIN:$PATH"
 
 DATE="$("$NODE_BIN/node" -e 'console.log(new Intl.DateTimeFormat("en-CA",{timeZone:"Asia/Kolkata",year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date()));')"
+RUN_LOG="$BASE/logs/weekly-program-$DATE.run.log"
 
 cd "$REPO"
 
+exec >>"$RUN_LOG" 2>&1
 CODEX_MODEL="$("$REPO/ops/vps/select-codex-model.sh")"
 
 exec flock -n "$LOCK_FILE" timeout 35m "$CODEX" exec \
