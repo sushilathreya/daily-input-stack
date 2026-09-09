@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-09",
+  "status": "published_and_emailed",
+  "delivery_status": "delayed",
+  "target_inbox_time_ist": "2026-09-09 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "e38316ca8115d7b722168f1392234b0a654de29a",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Wednesday, 9 September 2026",
+    "Issue 040",
+    "The ad has to make the offer worth wanting before it makes the copy worth admiring."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 9 September 2026",
+  "gmail_message_id": "053f7270-bdcb-4a4d-b5b4-b93af3c7fa8b",
+  "completed_at_ist": "2026-09-09 10:37:04 IST",
+  "delay_note": "Complete issue was sent at 2026-09-09 10:37:04 IST, after the 2026-09-09 10:00:00 IST target."
+}
