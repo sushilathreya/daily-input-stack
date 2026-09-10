@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-10",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-09-10 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "20b67b48919dc82c61189f1334fffba3cae178b9",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Thursday, 10 September 2026",
+    "Issue 041",
+    "A good campaign knows when the cost of persuasion has become the cost of the product."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 10 September 2026",
+  "gmail_message_id": "eb7ce5c2-4a87-46ea-86c9-8678220b6a98",
+  "completed_at_ist": "2026-09-10 09:55:03 IST"
+}
