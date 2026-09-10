@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-10",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-09-10.json",
+  "master": "Claude C. Hopkins",
+  "work": "Scientific Advertising",
+  "chapter_or_section": "Chapter 10, \"Things Too Costly\" (PDF pages 31-33)",
+  "source_access_checked": true,
+  "drive_link_present": false,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": null,
+  "canon_history_checked": true,
+  "parser_preflight": "native_text_pdf_with_local_stream_boundary_verification; the local Books PDF /home/sushil/studying-the-masters/Books/Scientific Advertising - Claude C. Hopkins.pdf was inspected by decompressing page content streams with python3. Chapter 10, \"Things Too Costly,\" begins on PDF page 31 and Chapter 11, \"Information,\" begins on PDF page 34, so the bounded reading is PDF pages 31-33.",
+  "validation_command": "node ops/scripts/validate-issue.mjs 2026-09-10 --draft",
+  "notes": "No weekly program exists for the 2026-09-07 to 2026-09-13 week. Canon history ends with Chapter 9, \"Art In Advertising,\" on 2026-09-09; Chapter 10 is the next non-repeated section. Canon-only run: no publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML."
+}
