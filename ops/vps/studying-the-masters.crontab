@@ -1,0 +1,13 @@
+# Studying the Masters schedule. Times are UTC; VPS timezone is UTC.
+# 22:00 IST previous-night canon preparation.
+30 16 * * * cd /home/sushil/studying-the-masters/daily-input-stack && /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-canon-prep.sh
+# Weekly canon planning: Sunday 18:00 IST.
+30 12 * * 0 cd /home/sushil/studying-the-masters/daily-input-stack && /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-weekly-program.sh
+# Morning field notes and read-only X capture: 09:00 IST weekdays, 11:00 IST Sunday.
+30 3 * * 1-6 cd /home/sushil/studying-the-masters/daily-input-stack && /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-morning-edition.sh
+30 5 * * 0 cd /home/sushil/studying-the-masters/daily-input-stack && /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-morning-edition.sh
+# Delivery begins five minutes before the target and retries after the target.
+25 4 * * 1-6 cd /home/sushil/studying-the-masters/daily-input-stack && /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-delivery.sh
+37 4 * * 1-6 cd /home/sushil/studying-the-masters/daily-input-stack && /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-delivery.sh
+25 6 * * 0 cd /home/sushil/studying-the-masters/daily-input-stack && /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-delivery.sh
+37 6 * * 0 cd /home/sushil/studying-the-masters/daily-input-stack && /home/sushil/studying-the-masters/daily-input-stack/ops/vps/run-delivery.sh
