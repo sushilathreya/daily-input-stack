@@ -26,7 +26,7 @@
     "allowRepeat": false,
     "source": {
       "kind": "local_public_domain_pdf",
-      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Scientific Advertising - Claude Hopkins.pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Scientific Advertising - Claude C. Hopkins.pdf",
       "driveUrl": "https://jonrognerud.com/claude.pdf",
       "booksFolderUrl": "https://www.loc.gov/item/23009362/",
       "parserPreflight": {
@@ -40,7 +40,7 @@
     "sourceLinks": {
       "readOnPhone": "https://jonrognerud.com/claude.pdf",
       "booksFolder": "https://www.loc.gov/item/23009362/",
-      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Scientific Advertising - Claude Hopkins.pdf\""
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Scientific Advertising - Claude C. Hopkins.pdf\""
     },
     "heading": "Hopkins: The headline is a filter before it is a flourish.",
     "standfirst": "Read Chapter 5, \"Headlines,\" from Claude C. Hopkins's <em>Scientific Advertising</em>, through PDF page 14. Hopkins's point is bracingly narrow: a headline should call out the people who can be interested in the offer, reveal the interest at stake, and earn a hearing for the sales argument that follows.",

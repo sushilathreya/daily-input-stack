@@ -26,7 +26,7 @@
     "allowRepeat": false,
     "source": {
       "kind": "local_public_domain_pdf",
-      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Scientific Advertising - Claude Hopkins.pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Scientific Advertising - Claude C. Hopkins.pdf",
       "driveUrl": "https://jonrognerud.com/claude.pdf",
       "booksFolderUrl": "https://www.loc.gov/item/23009362/",
       "parserPreflight": {
@@ -41,7 +41,7 @@
     "sourceLinks": {
       "readOnPhone": "https://jonrognerud.com/claude.pdf",
       "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
-      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Scientific Advertising - Claude Hopkins.pdf\""
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Scientific Advertising - Claude C. Hopkins.pdf\""
     },
     "heading": "Hopkins: the ad writer earns clarity by learning which human motives reliably move attention, trust, and action.",
     "standfirst": "Read Chapter 6, \"Psychology,\" from Claude C. Hopkins's <em>Scientific Advertising</em>, on PDF pages 16-19. Hopkins argues that effective advertising is not literary self-expression but applied human observation: learn the fixed motives that cause response, then write with those motives in view instead of relying on ornament or instinct.",
