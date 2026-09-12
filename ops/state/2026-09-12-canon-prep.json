@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-12",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-09-12.json",
+  "master": "Claude C. Hopkins",
+  "work": "Scientific Advertising",
+  "chapter_or_section": "Chapter 12, \"Strategy\" (PDF pages 36-38)",
+  "source_access_checked": true,
+  "drive_link_present": false,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": null,
+  "canon_history_checked": true,
+  "parser_preflight": "native_text_pdf_with_local_stream_boundary_verification; direct decompression and text inspection of /home/sushil/studying-the-masters/Books/Scientific Advertising - Claude C. Hopkins.pdf verified that Chapter 12 opens on PDF page 36 and Chapter 13, \"Use Of Samples,\" opens on PDF page 39, so the bounded assignment is PDF pages 36-38.",
+  "validation_command": "node ops/scripts/validate-issue.mjs 2026-09-12 --draft",
+  "notes": "No weekly program exists for the 2026-09-07 to 2026-09-13 week. Canon history ends with Chapter 11, \"Information,\" on 2026-09-11; Chapter 12, \"Strategy,\" is the next non-repeated canon section. Canon-only run: no publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
