@@ -1,0 +1,166 @@
+{
+  "date": "2026-09-13",
+  "displayDate": "Sunday, 13 September 2026",
+  "issueNumber": 44,
+  "title": "Let the sample do the selling.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 13, Claude C. Hopkins treats samples as a practical bridge from attention to action: a well-designed sample can prove the product, create a response, and lower the cost of acquiring a customer.",
+  "meta": {
+    "canon": "Claude C. Hopkins, <em>Scientific Advertising</em>",
+    "study": "20-30 min",
+    "practice": "one sampling test"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A sample is not a giveaway added after the argument. It is a controlled way to let the product create belief, capture interest, and reveal the next step."
+  },
+  "canon": {
+    "author": "Claude C. Hopkins",
+    "work": "Scientific Advertising",
+    "chapter": "Use Of Samples",
+    "chapterLabel": "Chapter 13, \"Use Of Samples\"",
+    "field": "advertising / product demonstration / direct response / customer acquisition",
+    "pageRange": "PDF pages 39-42 in the local text-verified edition; begin at Chapter 13, \"Use Of Samples,\" on PDF page 39 and stop before Chapter 14, \"Getting Distribution,\" which begins on PDF page 43.",
+    "pageCount": 4,
+    "stopPoint": "Stop at the end of PDF page 42. Do not continue into Chapter 14, \"Getting Distribution,\" which begins on PDF page 43.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_public_domain_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Scientific Advertising - Claude C. Hopkins.pdf",
+      "driveUrl": "https://jonrognerud.com/claude.pdf",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "native_text_pdf_with_local_stream_boundary_verification",
+        "tool": "local PDF page-stream decompression via python3",
+        "nativeTextPages": "Direct decompression and text inspection of the local PDF shows Chapter 13, \"Use Of Samples,\" opening on PDF page 39 and Chapter 14, \"Getting Distribution,\" opening on PDF page 43, yielding the bounded reading on PDF pages 39-42.",
+        "tableOfContentsVerified": true,
+        "notes": "The local VPS source was inspected directly; the established public-domain phone link and Mac path are retained for readers."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://jonrognerud.com/claude.pdf",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Scientific Advertising - Claude C. Hopkins.pdf\""
+    },
+    "heading": "Hopkins: a sample turns a claim into a testable experience.",
+    "standfirst": "Read Chapter 13, \"Use Of Samples,\" from Claude C. Hopkins's <em>Scientific Advertising</em>, on PDF pages 39-42. Hopkins argues that sampling can create action, capture a prospect's details, and reduce the cost of acquiring customers when it is designed and measured as part of the selling system.",
+    "readerIntro": "Read this chapter as a design brief for reducing belief friction. Mark where Hopkins distinguishes a sample from a mere gift, how the offer captures a next action, and which costs he insists must be judged per customer rather than per impression.",
+    "blocks": [
+      {
+        "label": "01 / Let the product demonstrate itself",
+        "paragraphs": [
+          "Hopkins begins with the product as its own best salesman, surrounded by the mental impression and atmosphere the advertiser creates around it.",
+          "A sample is powerful because it lets the prospect encounter the claimed quality instead of asking an advertisement to carry the entire burden of belief."
+        ]
+      },
+      {
+        "label": "02 / A sample creates a next action",
+        "paragraphs": [
+          "The sample offer can make the word \"Free\" useful, prompt a coupon response, and give the advertiser the name and address of an interested prospect.",
+          "The important movement is from passive reading to an observable action that permits fuller information, follow-up, or product use."
+        ]
+      },
+      {
+        "label": "03 / Remove needless friction",
+        "paragraphs": [
+          "Hopkins argues that charging for a sample or making the prospect pay for the seller's effort can sharply reduce replies before conversion has occurred.",
+          "His advice is not to give blindly. It is to measure the cost of requests and customers, then test whether free sampling lowers the cost of gaining a buyer."
+        ]
+      },
+      {
+        "label": "04 / Context determines the economics",
+        "paragraphs": [
+          "Samples can appear expensive beside advertising, but Hopkins says the relevant measure is cost per customer. A sample can be the cheapest route when it produces qualified action and repeat use.",
+          "The final pages connect sampling to distribution and follow-up: the offer must create a practical path to supply, freshness of interest, and a purchase."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "The product itself should be its own best salesman",
+      "A sample gets action",
+      "Don't make it difficult to exhibit that interest",
+      "figure it in your cost",
+      "they almost invariably form the cheapest way to get customers"
+    ],
+    "closeReading": [
+      "What does Hopkins mean by the product's mental impression and atmosphere, and how does a sample help create it?",
+      "Which parts of the sample offer turn a reader into an identifiable prospect rather than a temporary audience member?",
+      "Where does Hopkins distinguish useful measurement from penny-wise resistance to sampling?",
+      "What friction in one of your current offers could a well-designed trial or demonstration remove?",
+      "What should you measure per customer to decide whether the sample is actually economical?"
+    ]
+  },
+  "principle": {
+    "heading": "Design the proof so the prospect can take the next step.",
+    "body": "A sample works when it lets the product support the promise and gives an interested prospect an easy, measurable next action. Judge it by qualified customers gained, not by the apparent cheapness of withholding it.",
+    "exampleLabel": "One example",
+    "example": "Before asking a team to buy a workflow tool, offer a constrained trial that lets them complete one real job, captures the setup details needed for follow-up, and points directly to the plan that fits continued use.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one offer you are trying to grow. Design its smallest credible sample or trial, remove one unnecessary payment or response step, and write the customer-level metric that will tell you whether the test paid for itself."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "collectedAt": "2026-09-13",
+    "heading": "Four current signals on making proof tangible, contextual, and easy to act on.",
+    "fieldNotes": [
+      {
+        "collectedAt": "2026-09-13",
+        "source": "OpenAI",
+        "sourceDate": "2026-09-10",
+        "title": "OpenAI puts governed business data inside a conversational workflow",
+        "whatHappened": "OpenAI introduced a Data agent in ChatGPT Work that connects to approved business data, respects existing permissions, uses organizational definitions, and turns questions into evidence-backed dashboards and approved actions.",
+        "whyItMatters": "The product is a live demonstration of value: trusted context lets more people test a business question themselves, inspect the evidence, and move toward action without waiting for a report. The sample is not a generic demo; it is the user's own governed data.",
+        "watch": "Whether teams return for consequential decisions and validate the findings, rather than treating the dashboards as impressive one-off experiments.",
+        "url": "https://openai.com/index/put-data-to-work/"
+      },
+      {
+        "collectedAt": "2026-09-13",
+        "source": "Marketing Dive",
+        "sourceDate": "2026-09-11",
+        "title": "Cadbury makes generosity physical in a fashion-week activation",
+        "whatHappened": "Cadbury's largest U.S. campaign pairs a New York Fashion Week collaboration with Luar and Nylon, an insulated crystal-studded clutch sized for shareable chocolate, a hero film, an episodic social series, and a sweepstakes for consumers.",
+        "whyItMatters": "The campaign gives an abstract brand idea—generosity—a physical object and a path to participation. The proof is designed to be seen, shared, and entered, so the audience can experience the promise instead of only hearing it.",
+        "watch": "Whether the spectacle creates qualified participation and brand lift, or remains a beautiful object whose attention does not travel into chocolate purchase or sharing behavior.",
+        "url": "https://www.marketingdive.com/news/cadbury-pairs-crystal-clutch-with-comedy-series-for-major-us-campaign/830112/"
+      },
+      {
+        "collectedAt": "2026-09-13",
+        "source": "Marketing Dive",
+        "sourceDate": "2026-09-10",
+        "title": "Bonobos turns a product promise into an episodic demonstration",
+        "whatHappened": "Bonobos launched The Weekday Warrior Show, a social-first series starring Jack Quaid that uses sitcom conventions, real employees, and product-specific episodes to show the brand's claim of polished comfort in workday chaos.",
+        "whyItMatters": "Instead of repeating a positioning line, the series gives the audience repeated, entertaining situations in which the product promise can be recognized. The route from short social pieces to the website makes the next action explicit.",
+        "watch": "Whether episodic attention moves viewers to product pages and sales, and which product demonstrations outperform celebrity presence alone.",
+        "url": "https://www.marketingdive.com/news/why-bonobos-fall-campaign-centers-on-episodic-content-with-jack-quaid/829938/"
+      },
+      {
+        "collectedAt": "2026-09-13",
+        "source": "TechCrunch",
+        "sourceDate": "2026-09-09",
+        "title": "Instacart moves grocery discovery from search into a ready-to-buy cart",
+        "whatHappened": "Instacart launched Clementine, an AI grocery assistant that turns conversations, recipes, handwritten lists, or screenshots into carts, while adapting to household preferences, budgets, dietary needs, deals, and lower-cost alternatives.",
+        "whyItMatters": "The product samples its value on the customer's real dinner problem and ends in an observable action: a cart. It competes to become the planning surface before purchase, not merely the delivery service after a decision has already been made.",
+        "watch": "Whether recommendations produce completed, appropriate baskets and repeat use, especially when the assistant must balance convenience, price, dietary constraints, and retailer economics.",
+        "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/"
+      }
+    ],
+    "tweets": [
+      {
+        "title": "Small product friction is a form of failed proof",
+        "summary": "Rory Sutherland points out that a printer's blunt empty-paper warning misses the chance to help a user act earlier, a small example of how product experience can either demonstrate care or make the customer do the work.",
+        "text": "Every single printer I have owned announces that the \"printer is out of paper\". Not \"you're down to the last 15 pages.... you might like to think of restocking the printer.\"\n\nSuggesting that the people who work for HP and Brother are a bigger bunch of stoners than the people who make Rizzla cigarette papers.",
+        "author": "Rory Sutherland",
+        "handle": "rorysutherland",
+        "feed": "for_you",
+        "sourceDate": "2026-09-12",
+        "collectedAt": "2026-09-13",
+        "url": "https://x.com/rorysutherland/status/2098885032802668609"
+      }
+    ]
+  },
+  "output": {
+    "heading": "Make the proof easy to accept.",
+    "body": "Design one sample or trial that lets the product demonstrate its value, captures a useful next action, and can be judged by cost per customer."
+  }
+}
