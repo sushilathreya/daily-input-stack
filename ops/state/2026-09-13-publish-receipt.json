@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-13",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-09-13 12:00:00 IST",
+  "local_verified": true,
+  "git_commit": "f3bc9caf85cda2b19ef154122b58a941b31b9efd",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Sunday, 13 September 2026",
+    "Issue 044",
+    "Let the sample do the selling."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - Sunday - 13 September 2026",
+  "gmail_message_id": "5c6b01e5-307d-4b96-8392-3d5a8b787fff",
+  "completed_at_ist": "2026-09-13 11:55:04 IST"
+}
