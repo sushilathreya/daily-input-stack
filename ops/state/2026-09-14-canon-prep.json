@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-14",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-09-14.json",
+  "master": "Robert B. Cialdini",
+  "work": "Influence: The Psychology of Persuasion",
+  "chapter_or_section": "Chapter 7, \"Scarcity: The Rule of the Few\" (PDF pages 187-213 / book pages 178-204)",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-09-13-weekly-program.json",
+  "canon_history_checked": true,
+  "parser_preflight": "native_text_pdf_with_contents_and_page_stream_boundary_verification; local Books PDF inspected directly with Node object and Flate stream inspection. The contents stream lists Scarcity: The Rule of the Few at book page 178 and Notes at book page 205; direct page-stream inspection places the Chapter 7 opener on PDF page 187 and the Epilogue opener on PDF page 214, yielding the bounded assignment on PDF pages 187-213.",
+  "validation_command": "node ops/scripts/validate-issue.mjs 2026-09-14 --draft",
+  "notes": "Prepared from the weekly program for the 2026-09-14 assignment. Canon history was checked before assignment: Cialdini Chapter 5, \"Liking: The Friendly Thief,\" was used on 2026-08-31; the source edition identifies the assigned Scarcity chapter as Chapter 7, so it is not a repeat. Canon-only run: no publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
