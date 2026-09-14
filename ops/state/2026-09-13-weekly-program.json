@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-13",
+  "week_start": "2026-09-14",
+  "week_end": "2026-09-20",
+  "status": "planned",
+  "theme": "Make commercial meaning easier to choose: move from scarcity and character to mental position, latent desire, disruptive strategy, acquisition, and a simple story people can repeat.",
+  "days": [
+    {
+      "date": "2026-09-14",
+      "master": "Robert B. Cialdini",
+      "work": "Influence: The Psychology of Persuasion",
+      "chapter_or_section": "Chapter 6, \"Scarcity: The Rule of the Few\"",
+      "fundamental": "Persuasion: understand how limited availability and threatened freedom increase perceived value, while distinguishing genuine constraints from manufactured urgency.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Influence - Robert Cialdini.pdf",
+      "drive_link": "https://drive.google.com/file/d/1sTpikK8Y7ebUBiSRRkiZoBcbNSh4Dk_Y/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history ends at Cialdini Chapter 5, so Chapter 6 is the next bounded, non-repeated reading; canon prep should verify the chapter boundary before assignment."
+    },
+    {
+      "date": "2026-09-15",
+      "master": "Robert McKee",
+      "work": "Story: Substance, Structure, Style, and the Principles of Screenwriting",
+      "chapter_or_section": "Chapter 11, \"Character\"",
+      "fundamental": "Storytelling: study how character is revealed through choice under pressure, then connect a protagonist’s inner contradiction to an audience’s reason to care.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Robert McKee - Story .pdf",
+      "drive_link": "https://drive.google.com/file/d/1B1FBVTR0Z2YvQYJ7zoEOgmEI-q8GHetu/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history reaches McKee Chapter 10, \"Scene Design,\" but not Chapter 11; canon prep must bound the scanned PDF to the verified chapter stop point."
+    },
+    {
+      "date": "2026-09-16",
+      "master": "Al Ries and Jack Trout",
+      "work": "Positioning: The Battle for Your Mind",
+      "chapter_or_section": "Chapter 5, \"You Can't Get There from Here\"",
+      "fundamental": "Positioning/brand: learn why a crowded category cannot be won by incremental explanation alone, and use a credible point of difference to create a route into the prospect’s mind.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Positioning - Al Ries and Jack Trout.pdf",
+      "drive_link": "https://drive.google.com/file/d/1fISuTXG4QmxQ6MrFaI3wxE6eR6EoEh-p/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history covers Positioning Chapters 1 through 4, making Chapter 5 the next non-repeated chapter; canon prep should verify the scanned-PDF boundary."
+    },
+    {
+      "date": "2026-09-17",
+      "master": "Eugene Schwartz",
+      "work": "Breakthrough Advertising",
+      "chapter_or_section": "Part I, Chapter 4, \"The Mechanism of Desire\"",
+      "fundamental": "Human desire/psychology: separate the enduring desire from the mechanism that makes a promise believable, then turn an abstract want into a concrete reason to act.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Breakthrough Advertising Eugene Schwartz.pdf",
+      "drive_link": "https://drive.google.com/file/d/1HMVnMMmOMxmqrZz0Zcb6-dmbTdMZ0ezI/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history already used Mass Desire, State of Awareness, and Market Sophistication; Chapter 4 advances the Breakthrough Advertising sequence without repeating a chapter."
+    },
+    {
+      "date": "2026-09-18",
+      "master": "Clayton M. Christensen",
+      "work": "The Innovator's Dilemma",
+      "chapter_or_section": "Chapter 5, \"Give Responsibility for Disruptive Technologies to Organizations Whose Customers Need Them\"",
+      "fundamental": "Tech/strategy: place disruptive bets with the small, emerging-market organization whose customers value the new trajectory, rather than forcing the incumbent business to defend the old one.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/The Innovator’s Dilemma - Clayton Christensen.pdf",
+      "drive_link": "https://drive.google.com/file/d/1X5-ZodswFwiIg2uFtgLMZNHzmJqCtu8w/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history reaches Christensen Chapter 4, so Chapter 5 is the next strategic case; canon prep must parser-preflight the scanned PDF and assign a bounded section under 60 pages."
+    },
+    {
+      "date": "2026-09-19",
+      "master": "Sean Ellis and Morgan Brown",
+      "work": "Hacking Growth",
+      "chapter_or_section": "Chapter Five, \"Hacking Acquisition\"",
+      "fundamental": "Distribution/growth: treat acquisition as a sequence of channel hypotheses, message tests, and conversion constraints rather than as a single media-buying task.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Hacking Growth.epub",
+      "drive_link": "https://drive.google.com/file/d/1wtU-SZ-6s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history ends with Chapter Four, \"Testing at High Tempo,\" so Chapter Five is the next non-repeated playbook chapter; the EPUB table of contents provides the section boundary."
+    },
+    {
+      "date": "2026-09-20",
+      "master": "Donald Miller",
+      "work": "Building a StoryBrand",
+      "chapter_or_section": "Chapter 3, \"The Simple SB7 Framework\"",
+      "fundamental": "Writing/taste: compress a commercial message into a repeatable seven-part structure so the customer’s problem, desired outcome, and next step remain legible.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Building a Stroybrand.epub",
+      "drive_link": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history used StoryBrand Chapters 1 and 2, so Chapter 3 is a distinct next reading; the local EPUB confirms the chapter title and boundary."
+    }
+  ],
+  "created_at_ist": "2026-09-13 18:00:00 IST",
+  "created_by": "weekly-program-agent"
+}
