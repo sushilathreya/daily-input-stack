@@ -1,0 +1,184 @@
+{
+  "date": "2026-09-15",
+  "displayDate": "Tuesday, 15 September 2026",
+  "issueNumber": 46,
+  "title": "Character is revealed by the choice under pressure.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In McKee's chapter on character, the person is not a list of traits but the pattern revealed when desire meets pressure and choice exposes the gap between public image and private truth.",
+  "meta": {
+    "canon": "Robert McKee, <em>Story: Substance, Structure, Style, and the Principles of Screenwriting</em>",
+    "study": "30-45 min",
+    "practice": "one character-under-pressure map"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "Character becomes legible at the moment a person must choose between what they say they value and what they are willing to do to get what they want."
+  },
+  "canon": {
+    "author": "Robert McKee",
+    "work": "Story: Substance, Structure, Style, and the Principles of Screenwriting",
+    "chapter": "Character",
+    "chapterLabel": "Chapter 11, \"Character\"",
+    "field": "storytelling / character design / narrative psychology / persuasion",
+    "pageRange": "PDF pages 257-281 in the local rendered-page-verified edition; begin at Chapter 11, \"Character,\" on PDF page 257 and stop at the end of PDF page 281.",
+    "pageCount": 25,
+    "stopPoint": "Stop at the end of PDF page 281. Do not continue into the next chapter or later material.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_scanned_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Robert McKee - Story .pdf",
+      "driveUrl": "https://drive.google.com/file/d/1B1FBVTR0Z2YvQYJ7zoEOgmEI-q8GHetu/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "rendered_pages_verified",
+        "classification": "scanned_image_based",
+        "tool": "local PDF page-tree inspection with established rendered-page boundary cross-check",
+        "nativeTextPages": "None; this ScanSnap PDF exposes image-only pages and no usable native chapter text.",
+        "tableOfContentsVerified": true,
+        "notes": "The local VPS source was inspected directly. The established rendered inspection places Chapter 10, Scene Design, at PDF pages 232-256 and Chapter 11, Character, at PDF page 257; this bounded assignment uses PDF pages 257-281 and stops before later material."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1B1FBVTR0Z2YvQYJ7zoEOgmEI-q8GHetu/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Robert McKee - Story .pdf\""
+    },
+    "heading": "McKee: character is the choice that pressure makes visible.",
+    "standfirst": "Read Chapter 11, \"Character,\" from Robert McKee's <em>Story</em>, on PDF pages 257-281. McKee treats character as the revealed truth of a person in action: pressure forces choices, and those choices expose the difference between characterization and the deeper design of character.",
+    "readerIntro": "Read for the gap between presentation and behavior. Mark what a character claims, what they pursue, what pressure removes from their options, and what choice finally reveals. Then apply the same test to a customer, brand, or protagonist whose stated identity is not yet supported by action.",
+    "blocks": [
+      {
+        "label": "01 / Character is revealed, not announced",
+        "paragraphs": [
+          "McKee separates characterization—the observable surface of habits, appearance, speech, and social role—from character, the deeper nature revealed when a person must act under pressure.",
+          "A description can tell the audience who someone appears to be. Only a consequential choice shows what that person will protect, sacrifice, betray, or become."
+        ]
+      },
+      {
+        "label": "02 / Desire gives behavior a direction",
+        "paragraphs": [
+          "Character becomes readable through pursuit. A person who wants nothing has no meaningful line of action, while a specific desire gives each decision a direction and makes resistance consequential.",
+          "For a commercial narrative, name the protagonist's object of desire before adding personality language. The desired change is what lets the audience judge every later choice."
+        ]
+      },
+      {
+        "label": "03 / Pressure exposes the contradiction",
+        "paragraphs": [
+          "The useful dramatic test is the gap between what a person says and what they do when the easy option disappears. Pressure brings competing values into conflict and makes the contradiction visible.",
+          "Do not solve the contradiction with a backstory label. Put the character where two real goods, loyalties, or fears cannot all be preserved, then watch the choice produce meaning."
+        ]
+      },
+      {
+        "label": "04 / Choice changes the audience's understanding",
+        "paragraphs": [
+          "A strong character action does more than move the plot. It changes the audience's interpretation of everything that came before and creates a new set of expectations for what can happen next.",
+          "That is why a brand's values are most credible when a costly decision proves them. The claim matters less than the constraint under which the organization is willing to honor it."
+        ]
+      },
+      {
+        "label": "05 / Build the person through action, not decoration",
+        "paragraphs": [
+          "The chapter's practical discipline is to make every trait earn its place in the causal design. A detail belongs when it affects desire, conflict, choice, or consequence; otherwise it is decoration around an untested person.",
+          "Stop with the chapter's pressure test in hand: identify the choice that would make the audience revise its view of the character, and build the narrative toward that choice."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "characterization versus character",
+      "the revelation of character through choice",
+      "desire",
+      "pressure and contradiction",
+      "the gap between characterization and character"
+    ],
+    "closeReading": [
+      "How does McKee distinguish characterization from character, and why can a detailed surface portrait still fail to reveal the person?",
+      "Choose one consequential choice in the chapter's examples. What does the character say they want, what pressure changes the options, and what does the action reveal?",
+      "Where does McKee use contradiction to deepen a character rather than make the character merely inconsistent?",
+      "What desire gives the character's actions a direction, and how would the scene change if that desire were removed?",
+      "Map one customer or brand narrative: stated identity, real desire, pressure, irreversible choice, and the new audience expectation created by that choice."
+    ]
+  },
+  "principle": {
+    "heading": "Make the value claim costly enough to become believable.",
+    "body": "A character, brand, or product becomes credible when pressure forces a choice that reveals what it actually values. Design the constraint, then let the action carry the claim.",
+    "exampleLabel": "One example",
+    "example": "A service says it protects customer focus. When a high-value account asks for a distracting custom exception, the company declines the feature, explains the boundary, and offers the supported workflow that preserves the promise.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one protagonist, customer, or brand you are writing about. List the identity it claims, the desire driving it, the pressure that would expose a contradiction, and one costly choice that would make the underlying value visible."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "collectedAt": "2026-09-15",
+    "heading": "Five current signals on how products make their promises credible through repeated behavior, evidence, and costly constraints.",
+    "fieldNotes": [
+      {
+        "collectedAt": "2026-09-15",
+        "source": "OpenAI",
+        "sourceDate": "2026-09-08",
+        "title": "OpenAI is making the AI promise concrete through repeated consumer and enterprise use",
+        "whatHappened": "OpenAI described consumer and enterprise adoption as mutually reinforcing, reporting more than one billion weekly active users, 2.5 million businesses, and higher daily message volume plus broader task experimentation among individual-plan users six months after signup.",
+        "whyItMatters": "The credibility claim is being carried by behavior over time. The product is not only presented as more capable; continued use and a widening task set become evidence that the capability is becoming part of a user's working life.",
+        "watch": "Whether usage depth continues to grow as access expands, or whether the next constraint becomes trust, workflow integration, and the cost of turning more possible tasks into valuable ones.",
+        "url": "https://openai.com/index/the-work-now-within-reach/"
+      },
+      {
+        "collectedAt": "2026-09-15",
+        "source": "OpenAI",
+        "sourceDate": "2026-09-10",
+        "title": "Financial AI is being sold through evidence and provenance, not just model intelligence",
+        "whatHappened": "OpenAI introduced ChatGPT for Financial Services with built-in data from Daloopa, PitchBook, and LSEG News, plus granular citations intended to let bankers trace figures and claims back to their sources.",
+        "whyItMatters": "In a high-stakes workflow, trust is part of the product design. The differentiator is not only what the model can answer, but whether the surrounding system makes its evidence inspectable enough for a professional to act.",
+        "watch": "Whether source-level citations become a buying requirement across regulated enterprise AI, and how often users actually inspect them before approving consequential work.",
+        "url": "https://openai.com/index/introducing-chatgpt-financial-services/"
+      },
+      {
+        "collectedAt": "2026-09-15",
+        "source": "Google",
+        "sourceDate": "2026-09-10",
+        "title": "Gemini is entering the desktop through a shortcut and a familiar task promise",
+        "whatHappened": "Google launched a Gemini app for Windows that opens with Alt + Space and can draft documents, manage tasks, create images, and pull information from Google apps without leaving the desktop.",
+        "whyItMatters": "The adoption story is a reduction in switching cost. Rather than asking users to learn a new destination, Google places the assistant beside an existing workflow and lets repeated convenience prove the value claim.",
+        "watch": "Whether the shortcut becomes a durable habit or remains a novelty once users encounter permission, privacy, and context limits across their desktop work.",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/"
+      },
+      {
+        "collectedAt": "2026-09-15",
+        "source": "Marketing Dive",
+        "sourceDate": "2026-09-11",
+        "title": "Cadbury turns generosity into a physical object, social series, and participation mechanic",
+        "whatHappened": "Cadbury launched its largest U.S. campaign through a Luar and Nylon fashion-week collaboration, including a crystal-studded clutch designed to carry chocolate for sharing, a hero spot, an episodic social comedy series, and a nomination sweepstakes.",
+        "whyItMatters": "The value claim gains force because the idea appears in multiple behaviors: the object makes sharing tangible, the story dramatizes it, and the sweepstakes asks people to name someone generous. The campaign gives the brand promise several ways to be enacted.",
+        "watch": "Whether the unusual object and episodic format create durable association beyond the event, especially when the clutch itself is not sold and only five were made.",
+        "url": "https://www.marketingdive.com/news/cadbury-pairs-crystal-clutch-with-comedy-series-for-major-us-campaign/830112/"
+      },
+      {
+        "collectedAt": "2026-09-15",
+        "source": "TechCrunch",
+        "sourceDate": "2026-09-11",
+        "title": "LOOQ is trying to make out-of-home attention measurable like a digital click",
+        "whatHappened": "TechCrunch reported that LOOQ, a Startup Battlefield regional finalist, is building camera-based hardware and an attention API to measure who actually sees billboards and other out-of-home advertising.",
+        "whyItMatters": "The product attacks a credibility gap in physical advertising: the claim is not that a placement exists, but that someone paid attention to it. Measurement becomes the costly proof that can change how the medium is bought and evaluated.",
+        "watch": "Whether advertisers trust attention estimates enough to shift budgets, and whether the metric clarifies real exposure or simply creates a new proxy that needs its own validation.",
+        "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/"
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-09-15",
+        "sourceDate": "2026-09-15",
+        "feed": "following",
+        "author": "Ram Ahluwalia CFA, Lumida",
+        "handle": "ramahluwalia",
+        "title": "A product fragment on turning capability into behavior",
+        "summary": "This fragment is useful because it names the behavioral question behind a new capability. The important test is not whether the feature is impressive, but whether it changes a repeated workflow enough for the user to adopt it.",
+        "text": "‘Attention Is All You Need’ is the whitepaper that unlocked the AI cycle.\n\nMuch of what followed has been duct tape.\n\nI don’t mean that as an insult. Duct tape built half the modern world.\n\nConsider two of the most important techniques driving AI forward today.\n\nFirst: chain of reasoning.\n\nInstead of asking the model to take one clean shot at an answer, we give it more inference time to decompose the problem, explore alternatives, check its work, and try again.\n\nStep. Check. Revise.\n\nSecond: loops.\n\nOne model creates. Another evaluates. The first revises.\n\nThe cycle continues until the output survives the critic.\n\nAt Meta, Muse is the public example.\n\nMeta’s AI chief noted that putting an eval LLM around a creator LLM, run the loop repeatedly, produce work comparable to that of a hundred engineers.\n\nImpressive.\n\nAlso: It’s more MacGyver duct tape.\n\nThat is what frontier AI increasingly looks like.\n\nSo why do the models keep improving?\n\nScale.\n\nMore data. More parameters. More training compute. More inference compute. Better chips. Better post-training.\n\nThe breakthroughs have lagged the expectations.\n\nAnother reason AI leaders are saying ‘time to slow down’ is not the catastrophe risk which is nonsense. It is that expectations are being lowered and managed.\n\nRoot Cause: The brightest minds in the AI research world - Ilya, Murati, Dean are all raising gobs of capital instead of doing research that sparked the initial breakthru.",
+        "url": "https://x.com/ramahluwalia/status/2099684272361611575"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  },
+  "output": {
+    "heading": "Let pressure reveal the person behind the claim.",
+    "body": "Give the character a real desire, remove the easy option, and let the consequential choice make the value legible."
+  }
+}
