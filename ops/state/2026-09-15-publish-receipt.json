@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-15",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-09-15 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "4a9b5c0225893bb17f028a3d5aa8114d72d0978e",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Tuesday, 15 September 2026",
+    "Issue 046",
+    "Character is revealed by the choice under pressure."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 15 September 2026",
+  "gmail_message_id": "00d19d42-48f8-473c-8ddc-f2486c7fc3d3",
+  "completed_at_ist": "2026-09-15 09:55:03 IST"
+}
