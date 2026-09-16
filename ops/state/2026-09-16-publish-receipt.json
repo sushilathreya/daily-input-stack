@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-16",
+  "status": "published_and_emailed",
+  "delivery_status": "delayed",
+  "target_inbox_time_ist": "2026-09-16 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "9355dd7bb43ee0a3b9d9c4722e687678320e9a5f",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Wednesday, 16 September 2026",
+    "Issue 047",
+    "You cannot get there from here."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 16 September 2026",
+  "gmail_message_id": "5785534f-e46a-47b7-9944-3052db8bf436",
+  "completed_at_ist": "2026-09-16 12:16:49 IST",
+  "delay_note": "Complete issue was sent at 2026-09-16 12:16:49 IST, after the 2026-09-16 10:00:00 IST target."
+}
