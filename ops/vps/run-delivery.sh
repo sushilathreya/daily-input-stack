@@ -19,6 +19,11 @@ else
   exit 1
 fi
 
+DATE="$($NODE -e 'console.log(new Intl.DateTimeFormat("en-CA",{timeZone:"Asia/Kolkata",year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date()));')"
+RUN_LOG="$BASE/logs/delivery-$DATE.run.log"
+exec >>"$RUN_LOG" 2>&1
+echo "$(date -Is) delivery runner started"
+
 cd "$REPO"
 export STM_BOOKS_DIR="$BASE/Books"
 exec flock -n "$LOCK_FILE" "$NODE" ops/scripts/vps-deliver.mjs

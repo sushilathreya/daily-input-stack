@@ -56,6 +56,13 @@ function summaryFor(tweet) {
   return "This fragment cleared the daily filter because it offers a portable distinction rather than a throwaway reaction.";
 }
 
+function cleanTweetText(text) {
+  return String(text || "")
+    .split("\n")
+    .map((line) => line.trimEnd())
+    .join("\n");
+}
+
 function rejectReason(tweet) {
   const text = String(tweet.text || "").trim();
   const lower = text.toLowerCase();
@@ -122,7 +129,7 @@ issue.signals.tweets = [{
   handle: selected.handle,
   title: titleFor(selected),
   summary: summaryFor(selected),
-  text: selected.text,
+  text: cleanTweetText(selected.text),
   url: selected.url
 }];
 delete issue.signals.tweetNote;
