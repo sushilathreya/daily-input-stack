@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-17",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-09-17 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "a9ce9b5fa9a1d928f995e410ce974000b01f56ae",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Thursday, 17 September 2026",
+    "Issue 048",
+    "Give the desire a reason to move."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 17 September 2026",
+  "gmail_message_id": "01a0ad9c-68f1-7468-bee8-ccf470a3f1d8",
+  "completed_at_ist": "2026-09-17 09:55:04 IST"
+}
