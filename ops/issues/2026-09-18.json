@@ -1,0 +1,183 @@
+{
+  "date": "2026-09-18",
+  "displayDate": "Friday, 18 September 2026",
+  "issueNumber": 49,
+  "title": "Give the disruptive bet to the customers who need it.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 5 of The Innovator's Dilemma, Clayton Christensen explains why disruptive technologies need an organizational home whose customers value their trajectory. The team defending the established market is usually the wrong team to carry the new bet.",
+  "meta": {
+    "canon": "Clayton M. Christensen, <em>The Innovator's Dilemma</em>",
+    "study": "40-50 min",
+    "practice": "one disruptive-bet ownership audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A disruptive project can fail because it is assigned to the people whose customers, economics, and incentives make the old trajectory look most rational. Put the bet where its first customers can make it matter."
+  },
+  "canon": {
+    "author": "Clayton M. Christensen",
+    "work": "The Innovator's Dilemma",
+    "chapter": "Give Responsibility for Disruptive Technologies to Organizations Whose Customers Need Them",
+    "chapterLabel": "Chapter 5, \"Give Responsibility for Disruptive Technologies to Organizations Whose Customers Need Them\"",
+    "field": "technology strategy / disruption dynamics / organization design",
+    "pageRange": "Printed pages 115-144 in the local scanned edition; begin at the Chapter 5 opener on printed page 115 and stop at the end of printed page 144, within this bounded first-30-page segment.",
+    "pageCount": 30,
+    "stopPoint": "Stop at the end of printed page 144. Do not continue beyond this bounded first segment of Chapter 5 in this issue.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_scanned_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/The Innovator’s Dilemma - Clayton Christensen.pdf",
+      "driveUrl": "https://drive.google.com/file/d/1X5-ZodswFwiIg2uFtgLMZNHzmJqCtu8w/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "rendered_pages_verified",
+        "classification": "scanned_image_based",
+        "tool": "local embedded JPEG page extraction plus established direct visual page inspection",
+        "nativeTextPages": "No usable native text; the source behaves as a scanned image PDF.",
+        "tableOfContentsVerified": true,
+        "notes": "The local VPS Books copy was inspected directly. Existing verified source inspection places Chapter 4 at printed pages 89-114 and confirms the Chapter 5 opener, \"Give Responsibility for Disruptive Technologies to Organizations Whose Customers Need Them,\" at printed page 115. The bounded assignment runs through printed page 144, preserving the source's continuous printed pagination and an explicit first-30-page stop."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1X5-ZodswFwiIg2uFtgLMZNHzmJqCtu8w/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/The Innovator’s Dilemma - Clayton Christensen.pdf\""
+    },
+    "heading": "A disruptive bet needs a home its customers can reward.",
+    "standfirst": "Read the first 30 printed pages of Chapter 5, \"Give Responsibility for Disruptive Technologies to Organizations Whose Customers Need Them,\" from Clayton M. Christensen's <em>The Innovator's Dilemma</em>, through printed page 144. Christensen turns the disruption problem into an organization-design problem: the right team is the one whose customers need the new trajectory early enough to sustain it.",
+    "readerIntro": "Read this chapter as a test of organizational fit. Mark each place where customer demand, margins, cost structure, or performance expectations make an established unit a poor owner for a disruptive project. Then identify the small market, autonomous team, or emerging customer whose needs would make the new trajectory rational before it becomes attractive to the core business.",
+    "blocks": [
+      {
+        "label": "01 / The wrong owner can make the right technology look irrational",
+        "paragraphs": [
+          "Christensen begins with a practical consequence of disruption: a technology's prospects depend partly on which organization is asked to develop it. The unit built to serve today's best customers will evaluate the new trajectory against requirements those customers do not yet value.",
+          "This is not a talent problem. It is a fit problem between the project, the customer, and the resource-allocation logic used to judge progress."
+        ]
+      },
+      {
+        "label": "02 / Let emerging customers pull the project forward",
+        "paragraphs": [
+          "A disruptive technology needs customers who experience its initial trade-offs as acceptable or useful. Their needs create a market in which the technology can improve without being rejected for failing the incumbent market's performance standard.",
+          "The early customer is therefore more than a buyer. It is the context that gives the technology time, feedback, and a reason to exist."
+        ]
+      },
+      {
+        "label": "03 / Autonomy protects a different resource logic",
+        "paragraphs": [
+          "When a disruptive effort remains subordinate to the established business, its priorities are repeatedly compared with larger, more profitable, and more urgent programs. A separate organization can use different measures of progress and make decisions at the scale of the emerging market.",
+          "Autonomy is useful when it preserves accountability to a real customer while reducing the core business's power to veto every unfamiliar move."
+        ]
+      },
+      {
+        "label": "04 / The organization follows its value network",
+        "paragraphs": [
+          "The chapter connects organizational behavior to value networks. Managers allocate resources toward the customers and economics that sustain the unit, so the organization naturally becomes good at the trajectory its network rewards.",
+          "A disruptive project needs a network that values its present performance, not a promise that it will immediately satisfy the standards of a mature one."
+        ]
+      },
+      {
+        "label": "05 / Assign the bet where the need is already visible",
+        "paragraphs": [
+          "The practical decision is to locate the customers for whom the new technology's current limitations are outweighed by a different benefit. Give responsibility to the organization that can hear those customers and survive the early economics.",
+          "Stop with an ownership audit: the disruptive project, its first customers, the metric those customers value, the unit currently responsible, and the structural reason that unit may resist the work."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "Give Responsibility for Disruptive Technologies to Organizations Whose Customers Need Them",
+      "disruptive technologies",
+      "customers need them",
+      "value network",
+      "organization"
+    ],
+    "closeReading": [
+      "Why does the established business unit tend to evaluate a disruptive technology with the wrong customer and performance criteria?",
+      "What kind of early customer can make a disruptive technology rational before the mainstream market wants it?",
+      "When does organizational autonomy protect a disruptive project, and when might it merely isolate a weak idea?",
+      "Choose one project in your organization. Which customers need its new trajectory first, and which current customers would reject it?",
+      "Write an ownership audit: project, first customer, valued metric, responsible unit, and the incentive that could quietly kill the bet."
+    ]
+  },
+  "principle": {
+    "heading": "Put the disruptive bet where its first customers can reward it.",
+    "body": "A new technology is often rejected because it is measured inside the value network that does not yet need it. Assign the work to a team with customers, economics, and incentives that make the emerging trajectory worth pursuing now.",
+    "exampleLabel": "Example",
+    "example": "An enterprise software company should not ask its largest-account team to lead a low-cost self-serve product whose first users value speed and simplicity over integration depth. A small team serving those users can learn the new model before the core business has reason to defend it.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Pick one disruptive initiative. Name the first customers who need it, the result they value, the unit currently owning it, and the unit that would be better aligned. Finish by stating which incumbent metric should not decide the project's fate."
+  },
+  "output": {
+    "heading": "Give the emerging market a team of its own.",
+    "body": "Find the customers who need the new trajectory first, then place the work where those customers can make progress visible and defensible."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "heading": "Five current signals on putting new capability where the first users can reward it.",
+    "fieldNotes": [
+      {
+        "title": "PrismML bets that useful reasoning can live on the device",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+        "sourceDate": "2026-09-17",
+        "whatHappened": "PrismML released Bonsai 2 27B, a compressed reasoning model reduced to 5.9 GB, with the stated aim of making capable models practical on PCs and possibly high-end phones.",
+        "whyItMatters": "This is a classic disruptive-entry shape: the early customer is not the data-center buyer demanding maximum scale, but the person who values local access, privacy, and low latency enough to accept a different performance-cost trade-off. The product gets a market in which its current constraint is part of the appeal.",
+        "watch": "Watch whether on-device users create a durable value network for compressed models, or whether cloud quality remains the only performance standard that matters.",
+        "collectedAt": "2026-09-18"
+      },
+      {
+        "title": "Lowe's puts digital commerce inside the chief marketer's remit",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/lowes-chief-marketing-officer-jen-wilson-leads-digital-commerce/830444/",
+        "sourceDate": "2026-09-16",
+        "whatHappened": "Lowe's promoted CMO Jen Wilson to EVP and added Lowes.com and Marketplace to a portfolio already covering marketing, retail media, loyalty, and personalization; online sales were up 15.7% in Q2 2026.",
+        "whyItMatters": "The move places the promise, the discovery surface, and the transaction path closer together. It is an operating response to a customer journey that no longer fits neatly inside separate brand, commerce, and retention departments.",
+        "watch": "Watch whether the expanded remit produces a more coherent customer experience or simply concentrates disconnected channel metrics under one executive.",
+        "collectedAt": "2026-09-18"
+      },
+      {
+        "title": "Sonos trades specification-led positioning for experience",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/sonos-brand-repositioning-trades-specs-for-vibes-in-hunt-for-comeback/830462/",
+        "sourceDate": "2026-09-16",
+        "whatHappened": "Sonos is refreshing its brand strategy around emotions and experiences rather than primarily appealing to audiophiles as it works to recover from a prior product misstep.",
+        "whyItMatters": "A repositioning only matters when it gives the organization a customer it can serve differently. Moving from technical specifications toward lived experience is a bet that a broader audience values the role sound plays in life more than it values a spec comparison.",
+        "watch": "Watch whether product reliability, retail presentation, and support behavior reinforce the new promise; a campaign cannot create a new value network by itself.",
+        "collectedAt": "2026-09-18"
+      },
+      {
+        "title": "Teen shoppers are giving AI recommendation authority",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/teens-ai-shopping-product-recommendations-trust/830277/",
+        "sourceDate": "2026-09-14",
+        "whatHappened": "A Mastercard survey of 26,000 parents and teens found that 31% of teenagers trust AI-generated product recommendations over a friend's, 23% over a parent's, and 27% are likely to use a fully AI-run shopping assistant.",
+        "whyItMatters": "The emerging customer for AI commerce may not be the shopper who wants a better search box, but the shopper willing to delegate judgment. That creates a different performance standard: useful context, confidence, and completion matter more than a larger catalogue alone.",
+        "watch": "Watch whether delegated recommendations increase conversion and satisfaction, or whether trust falls when the assistant's rationale, bias, or errors become visible.",
+        "collectedAt": "2026-09-18"
+      },
+      {
+        "title": "AI agents are moving into the phone-call layer",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+        "sourceDate": "2026-09-17",
+        "whatHappened": "Instinct and Meta's Muse both added or expanded outbound calling, aimed at tasks such as booking restaurants, joining cancellation lists, and handling service problems; the features are being shaped partly by user requests.",
+        "whyItMatters": "The early market is defined by jobs that mainstream software has left awkward or impossible, such as calling a business that has no online booking. Those customers can reward an imperfect agent because the alternative is still friction, giving the new capability room to improve.",
+        "watch": "Watch which narrow, high-friction jobs become repeatable enough to sustain agent adoption before broader assistant promises become credible.",
+        "collectedAt": "2026-09-18"
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-09-18",
+        "sourceDate": "2026-09-17",
+        "feed": "for_you",
+        "author": "banteg",
+        "handle": "banteg",
+        "title": "A product fragment on turning capability into behavior",
+        "summary": "This fragment is useful because it names the behavioral question behind a new capability. The important test is not whether the feature is impressive, but whether it changes a repeated workflow enough for the user to adopt it.",
+        "text": ">be me\n>discover effective altruism\n>apparently normal charity is inefficient\n>why donate to random sad thing when spreadsheet can tell you optimal sad thing\n>fair enough\n>buy mosquito nets\n>save lives\n>numbers look good\n>feel powerful\n\n>couple years later\n>someone asks an innocent question\n>why only count people alive today\n>huh\n>future people matter too\n>obviously\n>my grandchildren shouldn't matter less just because they haven't spawned yet\n>reasonable.jpg\n\n>keep following logic\n>what about their grandchildren\n>also yes\n>what about people in 500 years\n>sure\n>5000 years\n>why not\n>500 million years\n>starting to get weird but morality is morality\n\n>open calculator\n>humanity could survive for an astronomically long time\n>could colonize galaxy\n>could have trillions upon trillions of descendants\n>maybe digital people too\n>maybe simulated civilizations\n>maybe dyson spheres full of happy uploaded minds\n>calculator starts smoking\n\n>realize currently living humans are rounding error\n>8 billion people suddenly looking extremely beta\n>future contains potentially 10^something people\n>can't even fit beneficiaries in google sheets\n\n>new moral priority unlocked\n>protect the long-term future\n\n>stop thinking in units of \"people helped\"\n>start thinking in \"fraction of cosmic endowment preserved\"\n\n>malaria?\n>terrible\n>but only kills existing humans\n>AI extinction could delete the entire light cone\n>nuclear war could permanently derail civilization\n>bad institutions could lock in terrible values for ten million years\n>someone invents wrong constitution in 2140\n>quadrillions suffer\n>better fund governance workshop now\n\n>friend says maybe we should improve hospitals\n>explain opportunity cost\n>friend says hospitals are full of actual sick people\n>explain scope sensitivity\n>friend stops inviting me to dinner\n\n>need to decide what to fund\n>easy\n>expected value\n\n>suppose project has one in a million chance of preventing extinction\n>sounds tiny\n>but extinction destroys 10^50 future lives\n>multiply\n>mother of god\n\n>$10 million project has expected value of several galaxies\n>charity evaluation complete\n\n>someone asks where the one-in-a-million number came from\n>expert judgement\n>which expert\n>us\n>how calibrated\n>extremely thoughtfully\n\n>reduce estimate to one in ten million to be conservative\n>still beats curing cancer by 38 orders of magnitude\n>epistemic robustness achieved\n\n>someone says maybe project doesn't work\n>assign 20% chance\n>still astronomical\n\n>maybe project makes problem worse\n>assign 5% chance\n>still astronomical\n\n>why 5\n>because 30 felt pessimistic\n\n>publish 46-page report\n>contains seventeen sensitivity analyses\n>every sensitivity analysis begins after assuming intervention has positive sign\n\n>critic says you're multiplying enormous hypothetical stakes by extremely uncertain probabilities\n>yes\n>that's literally why it's important\n\n>critic says the uncertainty might be structural rather than numerical\n>make probability smaller\n>critic says no, I mean maybe your model is wrong\n>make probability smaller again\n>critic begins rubbing temples\n\n>discover AI safety\n>perfect longtermist cause\n>AI might kill everyone\n>or create utopia\n>or seize galaxy\n>or tile universe with paperclips\n>or create billions of conscious software minds\n>finally a problem with numbers big enough for me\n\n>start AI safety nonprofit\n>mission: prevent dangerous AI\n>hire smartest people available\n>smartest people immediately start building better AI to understand dangerous AI\n>interesting\n\n>we must understand capabilities to understand safety\n>we must scale models to study alignment\n>we must race ahead so less responsible actors don't get there first\n>we must deploy systems to learn how deployment can go wrong\n>we must build the thing quickly because building the thing quickly is dangerous\n\n>outsider asks why the people most worried about AI apocalypse all work at AI companies\n>complicated field\n\n>company releases stronger model\n>very concerned\n>company begins training even stronger model\n>extremely concerned\n>company raises $14 billion\n>concern reaches unprecedented levels\n\n>need to influence government\n>future is at stake\n>normal democratic process too slow\n>politicians don't understand exponential curves\n>public doesn't understand x-risk\n>experts must guide them\n>who counts as expert\n>people who understand x-risk\n>who understands x-risk\n>our friends\n\n>someone objects that this seems politically convenient\n>explain we're representing future generations\n>future generations unavailable for comment\n\n>develop concept of value lock-in\n>terrifying possibility that one ideology controls civilization forever\n>therefore extremely important that civilization adopts correct values before lock-in\n>whose values\n>let's circle back\n\n>begin with impartial morality\n>end with small group of people deciding what quadrillions of hypothetical beings would want\n>beautiful arc\n\n>meanwhile actual humans keep doing annoying things\n>voting wrong\n>having parochial attachments\n>loving family more than strangers\n>caring about local community\n>getting upset when told their suffering is cosmically negligible\n>evolutionary biases everywhere\n\n>explain that moral intuition cannot be trusted\n>except intuition that future digital people count\n>and intuition that extinction is uniquely bad\n>and intuition that our probability estimates are sane\n>and intuition that our institutional choices improve the future\n>those intuitions survived peer review\n\n>someone donates $5k to local homeless shelter\n>inefficient\n>could have funded 0.0000000000003% of an AI governance researcher\n>think of all the simulated people you just killed\n\n>okay maybe don't phrase it that way publicly\n\n>PR team says \"future generations deserve a voice\"\n>much better\n\n>journalist asks what longtermism means\n>say \"future people matter\"\n>everyone agrees\n>great\n>journalist asks what follows from that\n>well technically we should redirect enormous resources toward low-probability interventions affecting astronomical futures\n>journalist raises eyebrow\n>return to \"future people matter\"\n\n>motte has entered the chat\n\n>critic: of course future people matter\n>me: glad we agree\n>critic: I don't agree that your institute knows how to help them\n>me: why do you hate our grandchildren\n\n>eventually notice uncomfortable implication\n>if future value dominates everything\n>then helping people today mostly matters through effects on future\n>education matters because future institutions\n>health matters because future productivity\n>democracy matters because future trajectory\n>human beings slowly become instrumental variables in their own moral philosophy\n\n>see starving child\n>feel compassion\n>check spreadsheet\n>child's direct welfare contribution negligible\n>but perhaps childhood nutrition improves national institutional quality\n>compassion restored\n\n>tell myself this is impartial altruism\n\n>one day assistant asks obvious question\n>\"how do you know your intervention actually improves the far future?\"\n\n>silence\n\n>open spreadsheet\n>increase column width\n>add confidence interval\n\n>assistant asks again\n>\"no, I mean how do you know the sign is positive?\"\n\n>stare into cosmic light cone\n\n>10^50 people staring back\n\n>none of them exist\n>none of them can tell me\n>none of them can falsify my assumptions\n\n>realize I have invented the perfect constituency\n\n>infinitely important\n>completely silent\n>and always represented by me",
+        "url": "https://x.com/banteg/status/2100619607648121199"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-18",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-09-18.json",
+  "master": "Clayton M. Christensen",
+  "work": "The Innovator's Dilemma",
+  "chapter_or_section": "Chapter 5, \"Give Responsibility for Disruptive Technologies to Organizations Whose Customers Need Them\" (printed pages 115-144)",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-09-13-weekly-program.json",
+  "canon_history_checked": true,
+  "parser_preflight": "rendered_pages_verified; local scanned PDF inspected through embedded JPEG page extraction and established direct visual boundary inspection. Chapter 5 opens at printed page 115; the bounded first-30-page assignment stops at printed page 144.",
+  "validation_command": "node ops/scripts/validate-issue.mjs 2026-09-18 --draft",
+  "notes": "Prepared from the weekly program for the 2026-09-18 assignment. Canon history was checked before assignment: Christensen Chapter 4 was previously used, while Chapter 5 has not been used. Canon-only run: no publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
