@@ -1,0 +1,183 @@
+{
+  "date": "2026-09-19",
+  "displayDate": "Saturday, 19 September 2026",
+  "issueNumber": 50,
+  "title": "Acquire customers through the fit between message and channel.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter Five of Hacking Growth, Sean Ellis and Morgan Brown turn acquisition into a sequence of experiments: find language that resonates, identify the channel that can carry it, and build sharing into the product where it genuinely helps users.",
+  "meta": {
+    "canon": "Sean Ellis and Morgan Brown, <em>Hacking Growth</em>",
+    "study": "40-50 min",
+    "practice": "one acquisition-fit experiment brief"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "Acquisition is not a media-buying problem until the message, channel, and product experience fit the customer. Test the route before scaling the spend."
+  },
+  "canon": {
+    "author": "Sean Ellis and Morgan Brown",
+    "work": "Hacking Growth",
+    "chapter": "Hacking Acquisition",
+    "chapterLabel": "Chapter Five, \"Hacking Acquisition\"",
+    "field": "growth strategy / acquisition / experimentation",
+    "pageRange": "EPUB printed pages 140-170 in the local edition; begin at the Chapter Five opener on printed page 140 and stop before Chapter Six begins on printed page 171.",
+    "pageCount": 31,
+    "stopPoint": "Stop at the end of printed page 170. Chapter Six, \"Hacking Activation,\" begins on printed page 171.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_epub",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Hacking Growth.epub",
+      "driveUrl": "https://drive.google.com/file/d/1wtU-SZ-6s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "epub_with_toc_and_embedded_printed_page_boundaries",
+        "tool": "local EPUB table-of-contents and XHTML page-marker inspection",
+        "nativeTextPages": "Printed pages 140-170",
+        "tableOfContentsVerified": true,
+        "notes": "The local Books EPUB was inspected directly. The table of contents identifies Chapter Five as HACKING ACQUISITION and Chapter Six as HACKING ACTIVATION. Chapter Five contains embedded printed-page markers 140 through 170; Chapter Six begins at printed page 171, confirming the bounded 31-page assignment."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1wtU-SZ-6s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Hacking Growth.epub\""
+    },
+    "heading": "Find the acquisition route that fits the customer.",
+    "standfirst": "Read Chapter Five, \"Hacking Acquisition,\" from Sean Ellis and Morgan Brown's <em>Hacking Growth</em>, on printed pages 140-170 of the local EPUB. The chapter treats customer acquisition as a fit problem: language/market fit, channel/product fit, and referral mechanics must be discovered through disciplined testing.",
+    "readerIntro": "Read this chapter as a map of acquisition hypotheses. Mark each place where the authors distinguish a message problem from a channel problem, and where an apparently clever tactic depends on the product already delivering value. Then choose one offer and write the smallest test that could reveal whether its language, channel, or sharing loop is doing the real work.",
+    "blocks": [
+      {
+        "label": "01 / Earn the right to scale acquisition",
+        "paragraphs": [
+          "The chapter begins with an economic constraint: acquiring users is not automatically good growth if the cost of acquisition outruns the value those users can produce.",
+          "The authors therefore place acquisition after product/market fit, with a qualification for network-effect businesses. The first question is whether the product gives people a reason to stay before the team spends heavily to bring more people in."
+        ]
+      },
+      {
+        "label": "02 / Find language/market fit",
+        "paragraphs": [
+          "The words used in ads, landing pages, email, and product surfaces must connect quickly with a real need or desire. The customer’s own language is a source of hypotheses, not merely a source of testimonials.",
+          "Testing makes creative work less dependent on a single brilliant line. Small changes in wording can change what the product appears to be and what action the reader thinks it invites."
+        ]
+      },
+      {
+        "label": "03 / Match the product to its channel",
+        "paragraphs": [
+          "Channel/product fit asks whether the route to the audience suits the product, its economics, and the behavior required after the click. The strongest channel is not simply the one with the greatest reach; it is the one that can carry the right audience into a valuable experience.",
+          "The practical work is to test channels in sequence, learn which constraints matter, and concentrate only after the team has evidence that the channel can produce customers rather than inexpensive attention."
+        ]
+      },
+      {
+        "label": "04 / Build sharing into value",
+        "paragraphs": [
+          "Referral and viral loops work best when inviting another person is a natural part of using the product or improves the user’s own experience. Incentives should reinforce the product’s core value rather than feel like a disconnected bribe.",
+          "The chapter also warns against dark patterns and empty virality. A sharing loop still needs a valuable product, a good invitee experience, and continuous experimentation across payload, conversion, and frequency."
+        ]
+      },
+      {
+        "label": "05 / Turn acquisition into an experiment system",
+        "paragraphs": [
+          "The durable lesson is not a particular tactic such as a referral offer or a catchy headline. It is the operating method: state a fit hypothesis, run a focused test, observe the behavior, and use the result to improve the next route to the customer.",
+          "Stop with one acquisition-fit experiment brief: target customer, message, channel, desired behavior, cost constraint, and the evidence that would justify the next test."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "Hacking Acquisition",
+      "language/market fit",
+      "channel/product fit",
+      "Crafting a Compelling Message",
+      "Designing Customer Loops"
+    ],
+    "closeReading": [
+      "Why do Ellis and Brown delay large-scale acquisition until the product has demonstrated a must-have experience?",
+      "What is the difference between language/market fit and channel/product fit, and how could a team confuse the two?",
+      "Which small change in language from the chapter most clearly changes a product's perceived value or use case?",
+      "When does a referral incentive reinforce a product's core value, and when does it become a disconnected bribe?",
+      "Write one acquisition-fit experiment: target customer, message, channel, desired behavior, cost constraint, and the result that would earn a second test."
+    ]
+  },
+  "principle": {
+    "heading": "Test the route before you scale the spend.",
+    "body": "Customer acquisition compounds when the message resonates, the channel reaches the right people, and the product gives them a reason to continue or share. Treat each link in that chain as a fit hypothesis that must earn expansion.",
+    "exampleLabel": "Example",
+    "example": "A workflow app should not buy broad traffic because its category peers do. It can first test whether a specific customer phrase converts in a narrow channel, then measure whether those users activate and invite a collaborator before increasing reach.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one offer. Write the target customer, the exact message they should recognize, the channel that can reach them, the first valuable action, and the cost or quality threshold that determines whether you continue."
+  },
+  "output": {
+    "heading": "Make acquisition a chain of earned fits.",
+    "body": "Name the customer, message, channel, and first valuable behavior you need to connect. Then design the smallest test that can show which link is holding or failing."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "heading": "Five current signals on matching the promise, route, and first valuable behavior.",
+    "fieldNotes": [
+      {
+        "collectedAt": "2026-09-19",
+        "source": "Marketing Dive",
+        "sourceDate": "2026-09-18",
+        "title": "Instacart gives its AI assistant a familiar cultural route into shopping",
+        "whatHappened": "Instacart launched an integrated campaign for its Clementine AI shopping assistant, using Shrek and Scooby-Doo references to show people moving from an idea to meal inspiration and a filled cart across TV, YouTube, audio, social, and in-app channels.",
+        "whyItMatters": "The message is not abstract AI capability; it is a recognizable path from a cultural cue to an order. The campaign makes the product promise legible by showing the channel carrying the customer into a concrete behavior.",
+        "watch": "Watch whether the pop-culture framing produces repeat shopping behavior or only earns attention at the top of the funnel.",
+        "url": "https://www.marketingdive.com/news/instacart-enlists-icons-like-shrek-scooby-doo-to-market-ai-assistant/830757/"
+      },
+      {
+        "collectedAt": "2026-09-19",
+        "source": "Google",
+        "sourceDate": "2026-09-17",
+        "title": "Google turns household coordination into the entry point for CC",
+        "whatHappened": "Google Labs repositioned its experimental CC agent around families and households, with shared calendars, tasks, daily briefs, meal plans, forms, and permission controls across up to six members.",
+        "whyItMatters": "The product found a sharper customer problem than generic productivity: distributed household logistics. The shared account and permissions model also make the collaboration loop part of the product rather than an afterthought.",
+        "watch": "Watch whether families keep forwarding and sharing context after the novelty fades, and whether the permission model earns enough trust for the agent to act.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/"
+      },
+      {
+        "collectedAt": "2026-09-19",
+        "source": "Google",
+        "sourceDate": "2026-09-16",
+        "title": "Google is giving retailers a new way to measure AI discovery",
+        "whatHappened": "Google made AI performance insights in Merchant Center broadly available across several markets and added Business Agent features that let shoppers research products inside YouTube ads before buying.",
+        "whyItMatters": "As discovery moves into conversational surfaces, channel fit depends on whether a retailer can see how its products are being represented and improve the feed or experience that carries the shopper forward.",
+        "watch": "Watch whether share-of-voice and conversational guidance become actionable acquisition metrics or merely replace one opaque attribution layer with another.",
+        "url": "https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/"
+      },
+      {
+        "collectedAt": "2026-09-19",
+        "source": "TechCrunch",
+        "sourceDate": "2026-09-18",
+        "title": "Meta puts Muse on the Mac to meet users inside existing work",
+        "whatHappened": "Meta released its Muse AI assistant for Mac, where it can interact with files, messages, calendars, notes, and mail, with opt-in access and approval for sensitive actions.",
+        "whyItMatters": "The distribution move is the product argument: users do not have to move to a new destination to test the assistant. The familiar desktop route lowers switching cost while approvals make the behavior legible and bounded.",
+        "watch": "Watch which repeated desktop tasks become valuable enough to overcome permission friction and turn a fast launch into a habit.",
+        "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/"
+      },
+      {
+        "collectedAt": "2026-09-19",
+        "source": "Marketing Dive",
+        "sourceDate": "2026-09-15",
+        "title": "Carter's refreshes the promise and the social route together",
+        "whatHappened": "Carter's introduced a refreshed identity and its Watch Them Glow campaign for Gen Z and millennial parents, pairing a new logo with revised social creative, creator work, product storytelling, and community narratives.",
+        "whyItMatters": "A new message has a chance to travel when the brand changes the route by which customers encounter it. Here the positioning is being tested through identity, creators, and stories rather than left to a single ad line.",
+        "watch": "Watch whether the broader promise is reinforced by product and community experience, or remains a campaign layer over the old customer proposition.",
+        "url": "https://www.marketingdive.com/news/how-carters-is-refreshing-its-brand-to-reach-gen-z-millennial-parents/830313/"
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-09-19",
+        "sourceDate": "2026-09-19",
+        "feed": "following",
+        "author": "signüll",
+        "handle": "signulll",
+        "title": "A product fragment on turning capability into behavior",
+        "summary": "This fragment is useful because it names the behavioral question behind a new capability. The important test is not whether the feature is impressive, but whether it changes a repeated workflow enough for the user to adopt it.",
+        "text": "it’s pretty remarkable that meta is effectively bundling a growing number of ai utilities into its products & giving them away for ~free.\n\nthis is how social media became completely free. you can imagine the same thing happening across ai. entire categories that currently support billion dollar companies could get bundled into muse.\n\nmeta is structurally incentivized to do this cuz the product doesn’t need to monetize directly if it increases engagement, retention, or the value of the network + creates entirely new business opportunities like agentic commerce.\n\nin some sense, zuck is commodifying the product layer of ai way more than the model layer. that’s pretty hefty competition for a lot of product companies.\n\ni suspect muse for business (not just consumers) will be built at some point too.",
+        "url": "https://x.com/signulll/status/2101099352324452732"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
