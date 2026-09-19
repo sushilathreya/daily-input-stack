@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-19",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-09-19 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "a01db7b68c577658c9aeff10843560fcc4cdebb7",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Saturday, 19 September 2026",
+    "Issue 050",
+    "Acquire customers through the fit between message and channel."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 19 September 2026",
+  "gmail_message_id": "01a0b7e9-220b-7226-ad25-2930c699f470",
+  "completed_at_ist": "2026-09-19 09:55:04 IST"
+}
