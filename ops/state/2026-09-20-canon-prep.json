@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-20",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-09-20.json",
+  "master": "Donald Miller",
+  "work": "Building a StoryBrand",
+  "chapter_or_section": "Chapter 3, \"The Simple SB7 Framework\" (EPUB chapter file index_split_010.html)",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-09-13-weekly-program.json",
+  "canon_history_checked": true,
+  "parser_preflight": "manual_verified; local EPUB nav and native XHTML boundaries confirm Chapter 3 is index_split_010.html and Chapter 4 begins at index_split_019.html.",
+  "validation_command": "node ops/scripts/validate-issue.mjs 2026-09-20 --draft",
+  "notes": "Prepared from the weekly program for the 2026-09-20 assignment. Canon history was checked before assignment: StoryBrand Chapters 1 and 2 were previously used, while Chapter 3 has not been used. Canon-only run: no publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}

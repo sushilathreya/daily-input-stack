@@ -1,0 +1,177 @@
+{
+  "date": "2026-09-20",
+  "displayDate": "Sunday, 20 September 2026",
+  "issueNumber": 51,
+  "title": "Make the customer’s next step obvious inside a story they can repeat.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter Three of Building a StoryBrand, Donald Miller gives the SB7 framework its compact operating shape: customer, problem, guide, plan, action, failure, and success. The discipline is to make a message easy to enter, remember, and act on.",
+  "meta": {
+    "canon": "Donald Miller, <em>Building a StoryBrand</em>",
+    "study": "25-35 min",
+    "practice": "one SB7 message script"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A framework is useful only when it removes decisions from the reader. Name the customer’s desire, the obstacle, your role, and the next action before adding another claim."
+  },
+  "canon": {
+    "author": "Donald Miller",
+    "work": "Building a StoryBrand",
+    "chapter": "The Simple SB7 Framework",
+    "chapterLabel": "Chapter 3, \"The Simple SB7 Framework\"",
+    "field": "storytelling / marketing communication / message design",
+    "pageRange": "EPUB Chapter 3 only; begin at the Chapter 3 heading in `index_split_010.html` and stop before Chapter 4 begins in `index_split_019.html`.",
+    "pageCount": 1,
+    "stopPoint": "Stop at the end of Chapter 3 in the local EPUB. Do not continue into Chapter 4, \"A Character,\" which begins at the start of `index_split_019.html`.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_epub",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub",
+      "driveUrl": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "native_text_epub_with_toc_and_split-file_boundary_verification",
+        "tool": "local EPUB unzip + native XHTML extraction",
+        "nativeTextPages": "Chapter 3 is contained in the EPUB chapter file `index_split_010.html`; Chapter 4 begins in `index_split_019.html`.",
+        "tableOfContentsVerified": true,
+        "notes": "The local Books EPUB was inspected directly. The EPUB nav (`toc.ncx`) identifies Chapter 3, \"The Simple SB7 Framework,\" at `index_split_010.html` and Chapter 4, \"A Character,\" at `index_split_019.html`. The complete Chapter 3 file is therefore the bounded reading; this EPUB has no printed-page map."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub\""
+    },
+    "heading": "Give the customer a story-shaped route to the next action.",
+    "standfirst": "Read Chapter 3, \"The Simple SB7 Framework,\" from Donald Miller's <em>Building a StoryBrand</em>. Miller compresses the framework into seven movements that clarify who the customer is, what they want, what is blocking them, how the brand helps, and what action leads toward a better outcome.",
+    "readerIntro": "Read this chapter as a message-design checklist, not as a license to make every brand sound identical. Mark each of the seven movements, then notice how the sequence keeps the customer in the center, turns the brand into a guide, and gives the reader a concrete next step. Pay special attention to what the framework leaves out: claims that do not clarify desire, risk, guidance, or action.",
+    "blocks": [
+      {
+        "label": "01 / The framework is a compression device for customer attention",
+        "paragraphs": [
+          "Miller opens Chapter 3 by moving from the previous chapter’s argument about noise to a practical framework. The goal is not to tell a complete corporate history; it is to make the few messages that matter easy to remember and repeat.",
+          "The framework earns its keep by reducing ambiguity. A reader should be able to locate the person who wants something, the problem in the way, the guide who can help, and the action that moves the story forward."
+        ]
+      },
+      {
+        "label": "02 / Customer, problem, and guide establish the story’s point of view",
+        "paragraphs": [
+          "The first three elements give the message a point of view: the customer is the character, the problem creates stakes, and the brand appears as a guide rather than the hero. This shift keeps the message anchored in the person whose decision matters.",
+          "A guide is credible because it combines empathy with authority. The brand has to show that it understands the customer’s difficulty and can offer a trustworthy route through it without taking over the customer’s role."
+        ]
+      },
+      {
+        "label": "03 / The plan turns reassurance into a usable path",
+        "paragraphs": [
+          "The plan gives the customer a sequence they can imagine completing. It can reduce confusion about process, risk, or commitment by showing what happens first and what follows after that.",
+          "This is where a promise becomes operational. Without a plan, a brand may sound sympathetic or impressive but still leave the customer wondering how the desired result is supposed to happen."
+        ]
+      },
+      {
+        "label": "04 / Calls to action make the story move",
+        "paragraphs": [
+          "The framework separates direct calls to action from softer transitional commitments. The distinction matters because a customer who is not ready to buy may still be ready to take a useful next step that builds confidence.",
+          "A message without an action remains a description. The action should be visible, specific, and proportionate to the customer’s current certainty rather than hidden beneath more explanation."
+        ]
+      },
+      {
+        "label": "05 / Failure and success give the decision a reason to matter",
+        "paragraphs": [
+          "Failure names what the customer risks by remaining stuck, while success makes the desired transformation concrete. Miller uses these elements to give the decision emotional and practical weight.",
+          "The discipline is balance. The message should make consequences legible without manufacturing panic, and it should describe success as a meaningful change in the customer’s life rather than as a pile of generic benefits."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "The StoryBrand Framework",
+      "the customer is the hero, not your brand",
+      "a character who wants something",
+      "the character encounters a problem",
+      "the character meets a guide",
+      "the guide gives them a plan",
+      "the guide calls them to action",
+      "that helps them avoid failure",
+      "and ends in a success"
+    ],
+    "closeReading": [
+      "Why does Miller present the SB7 framework as a compression of a message rather than as a complete account of the company?",
+      "What changes in a message when the customer is positioned as the hero and the brand as the guide?",
+      "How does the plan element reduce a customer’s uncertainty differently from a claim of expertise or authority?",
+      "What makes a call to action concrete and proportionate instead of merely urgent?",
+      "Write one SB7 script for a current offer: customer, problem, guide, plan, action, failure, and success."
+    ]
+  },
+  "principle": {
+    "heading": "Clarity is a route, not a slogan.",
+    "body": "A useful commercial message lets the customer recognize their desire, see the obstacle, trust the guide, and understand the next move. The SB7 framework is valuable when it helps you cut every sentence that does not support that route.",
+    "exampleLabel": "Example",
+    "example": "A bookkeeping service can stop leading with years in business and software features. It can name the overwhelmed owner, the month-end uncertainty, the service’s experienced guidance, the onboarding steps, the first call, the cost of continuing blind, and the calmer financial picture that follows.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one offer and write seven short lines: who the customer is, what they want, what blocks them, how you guide them, what the plan is, what to do now, and what improves if they act. Remove any line that does not help the reader move."
+  },
+  "output": {
+    "heading": "Write one repeatable SB7 message.",
+    "body": "Turn one offer into seven short moves that a customer can recognize and act on. Keep the customer at the center, make your role useful and credible, and make the next action impossible to miss."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "heading": "Four current signals on making the customer’s route visible inside the product, the campaign, and the commerce surface.",
+    "fieldNotes": [
+      {
+        "collectedAt": "2026-09-20",
+        "source": "TechCrunch",
+        "sourceDate": "2026-09-18",
+        "title": "Meta puts Muse on the Mac and inside existing work",
+        "whatHappened": "Meta released its Muse AI assistant for Mac, where it can interact with files, messages, calendars, notes, and mail, with opt-in access and approval for sensitive actions.",
+        "whyItMatters": "The product’s route to value is concrete: users can try an assistant in the tools where work already happens. Opt-in permissions and approval prompts make the action boundary visible instead of asking for abstract trust.",
+        "watch": "Watch which repeated desktop tasks become valuable enough to overcome permission friction and turn a fast launch into a habit.",
+        "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-the-computer/"
+      },
+      {
+        "collectedAt": "2026-09-20",
+        "source": "Marketing Dive",
+        "sourceDate": "2026-09-18",
+        "title": "Instacart gives its AI assistant a familiar cultural route into shopping",
+        "whatHappened": "Instacart’s campaign for its Clementine AI shopping assistant uses Shrek and Scooby-Doo references to show people moving from an idea to meal inspiration and a filled cart across TV, YouTube, audio, social, and in-app channels.",
+        "whyItMatters": "The message is not abstract AI capability; it is a recognizable path from a cultural cue to an order. The campaign makes the product promise legible by showing the channel carrying the customer into a concrete behavior.",
+        "watch": "Watch whether the pop-culture framing produces repeat shopping behavior or only earns attention at the top of the funnel.",
+        "url": "https://www.marketingdive.com/news/instacart-enlists-icons-like-shrek-scooby-doo-to-market-ai-assistant/830757/"
+      },
+      {
+        "collectedAt": "2026-09-20",
+        "source": "Google",
+        "sourceDate": "2026-09-16",
+        "title": "Google moves product guidance into the YouTube shopping context",
+        "whatHappened": "Google announced a Business Agent beta for eligible YouTube ads, allowing viewers to ask product questions and receive tailored guidance without leaving the video context. It also made AI performance insights in Merchant Center broadly available across several markets.",
+        "whyItMatters": "Discovery and action are being joined at the point where curiosity starts. For marketers, the new challenge is not only to be present in a channel but to supply enough structured product context for an agent to help a shopper decide.",
+        "watch": "Watch whether conversational guidance improves qualified action or simply adds another surface whose attribution is difficult to interpret.",
+        "url": "https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/"
+      },
+      {
+        "collectedAt": "2026-09-20",
+        "source": "TechCrunch",
+        "sourceDate": "2026-09-18",
+        "title": "TypeSafe AI bets on calibrated decisions instead of fluent output",
+        "whatHappened": "TypeSafe AI released Jev, a transformer-based model that produces probabilities or calibrated decisions rather than text. The company positions it as a cheaper, faster, and less hallucination-prone option for software automation because users define outputs in advance.",
+        "whyItMatters": "The product story is sharper when the customer’s job is explicit. Instead of selling general intelligence, Jev frames the value around a bounded automation decision with a defined output and a clearer failure surface.",
+        "watch": "Watch whether developers prefer narrower, inspectable decision systems when reliability matters more than conversational breadth.",
+        "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/"
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-09-20",
+        "sourceDate": "2026-09-19",
+        "feed": "for_you",
+        "author": "Patrick Collison",
+        "handle": "patrickc",
+        "title": "A payment route for agentic commerce",
+        "summary": "A concise product fragment: Meta and Stripe are partnering to make it easier for businesses to accept agentic payments through the Muse Connector Platform. The important question is how quickly a new capability becomes a trusted route to a transaction.",
+        "text": "🆕: @Meta and @stripe are partnering to make it easy for businesses to accept agentic payments using the @Muse Connector Platform.\n\nLearn more:\n• https://t.co/kGsKMULe3m\n• https://t.co/Fn5U2QRaaz\n• Email jweinstein@ / @jeff_weinstein",
+        "url": "https://x.com/patrickc/status/2101296407433076738"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
