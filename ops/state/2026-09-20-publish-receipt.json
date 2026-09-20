@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-20",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-09-20 12:00:00 IST",
+  "local_verified": true,
+  "git_commit": "f0a0c33854ebe80c76235c948fa19077c0bd7613",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Sunday, 20 September 2026",
+    "Issue 051",
+    "Make the customer’s next step obvious inside a story they can repeat."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - Sunday - 20 September 2026",
+  "gmail_message_id": "01a0bd7d-57c9-7478-ba11-d5ec4cb7e3bc",
+  "completed_at_ist": "2026-09-20 11:55:03 IST"
+}
