@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-20",
+  "week_start": "2026-09-21",
+  "week_end": "2026-09-27",
+  "status": "planned",
+  "theme": "Make commercial meaning credible and movable: authority earns deference, character becomes text, positions become leadership, desire gains identification, strategy fits the market, growth removes activation friction, and the customer gets a story-shaped first step.",
+  "days": [
+    {
+      "date": "2026-09-21",
+      "master": "Robert B. Cialdini",
+      "work": "Influence: The Psychology of Persuasion",
+      "chapter_or_section": "Chapter 6, \"Authority: Directed Deference\"",
+      "fundamental": "Persuasion: understand why credible expertise, titles, symbols, and evidence can serve as judgment shortcuts, and test whether the authority cue is relevant rather than merely impressive.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Influence - Robert Cialdini.pdf",
+      "drive_link": "https://drive.google.com/file/d/1sTpikK8Y7ebUBiSRRkiZoBcbNSh4Dk_Y/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history has used Cialdini Chapters 1-5 and 7, but not Chapter 6; canon prep should verify the chapter boundary before assignment."
+    },
+    {
+      "date": "2026-09-22",
+      "master": "Robert McKee",
+      "work": "Story: Substance, Structure, Style, and the Principles of Screenwriting",
+      "chapter_or_section": "Chapter 12, \"The Text\"",
+      "fundamental": "Storytelling: distinguish the written surface from the deeper structure of action and meaning, then make every spoken or written line carry a change in value, intention, or relationship.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Robert McKee - Story .pdf",
+      "drive_link": "https://drive.google.com/file/d/1B1FBVTR0Z2YvQYJ7zoEOgmEI-q8GHetu/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history reaches McKee Chapter 11, \"Character,\" but not Chapter 12; canon prep must bound the scanned PDF to the verified chapter stop point."
+    },
+    {
+      "date": "2026-09-23",
+      "master": "Al Ries and Jack Trout",
+      "work": "Positioning: The Battle for Your Mind",
+      "chapter_or_section": "Chapter 6, \"Positioning of a Leader\"",
+      "fundamental": "Positioning/brand: learn how a leader protects the category position it already occupies, using the strength of leadership without confusing size with permanent preference.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Positioning - Al Ries and Jack Trout.pdf",
+      "drive_link": "https://drive.google.com/file/d/1fISuTXG4QmxQ6MrFaI3wxE6eR6EoEh-p/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history reaches Positioning Chapter 5, \"You Can't Get There from Here\"; Chapter 6 is the next non-repeated section and its source title is confirmed in the local edition."
+    },
+    {
+      "date": "2026-09-24",
+      "master": "Eugene Schwartz",
+      "work": "Breakthrough Advertising",
+      "chapter_or_section": "Part I, Chapter 5, \"The Power of Identification\"",
+      "fundamental": "Human desire/psychology: make a promise believable by giving the prospect a self-image, situation, or identity to recognize, so desire becomes personally owned rather than merely described.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Breakthrough Advertising Eugene Schwartz.pdf",
+      "drive_link": "https://drive.google.com/file/d/1HMVnMMmOMxmqrZz0Zcb6-dmbTdMZ0ezI/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history has used Breakthrough Advertising Chapters 1-4, including \"38 Ways to Strengthen Your Headline Once You Have Your Basic Idea\"; Chapter 5 is the next bounded, non-repeated reading."
+    },
+    {
+      "date": "2026-09-25",
+      "master": "Clayton M. Christensen",
+      "work": "The Innovator's Dilemma",
+      "chapter_or_section": "Chapter 6, \"Match the Size of the Organization to the Size of the Market\"",
+      "fundamental": "Tech/strategy: match an emerging market’s growth rate and uncertainty to an organization that can learn fast enough, instead of asking a large incumbent to manage a small market with the wrong incentives.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/The Innovator’s Dilemma - Clayton Christensen.pdf",
+      "drive_link": "https://drive.google.com/file/d/1X5-ZodswFwiIg2uFtgLMZNHzmJqCtu8w/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history reaches Christensen Chapter 5; Chapter 6 is the next non-repeated strategy chapter, and canon prep must parser-preflight the scanned PDF and assign a bounded section under 60 pages."
+    },
+    {
+      "date": "2026-09-26",
+      "master": "Sean Ellis and Morgan Brown",
+      "work": "Hacking Growth",
+      "chapter_or_section": "Chapter Six, \"Hacking Activation\"",
+      "fundamental": "Distribution/growth: turn acquisition into value by finding the first meaningful user experience, removing friction before it, and testing the path to the product’s activation moment.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Hacking Growth.epub",
+      "drive_link": "https://drive.google.com/file/d/1wtU-SZ-6s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history reaches Chapter Five, \"Hacking Acquisition\"; the EPUB table of contents confirms Chapter Six, \"Hacking Activation,\" as the next bounded playbook chapter."
+    },
+    {
+      "date": "2026-09-27",
+      "master": "Donald Miller",
+      "work": "Building a StoryBrand",
+      "chapter_or_section": "Chapter 4, \"A Character\"",
+      "fundamental": "Writing/taste: put the customer’s desire at the center of the message, then let the brand function as a clear guide rather than competing with the customer for the hero role.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Building a Stroybrand.epub",
+      "drive_link": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history used StoryBrand Chapters 1-3, so Chapter 4 is a distinct next reading; the local EPUB table of contents confirms the title and sequence."
+    }
+  ],
+  "created_at_ist": "2026-09-20 18:00:00 IST",
+  "created_by": "weekly-program-agent"
+}

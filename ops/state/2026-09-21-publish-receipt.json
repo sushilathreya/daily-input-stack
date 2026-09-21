@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-21",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-09-21 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "a72ad405f2f99248fbd06030078098de89908dd0",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Monday, 21 September 2026",
+    "Issue 052",
+    "Borrow authority carefully; verify the cue before you defer."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 21 September 2026",
+  "gmail_message_id": "01a0c235-d6c5-7459-a0db-e15d7b3ccfef",
+  "completed_at_ist": "2026-09-21 09:55:03 IST"
+}
