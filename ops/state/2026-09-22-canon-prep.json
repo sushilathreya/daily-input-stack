@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-22",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-09-22.json",
+  "master": "Robert McKee",
+  "work": "Story: Substance, Structure, Style, and the Principles of Screenwriting",
+  "chapter_or_section": "Chapter 12, \"The Text\" (PDF pages 282-293)",
+  "page_range": "PDF pages 282-293",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-09-20-weekly-program.json",
+  "canon_history_checked": true,
+  "parser_preflight": "manual_verified; the local scanned McKee PDF and established rendered-page boundary record place Chapter 11 at PDF pages 257-281, Chapter 12, The Text, at PDF pages 282-293, and Chapter 13 at PDF page 294, confirming the 12-page bounded reading.",
+  "validation_command": "node ops/scripts/validate-issue.mjs 2026-09-22 --draft",
+  "notes": "Prepared from the weekly program for the 2026-09-22 assignment. Canon history was checked before assignment: McKee Chapter 11, Character, was used on 2026-09-15, while Chapter 12, The Text, has not been used. Canon-only run: no publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
