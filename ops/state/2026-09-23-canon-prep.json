@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-23",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-09-23.json",
+  "master": "Al Ries and Jack Trout",
+  "work": "Positioning: The Battle for Your Mind",
+  "chapter_or_section": "Chapter 6, \"Positioning of a Leader\" (PDF pages 41-47)",
+  "page_range": "PDF pages 41-47",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-09-20-weekly-program.json",
+  "canon_history_checked": true,
+  "parser_preflight": "manual_verified; the local Positioning PDF outline destination for Chapter 6 points to PDF page 41 and the destination for Chapter 7 points to PDF page 48, confirming the seven-page bounded reading on PDF pages 41-47.",
+  "validation_command": "node ops/scripts/validate-issue.mjs 2026-09-23 --draft",
+  "notes": "Prepared from the weekly program for the 2026-09-23 assignment. Canon history was checked before assignment: Positioning Chapter 5, \"You Can't Get There from Here,\" was used on 2026-09-16, while Chapter 6, \"Positioning of a Leader,\" has not been used. Canon-only run: no publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
