@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-24",
+  "status": "published_and_emailed",
+  "delivery_status": "delayed",
+  "target_inbox_time_ist": "2026-09-24 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "915fa976a2ea2b2dbf5d90256cffc76e3eb8bd09",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Thursday, 24 September 2026",
+    "Issue 055",
+    "Make the promise feel like the prospect's own identity."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 24 September 2026",
+  "gmail_message_id": "01a0d230-2b57-72c9-b053-97ee2b0d91f5",
+  "completed_at_ist": "2026-09-24 12:22:47 IST",
+  "delay_note": "Complete issue was sent at 2026-09-24 12:22:47 IST, after the 2026-09-24 10:00:00 IST target."
+}
