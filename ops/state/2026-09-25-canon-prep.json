@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-25",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-09-25.json",
+  "master": "Clayton M. Christensen",
+  "work": "The Innovator's Dilemma",
+  "chapter_or_section": "Chapter 6, \"Match the Size of the Organization to the Size of the Market\" (PDF pages 169-194)",
+  "page_range": "PDF pages 169-194",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-09-20-weekly-program.json",
+  "canon_history_checked": true,
+  "parser_preflight": "rendered_pages_verified; local scanned PDF inspected by extracting the embedded JPEG page images and directly checking the chapter opener at PDF page 169 and the Chapter 7 boundary at PDF page 195, confirming the bounded 26-page reading.",
+  "validation_command": "node ops/scripts/validate-issue.mjs 2026-09-25 --draft",
+  "notes": "Prepared from the weekly program for the 2026-09-25 assignment. Canon history was checked before assignment: Christensen Chapter 5 was used on 2026-09-18, while Chapter 6 has not been used. Canon-only run: no publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
