@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-26",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-09-26 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "4bc5f6ed7d6235f382ea1182084220abd7c5206b",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Saturday, 26 September 2026",
+    "Issue 057",
+    "Turn acquisition into a first experience worth repeating."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 26 September 2026",
+  "gmail_message_id": "01a0dbf5-a50b-701f-a2e1-5a04f5d5cf45",
+  "completed_at_ist": "2026-09-26 09:55:04 IST"
+}
