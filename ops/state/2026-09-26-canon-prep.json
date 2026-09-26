@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-26",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-09-26.json",
+  "master": "Sean Ellis and Morgan Brown",
+  "work": "Hacking Growth",
+  "chapter_or_section": "Chapter Six, \"Hacking Activation\" (EPUB printed pages 171-199; OEBPS/Elli_9780451497222_epub3_c06_r1.xhtml)",
+  "page_range": "EPUB printed pages 171-199",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-09-20-weekly-program.json",
+  "canon_history_checked": true,
+  "parser_preflight": "manual_verified; local EPUB NCX/nav places Chapter Six in c06_r1.xhtml after Chapter Five and before Chapter Seven, with printed page markers 171-199 and the next chapter beginning at printed page 200.",
+  "validation_command": "node ops/scripts/validate-issue.mjs 2026-09-26 --draft",
+  "validation_result": "passed",
+  "notes": "Prepared from the weekly program for the 2026-09-26 assignment. Canon history was checked before assignment: Hacking Growth Chapter Five was used on 2026-09-19, while Chapter Six has not been used. Canon-only run: no publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
