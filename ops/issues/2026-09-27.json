@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-27",
+  "displayDate": "Sunday, 27 September 2026",
+  "issueNumber": 58,
+  "title": "Put the customer at the center of the story they want to enter.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 4 of Building a StoryBrand, Donald Miller argues that a clear message begins by naming what the customer wants. The brand earns attention by helping the customer move toward that desire, not by making itself the hero.",
+  "meta": {
+    "canon": "Donald Miller, <em>Building a StoryBrand</em>",
+    "study": "25-35 min",
+    "practice": "one customer-desire statement"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "Your customer is already carrying a desire into the conversation. Name it plainly, narrow it to one useful focus, and let the brand become the guide that helps close the gap."
+  },
+  "canon": {
+    "author": "Donald Miller",
+    "work": "Building a StoryBrand",
+    "chapter": "A Character",
+    "chapterLabel": "Chapter 4, \"A Character\"",
+    "field": "storytelling / marketing communication / customer desire",
+    "pageRange": "EPUB Chapter 4 only; begin at the Chapter 4 heading in `index_split_019.html` and stop before Chapter 5, \"Has a Problem,\" begins in `index_split_020.html`.",
+    "pageCount": 1,
+    "stopPoint": "Stop at the end of Chapter 4 in the local EPUB. Do not continue into Chapter 5, \"Has a Problem,\" which begins in `index_split_020.html`.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_epub",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub",
+      "driveUrl": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "native_text_epub_with_toc_and_split_file_boundary_verification",
+        "tool": "local EPUB unzip, NCX inspection, and native XHTML extraction",
+        "nativeTextPages": "Chapter 4 is contained in `index_split_019.html`; Chapter 5 begins in `index_split_020.html`.",
+        "tableOfContentsVerified": true,
+        "notes": "The local Books EPUB was inspected directly. The EPUB NCX identifies Chapter 4, \"A Character,\" at `index_split_019.html` and Chapter 5, \"Has a Problem,\" at `index_split_020.html`. The complete Chapter 4 file is therefore the bounded reading; this EPUB has no printed-page map."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub\""
+    },
+    "heading": "Let the customer be the character with something worth wanting.",
+    "standfirst": "Read Chapter 4, \"A Character,\" from Donald Miller's <em>Building a StoryBrand</em>. Miller shows how naming one clear customer desire opens a story gap, gives the message direction, and keeps the brand from competing with the customer for the hero's role.",
+    "readerIntro": "Read this chapter as a discipline of message focus. Mark how Miller defines the customer's desire, how that desire opens a story gap, why one primary ambition is stronger than a pile of benefits, and how survival, status, resources, connection, generosity, and meaning can make a promise matter. Then write one clear desire your offer can help the customer reach.",
+    "blocks": [
+      {
+        "label": "01 / A story starts with what the character wants",
+        "paragraphs": [
+          "Miller begins with a simple dramatic condition: the audience cares when the hero wants something and the outcome is uncertain. In marketing, the equivalent move is to define what the customer wants before explaining the brand.",
+          "Once the desire is clear, the message creates a question in the customer's mind: can this brand help me get what I want? That question gives the conversation a direction."
+        ]
+      },
+      {
+        "label": "02 / The brand should not take the hero's role",
+        "paragraphs": [
+          "A company can easily fill its message with its buildings, history, features, or internal identity. Those details may be true, but they do not invite the customer into a story unless they connect to the customer's desired outcome.",
+          "The brand becomes more useful when it clarifies the customer's ambition and shows how its work supports that ambition. The customer gets the transformation; the brand helps make it possible."
+        ]
+      },
+      {
+        "label": "03 / One clear desire opens a story gap",
+        "paragraphs": [
+          "A story gap appears when there is distance between the character and what the character wants. That distance creates attention because the mind begins asking how the gap might close.",
+          "Vague or overloaded positioning closes no useful question. Choose one relevant desire first, then let additional benefits become supporting subplots rather than competing headlines."
+        ]
+      },
+      {
+        "label": "04 / Relevance is connected to survival and thriving",
+        "paragraphs": [
+          "Miller asks brands to connect their promise to durable human motives: conserving time or money, building social networks, gaining status, accumulating resources, contributing generously, or finding meaning.",
+          "The point is not to make every message sound primitive or fearful. It is to make the consequence of the promise concrete enough that the customer can understand why it matters in a life they are trying to protect or improve."
+        ]
+      },
+      {
+        "label": "05 / The message should answer where you can take them",
+        "paragraphs": [
+          "Miller's final test is repeatability. A customer should be able to say what the brand helps them achieve without translating a mission statement or decoding a list of capabilities.",
+          "Stop with one customer-desire statement: name the person, the single outcome they want, the story gap between here and there, and the credible way your offer helps close it."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "a story starts with a hero who wants something",
+      "open a story gap",
+      "pare down the customer's ambition to a single focus",
+      "choose a desire relevant to their survival",
+      "what's the story question for your customer"
+    ],
+    "closeReading": [
+      "Why does Miller define the customer's desire before describing the brand's capabilities?",
+      "What story gap does your offer open, and what question should the customer want answered?",
+      "Which customer desires in the chapter connect to conserving resources, status, belonging, generosity, or meaning?",
+      "Where does a brand's message become cluttered by too many ambitions instead of one clear focus?",
+      "Write one sentence naming the customer, the single thing they want, and the credible change your offer helps them reach."
+    ]
+  },
+  "principle": {
+    "heading": "Make the customer's desired destination easy to name.",
+    "body": "Clear marketing begins with a customer who wants something specific. When the brand names that destination and offers a credible route toward it, attention has a reason to continue.",
+    "exampleLabel": "Example",
+    "example": "A writing service should not lead with its process or origin story. It can name the founder who wants to publish useful ideas every week, then show how the service turns scattered notes into a dependable publishing rhythm.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one offer and write ten possible customer desires. Circle the one most relevant to the customer's real life, reduce it to a single outcome, and write the story gap between the customer's current state and that outcome."
+  },
+  "output": {
+    "heading": "Name the destination before explaining the vehicle.",
+    "body": "Write one customer-centered promise that makes the desired outcome, the story gap, and your role in closing it immediately understandable."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "heading": "Four current signals on making the customer's desired outcome visible before the brand explains itself.",
+    "fieldNotes": [
+      {
+        "title": "Meta makes the agent useful at the moment of seeing",
+        "source": "Meta",
+        "url": "https://about.fb.com/news/2026/09/the-biggest-news-from-connect-2026/",
+        "sourceDate": "2026-09-24",
+        "collectedAt": "2026-09-27",
+        "whatHappened": "Meta said Muse will come to its AI glasses, where people can ask about a product on a shelf, a flyer, or a shopping list and have the agent act on what they are looking at. It also added more shopping connectors and payment options.",
+        "whyItMatters": "The customer desire is not ‘use an AI agent’; it is solve the decision already in front of me. Context makes the route to that outcome shorter, while the brand recedes into the background as the guide.",
+        "watch": "Watch whether seeing-to-action produces repeated utility or whether the novelty of hands-free assistance outruns the number of decisions people actually want delegated."
+      },
+      {
+        "title": "Coach and Kate Spade enter the shopping conversation",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/tapestry-sell-via-google-gemini-app-ai-mode/830890/",
+        "sourceDate": "2026-09-24",
+        "collectedAt": "2026-09-27",
+        "whatHappened": "Tapestry made Coach and Kate Spade products purchasable through Google Search, AI Mode, and the Gemini app, with Google Pay checkout and consumer approval required for each transaction.",
+        "whyItMatters": "The useful promise is not another destination; it is helping a shopper complete a purchase wherever discovery happens. The merchant stays close to customer data while adapting the route to the customer's chosen surface.",
+        "watch": "Watch whether approval-based agentic checkout preserves confidence and conversion, especially when the recommendation and transaction happen outside the retailer's own site."
+      },
+      {
+        "title": "Jeep turns heritage into several ways into the brand",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/how-jeep-is-charting-a-new-course-for-its-marketing/831335/",
+        "sourceDate": "2026-09-25",
+        "collectedAt": "2026-09-27",
+        "whatHappened": "Jeep launched ‘This Is Jeep Country,’ using American heritage as the organizing idea while adding culturally specific extensions for a fragmented audience.",
+        "whyItMatters": "A brand story becomes more inviting when it keeps one clear promise but gives different people a credible entry point. The customer should recognize where they belong before the brand asks them to admire its history.",
+        "watch": "Watch whether the extensions change the insight and invitation, or merely translate a national campaign without making the desired customer identity more concrete."
+      },
+      {
+        "title": "Ando puts agents inside the conversation where work already happens",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+        "sourceDate": "2026-09-24",
+        "collectedAt": "2026-09-27",
+        "whatHappened": "Ando came out of stealth with a team-messaging platform designed for human and AI workers, giving agents identities and inboxes so they can participate in shared conversations rather than relying on people to relay their work.",
+        "whyItMatters": "The product is framed around the customer's desired outcome—coordinated work with less human message-passing—not around the novelty of having an agent. Familiar context is the guide that makes a new capability legible.",
+        "watch": "Watch whether agent participation improves decisions and handoffs, or adds another participant whose context and permissions make the conversation harder to trust."
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-09-27",
+        "sourceDate": "2026-09-27",
+        "feed": "following",
+        "author": "Ram Ahluwalia CFA, Lumida",
+        "handle": "ramahluwalia",
+        "title": "A startup wins when the new physics force a new story",
+        "summary": "This is worth keeping because it treats narrative as part of the operating system, not decoration. A strange technical or market bet has to become desirable before incumbents copy it, and the company has to keep moving fast enough that the story remains attached to real progress.",
+        "text": "The return on time is going higher and higher.\n\nOne of the signs that you are embracing AI is that you have less time than before, because you have more work.\n\nSo, Which world are we in?\n\n(A) There is a one-time digestion phase where AI consumes times as workflow adapt\n\n(B) The opp’y cost of not using AI is such that there is no foreseeable rate limiting dininshing return to using AI as it improves\n\nIntuitively, most people will think (A).\n\nBut, if you are pushing hard, the answer is (B).\n\nAll these AI tools will need to be re-factored.\n\nExecution was once a serial. Now you can run parallel paths.\n\nThe opportunity cost of AI is so high, that before going to bed, you should prompt AI to build something overnight.\n\nFounders that have endurance are going to crush lifestyle Founders.\n\n(Aside: The higher return on time is consistent with greater productivity growth, higher returns on capital, and higher long-run interest rates.)",
+        "url": "https://x.com/ramahluwalia/status/2104043927246401809"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
