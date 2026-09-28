@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-28",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-09-28 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "9799f5a233863d8f1cc2163208438dcb93e2e208",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Monday, 28 September 2026",
+    "Issue 059",
+    "A follower wins by owning the alternative the leader cannot be."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 28 September 2026",
+  "gmail_message_id": "01a0e642-5b6f-75f2-9783-1b3972d24f2e",
+  "completed_at_ist": "2026-09-28 09:55:03 IST"
+}

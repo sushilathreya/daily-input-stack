@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-27",
+  "week_start": "2026-09-28",
+  "week_end": "2026-10-04",
+  "status": "planned",
+  "theme": "Turn human motives into movement: persuasion earns consent, stories create consequence, positions clarify choice, desire gives meaning, strategy finds the right market, growth removes friction, and writing makes the next step obvious.",
+  "days": [
+    {
+      "date": "2026-09-28",
+      "master": "Robert B. Cialdini",
+      "work": "Influence: The Psychology of Persuasion",
+      "chapter_or_section": "Chapter 8, \"Unity: The 'Us' of the Influence\"",
+      "fundamental": "Persuasion: understand how shared identity can make a request feel self-consistent, then distinguish genuine belonging from manufactured in-group pressure.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Influence - Robert Cialdini.pdf",
+      "drive_link": "https://drive.google.com/file/d/1sTpikK8Y7ebUBiSRRkiZoBcbNSh4Dk_Y/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This advances beyond the previously studied Cialdini Chapters 1-7; canon prep should verify the Chapter 8 boundary."
+    },
+    {
+      "date": "2026-09-29",
+      "master": "Robert McKee",
+      "work": "Story: Substance, Structure, Style, and the Principles of Screenwriting",
+      "chapter_or_section": "Chapter 13, \"The Writer at Work\"",
+      "fundamental": "Storytelling: convert an intuition into a disciplined process of observing, structuring, revising, and testing choices against the story's controlling idea.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Robert McKee - Story .pdf",
+      "drive_link": "https://drive.google.com/file/d/1B1FBVTR0Z2YvQYJ7zoEOgmEI-q8GHetu/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This is the next non-repeated McKee chapter after Chapter 12, The Text; canon prep must bound the scanned PDF to the verified chapter range."
+    },
+    {
+      "date": "2026-09-30",
+      "master": "Al Ries and Jack Trout",
+      "work": "Positioning: The Battle for Your Mind",
+      "chapter_or_section": "Chapter 7, \"Positioning of a Follower\"",
+      "fundamental": "Positioning/brand: make a follower's offer legible by owning a credible alternative position instead of imitating the leader on the leader's terms.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Positioning - Al Ries and Jack Trout.pdf",
+      "drive_link": "https://drive.google.com/file/d/1fISuTXG4QmxQ6MrFaI3wxE6eR6EoEh-p/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This follows the already studied Chapter 6, Positioning of a Leader, and is the next distinct chapter."
+    },
+    {
+      "date": "2026-10-01",
+      "master": "Eugene Schwartz",
+      "work": "Breakthrough Advertising",
+      "chapter_or_section": "Part II, Chapter 9, \"The Third Technique of Breakthrough Copy: Gradualization\"",
+      "fundamental": "Human desire/psychology: move a skeptical prospect toward action by sequencing belief and desire in tolerable steps instead of demanding one giant leap.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Breakthrough Advertising Eugene Schwartz.pdf",
+      "drive_link": "https://drive.google.com/file/d/1HMVnMMmOMxmqrZz0Zcb6-dmbTdMZ0ezI/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This advances beyond the previously studied Part II Chapter 8, The Second Technique of Breakthrough Copy: Identification; canon prep must verify a bounded Chapter 9 section."
+    },
+    {
+      "date": "2026-10-02",
+      "master": "Clayton M. Christensen",
+      "work": "The Innovator's Dilemma",
+      "chapter_or_section": "Chapter 7, \"Discovering New and Emerging Markets\"",
+      "fundamental": "Tech/strategy: treat an emerging market as a discovery problem whose size, customers, and product definition must be learned rather than forecast from an established market.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/The Innovator’s Dilemma - Clayton Christensen.pdf",
+      "drive_link": "https://drive.google.com/file/d/1X5-ZodswFwiIg2uFtgLMZNHzmJqCtu8w/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This is the next non-repeated Christensen chapter after Chapter 6; canon prep must parser-preflight the scanned PDF and assign a section under 60 pages."
+    },
+    {
+      "date": "2026-10-03",
+      "master": "Sean Ellis and Morgan Brown",
+      "work": "Hacking Growth",
+      "chapter_or_section": "Chapter Seven, \"Hacking Retention\"",
+      "fundamental": "Distribution/growth: make growth durable by finding the repeated value that brings users back, then use cohorts and experiments to remove the causes of early abandonment.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Hacking Growth.epub",
+      "drive_link": "https://drive.google.com/file/d/1wtU-SZ-6s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This follows the already studied Chapter Six, Hacking Activation; use the EPUB chapter boundary as the bounded reading."
+    },
+    {
+      "date": "2026-10-04",
+      "master": "Donald Miller",
+      "work": "Building a StoryBrand",
+      "chapter_or_section": "Chapter 5, \"Has a Problem\"",
+      "fundamental": "Writing/taste: name the customer's external, internal, and philosophical problem precisely enough that the message creates recognition before it offers a solution.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Building a Stroybrand.epub",
+      "drive_link": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This is the next non-repeated StoryBrand chapter after Chapter 4, A Character; use the EPUB chapter boundary as the bounded reading."
+    }
+  ],
+  "created_at_ist": "2026-09-27 18:01:58 IST",
+  "created_by": "weekly-program-agent"
+}
