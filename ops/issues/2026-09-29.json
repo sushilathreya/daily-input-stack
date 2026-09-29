@@ -1,0 +1,166 @@
+{
+  "date": "2026-09-29",
+  "displayDate": "Tuesday, 29 September 2026",
+  "issueNumber": 60,
+  "title": "Make character visible through the choices that test it.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 13 of Story, Robert McKee distinguishes characterization from the deeper character revealed when pressure forces choice. The practical discipline is to design actions that expose what a person values when the easy mask can no longer hold.",
+  "meta": {
+    "canon": "Robert McKee, <em>Story: Substance, Structure, Style, and the Principles of Screenwriting</em>",
+    "study": "35-45 min",
+    "practice": "one character-choice audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "Do not explain a character's qualities before the story tests them. Put the person under pressure, force a meaningful choice, and let the choice reveal the value beneath the visible traits."
+  },
+  "canon": {
+    "author": "Robert McKee",
+    "work": "Story: Substance, Structure, Style, and the Principles of Screenwriting",
+    "chapter": "Characterization",
+    "chapterLabel": "Chapter 13, \"Characterization\"",
+    "field": "storytelling / character design / narrative psychology",
+    "pageRange": "PDF pages 294-318 in the local rendered-page-verified edition; begin at Chapter 13, \"Characterization,\" on PDF page 294 and stop before Chapter 14 begins on PDF page 319.",
+    "pageCount": 25,
+    "stopPoint": "Stop at the end of PDF page 318. Do not continue into Chapter 14, which begins on PDF page 319.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_scanned_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Robert McKee - Story .pdf",
+      "driveUrl": "https://drive.google.com/file/d/1B1FBVTR0Z2YvQYJ7zoEOgmEI-q8GHetu/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "scanned_pdf_with_page_tree_and_rendered-boundary_cross_check",
+        "tool": "local PDF page-tree inspection with established rendered-page boundary cross-check",
+        "nativeTextPages": "None; this ScanSnap PDF exposes image-only pages and no usable native chapter text in this environment.",
+        "tableOfContentsVerified": true,
+        "notes": "The local Books PDF was checked directly against the established rendered-page sequence. Chapter 12, The Text, ends on PDF page 293; Chapter 13, Characterization, occupies PDF pages 294-318; Chapter 14 begins on PDF page 319. The weekly program's part heading, The Writer at Work, is retained as context, while the manifest uses the source's actual chapter title."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1B1FBVTR0Z2YvQYJ7zoEOgmEI-q8GHetu/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Robert McKee - Story .pdf\""
+    },
+    "heading": "Let pressure reveal the person beneath the profile.",
+    "standfirst": "Read Chapter 13, \"Characterization,\" from Robert McKee's <em>Story</em> on PDF pages 294-318. McKee shows why a character becomes legible through the choices made under pressure, not through a catalogue of traits.",
+    "readerIntro": "Read this chapter as a test of revealed character. Mark the difference between the traits a person displays in ordinary conditions and the deeper values exposed when desire, risk, and contradiction force a choice. Then audit one character, customer, or leader by identifying the pressure that would make the hidden value visible.",
+    "blocks": [
+      {
+        "label": "01 / Characterization is the visible surface",
+        "paragraphs": [
+          "Characterization is everything an observer can know about a person: appearance, speech, behavior, history, and the social role presented to the world.",
+          "That surface gives the audience an initial model, but it is not yet the whole person. Story becomes revealing when circumstances make the surface insufficient."
+        ]
+      },
+      {
+        "label": "02 / Pressure exposes the inner design",
+        "paragraphs": [
+          "When a choice carries real cost, a person cannot preserve every preference at once. The decision exposes priorities that ordinary behavior can keep hidden.",
+          "The writer therefore designs situations that make values collide. Action becomes character evidence when the audience can see what was sacrificed and what was protected."
+        ]
+      },
+      {
+        "label": "03 / Contradiction makes a person human",
+        "paragraphs": [
+          "A coherent character is not a single adjective repeated in different scenes. The most useful design holds competing impulses together and lets the story discover which one governs at the decisive moment.",
+          "Look for the gap between self-image and conduct. That gap creates dramatic possibility because a character can surprise the audience without becoming arbitrary."
+        ]
+      },
+      {
+        "label": "04 / Design the choice, then test the consequence",
+        "paragraphs": [
+          "A revealing choice should alter the situation, not merely decorate a biography. After the decision, the character's relationships, options, or self-understanding should be different.",
+          "Use the chapter as a revision tool: name the pressure, list the available choices, identify the value each choice protects, and ask what the consequence proves."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "Characterization",
+      "the outward characterization",
+      "the inner life",
+      "character under pressure",
+      "choice and dilemma",
+      "the revelation of character"
+    ],
+    "closeReading": [
+      "How does McKee distinguish the traits a character presents from the deeper character revealed by choice?",
+      "What pressure makes the character's competing values impossible to keep separate?",
+      "Where does the chapter use contradiction to create a surprising but earned action?",
+      "Choose one character or leader: what decision would expose the value they protect when the cost is real?",
+      "Write a character-choice audit naming the pressure, the options, the sacrifice, and the consequence."
+    ]
+  },
+  "principle": {
+    "heading": "Make the decision carry the character.",
+    "body": "A character becomes memorable when pressure turns abstract traits into costly choices. Design the dilemma so the action reveals a value and changes what becomes possible next.",
+    "exampleLabel": "Example",
+    "example": "A founder may describe the company as customer-first, but the claim becomes credible when a renewal is at risk and the founder chooses to expose a real limitation, protect the customer's trust, and accept the slower sale.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose a person in a story, team, or business. List the public trait they claim, the pressure that would test it, three available choices, and the consequence that would prove which value actually governs."
+  },
+  "output": {
+    "heading": "Turn a trait into a costly choice.",
+    "body": "Name the pressure, force the competing values into conflict, and write the action whose consequence makes the character's deeper priority visible."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "fieldNotes": [
+      {
+        "title": "Shopify lets browser agents complete the purchase",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+        "sourceDate": "2026-09-28",
+        "whatHappened": "Shopify extended WebMCP support from product search and cart-building into checkout, letting authorized browser-based agents inspect, update, and submit an order through structured tools.",
+        "whyItMatters": "The interface is shifting from a page a shopper navigates to a transaction a trusted agent can carry out. Commerce teams now have to make disclosures, inventory, delivery choices, and authorization legible to both people and software.",
+        "watch": "Watch whether agent-ready checkout increases conversion without making responsibility unclear when an agent chooses the wrong product, address, or delivery option.",
+        "collectedAt": "2026-09-29"
+      },
+      {
+        "title": "Voice models are competing on expressive control, not just transcription",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/",
+        "sourceDate": "2026-09-28",
+        "whatHappened": "ElevenLabs launched v4 and v4 Turbo with more expression controls, lower latency for voice agents, and support for more than 90 languages; the company says enterprise now supplies more than 55% of its business.",
+        "whyItMatters": "The product claim is moving from natural-sounding output to behavior that holds context, handles escalation, and changes expression across a conversation. That makes the lived interaction, not the model benchmark, the unit customers evaluate.",
+        "watch": "Watch which voice-agent use cases convert expressive control and lower latency into measurable resolution or retention gains rather than novelty.",
+        "collectedAt": "2026-09-29"
+      },
+      {
+        "title": "Google is migrating custom Gemini assistants into skills",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+        "sourceDate": "2026-09-28",
+        "whatHappened": "Google is winding down Gemini Gems on November 17 and automatically migrating users’ custom assistants into skills that can be used across AI tasks.",
+        "whyItMatters": "A feature rename becomes a trust test: users invested in a mental model and workflow, while the platform is optimizing for a broader system. The migration preserves the artifact, but the new slash-command interface may still change who can use it comfortably.",
+        "watch": "Watch whether automatic migration preserves user behavior or merely preserves configuration while adding a new interaction cost.",
+        "collectedAt": "2026-09-29"
+      },
+      {
+        "title": "ChatGPT Ads expand across Asia with explicit trust controls",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan/",
+        "sourceDate": "2026-09-23",
+        "whatHappened": "OpenAI expanded ChatGPT Ads to seven more Asian markets, bringing availability to more than 60 countries, while keeping ads clearly labeled and separate from answers and limiting them to Free and Go plans.",
+        "whyItMatters": "The distribution move is also a positioning test: advertising is being framed as useful decision support inside a goal-oriented conversation. That promise only holds if commercial context stays legible and does not quietly alter the answer.",
+        "watch": "Watch whether users experience conversational ads as useful discovery and whether the separation between sponsored content and independent answers remains easy to understand.",
+        "collectedAt": "2026-09-29"
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-09-29",
+        "sourceDate": "2026-09-29",
+        "feed": "following",
+        "author": "signüll",
+        "handle": "signulll",
+        "title": "A product fragment on turning capability into behavior",
+        "summary": "This fragment is useful because it names the behavioral question behind a new capability. The important test is not whether the feature is impressive, but whether it changes a repeated workflow enough for the user to adopt it.",
+        "text": "our company policy is simple: write “human written” at the top if it’s not written by ai. we expect 98% of stuff to be written by ai.\n\nbut more importantly we do not produce unnecessary docs. we just share basic artifacts to get things done that are more than likely generated by ai. our slack has context that is accessible by ai for any sort of truth keeping & it’s all very easy to query through @ claude for example.\n\nthe broader reality is that ai will be used as an intermediary to read & write. why fight it? these policies aren’t even necessary for the most part because every current thing will be outdated in few months anyway. i.e. how we collaborate or work etc is constantly being reshaped at lightening speeds.",
+        "url": "https://x.com/signulll/status/2104773075820544397"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
