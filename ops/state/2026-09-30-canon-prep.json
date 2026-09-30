@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-30",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-09-30.json",
+  "master": "Al Ries and Jack Trout",
+  "work": "Positioning: The Battle for Your Mind",
+  "chapter_or_section": "Chapter 8, \"Repositioning the Competition\"",
+  "page_range": "PDF pages 55-66",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-09-27-weekly-program.json",
+  "scheduled_program_note": "The weekly program's Chapter 7 assignment was already studied on 2026-09-28, so the next distinct non-repeated chapter in the same local Positioning source was selected.",
+  "canon_history_checked": true,
+  "parser_preflight": "manual_verified; the local Positioning PDF outline places Chapter 8 at PDF page 55 and Chapter 9 at PDF page 67, confirming the bounded 12-page reading on PDF pages 55-66.",
+  "validation_command": "node ops/scripts/validate-issue.mjs 2026-09-30 --draft",
+  "validation_result": "passed",
+  "notes": "Canon-only run: no publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
