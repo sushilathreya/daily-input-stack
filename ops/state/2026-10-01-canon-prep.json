@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-01",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-10-01.json",
+  "master": "Eugene Schwartz",
+  "work": "Breakthrough Advertising",
+  "chapter_or_section": "Part II, Chapter 9, \"The Third Technique of Breakthrough Copy: Gradualization\"",
+  "page_range": "PDF pages 133-152",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-09-27-weekly-program.json",
+  "scheduled_program_note": "The weekly program assigns Part II, Chapter 9. Canon history was checked before assignment: Part II, Chapter 8, Identification, was studied on 2026-09-24, so this is the next distinct Schwartz chapter.",
+  "canon_history_checked": true,
+  "parser_preflight": "manual_verified; the local Breakthrough Advertising PDF and established outline/page-boundary record place Chapter 9, Gradualization, at PDF page 133 after Chapter 8 ends at page 132. The bounded first section runs through PDF page 152.",
+  "validation_command": "node ops/scripts/validate-issue.mjs 2026-10-01 --draft",
+  "validation_result": "passed",
+  "notes": "Canon-only run: no publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
