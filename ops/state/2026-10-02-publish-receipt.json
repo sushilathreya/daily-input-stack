@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-02",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-10-02 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "e4c45f64492cbc33230d5dbfd283036f0783c204",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Friday, 2 October 2026",
+    "Issue 063",
+    "Let the market teach you what it is becoming."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 2 October 2026",
+  "gmail_message_id": "01a0fadb-cd41-72bd-8c17-5c6026dda6e5",
+  "completed_at_ist": "2026-10-02 09:55:04 IST"
+}
