@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-03",
+  "displayDate": "Saturday, 3 October 2026",
+  "issueNumber": 64,
+  "title": "Make growth durable by earning the return.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter Seven of Hacking Growth, Sean Ellis and Morgan Brown show that acquisition and activation matter only when the product creates a reason to come back. Retention is built by finding repeated value, measuring cohorts, and experimenting against the causes of abandonment.",
+  "meta": {
+    "canon": "Sean Ellis and Morgan Brown, <em>Hacking Growth</em>",
+    "study": "35-45 min",
+    "practice": "one retention experiment brief"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "Growth becomes durable when the product gives people a reason to return. Find the repeated value, identify where users leave, and test the smallest change that could make the next return more likely."
+  },
+  "canon": {
+    "author": "Sean Ellis and Morgan Brown",
+    "work": "Hacking Growth",
+    "chapter": "Hacking Retention",
+    "chapterLabel": "Chapter Seven, \"Hacking Retention\"",
+    "field": "growth strategy / product adoption / retention",
+    "pageRange": "EPUB printed pages 206-237 in the local edition; begin at Chapter Seven, \"Hacking Retention,\" on printed page 206 and stop before Chapter Eight, \"Hacking Monetization,\" on printed page 238.",
+    "pageCount": 32,
+    "stopPoint": "Stop at the end of printed page 237. Chapter Eight, \"Hacking Monetization,\" begins on printed page 238.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_epub",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Hacking Growth.epub",
+      "driveUrl": "https://drive.google.com/file/d/1wtU-SZ6-0s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "EPUB_with_nav_page_map_and_XHTML_boundary_verification",
+        "tool": "local EPUB nav, page map, and direct XHTML inspection",
+        "nativeTextPages": "Printed pages 206-237",
+        "tableOfContentsVerified": true,
+        "notes": "The local VPS EPUB navigation identifies Chapter Seven as Hacking Retention and Chapter Eight as Hacking Monetization. The page map and Chapter Seven XHTML place the Chapter Seven opener on printed page 206 and the Chapter Eight opener on printed page 238, yielding the bounded 32-page reading on pages 206-237."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1wtU-SZ6-0s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Hacking Growth.epub\""
+    },
+    "heading": "Give people a reason to return.",
+    "standfirst": "Read Chapter Seven, \"Hacking Retention,\" from Sean Ellis and Morgan Brown's <em>Hacking Growth</em> on printed pages 206-237. The chapter treats retention as the proof that a product has created repeated value, then turns cohort evidence, personalization, resurrection, and feature discipline into a program of experiments.",
+    "readerIntro": "Read this chapter as a diagnosis of durable value. Mark where the authors distinguish early retention from long-term retention, how cohorts reveal the point of abandonment, and how product changes, notifications, rewards, and resurrection flows can bring users back without creating feature bloat. Then write one retention experiment brief: target cohort, observed drop-off, repeated value to strengthen, smallest test, and success signal. Stop at printed page 237.",
+    "blocks": [
+      {
+        "label": "01 / Retention is the test of real value",
+        "paragraphs": [
+          "Acquisition can create a first visit and activation can create an initial aha moment, but retention asks whether the product remains useful after novelty and onboarding have passed.",
+          "The growth team should therefore treat return behavior as evidence about the product's continuing value, not as a communications problem to solve only with more reminders."
+        ]
+      },
+      {
+        "label": "02 / Cohorts show where users leave",
+        "paragraphs": [
+          "Retention becomes actionable when users are grouped by signup date, acquisition source, behavior, or other meaningful differences. Cohorts reveal whether abandonment is concentrated in a particular path or customer type.",
+          "The point is not to admire a single retention percentage. It is to find the segment and moment where an experiment could change the curve."
+        ]
+      },
+      {
+        "label": "03 / Repeated value needs a product loop",
+        "paragraphs": [
+          "Features, notifications, and rewards can strengthen the habit of returning when they connect to the value users already seek. Personalization helps when it makes the next useful action easier to find.",
+          "Retention weakens when teams add features faster than customers can understand them. More capability is not automatically more value; feature bloat can hide the product's core promise."
+        ]
+      },
+      {
+        "label": "04 / Resurrect the users who already know the value",
+        "paragraphs": [
+          "A lapsed user is different from a stranger: they have already experienced the product's potential. A resurrection flow can remind them of the aha moment and invite a return through a relevant message or offer.",
+          "That work should follow the larger retention diagnosis. Winning back inactive users matters, but the first priority is understanding why new users fail to become active and repeated users."
+        ]
+      },
+      {
+        "label": "05 / Turn the drop-off into one experiment",
+        "paragraphs": [
+          "The practical discipline is to connect one cohort, one abandonment point, and one repeated-value hypothesis. Test the smallest product or message change that could move users back toward useful activity.",
+          "Stop with one retention experiment brief: name the cohort, the observed drop-off, the value to reinforce, the intervention, and the behavior that would count as evidence."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "hacking retention",
+      "retention rate",
+      "cohorts",
+      "personalization",
+      "resurrection flow",
+      "feature bloat"
+    ],
+    "closeReading": [
+      "How does Ellis and Brown distinguish a first aha moment from the repeated value that makes a user return?",
+      "Which cohort breakdown would most help a growth team locate the specific point where users abandon the product?",
+      "When does personalization strengthen retention, and when could additional features obscure the product's core value?",
+      "Choose one product. What is the most important returning behavior, and what might prevent a new user from reaching it twice?",
+      "Write one retention experiment brief with a target cohort, drop-off point, intervention, and success signal."
+    ]
+  },
+  "principle": {
+    "heading": "Measure the return, then earn it.",
+    "body": "Durable growth comes from repeated value. Use cohorts to find where people leave, strengthen the product loop that brings them back, and test changes against observed behavior rather than relying on more acquisition alone.",
+    "exampleLabel": "Example",
+    "example": "A project tool should identify whether teams return to review decisions, assign work, or resolve blockers, then improve the one repeated workflow that predicts continued use instead of adding a wider feature menu.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one product and write a retention experiment brief: target cohort, current drop-off, repeated value to strengthen, smallest intervention, observation window, and behavior that would count as success."
+  },
+  "output": {
+    "heading": "Find the behavior worth repeating.",
+    "body": "Name the cohort, locate the abandonment point, and design the smallest experiment that could make the product's continuing value easier to experience."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "collectedAt": "2026-10-03",
+    "heading": "Four current signals on how products earn return visits through useful loops, measurable creative, and better context.",
+    "fieldNotes": [
+      {
+        "collectedAt": "2026-10-03",
+        "source": "Retail Dive",
+        "sourceDate": "2026-10-01",
+        "title": "AI-referred shoppers are arriving with stronger purchase intent",
+        "whatHappened": "Retail Dive reported that Adobe expects AI traffic to U.S. retail sites to rise 130% year over year this holiday season. Adobe found AI-referred visitors added items to carts at a 32% higher rate, while AI users generated 43% more revenue per visit than non-AI traffic in its complementary survey.",
+        "whyItMatters": "Discovery is becoming part of the retention and conversion loop before a shopper reaches a brand site. The product has to be easy for both the human and the assistant to understand, compare, and trust; a first visit is less valuable if the experience cannot support the next decision.",
+        "watch": "Whether brands redesign product information and post-purchase experiences for AI-mediated discovery without losing the human reasons customers return.",
+        "url": "https://www.retaildive.com/news/consumer-ai-use-boon-holidays-ai-traffic-doubles/831790/"
+      },
+      {
+        "collectedAt": "2026-10-03",
+        "source": "Retail Dive",
+        "sourceDate": "2026-10-01",
+        "title": "Meta extends its AI agent into the small-business operating loop",
+        "whatHappened": "Retail Dive reported that Meta launched Muse for Small Business, an agent that can draw on Instagram and Facebook business accounts and connect with tools including Shopify, Stripe, QuickBooks, Asana, Box, and Canva. The product is free up to a token limit, with paid plans from $20 to $100 per month, and businesses can require human approval before purchases or publishing.",
+        "whyItMatters": "Adoption is being framed around repeated operational value rather than a one-off answer. Integrations, approvals, and trusted records give a small business a reason to return because the agent is attached to work already in motion.",
+        "watch": "Whether the strongest AI products win by becoming dependable workflow loops with permission boundaries, rather than by accumulating disconnected capabilities.",
+        "url": "https://www.retaildive.com/news/meta-debuts-ai-agent-muse-small-businesses/831890/"
+      },
+      {
+        "collectedAt": "2026-10-03",
+        "source": "Marketing Dive",
+        "sourceDate": "2026-09-30",
+        "title": "Kroger is testing creative quality before media spend is committed",
+        "whatHappened": "Marketing Dive reported that Kroger, Vidmob, and MMA Global used more than 1,900 Kroger video and image assets to build predictive creative scoring. The study said the approach forecast e-commerce conversion with 81% accuracy, while creative aligned with the recommendations produced an average four-times improvement in conversion rates.",
+        "whyItMatters": "This moves experimentation closer to the decision point that creates the result. Instead of waiting for a campaign to spend and then diagnosing the drop-off, the team is trying to identify which creative is worth giving a larger opportunity to earn attention and action.",
+        "watch": "Whether predictive scores continue to correlate with incremental sales across channels and audiences, rather than becoming another proxy metric teams optimize in isolation.",
+        "url": "https://www.marketingdive.com/topic/creative/"
+      },
+      {
+        "collectedAt": "2026-10-03",
+        "source": "Marketing Dive",
+        "sourceDate": "2026-10-02",
+        "title": "Beer brands are cutting support for work that cannot prove incremental sales",
+        "whatHappened": "Marketing Dive reported that Boston Beer increased advertising, promotion, and selling expenses 16.4% year over year in Q2 while revenue fell 3.3%, and that the company is cutting lower-performing advertising. Its founder said the company has removed support until advertising can prove it improves incremental sales.",
+        "whyItMatters": "Retention thinking applies to budgets as well as products: attention and spend should return to the work that creates observable value. The lesson is not to demand certainty from every experiment, but to define the behavior and commercial signal that earns the next round of investment.",
+        "watch": "Whether more brand teams connect creative decisions to incremental business outcomes instead of treating reach or activity as evidence of durable growth.",
+        "url": "https://www.marketingdive.com/news/midsize-brewers-shake-up-marketing-strategies-as-americans-drink-less/831982/"
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-10-03",
+        "sourceDate": "2026-10-03",
+        "feed": "following",
+        "author": "vas",
+        "handle": "vasuman",
+        "title": "A product fragment on turning capability into behavior",
+        "summary": "This fragment is useful because it names the behavioral question behind a new capability. The important test is not whether the feature is impressive, but whether it changes a repeated workflow enough for the user to adopt it.",
+        "text": "Happy Friday. We're hiring Forward Deployed Engineers at Varick.\n\nYou'll be deployed inside some of the largest companies on Earth, solving their hardest problems and redesigning how the whole business runs so it's AI-native. You won't get bored, because every 3-6 months there's a new company and a new problem waiting for you.\n\nRequirements for the role:\n\n- Strong engineering. You can write code, design systems, and estimate timelines and resources accurately.\n\n- Strong consulting. You communicate clearly, present well, and can command a room of C-suite executives at Fortune 100 companies.\n\n- Hungry. We're a lean team of the sharpest people in applied AI, and we're here to win.\n\nApply through our website and we'll read every single application. If it's a fit, we'll reach out by email.",
+        "url": "https://x.com/vasuman/status/2106169829338341765"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
