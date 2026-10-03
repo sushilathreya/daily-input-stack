@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-03",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-10-03 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "59448f26ee84efe9b15db6dde17ac160f58f66f7",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Saturday, 3 October 2026",
+    "Issue 064",
+    "Make growth durable by earning the return."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 3 October 2026",
+  "gmail_message_id": "01a10002-28f7-72a0-87a8-481b9a49dc94",
+  "completed_at_ist": "2026-10-03 09:55:04 IST"
+}
