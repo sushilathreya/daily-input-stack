@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-04",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-10-04.json",
+  "master": "Donald Miller",
+  "work": "Building a StoryBrand",
+  "chapter_or_section": "Chapter 5, \"Has a Problem\"",
+  "page_range": "EPUB Chapter 5 only (`index_split_020.html`)",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-09-27-weekly-program.json",
+  "scheduled_program_note": "The weekly program assigns Chapter 5, Has a Problem. Canon history was checked before assignment: Chapter 4, A Character, was studied on 2026-09-27, so this is the next distinct StoryBrand chapter.",
+  "canon_history_checked": true,
+  "parser_preflight": "manual_verified; local EPUB NCX and native XHTML inspection confirm Chapter 5 is index_split_020.html and Chapter 6 begins in index_split_021.html. The complete Chapter 5 file is the bounded reading; the EPUB has no printed-page map.",
+  "validation_command": "node ops/scripts/validate-issue.mjs 2026-10-04 --draft",
+  "validation_result": "passed",
+  "notes": "Canon-only run: no publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}

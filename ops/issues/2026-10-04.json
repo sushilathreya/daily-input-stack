@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-04",
+  "displayDate": "Sunday, 4 October 2026",
+  "issueNumber": 65,
+  "title": "Name the problem the customer is already trying to solve.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 5 of Building a StoryBrand, Donald Miller explains why a clear problem gives a brand's message conflict, recognition, and a reason to matter. The strongest messages name the external, internal, and philosophical problems customers experience.",
+  "meta": {
+    "canon": "Donald Miller, <em>Building a StoryBrand</em>",
+    "study": "35-45 min",
+    "practice": "one three-layer customer-problem brief"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A customer recognizes a guide when the guide can name the problem behind the purchase. Start with the visible obstacle, then ask what it makes the person feel and why solving it matters beyond the transaction."
+  },
+  "canon": {
+    "author": "Donald Miller",
+    "work": "Building a StoryBrand",
+    "chapter": "Has a Problem",
+    "chapterLabel": "Chapter 5, \"Has a Problem\"",
+    "field": "storytelling / marketing communication / customer problems",
+    "pageRange": "EPUB Chapter 5 only; begin at the Chapter 5 heading in `index_split_020.html` and stop before Chapter 6, \"And Meets a Guide,\" begins in `index_split_021.html`.",
+    "pageCount": 1,
+    "stopPoint": "Stop at the end of `index_split_020.html`. Do not continue into Chapter 6, \"And Meets a Guide,\" which begins in `index_split_021.html`.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_epub",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub",
+      "driveUrl": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "native_text_epub_with_toc_and_split_file_boundary_verification",
+        "tool": "local EPUB unzip, NCX inspection, and native XHTML extraction",
+        "nativeTextPages": "Chapter 5 is contained in `index_split_020.html`; Chapter 6 begins in `index_split_021.html`.",
+        "tableOfContentsVerified": true,
+        "notes": "The local Books EPUB was inspected directly. The EPUB NCX identifies Chapter 5, \"Has a Problem,\" at `index_split_020.html` and Chapter 6, \"And Meets a Guide,\" at `index_split_021.html`. The complete Chapter 5 file is therefore the bounded reading; this EPUB has no printed-page map."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub\""
+    },
+    "heading": "Make the problem visible before you offer the solution.",
+    "standfirst": "Read Chapter 5, \"Has a Problem,\" from Donald Miller's <em>Building a StoryBrand</em>. Miller shows how identifying the customer's conflict increases interest and how external, internal, and philosophical problems give a brand's message depth.",
+    "readerIntro": "Read this chapter as a discipline of recognition. Mark how Miller uses conflict to hold attention, why a villain can clarify the source of the problem, and how external inconvenience differs from the internal frustration and larger belief that make a solution meaningful. Then write one three-layer customer-problem brief for an offer you know.",
+    "blocks": [
+      {
+        "label": "01 / Conflict gives the story a reason to continue",
+        "paragraphs": [
+          "Miller argues that identifying the customer's problem deepens interest because every story follows someone trying to resolve a conflict. When the message names what is in the way, the customer can recognize their own situation inside it.",
+          "A solution presented before the problem is understood has little dramatic force. The customer needs to see why the current state is unresolved before the brand's help can become relevant."
+        ]
+      },
+      {
+        "label": "02 / The villain concentrates the source of frustration",
+        "paragraphs": [
+          "The chapter uses the villain as a way to make the problem concrete. A villain is not necessarily a person; it can be a force, habit, process, or condition that repeatedly creates the customer's difficulty.",
+          "Naming that source keeps the message from becoming a vague complaint. It gives the customer and the brand a shared object of attention without requiring the brand to make itself the hero."
+        ]
+      },
+      {
+        "label": "03 / External problems are only the visible layer",
+        "paragraphs": [
+          "An external problem is the practical obstacle a product appears to solve: a task takes too long, a system is confusing, or a needed result is difficult to reach. It is often the easiest layer to describe.",
+          "Miller distinguishes the external obstacle from the internal frustration it creates. Customers may buy a practical solution because they want relief from feeling frustrated, embarrassed, overwhelmed, or out of control."
+        ]
+      },
+      {
+        "label": "04 / Internal and philosophical problems make the promise matter",
+        "paragraphs": [
+          "The internal problem explains why the external inconvenience matters to this person. It gives the message emotional precision instead of leaving the offer at the level of features and function.",
+          "The philosophical problem asks why the situation is simply wrong or unfair. Connecting the offer to that larger belief can make the story meaningful, provided the claim stays grounded in the customer's actual experience."
+        ]
+      },
+      {
+        "label": "05 / Turn the three layers into one brief",
+        "paragraphs": [
+          "The practical exercise is to name one recurring external obstacle, the internal tension beneath it, and the philosophical principle that makes solving it worth caring about. The layers should clarify one another rather than become three unrelated claims.",
+          "Stop with a customer-problem brief: who is struggling, what is visibly in the way, what the struggle makes them feel, and what larger truth the solution helps them recover."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "identifying our customers' problems",
+      "Every Story Needs a Villain",
+      "external problems",
+      "internal problems",
+      "philosophical problems",
+      "the problem is the hook of a story"
+    ],
+    "closeReading": [
+      "Why does Miller treat the problem as the hook that keeps a customer engaged with a brand's story?",
+      "What does the chapter's villain clarify, and what kinds of forces can play that role without becoming a caricature?",
+      "How does an external problem differ from the internal frustration it creates for the customer?",
+      "What philosophical belief makes the customer's problem feel wrong, unfair, or worth solving?",
+      "Write one brief naming the customer, external problem, internal problem, philosophical problem, and the solution's role."
+    ]
+  },
+  "principle": {
+    "heading": "Name the conflict before you claim the cure.",
+    "body": "A message earns attention by showing that it understands the customer's unresolved problem. Describe the visible obstacle, the feeling beneath it, and the larger belief that makes progress matter before presenting the offer as a guide.",
+    "exampleLabel": "Example",
+    "example": "A project-management tool should not stop at saying that tasks are scattered. It can show how scattered work leaves a team anxious and reactive, then connect the product to the belief that people should be able to make commitments they can keep.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one offer and write three lines: the external problem customers face, the internal feeling it creates, and the philosophical principle that makes solving it matter. Revise until all three describe the same conflict."
+  },
+  "output": {
+    "heading": "Make recognition the first proof of relevance.",
+    "body": "Write the problem in the customer's language, deepen it from obstacle to feeling to belief, and only then explain how the offer helps."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "fieldNotes": [
+      {
+        "title": "OpenAI gives the agent a face — and a job to keep doing",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+        "sourceDate": "2026-09-29",
+        "whatHappened": "OpenAI launched Dots, persistent agentic assistants presented as named, customizable avatars that can pursue user-defined goals in the background. The product is framed as an always-on helper rather than a chat interface waiting for a prompt.",
+        "whyItMatters": "The visible feature is an avatar, but the customer problem is continuity: people want help that remembers the job and keeps moving. It is a useful reminder that a product story becomes clearer when it names the recurring friction behind the capability.",
+        "watch": "Watch whether users return to a named agent because it reduces coordination work, or because the character is merely pleasant packaging around a familiar assistant.",
+        "collectedAt": "2026-10-04"
+      },
+      {
+        "title": "Thorne found the consumer problem beneath its science story",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/how-thornes-brand-platform-led-to-a-38b-pg-deal-and-whats-next/831494/",
+        "sourceDate": "2026-09-29",
+        "whatHappened": "Thorne used digital diaries, a national quantitative study and small-group interviews to learn that consumers' overwhelm and confusion about supplements mattered more than the brand's own emphasis on scientific rigor. It then built the platform 'Thorne rewards curiosity with excellence.'",
+        "whyItMatters": "The company moved from a brand-first description to the customer's felt problem: making a confident, empowered choice in a confusing category. That is the three-layer move in practice — capability becomes relevant only after the tension is named.",
+        "watch": "Watch whether the platform keeps its customer language after the P&G acquisition, especially when education and product proof move closer to the center of the funnel.",
+        "collectedAt": "2026-10-04"
+      },
+      {
+        "title": "Holiday shopping is becoming an inventory-and-attention problem",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/holiday-season-ecommerce-sales-growth-2026/831121/",
+        "sourceDate": "2026-09-28",
+        "whatHappened": "Adobe forecasts $275.1 billion in U.S. online holiday sales for November and December 2026, with AI traffic to retail sites projected to rise 130% year over year and October online sales expected to grow 8%.",
+        "whyItMatters": "The shopper's problem is increasingly discovery under pressure: find a useful item, judge it quickly and manage a budget while promotions multiply. Retailers have to make the path legible, not simply add more deals or more catalog.",
+        "watch": "Watch which retailers turn AI-assisted discovery into confidence and comparison, rather than using it only to create another promotional surface.",
+        "collectedAt": "2026-10-04"
+      },
+      {
+        "title": "Reese's is making local discovery the campaign",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/reeses-searches-for-trick-or-treatiest-street-in-multichannel-effort/831813/",
+        "sourceDate": "2026-10-01",
+        "whatHappened": "Reese's is working with creators and celebrities on a multichannel Halloween series that analyzes 150 of the best streets for trick-or-treating, turning a seasonal product moment into a piece of local utility and conversation.",
+        "whyItMatters": "The campaign names a real customer problem — where to go for a better Halloween experience — before asking the audience to care about the brand. Participation and usefulness give the message a reason to travel beyond an ad impression.",
+        "watch": "See whether the information remains useful and shareable once the novelty fades; local specificity is the proof that keeps a broad seasonal idea from feeling generic.",
+        "collectedAt": "2026-10-04"
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-10-04",
+        "sourceDate": "2026-10-04",
+        "feed": "following",
+        "author": "signüll",
+        "handle": "signulll",
+        "title": "A market fragment on beating copycats through speed and supply",
+        "summary": "This is worth keeping because it reframes imitation as market evidence rather than only a legal threat. The useful lesson is that demand has to be met with speed, volume, and a stronger operating rhythm, not just protected by complaint after the opportunity is visible.",
+        "text": "the internet is already 100x more competitive than irl cuz it largely collapsed constraints like geography, time, & liquidity. so now you’re competing with basically everyone in the country or maybe even the planet for attention, jobs, customers, status, dates, etc.\n\nif you add agents on to this equation you can add an order of magnitude on top of this because agents don’t require effort either.\n\nso you’re now potentially also competing with someone’s agent esp for high demand low supply things.",
+        "url": "https://x.com/signulll/status/2106601721090744393"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
