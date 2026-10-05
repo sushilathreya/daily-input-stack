@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-05",
+  "status": "live_verified_email_pending",
+  "git_commit": "2d1d9a4972d80e8dc49e776dec35618230a6f959",
+  "github_pages_run_id": "",
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_subject": "Studying the Masters - 5 October 2026",
+  "email_body": "Today's Studying the Masters issue is live:\n\nhttps://sushilathreya.github.io/daily-input-stack/",
+  "email_lock": "ops/state/2026-10-05-email.lock",
+  "next_step": "node ops/scripts/begin-email-send.mjs 2026-10-05",
+  "created_at_ist": "2026-10-05 09:02:35"
+}

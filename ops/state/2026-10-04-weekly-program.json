@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-04",
+  "week_start": "2026-10-05",
+  "week_end": "2026-10-11",
+  "status": "planned",
+  "theme": "Make the message move from attention to durable action: earn the first read, shape consequence, own a position, translate desire, fit strategy to the market, compound growth, and make the next step unmistakable.",
+  "days": [
+    {
+      "date": "2026-10-05",
+      "master": "John Caples",
+      "work": "Tested Advertising Methods",
+      "chapter_or_section": "Chapter 3, \"How to Write Headlines\"",
+      "fundamental": "Persuasion: turn the reader's self-interest into an opening promise strong enough to earn attention and specific enough to support a measurable response.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Tested Advertising Methods.pdf",
+      "drive_link": "https://drive.google.com/file/d/16fm09bdOkdiH8MZwoTKFnOXV16fJcZOZ/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This follows the studied Chapters 1-2; canon prep must verify the local scanned edition's Chapter 3 title and bound its pages before assignment."
+    },
+    {
+      "date": "2026-10-06",
+      "master": "Robert McKee",
+      "work": "Story: Substance, Structure, Style, and the Principles of Screenwriting",
+      "chapter_or_section": "Chapter 14, \"Genre\"",
+      "fundamental": "Storytelling: use genre as a promise of values, conflicts, and emotional movement, then make the work distinctive inside the audience's familiar expectations.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Robert McKee - Story .pdf",
+      "drive_link": "https://drive.google.com/file/d/1B1FBVTR0Z2YvQYJ7zoEOgmEI-q8GHetu/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Chapter 14 begins after the verified Chapter 13 boundary; canon prep must parser-preflight the scanned PDF and keep the reading under 60 pages."
+    },
+    {
+      "date": "2026-10-07",
+      "master": "Al Ries and Jack Trout",
+      "work": "Positioning: The Battle for Your Mind",
+      "chapter_or_section": "Chapter 9, \"The Name Game\"",
+      "fundamental": "Positioning/brand: treat the name as a memory handle that can help a new offer enter the mind, while recognizing when a descriptive name becomes a constraint.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Positioning - Al Ries and Jack Trout.pdf",
+      "drive_link": "https://drive.google.com/file/d/1fISuTXG4QmxQ6MrFaI3wxE6eR6EoEh-p/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This advances beyond the verified Chapters 1-8; canon prep must confirm the Chapter 9 boundary in the local edition."
+    },
+    {
+      "date": "2026-10-08",
+      "master": "Eugene Schwartz",
+      "work": "Breakthrough Advertising",
+      "chapter_or_section": "Part II, Chapter 10, \"The Fourth Technique of Breakthrough Copy: Mechanization\"",
+      "fundamental": "Human desire/psychology: make an abstract promise feel actionable by giving desire a concrete mechanism, process, or explanation the prospect can picture and believe.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Breakthrough Advertising Eugene Schwartz.pdf",
+      "drive_link": "https://drive.google.com/file/d/1HMVnMMmOMxmqrZz0Zcb6-dmbTdMZ0ezI/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This follows the verified Part II Chapter 9 reading; canon prep must confirm the source heading and assign a bounded section under 60 pages."
+    },
+    {
+      "date": "2026-10-09",
+      "master": "Clayton M. Christensen",
+      "work": "The Innovator's Dilemma",
+      "chapter_or_section": "Chapter 8, \"How to Appraise Your Organization's Capabilities and Disabilities\"",
+      "fundamental": "Tech/strategy: distinguish the resources, processes, and values an organization has from the capabilities it needs, so strategy fits the market rather than merely the incumbent's habits.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/The Innovator’s Dilemma - Clayton Christensen.pdf",
+      "drive_link": "https://drive.google.com/file/d/1X5-ZodswFwiIg2uFtgLMZNHzmJqCtu8w/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This is the next distinct chapter after the verified Chapter 7; canon prep must parser-preflight the scanned PDF and choose a bounded page range."
+    },
+    {
+      "date": "2026-10-10",
+      "master": "Sean Ellis and Morgan Brown",
+      "work": "Hacking Growth",
+      "chapter_or_section": "Chapter Eight, \"Hacking Monetization\"",
+      "fundamental": "Distribution/growth: turn delivered value into sustainable revenue by testing pricing, packaging, and conversion points without damaging the product's core value loop.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Hacking Growth.epub",
+      "drive_link": "https://drive.google.com/file/d/1wtU-SZ-6s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. The EPUB contents place Chapter Eight after the studied Chapter Seven; canon prep should use the clean EPUB chapter boundary."
+    },
+    {
+      "date": "2026-10-11",
+      "master": "Donald Miller",
+      "work": "Building a StoryBrand",
+      "chapter_or_section": "Chapter 6, \"Has a Guide\"",
+      "fundamental": "Writing/taste: make the brand credible and useful by combining empathy with authority, so the customer feels understood and confident about the next action.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Building a Stroybrand.epub",
+      "drive_link": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. This follows the verified StoryBrand Chapters 1-5; canon prep must confirm the EPUB chapter boundary and retain the source filename spelling."
+    }
+  ],
+  "created_at_ist": "2026-10-04 18:01:42 IST",
+  "created_by": "weekly-program-agent"
+}
