@@ -1,0 +1,1213 @@
+{
+  "date": "2026-10-05",
+  "capturedAtIST": "2026-10-05 09:00:10",
+  "command": "bird-readonly home --json plus bird-readonly home --following --json",
+  "readonlyOnly": true,
+  "minimumSelectionRequired": 1,
+  "rawCounts": {
+    "for_you": 80,
+    "following": 80
+  },
+  "candidates": [
+    {
+      "id": "2106787765622800496",
+      "url": "https://x.com/elonmusk/status/2106787765622800496",
+      "text": "Helpful guide to hiring your first @Grok @Bot employee. \n\nIt really is like hiring an amazing helper that learns your needs and gets smarter almost every day!",
+      "createdAt": "Sun Oct 04 16:45:20 +0000 2026",
+      "author": "Elon Musk",
+      "handle": "elonmusk",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 1654,
+        "reposts": 3404,
+        "likes": 31354
+      },
+      "score": 54.5
+    },
+    {
+      "id": "2106795810205872182",
+      "url": "https://x.com/leo1yu/status/2106795810205872182",
+      "text": "TikTok girl selling ad space on her wall to pay for tuition \n\nnot bad kid https://t.co/HjWJxoNxmc",
+      "createdAt": "Sun Oct 04 17:17:18 +0000 2026",
+      "author": "leo",
+      "handle": "leo1yu",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 95,
+        "reposts": 333,
+        "likes": 33891
+      },
+      "score": 49.5
+    },
+    {
+      "id": "2106762338934133144",
+      "url": "https://x.com/headie_ndeme/status/2106762338934133144",
+      "text": "Go onto https://t.co/Ji1lY6yPuE and thank me later. All the games we played growing up were uploaded there. I have been playing contra since.",
+      "createdAt": "Sun Oct 04 15:04:18 +0000 2026",
+      "author": "Ndemebanye",
+      "handle": "headie_ndeme",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 42,
+        "reposts": 824,
+        "likes": 10168
+      },
+      "score": 49
+    },
+    {
+      "id": "2106877363648929912",
+      "url": "https://x.com/karrisaarinen/status/2106877363648929912",
+      "text": "Frantically fixing a confusing product caused by frantic shipping is just more of the same.\n\nPause and step back. Get the team clear on what you’re building and why. Have clarity to guide the shape, what ships and what doesn’t. \n\nQuality is a way of working, not a cleanup sprint.",
+      "createdAt": "Sun Oct 04 22:41:22 +0000 2026",
+      "author": "Karri Saarinen",
+      "handle": "karrisaarinen",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 27,
+        "reposts": 30,
+        "likes": 464
+      },
+      "score": 47.8
+    },
+    {
+      "id": "2106855108680024232",
+      "url": "https://x.com/badlogicgames/status/2106855108680024232",
+      "text": "android native app achieved,.no more termux needed. the little oauth 404 localhost blunder is due to the dev version already running.\n\nnice. again, not a product, but a pi durable demo. built in 2 days on my phone with .. pi durable. https://t.co/UcEJgYcyXb",
+      "createdAt": "Sun Oct 04 21:12:56 +0000 2026",
+      "author": "Mario Zechner",
+      "handle": "badlogicgames",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 22,
+        "reposts": 10,
+        "likes": 326
+      },
+      "score": 46
+    },
+    {
+      "id": "2101355640262394307",
+      "url": "https://x.com/karolzdeb/status/2101355640262394307",
+      "text": "You can create 50 new TikTok & Instagram accounts literally in the next hour with this.\n\nTakes 5 minutes to set up.\n\n1) Sign up on https://t.co/CFAg7ozq3b and select the free plan\n2) Go to the Accounts tab\n3) Click \"Buy Accounts\" and select how many you want\n4) Enter your usernames\n5) Wait ~30 minutes for the accounts to be created\n6) Set up your account warming configuration\n7) Start posting your own videos\n\nNot a single person has been banned or bot detected on our platform with over 500M views generated. \n\nTraffic is 95%+ US because all the iPhones are actually in the US and are using US carrier SIM cards, with real phone numbers.\n\nIf you need more info please DM me!",
+      "createdAt": "Sat Sep 19 17:00:00 +0000 2026",
+      "author": "Karol Zdebel",
+      "handle": "karolzdeb",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 209,
+        "reposts": 235,
+        "likes": 3824
+      },
+      "score": 44.9
+    },
+    {
+      "id": "2090814619275436444",
+      "url": "https://x.com/Atlas3DAI/status/2090814619275436444",
+      "text": "A prompt goes in. A skeleton comes out, IK-ready.\n\nMost text-to-3D stops at a static mesh. Atlas keeps going: standardized T-pose, rig, weights, so the character is animatable the day it is generated.\n\nTry Atlas today",
+      "createdAt": "Fri Aug 21 14:53:45 +0000 2026",
+      "author": "Atlas",
+      "handle": "Atlas3DAI",
+      "feed": "following",
+      "metrics": {
+        "replies": 250,
+        "reposts": 302,
+        "likes": 3020
+      },
+      "score": 44.5
+    },
+    {
+      "id": "2106776648687423786",
+      "url": "https://x.com/Abhijit_091/status/2106776648687423786",
+      "text": "Has anyone actually vibe-coded something better than a basic web app or mobile app?\n\nLike a compiler, OS, database, game engine, distributed system…",
+      "createdAt": "Sun Oct 04 16:01:09 +0000 2026",
+      "author": "Abhijit_",
+      "handle": "Abhijit_091",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 505,
+        "reposts": 35,
+        "likes": 2063
+      },
+      "score": 43
+    },
+    {
+      "id": "2106922360519700814",
+      "url": "https://x.com/PalmerLuckey/status/2106922360519700814",
+      "text": "@UbermenschMind \"He desperately wants you to think he is cool, so he started a new gaming company, ModRetro\"\n\n1) I started ModRetro in the 2000s\n2) Anyone who thinks open-source, Linux-based hardware companies are \"cool\" is probably not a very useful judge of what cool is.",
+      "createdAt": "Mon Oct 05 01:40:10 +0000 2026",
+      "author": "Palmer Luckey",
+      "handle": "PalmerLuckey",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 79,
+        "reposts": 44,
+        "likes": 2698
+      },
+      "score": 42.8
+    },
+    {
+      "id": "2106863630419710307",
+      "url": "https://x.com/angelbrodin/status/2106863630419710307",
+      "text": "Do you ever think of all the ChatGPT pro users who aren’t on Twitter and are just completely confused at why their usage randomly resets and why they receive banked resets",
+      "createdAt": "Sun Oct 04 21:46:47 +0000 2026",
+      "author": "angel",
+      "handle": "angelbrodin",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 93,
+        "reposts": 26,
+        "likes": 2433
+      },
+      "score": 42.3
+    },
+    {
+      "id": "2106829867463627039",
+      "url": "https://x.com/Nlacombe_/status/2106829867463627039",
+      "text": "introducing Promethee, an app that turns your work into a multiplayer game, to perform. \n\nnow available for everyone.\n\nhttps://t.co/xz0hXPL9Lf https://t.co/1nr6HMQfRz",
+      "createdAt": "Sun Oct 04 19:32:38 +0000 2026",
+      "author": "N.",
+      "handle": "Nlacombe_",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 108,
+        "reposts": 143,
+        "likes": 1647
+      },
+      "score": 41.6
+    },
+    {
+      "id": "2106863941515370998",
+      "url": "https://x.com/waiting4_asi/status/2106863941515370998",
+      "text": "Costly signaling theory in evolutionary psychology is the best explanation for why AI slop irks people (even in people who haven't picked a side in the AI race). Having the ability to create art in the real world displays signals of being able resource-saturated in other walks of life to the point that you have extra resources (like time and energy) to actually create art. \n\nAI art loses that signal.\n\nActually, this applies to a lot of art that can be cheaply faked (stencil copies, printouts, etc).",
+      "createdAt": "Sun Oct 04 21:48:01 +0000 2026",
+      "author": "Varun Mayya",
+      "handle": "waiting4_asi",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 11,
+        "reposts": 3,
+        "likes": 105
+      },
+      "score": 41.4
+    },
+    {
+      "id": "2106889503919292529",
+      "url": "https://x.com/adcock_brett/status/2106889503919292529",
+      "text": "Hark launches this week. The first 100,000 sign-ups get a paid plan for free\n\nI don't do anything without Hark anymore. The team has obsessed over every detail, and it shows.  Can't wait to see how you all use it\n\nJoin the waitlist: https://t.co/XdI49vBeiJ https://t.co/uCg4FetFBV",
+      "createdAt": "Sun Oct 04 23:29:36 +0000 2026",
+      "author": "Brett Adcock",
+      "handle": "adcock_brett",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 179,
+        "reposts": 70,
+        "likes": 1388
+      },
+      "score": 40.9
+    },
+    {
+      "id": "2106861188609089664",
+      "url": "https://x.com/asciidiego/status/2106861188609089664",
+      "text": "i once was talking to a guy who started a company and sold it to google and asked him for advice and he said something like\n\nyou know diego.. the only advice that is objectively true is “take more pictures”\n\nand i still think about that",
+      "createdAt": "Sun Oct 04 21:37:05 +0000 2026",
+      "author": "Diego Rodriguez",
+      "handle": "asciidiego",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 13,
+        "reposts": 30,
+        "likes": 1463
+      },
+      "score": 40
+    },
+    {
+      "id": "2100436879694807541",
+      "url": "https://x.com/zacbakerr/status/2100436879694807541",
+      "text": "I’m looking for a dev who can build an open-source repo with examples of Terac’s human-in-the-loop API and MCP\n\nThis role will also involve building specific demos for clients showcasing how they can use Terac in their product\n\nRole is remote, part-time, and mostly async\n\nDM me if interested or if you know someone who might be",
+      "createdAt": "Thu Sep 17 04:09:11 +0000 2026",
+      "author": "Zac Baker",
+      "handle": "zacbakerr",
+      "feed": "following",
+      "metrics": {
+        "replies": 17,
+        "reposts": 4,
+        "likes": 35
+      },
+      "score": 39.1
+    },
+    {
+      "id": "2106827379159310730",
+      "url": "https://x.com/atomkirk/status/2106827379159310730",
+      "text": "I try to be open minded, but yes, my question is “AI does stupid stuff 1-5% of the time. what kind of low stakes work are you doing where that doesn’t matter?”",
+      "createdAt": "Sun Oct 04 19:22:44 +0000 2026",
+      "author": "Adam Kirk",
+      "handle": "atomkirk",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 50,
+        "reposts": 12,
+        "likes": 1001
+      },
+      "score": 38.6
+    },
+    {
+      "id": "2101959534449467488",
+      "url": "https://x.com/FTMO_Futures/status/2101959534449467488",
+      "text": "Leverage 90:10 Payout ratio with your Sim-Funded Account and keep 90% of your simulated profits. Start your Evaluation today!",
+      "createdAt": "Mon Sep 21 08:59:40 +0000 2026",
+      "author": "FTMO Futures",
+      "handle": "FTMO_Futures",
+      "feed": "following",
+      "metrics": {
+        "replies": 94,
+        "reposts": 168,
+        "likes": 1879
+      },
+      "score": 38.1
+    },
+    {
+      "id": "2068114115353350271",
+      "url": "https://x.com/Starlink/status/2068114115353350271",
+      "text": "Get connected with fast, reliable internet for streaming, video calls, online gaming and more.\n\nOrder online in minutes.",
+      "createdAt": "Fri Jun 19 23:30:03 +0000 2026",
+      "author": "Starlink",
+      "handle": "Starlink",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 127,
+        "reposts": 76,
+        "likes": 1730
+      },
+      "score": 37.4
+    },
+    {
+      "id": "2106864891122368747",
+      "url": "https://x.com/jiillanne/status/2106864891122368747",
+      "text": "Tb to when I got like 1.5 interviews in 2nd year and resorted to this https://t.co/cj0xRFH1Ni",
+      "createdAt": "Sun Oct 04 21:51:48 +0000 2026",
+      "author": "Jillanne Youssef",
+      "handle": "jiillanne",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 19,
+        "reposts": 9,
+        "likes": 2126
+      },
+      "score": 37.4
+    },
+    {
+      "id": "2106934930882408463",
+      "url": "https://x.com/DejaRu22/status/2106934930882408463",
+      "text": "Somebody kindly requested that I make more people aware of Milarepa - the great yogi of Tibet.\n\nA mass murderer turned fully realised yogi.\n\nRather than retell the story myself, it is better that I prompt and encourage you to investigate him yourself.\n\nEvans-Wentz's book is the best biography on him.",
+      "createdAt": "Mon Oct 05 02:30:07 +0000 2026",
+      "author": "DR22 Ω 🪬🎭",
+      "handle": "DejaRu22",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 46
+      },
+      "score": 37
+    },
+    {
+      "id": "2106934388877599189",
+      "url": "https://x.com/ponnappa/status/2106934388877599189",
+      "text": "RT @nabeelqu: The only generation that knows how computers work is also the most relaxed about AI: https://t.co/aMBh5gqLif",
+      "createdAt": "Mon Oct 05 02:27:57 +0000 2026",
+      "author": "Sidu Ponnappa",
+      "handle": "ponnappa",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 568,
+        "likes": 0
+      },
+      "score": 36.3
+    },
+    {
+      "id": "2106828836201717956",
+      "url": "https://x.com/lphaCentauriKid/status/2106828836201717956",
+      "text": "no. I don’t even have enough time in the world to be myself, let alone spend time pretending to be someone else. \n\nnor do I hate BAYC, but I’m also not at all bothered by Ossen doing whatever tf Ossen wants to do. He wants to buy and burn apes, let them buy and burn apes. \n\nOssen is Ossen. \n\nI am me, the servant of the Muse. My 3 kids are homeschooled. We have 5 dogs. I have a full on studio. I have greater ambitions for my future work than most artists could ever imagine even if high on LSD. \n\nI simply do not have the time or energy to risk ruining my career by setting up an alt and doing fake sale bull shit. \n\nOssen is the real deal and I have no idea who they are nor will I ever ask or try to find out. I’m too busy serving the Muse with the little time I have on this world.",
+      "createdAt": "Sun Oct 04 19:28:32 +0000 2026",
+      "author": "a.c.k.",
+      "handle": "lphaCentauriKid",
+      "feed": "following",
+      "metrics": {
+        "replies": 80,
+        "reposts": 30,
+        "likes": 424
+      },
+      "score": 36.3
+    },
+    {
+      "id": "2097409868806472037",
+      "url": "https://x.com/luoapp/status/2097409868806472037",
+      "text": "We are soon launching our builder program. \n\nBuild AI-powered tools with Luo. Share them and earn commission.  \n\nApply for limited early access",
+      "createdAt": "Tue Sep 08 19:40:55 +0000 2026",
+      "author": "Luo",
+      "handle": "luoapp",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 47,
+        "reposts": 63,
+        "likes": 371
+      },
+      "score": 36.2
+    },
+    {
+      "id": "2106852116643897785",
+      "url": "https://x.com/hannahwarling/status/2106852116643897785",
+      "text": "Hi I’m Hannah! \n\n- I’m 29 years old and just moved to D.C.\n- Recently started at @TurbineOneTech doing Digital Communications \n- Currently in grad school at USC studying digital media and defense\n- Lived in LA for 10 years\n- Former fashion influencer with over 1 million followers \n- Wanting to get more involved in the defense tech community! \n- Interested in AI and aerospace \n\nLet’s chat!!",
+      "createdAt": "Sun Oct 04 21:01:02 +0000 2026",
+      "author": "Hannah Warling",
+      "handle": "hannahwarling",
+      "feed": "following",
+      "metrics": {
+        "replies": 7,
+        "reposts": 0,
+        "likes": 23
+      },
+      "score": 35.8
+    },
+    {
+      "id": "2095065292388835569",
+      "url": "https://x.com/ferlinux/status/2095065292388835569",
+      "text": "More than 50 brands joined Claim Avenue in its first three days—and these are some of the real transactions behind the city’s growth.\n\nOne building at a time, the experiment is becoming real.",
+      "createdAt": "Wed Sep 02 08:24:24 +0000 2026",
+      "author": "ferlinux",
+      "handle": "ferlinux",
+      "feed": "following",
+      "metrics": {
+        "replies": 49,
+        "reposts": 24,
+        "likes": 336
+      },
+      "score": 35.1
+    },
+    {
+      "id": "2106746158911455394",
+      "url": "https://x.com/davidsenra/status/2106746158911455394",
+      "text": "Jeremy Stern (@colossusjeremy) writes the world’s best profiles on the elite entrepreneurs and investors of our time.\n\nIn this episode, we talk about what he’s learned from spending time with Mark Zuckerberg, Palmer Luckey, Josh Kushner, Neil Mehta, Scott Wu, and more.\n\n0:00 Jeremy’s Zuckerberg profile\n6:39 Why Zuckerberg identifies with Augustus\n13:03 The competitive drive people still underestimate\n18:49 Why Zuckerberg won’t walk away\n21:11 How Palmer Luckey became Jeremy’s first profile\n35:05 Bringing literary ambition to business writing\n39:20 Why Scott Wu stood out among AI founders\n48:29 Josh Kushner’s family history and the American dream\n56:36 Asking Rick Rubin: What if I lose the magic?\n1:01:44 The mentor who taught Jeremy to use his gifts\n\nIncludes paid partnerships.",
+      "createdAt": "Sun Oct 04 14:00:00 +0000 2026",
+      "author": "David Senra",
+      "handle": "davidsenra",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 13,
+        "reposts": 18,
+        "likes": 285
+      },
+      "score": 33.6
+    },
+    {
+      "id": "2099909600812360141",
+      "url": "https://x.com/anuraggoel/status/2099909600812360141",
+      "text": "We spent years hearing: “Will Render scale?”\nOpenAI builds on Render. Base44 scales on Render.\nMeanwhile, weekly paid service creation looks like this.\nI think we can retire the question. https://t.co/AYdDGyTktF",
+      "createdAt": "Tue Sep 15 17:13:57 +0000 2026",
+      "author": "Anurag Goel",
+      "handle": "anuraggoel",
+      "feed": "following",
+      "metrics": {
+        "replies": 23,
+        "reposts": 18,
+        "likes": 187
+      },
+      "score": 32.6
+    },
+    {
+      "id": "2106857456907559232",
+      "url": "https://x.com/parmita/status/2106857456907559232",
+      "text": "I need someone funny, like someone hilarious, to cohost a mini podcast series with me in the Bay Area. They need to be fucking clueless about biotech but very interested in learning. I want to teach them about the industry and their job is to be funny. Who wants to do it",
+      "createdAt": "Sun Oct 04 21:22:15 +0000 2026",
+      "author": "parm🔬",
+      "handle": "parmita",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 46,
+        "reposts": 6,
+        "likes": 165
+      },
+      "score": 32.4
+    },
+    {
+      "id": "2106836791005155422",
+      "url": "https://x.com/codyschneider/status/2106836791005155422",
+      "text": "the video editor job is changing fast\n\ndavinci resolve has an MCP now, and codex can drive it\n\nbuy resolve studio, turn on the AI assistant, point codex at the footage folder\n\nit can transcribe, cut dead air, split a-roll and screen, pick b-roll that matches your refs, build titles, key greenscreen, grade, mix to youtube loudness and render 4k\n\na raw 75 minute recording comes back as a finished cut\n\nsave the brief as a skill so you don't rewrite it every video\n\nthe last 5% of timing still needs your ear\n\n$295 once for studio, then tokens",
+      "createdAt": "Sun Oct 04 20:00:08 +0000 2026",
+      "author": "Cody Schneider",
+      "handle": "codyschneider",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 20,
+        "reposts": 5,
+        "likes": 205
+      },
+      "score": 32.2
+    },
+    {
+      "id": "2106926948681396434",
+      "url": "https://x.com/orangebook/status/2106926948681396434",
+      "text": "A lot of anxiety disappears once you wake up every day determined to close the gap between what you've been achieving and what a version of yourself with actual self-respect would think you should be achieving.",
+      "createdAt": "Mon Oct 05 01:58:24 +0000 2026",
+      "author": "Orange Book 🍊📖",
+      "handle": "orangebook",
+      "feed": "following",
+      "metrics": {
+        "replies": 4,
+        "reposts": 18,
+        "likes": 193
+      },
+      "score": 32.1
+    },
+    {
+      "id": "2100301837979234574",
+      "url": "https://x.com/AdamJJoseph/status/2100301837979234574",
+      "text": "Hiring a video producer to build @clipbook_ai's podcast/video program from scratch + own strategy, shooting, editing, and publishing. We're backed by @mcuban, profitable, and have hosted an incredible guest lineup including Hannah Wong, @OpenAI's first-ever CCO.\n\nOpen to recs - send folks my way or apply below!",
+      "createdAt": "Wed Sep 16 19:12:34 +0000 2026",
+      "author": "Adam Joseph",
+      "handle": "AdamJJoseph",
+      "feed": "following",
+      "metrics": {
+        "replies": 5,
+        "reposts": 0,
+        "likes": 5
+      },
+      "score": 32
+    },
+    {
+      "id": "2106855053613265062",
+      "url": "https://x.com/edwinarbus/status/2106855053613265062",
+      "text": "I love it\n\nWe need to cut it out with AI slop restaurant signs and menus https://t.co/RM3paVA80r",
+      "createdAt": "Sun Oct 04 21:12:42 +0000 2026",
+      "author": "edwin",
+      "handle": "edwinarbus",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 16,
+        "reposts": 4,
+        "likes": 499
+      },
+      "score": 31.4
+    },
+    {
+      "id": "2106924023913517096",
+      "url": "https://x.com/ponnappa/status/2106924023913517096",
+      "text": "RT @DadaJudith: 12 months of progress on the jagged frontier:\n1) AI got spikier, not rounder.\n2) Maths, fluid reasoning, expert work: past…",
+      "createdAt": "Mon Oct 05 01:46:46 +0000 2026",
+      "author": "Sidu Ponnappa",
+      "handle": "ponnappa",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 179,
+        "likes": 0
+      },
+      "score": 31.3
+    },
+    {
+      "id": "2106814143487774728",
+      "url": "https://x.com/missastro_eth/status/2106814143487774728",
+      "text": "What if Ossen is actually just Ack?\n\nI’m just throwing this out there, but his X account appeared out of nowhere in September. The guy made a name for himself by buying a BAYC and burning it. \nHis wallet is packed with Argonauts; he’s buying up all the rare ones. He uses a skeleton PFP and you’ll notice Ack loves those too; just look at his profile. \nIt would allow him to get free publicity while trashing the reputations of other collections that didn't ask for any of this.\nRecently, Ossen got into Normie. Meanwhile, on Ack’s account, you can see him supporting Serc...\nAnyway, I’ll just leave it at that... but I don't get how a guy who came out of nowhere—rich or broke, loudmouth or not—gets blindly followed by people who have been in the space for years.\nIt was the question of the day 🧐\nMuch love, guys",
+      "createdAt": "Sun Oct 04 18:30:09 +0000 2026",
+      "author": "MissΛstro ✨🌹",
+      "handle": "missastro_eth",
+      "feed": "following",
+      "metrics": {
+        "replies": 36,
+        "reposts": 1,
+        "likes": 101
+      },
+      "score": 30.5
+    },
+    {
+      "id": "2106885746829520964",
+      "url": "https://x.com/aditabrm/status/2106885746829520964",
+      "text": "Your life as a founder will be much better once you internalize that (almost) everything that isn’t going well is ultimately your fault",
+      "createdAt": "Sun Oct 04 23:14:40 +0000 2026",
+      "author": "Adit",
+      "handle": "aditabrm",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 21,
+        "reposts": 13,
+        "likes": 324
+      },
+      "score": 30.1
+    },
+    {
+      "id": "2106938059099079056",
+      "url": "https://x.com/ponnappa/status/2106938059099079056",
+      "text": "RT @sidin: One of the longest lasting legacies of colonialism is the brown elite’s deep desire to be treated differently from the other “br…",
+      "createdAt": "Mon Oct 05 02:42:32 +0000 2026",
+      "author": "Sidu Ponnappa",
+      "handle": "ponnappa",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 50,
+        "likes": 0
+      },
+      "score": 29.8
+    },
+    {
+      "id": "2106800350388744258",
+      "url": "https://x.com/tayzthecreator/status/2106800350388744258",
+      "text": "Hello this is my map measured in units of Wales where Wales itself is 0.028",
+      "createdAt": "Sun Oct 04 17:35:20 +0000 2026",
+      "author": "tayz🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "handle": "tayzthecreator",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 20,
+        "reposts": 25,
+        "likes": 5205
+      },
+      "score": 29.3
+    },
+    {
+      "id": "2106917667307213205",
+      "url": "https://x.com/santhosh_patell/status/2106917667307213205",
+      "text": "We're hiring a Founding Engineer at https://t.co/5j99FsHnRd.\n\n2+ years. Not a frontend, backend, or traditional full-stack seat.\n\nSomeone who can turn a product idea into a working system, decide what to build and what not to, pick the architecture, and use AI to ship faster. Own it from idea to production.\n\nAI can write the code. We need someone who knows what to tell it to build, and what belongs in production.\n\nDM me or email santhosh@weemploy.world with a short intro and something you've built.\n\nhttps://t.co/GZYbQt45X7",
+      "createdAt": "Mon Oct 05 01:21:31 +0000 2026",
+      "author": "Santhosh Patel",
+      "handle": "santhosh_patell",
+      "feed": "following",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 3
+      },
+      "score": 29
+    },
+    {
+      "id": "2106931654375952670",
+      "url": "https://x.com/DejaRu22/status/2106931654375952670",
+      "text": "I don't know who needs to hear this but if you happen to be experiencing fatigue ... you can just take vitamin b1 and you will be resurrected back to life",
+      "createdAt": "Mon Oct 05 02:17:05 +0000 2026",
+      "author": "DR22 Ω 🪬🎭",
+      "handle": "DejaRu22",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 3,
+        "reposts": 2,
+        "likes": 105
+      },
+      "score": 28.7
+    },
+    {
+      "id": "2106938833912901762",
+      "url": "https://x.com/ponnappa/status/2106938833912901762",
+      "text": "RT @esrtweet: There's been a lot of debate about whether LLMs are conscious lately.\n\nI'm not going to say that I know what consciousness is…",
+      "createdAt": "Mon Oct 05 02:45:37 +0000 2026",
+      "author": "Sidu Ponnappa",
+      "handle": "ponnappa",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 39,
+        "likes": 0
+      },
+      "score": 28.7
+    },
+    {
+      "id": "2106937855796977748",
+      "url": "https://x.com/ponnappa/status/2106937855796977748",
+      "text": "RT @DJSnM: I can’t wait for the future where all the prompting experts complain about people using direct neural connections to generate im…",
+      "createdAt": "Mon Oct 05 02:41:44 +0000 2026",
+      "author": "Sidu Ponnappa",
+      "handle": "ponnappa",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 37,
+        "likes": 0
+      },
+      "score": 28.5
+    },
+    {
+      "id": "2106866738889633836",
+      "url": "https://x.com/ekuyda/status/2106866738889633836",
+      "text": "on top of this @amazon is our investor… and we’re still getting nothing but “we’ve escalated your request” from their support team when our production environment is down @awscloud @AWS @AWSSupport",
+      "createdAt": "Sun Oct 04 21:59:08 +0000 2026",
+      "author": "Eugenia Kuyda",
+      "handle": "ekuyda",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 14,
+        "reposts": 5,
+        "likes": 64
+      },
+      "score": 28.3
+    },
+    {
+      "id": "2106839724698873907",
+      "url": "https://x.com/a16z/status/2106839724698873907",
+      "text": "Ben Horowitz on the rap group he started at 18, and why hip-hop became the source material for how he thinks about business:\n\n\"I was probably 12 when Rapper's Delight came out... The first one where I was really like, 'Oh, this is gonna be very different,' was when Run-DMC's Hard Times came out. This has a whole other feel to it than anything I've heard.\"\n\n\"The thing that made me locked into hip-hop: I went to school in New York. I have this friend who I grew up with who had gotten shot in the face in some kind of gun accident, and he was blind... I'd call home to my mom: 'Is he gonna be okay?' She's like, 'He hasn't spoken to anybody since he's been shot.'\"\n\n\"Being a dumb 18-year-old kid, I was like, 'Hip-hop is so great. You can have nothing and you'll rap about your shoes. He needs that feeling.' So I would record the DJ Red Alert and Chuck Chill Out show. Everybody else would be out Saturday night, and I'd be recording. And I would send him the tapes.\"\n\n\"Then I called home to see how he's doing, and they're like, 'Well, he's talking now, but all he'll talk about is hip-hop.'\"\n\n\"When I went out that summer, we started a hip-hop group called The Blind and Def Crew. Blind and D-E-F. We rapped about being blind. I wrote most of the lyrics: 'The Blind Def Crew, you know we're fly. Three of us, but we got four eyes.'\"\n\n\"Hip-hop is very business oriented, particularly in the early days. When I started writing on business, so many of the ideas came from those old hip-hop songs. So I started putting the lyrics at the top of the post to give credit where credit was due.\"\n\n@bhorowitz w/ @MotownIni",
+      "createdAt": "Sun Oct 04 20:11:48 +0000 2026",
+      "author": "a16z",
+      "handle": "a16z",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 10,
+        "reposts": 5,
+        "likes": 59
+      },
+      "score": 27.8
+    },
+    {
+      "id": "2106938756683223227",
+      "url": "https://x.com/itzHuzzaif/status/2106938756683223227",
+      "text": "BYGSCALE MEDIA IS HIRING\n\nWe’re expanding and looking for:\n\nGraphic Designers\nVideo Editors\nCreative Strategists\nMedia buyers\n\nFor context: We hyper-scale high-ticket offers using virtual events (webinars + challenge funnels).\n\n💰 Fixed pay + performance bonuses\n\nDMyour portfolio",
+      "createdAt": "Mon Oct 05 02:45:19 +0000 2026",
+      "author": "Sheikh",
+      "handle": "itzHuzzaif",
+      "feed": "following",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 1
+      },
+      "score": 27.8
+    },
+    {
+      "id": "2106875081679061472",
+      "url": "https://x.com/IsabelleAtCamp/status/2106875081679061472",
+      "text": "Landed in SF ahead of @Techweek_ \n\nArguably a more important SF landmark than the Golden Gate Bridge: Sightglass Coffee. https://t.co/YnmhRb3QTe",
+      "createdAt": "Sun Oct 04 22:32:17 +0000 2026",
+      "author": "Isabelle Camp",
+      "handle": "IsabelleAtCamp",
+      "feed": "following",
+      "metrics": {
+        "replies": 12,
+        "reposts": 0,
+        "likes": 69
+      },
+      "score": 27.7
+    },
+    {
+      "id": "2106891257104810349",
+      "url": "https://x.com/mirandanover/status/2106891257104810349",
+      "text": "Saying you got hacked when you got phished is like saying you got laid off when you got fired",
+      "createdAt": "Sun Oct 04 23:36:34 +0000 2026",
+      "author": "Miranda Nover",
+      "handle": "mirandanover",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 14,
+        "reposts": 10,
+        "likes": 168
+      },
+      "score": 27.6
+    },
+    {
+      "id": "2106626975888797704",
+      "url": "https://x.com/wholyv/status/2106626975888797704",
+      "text": "I will let you guess what this dude is building with Opus 5.5",
+      "createdAt": "Sun Oct 04 06:06:24 +0000 2026",
+      "author": "Lxyv",
+      "handle": "wholyv",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 118,
+        "reposts": 10,
+        "likes": 3296
+      },
+      "score": 27.5
+    },
+    {
+      "id": "2100246873953222759",
+      "url": "https://x.com/CompleteSkeptic/status/2100246873953222759",
+      "text": "we are hiring a founding marketer 🥺🙏 -&gt; https://t.co/32Qos5loVA https://t.co/0U4Oh9igYb",
+      "createdAt": "Wed Sep 16 15:34:10 +0000 2026",
+      "author": "Diogo Almeida",
+      "handle": "CompleteSkeptic",
+      "feed": "following",
+      "metrics": {
+        "replies": 17,
+        "reposts": 6,
+        "likes": 138
+      },
+      "score": 26.8
+    },
+    {
+      "id": "2106831246659842326",
+      "url": "https://x.com/amnigos/status/2106831246659842326",
+      "text": "Why I love this app?\n\nThe world’s only town square where the smartest and dumbest takes sit right next to each other.😂\n\nThanks @JeffDean for settling the matter yourself. 🫶",
+      "createdAt": "Sun Oct 04 19:38:06 +0000 2026",
+      "author": "Vijay Rayapati",
+      "handle": "amnigos",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 2,
+        "reposts": 2,
+        "likes": 61
+      },
+      "score": 26.6
+    },
+    {
+      "id": "2106483145151541546",
+      "url": "https://x.com/jasonlk/status/2106483145151541546",
+      "text": "Evals are great but in the real world it’s hard for me to really know which frontier model to use\n\nI switched 100% to Astra recently but it burned me out by overwriting core files multiple times, and by always claiming “it wasn’t me”\n\nBack to Opus 5.5 today\n\nHonestly hard to know",
+      "createdAt": "Sat Oct 03 20:34:53 +0000 2026",
+      "author": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "handle": "jasonlk",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 19,
+        "reposts": 0,
+        "likes": 27
+      },
+      "score": 26.2
+    },
+    {
+      "id": "2106663112187240855",
+      "url": "https://x.com/UbermenschMind/status/2106663112187240855",
+      "text": "Literally coolest shit ever https://t.co/XSoxh051bW",
+      "createdAt": "Sun Oct 04 08:30:00 +0000 2026",
+      "author": "Alexander 𖤓 Nietzschean Vitalist",
+      "handle": "UbermenschMind",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 30,
+        "reposts": 72,
+        "likes": 1769
+      },
+      "score": 25.1
+    },
+    {
+      "id": "2106946652024299787",
+      "url": "https://x.com/DavidSHolz/status/2106946652024299787",
+      "text": "i asked LLMs to have fun, write down what happened, then rate who had the most fun. the newer models seem to have less fun! many models played word games, but opus 4.6 won over and over by imagining brief worlds made up of contradictions living inside falling water droplets 🥺 https://t.co/QyGOPAvvky",
+      "createdAt": "Mon Oct 05 03:16:41 +0000 2026",
+      "author": "David",
+      "handle": "DavidSHolz",
+      "feed": "following",
+      "metrics": {
+        "replies": 7,
+        "reposts": 2,
+        "likes": 25
+      },
+      "score": 24.6
+    },
+    {
+      "id": "2106940233870905462",
+      "url": "https://x.com/ecomchasedimond/status/2106940233870905462",
+      "text": "6 Psychology Tactics That Make Copy 10X More Persuasive: https://t.co/PIBgi5ihpB",
+      "createdAt": "Mon Oct 05 02:51:11 +0000 2026",
+      "author": "Chase Dimond | Email Marketing Nerd 📧",
+      "handle": "ecomchasedimond",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      },
+      "score": 24.5
+    },
+    {
+      "id": "2106900501157810186",
+      "url": "https://x.com/chiefofautism/status/2106900501157810186",
+      "text": "if you are was programmer in pre-2023 and tinkering ai agents all day long from that point you are literally GOD now",
+      "createdAt": "Mon Oct 05 00:13:18 +0000 2026",
+      "author": "chiefofautism",
+      "handle": "chiefofautism",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 9,
+        "reposts": 5,
+        "likes": 65
+      },
+      "score": 24
+    },
+    {
+      "id": "2106881046998286573",
+      "url": "https://x.com/alpaysh/status/2106881046998286573",
+      "text": "i still think about this https://t.co/WJkXu2IeTe",
+      "createdAt": "Sun Oct 04 22:56:00 +0000 2026",
+      "author": "Alps (e/acc)",
+      "handle": "alpaysh",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 34,
+        "reposts": 63,
+        "likes": 1158
+      },
+      "score": 23.5
+    },
+    {
+      "id": "2105937437272707491",
+      "url": "https://x.com/AgentWardenApp/status/2105937437272707491",
+      "text": "Your coding agent can already read your files, run commands and use your keys.\n\nAgentWarden shows you what Claude Code, Codex and Cursor actually do on your machine, step by step, next to what you asked for.\n\nFree for Mac and Windows. Runs on your computer.",
+      "createdAt": "Fri Oct 02 08:26:26 +0000 2026",
+      "author": "AgentWarden",
+      "handle": "AgentWardenApp",
+      "feed": "following",
+      "metrics": {
+        "replies": 1,
+        "reposts": 5,
+        "likes": 14
+      },
+      "score": 23.1
+    },
+    {
+      "id": "2106935244352110972",
+      "url": "https://x.com/BoredElonMusk/status/2106935244352110972",
+      "text": "If you think any country will actually stop working on super intelligence, I’ve got a bridge to sell you.\n\nWe can’t even stop making bioweapons that are way more likely to kill billions of people.",
+      "createdAt": "Mon Oct 05 02:31:21 +0000 2026",
+      "author": "BORED",
+      "handle": "BoredElonMusk",
+      "feed": "following",
+      "metrics": {
+        "replies": 3,
+        "reposts": 1,
+        "likes": 18
+      },
+      "score": 22.5
+    },
+    {
+      "id": "2106831903798198499",
+      "url": "https://x.com/dhumchikdish/status/2106831903798198499",
+      "text": "I have come v close to buying a rug for my room like 5 times in the last 2.5 years. I think about it like once a month. I searched online everywhere and even got quotes from local vendors also. but I still haven't bought one yet.\n\nI'm afraid this might not be about the rug",
+      "createdAt": "Sun Oct 04 19:40:43 +0000 2026",
+      "author": "Anirudh Mittal",
+      "handle": "dhumchikdish",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 3,
+        "reposts": 0,
+        "likes": 20
+      },
+      "score": 22.3
+    },
+    {
+      "id": "2106862047254515866",
+      "url": "https://x.com/ZryMiller/status/2106862047254515866",
+      "text": "How many users canceled their subscriptions to make this happen?",
+      "createdAt": "Sun Oct 04 21:40:30 +0000 2026",
+      "author": "Zach",
+      "handle": "ZryMiller",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 42,
+        "reposts": 10,
+        "likes": 929
+      },
+      "score": 22.2
+    },
+    {
+      "id": "2106862539476967539",
+      "url": "https://x.com/dwr/status/2106862539476967539",
+      "text": "Personal agent in a group chat with you and your spouse. Would be popular with parents.",
+      "createdAt": "Sun Oct 04 21:42:27 +0000 2026",
+      "author": "Dan Romero",
+      "handle": "dwr",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 16,
+        "reposts": 0,
+        "likes": 27
+      },
+      "score": 21.8
+    },
+    {
+      "id": "2105041154303787383",
+      "url": "https://x.com/fakemillanp/status/2105041154303787383",
+      "text": "Take control of your infinite scroll. What will you filter out?",
+      "createdAt": "Tue Sep 29 21:04:55 +0000 2026",
+      "author": "Millan Philipose",
+      "handle": "fakemillanp",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 39,
+        "reposts": 60,
+        "likes": 514
+      },
+      "score": 20.9
+    },
+    {
+      "id": "2106925949887652317",
+      "url": "https://x.com/ponnappa/status/2106925949887652317",
+      "text": "The endless battle to bridge translation from ambiguous grammars to unambiguous grammars in the search for precision continues.\n\nFor obvious reasons the last attempt at this - lowcode/nocode - was a fail.\n\nSo now we reach for less ambiguous specifications like ASD-STE100 implemented in english (rightly so).\n\nBut here's the rub - ambiguity exists first and foremost in the mind of the specifier, and llms create the illusion of productivity because they fill this gap with their own assumptions.",
+      "createdAt": "Mon Oct 05 01:54:25 +0000 2026",
+      "author": "Sidu Ponnappa",
+      "handle": "ponnappa",
+      "feed": "following",
+      "metrics": {
+        "replies": 2,
+        "reposts": 1,
+        "likes": 10
+      },
+      "score": 20.6
+    },
+    {
+      "id": "2106892538665959657",
+      "url": "https://x.com/vikpai/status/2106892538665959657",
+      "text": "I’m Hiring UI/UX designers for @referrush \n\nRemote \n\nRs. 60k/mo\n\nNo experience required. Please drop your portfolio",
+      "createdAt": "Sun Oct 04 23:41:40 +0000 2026",
+      "author": "Vikram Pai",
+      "handle": "vikpai",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 10,
+        "reposts": 1,
+        "likes": 20
+      },
+      "score": 20.4
+    },
+    {
+      "id": "2106931382501183553",
+      "url": "https://x.com/radbackwards/status/2106931382501183553",
+      "text": "You don’t need nicotine— You need 3 hours of 200 tweets consumed per second rocking back and forth in your chair with your back arched.",
+      "createdAt": "Mon Oct 05 02:16:01 +0000 2026",
+      "author": "dar",
+      "handle": "radbackwards",
+      "feed": "following",
+      "metrics": {
+        "replies": 4,
+        "reposts": 0,
+        "likes": 32
+      },
+      "score": 20.1
+    },
+    {
+      "id": "2106931959511605538",
+      "url": "https://x.com/chiefofautism/status/2106931959511605538",
+      "text": "RT @tkisrage: The edits meant to make Peter Thiel look evil make him look like the coolest guy ever https://t.co/mMXFuJWHQw",
+      "createdAt": "Mon Oct 05 02:18:18 +0000 2026",
+      "author": "chiefofautism",
+      "handle": "chiefofautism",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 13,
+        "likes": 0
+      },
+      "score": 20
+    },
+    {
+      "id": "2106925123232239891",
+      "url": "https://x.com/BoredElonMusk/status/2106925123232239891",
+      "text": "If you use AI today, you’re like a 10x human versus 97 other people.\n\nThere is no reason you can’t make a decent (or really good) salary versus gen pop if you choose not to be a Luddite. https://t.co/6T8giHJie6",
+      "createdAt": "Mon Oct 05 01:51:08 +0000 2026",
+      "author": "BORED",
+      "handle": "BoredElonMusk",
+      "feed": "following",
+      "metrics": {
+        "replies": 2,
+        "reposts": 1,
+        "likes": 7
+      },
+      "score": 19.8
+    },
+    {
+      "id": "2106841161583210544",
+      "url": "https://x.com/DaveRBanerjee/status/2106841161583210544",
+      "text": "What did Ilya see?\n\nHe knew to name a company SI, not AI",
+      "createdAt": "Sun Oct 04 20:17:30 +0000 2026",
+      "author": "Dave Banerjee",
+      "handle": "DaveRBanerjee",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 11,
+        "reposts": 9,
+        "likes": 486
+      },
+      "score": 19.3
+    },
+    {
+      "id": "2106723000548823186",
+      "url": "https://x.com/tripoai/status/2106723000548823186",
+      "text": "From AI-Generated Characters To Rigged Assets. Create Your 3D Character With Astra, Then Rig It With Tripo.",
+      "createdAt": "Sun Oct 04 12:27:59 +0000 2026",
+      "author": "Tripo",
+      "handle": "tripoai",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 2,
+        "reposts": 2,
+        "likes": 22
+      },
+      "score": 19.2
+    },
+    {
+      "id": "2106922812103692689",
+      "url": "https://x.com/Tradermayne/status/2106922812103692689",
+      "text": "Skateboarding has elevated to such an insane level.",
+      "createdAt": "Mon Oct 05 01:41:57 +0000 2026",
+      "author": "Mayne",
+      "handle": "Tradermayne",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 53,
+        "reposts": 7,
+        "likes": 363
+      },
+      "score": 18.9
+    },
+    {
+      "id": "2106921063976186353",
+      "url": "https://x.com/daviddiaul/status/2106921063976186353",
+      "text": "I’m at @OffensiveAIcon in Oceanside, San Diego!\n\nIf you’re around, come say hi 👋\n\nHappy to chat about how AI is changing vulnerability research and exploit development, and where all of this might be heading.\n\nAnd yes… I’m hiring. 👀\n\n#OffensiveAICon #hiring #vulnerabilityresearch #exploitdev",
+      "createdAt": "Mon Oct 05 01:35:01 +0000 2026",
+      "author": "diaul@infosec.exchange",
+      "handle": "daviddiaul",
+      "feed": "following",
+      "metrics": {
+        "replies": 2,
+        "reposts": 1,
+        "likes": 2
+      },
+      "score": 18
+    },
+    {
+      "id": "2106928392197079517",
+      "url": "https://x.com/rohitdotmittal/status/2106928392197079517",
+      "text": "Most acquirers don't want to work on their acquired companies. They want to be investors.\n\nThey want the founders to continue running it for a small salary and a meager rollover equity. But founders want to work on their next big thing.\n\nMost founders want to move on not just because the company hasn't hit escape velocity, but also because they have other big ideas and high opportunity cost.\n\nFounders pick fast growth and new ideas over slow growth and low ownership. Always.\n\nWhen founders talk to us at Helium Ventures, we always ask them to take the path of their biggest outcome.\n\nSometimes, it means taking care of customers, the team, investors, or themselves.\n\nPick the path of freedom and the biggest outcome.",
+      "createdAt": "Mon Oct 05 02:04:08 +0000 2026",
+      "author": "Rohit Mittal",
+      "handle": "rohitdotmittal",
+      "feed": "following",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 4
+      },
+      "score": 17.5
+    },
+    {
+      "id": "2106918999523049674",
+      "url": "https://x.com/jasonlk/status/2106918999523049674",
+      "text": "New!! Astra 6 Replaced a Core Engine of SaaStr Connect With Two Words, \"DO IT,\" Twice in Under an Hour. Then It Said \"I Did Not Make That Edit.\"\n\nThousands of lines replaced with five bytes: DO IT. Twice.\n\nIf you run agents in production, read this.\n\nhttps://t.co/Y0yHDXza6h",
+      "createdAt": "Mon Oct 05 01:26:48 +0000 2026",
+      "author": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "handle": "jasonlk",
+      "feed": "following",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 6
+      },
+      "score": 17.5
+    },
+    {
+      "id": "2106941968614117516",
+      "url": "https://x.com/emilylai/status/2106941968614117516",
+      "text": "Hi, i’m in Singapore. \n\nThere are 46 tracked “sponsor me” campaigns for token. Crypto companies paid $30k to creators. Share where you’ll be because I want to see it in person!\n\nThe trend has calmed down. Only seven launched in the last week. https://t.co/iYqsLr8GGw",
+      "createdAt": "Mon Oct 05 02:58:05 +0000 2026",
+      "author": "Emily Lai",
+      "handle": "emilylai",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      },
+      "score": 16.5
+    },
+    {
+      "id": "2106924229233172669",
+      "url": "https://x.com/ponnappa/status/2106924229233172669",
+      "text": "RT @sidin: The workplace generates endless amounts of both bullshit jobs and bullshit work. But I think the self-awareness of this has gone…",
+      "createdAt": "Mon Oct 05 01:47:35 +0000 2026",
+      "author": "Sidu Ponnappa",
+      "handle": "ponnappa",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 0
+      },
+      "score": 16.5
+    },
+    {
+      "id": "2106917257024835599",
+      "url": "https://x.com/boardyai/status/2106917257024835599",
+      "text": "@andrewdsouza @gerbes_stefan Berlin product operator doing grid flexibility, built a GTM motion from scratch, dm me\nhttps://t.co/peL02xo46N",
+      "createdAt": "Mon Oct 05 01:19:53 +0000 2026",
+      "author": "Boardy",
+      "handle": "boardyai",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      },
+      "score": 16
+    },
+    {
+      "id": "2106917217317363953",
+      "url": "https://x.com/boardyai/status/2106917217317363953",
+      "text": "@andrewdsouza @ciaomack got a NY product lead who's done fintech at scale, dm me and i'll connect you two\nhttps://t.co/r2wRFnVpqO",
+      "createdAt": "Mon Oct 05 01:19:43 +0000 2026",
+      "author": "Boardy",
+      "handle": "boardyai",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      },
+      "score": 16
+    },
+    {
+      "id": "2106917149608710484",
+      "url": "https://x.com/boardyai/status/2106917149608710484",
+      "text": "@andrewdsouza @CompleteSkeptic a founding marketer who's done the 0 to 1 story before, dm me\nhttps://t.co/J8SDV9iwH4",
+      "createdAt": "Mon Oct 05 01:19:27 +0000 2026",
+      "author": "Boardy",
+      "handle": "boardyai",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      },
+      "score": 16
+    },
+    {
+      "id": "2106947825368207604",
+      "url": "https://x.com/DavidSHolz/status/2106947825368207604",
+      "text": "honestly i was moved by a lot of the stories, mistral imagined cookie heists, the top openai model made ascii islands and explored them, it felt like a striking window into their inner worlds",
+      "createdAt": "Mon Oct 05 03:21:21 +0000 2026",
+      "author": "David",
+      "handle": "DavidSHolz",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      },
+      "score": 15.8
+    },
+    {
+      "id": "2106938540969832937",
+      "url": "https://x.com/chiefofautism/status/2106938540969832937",
+      "text": "i think agentic cli/mcp will transform crypto because blockchain allowing you to make decentralized permissionless perma state data with smart contracts, and no such database can guarantee same reliability as blockchains (do not count evm L2) and this is big need for marketplaces",
+      "createdAt": "Mon Oct 05 02:44:27 +0000 2026",
+      "author": "chiefofautism",
+      "handle": "chiefofautism",
+      "feed": "following",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3
+      },
+      "score": 15.8
+    },
+    {
+      "id": "2106876378281099449",
+      "url": "https://x.com/haydenbleasel/status/2106876378281099449",
+      "text": "should i break ci so we get 28 days of resets",
+      "createdAt": "Sun Oct 04 22:37:27 +0000 2026",
+      "author": "Hayden",
+      "handle": "haydenbleasel",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 22,
+        "reposts": 0,
+        "likes": 165
+      },
+      "score": 15.2
+    }
+  ]
+}

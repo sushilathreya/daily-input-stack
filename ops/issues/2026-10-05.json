@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-05",
+  "displayDate": "Monday, 5 October 2026",
+  "issueNumber": 66,
+  "title": "Make the headline earn the next sentence.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 3 of Tested Advertising Methods, John Caples examines the qualities that make headlines successful: self-interest, news, curiosity, and a quick path into the reader's attention. The headline is not decoration; it is the first test of whether the message deserves to be read.",
+  "meta": {
+    "canon": "John Caples, <em>Tested Advertising Methods</em>",
+    "study": "25-35 min",
+    "practice": "one four-variant headline test"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A headline has one job before it has any style: make the right reader feel that the next sentence is worth their time. Start with the reader's self-interest, then test whether news, curiosity, or a clear promise makes the opening stronger."
+  },
+  "canon": {
+    "author": "John Caples",
+    "work": "Tested Advertising Methods",
+    "chapter": "Headlines That Attract the Most Readers",
+    "chapterLabel": "Chapter 3, \"Headlines That Attract the Most Readers\"",
+    "field": "advertising / copywriting / attention",
+    "pageRange": "Printed pages 22-28 in the local scanned edition; begin at the Chapter 3 opener on printed page 22 and stop before Chapter 4 begins on printed page 29.",
+    "pageCount": 7,
+    "stopPoint": "Stop at the end of printed page 28. Do not continue into Chapter 4, \"Right and Wrong Methods of Writing Headlines,\" which begins on printed page 29.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_scanned_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Tested Advertising Methods.pdf",
+      "driveUrl": "https://drive.google.com/file/d/16fm09bdOkdiH8MZwoTKFnOXV16fJcZOZ/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "scanned_pdf_with_contents_and_embedded_page_image_boundary_verification",
+        "tool": "local PDF object inspection, CCITT page-image extraction, and visual page review",
+        "nativeTextPages": "Printed pages 22-28",
+        "tableOfContentsVerified": true,
+        "notes": "The local VPS PDF was inspected directly. Its contents page lists Chapter 3, \"Headlines That Attract the Most Readers,\" at printed page 22 and Chapter 4 at printed page 29. Extracted page images show the Chapter 3 opener on printed page 22 and the Chapter 4 opener on printed page 29, so the bounded reading is printed pages 22-28."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/16fm09bdOkdiH8MZwoTKFnOXV16fJcZOZ/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Tested Advertising Methods.pdf\""
+    },
+    "heading": "The first line must earn the second.",
+    "standfirst": "Read Chapter 3, \"Headlines That Attract the Most Readers,\" from John Caples's <em>Tested Advertising Methods</em> on printed pages 22-28. Caples treats the headline as a practical promise: it should connect with self-interest, introduce news, create useful curiosity, and make the reader want to continue.",
+    "readerIntro": "Read this chapter as a testing manual for the opening line. Mark where Caples distinguishes curiosity from confusion, how self-interest gives a headline commercial force, and why a headline can be judged by the quality of the readers it attracts. Then write four versions of one headline: self-interest, news, curiosity, and a direct promise. Stop at printed page 28.",
+    "blocks": [
+      {
+        "label": "01 / Self-interest gives the reader a reason to care",
+        "paragraphs": [
+          "Caples begins with the qualities that make a headline successful: self-interest, news, curiosity, and a quick, easy way into the message. Self-interest is the foundation because the reader must recognise a benefit, problem, or desire that belongs to them.",
+          "The headline does not need to explain everything. It needs to make the value of continuing legible before the body copy has done its work."
+        ]
+      },
+      {
+        "label": "02 / News makes the promise feel timely",
+        "paragraphs": [
+          "A new fact, discovery, improvement, or way of doing something can give the reader a reason to pay attention now. News helps an offer escape the category's familiar language by showing what has changed.",
+          "The useful test is not whether the claim sounds novel to the writer. It is whether the reader can quickly see why the information changes what they might do or choose."
+        ]
+      },
+      {
+        "label": "03 / Curiosity should open a door, not hide the room",
+        "paragraphs": [
+          "Curiosity can attract attention, but a vague or misleading headline may pull in people who have no interest in the offer. Caples's examples keep curiosity attached to a subject the reader can recognise.",
+          "A strong curiosity headline withholds just enough to invite the next sentence while preserving a clear connection to the reader's likely interest."
+        ]
+      },
+      {
+        "label": "04 / Judge the headline by the readers it attracts",
+        "paragraphs": [
+          "Caples treats headline writing as a measurable activity rather than a contest in cleverness. Different appeals can be tested against response, and the winning line is the one that brings the right readers into the argument.",
+          "This shifts the writer's attention from personal taste to useful evidence: what promise earns qualified attention, and what promise makes the next part of the advertisement easier to read?"
+        ]
+      },
+      {
+        "label": "05 / Turn one idea into four testable openings",
+        "paragraphs": [
+          "The practical exercise is to take one offer and express its opening through four angles: a self-interest promise, a news-led claim, a curiosity device, and a direct statement of value.",
+          "Stop with the four variants and a short note on the reader each one is meant to attract. The point is not to declare a winner from taste, but to make the competing hypotheses clear enough to test."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "Headlines That Attract the Most Readers",
+      "self-interest",
+      "news",
+      "curiosity",
+      "quick, easy way",
+      "What Makes Certain Headlines Successful?"
+    ],
+    "closeReading": [
+      "Why does Caples place self-interest before cleverness in the hierarchy of headline qualities?",
+      "What makes a news-based headline genuinely useful rather than merely unfamiliar?",
+      "When does curiosity invite a qualified reader forward, and when does it create irrelevant attention?",
+      "Which of the four headline qualities best fits an offer you know, and what evidence would test that judgment?",
+      "Write four versions of one headline using self-interest, news, curiosity, and a direct promise."
+    ]
+  },
+  "principle": {
+    "heading": "Make the opening promise specific enough to test.",
+    "body": "A headline earns attention by connecting a real reader interest to a clear reason to continue. Use self-interest as the anchor, then test whether news, curiosity, or a direct promise makes the value more immediate.",
+    "exampleLabel": "Example",
+    "example": "For a project-management tool, a self-interest headline might promise fewer missed commitments, a news headline might introduce a new way to surface blockers, a curiosity headline might ask why projects stall after the kickoff, and a direct headline might say how teams can see the next action in one place.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one offer and write four headlines: one led by self-interest, one by news, one by curiosity, and one by a direct promise. For each, name the reader it is meant to attract and the response you would measure."
+  },
+  "output": {
+    "heading": "Give the reader a reason to continue.",
+    "body": "Write the opening promise in the reader's language, make its appeal visible, and leave the final choice to evidence about qualified attention and response."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "fieldNotes": [
+      {
+        "title": "AI referrals are becoming a higher-intent shopping channel",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/consumer-ai-use-boon-holidays-ai-traffic-doubles/831790/",
+        "sourceDate": "2026-10-01",
+        "whatHappened": "Adobe expects AI traffic to U.S. retail sites to rise 130% year over year this holiday season. Its survey found AI-referred shoppers added items to carts at a 32% higher rate, and 43% of AI users generated more revenue per visit than non-AI traffic.",
+        "whyItMatters": "The discovery surface is shifting from a page a shopper visits to an answer that has to explain and differentiate a product. A useful product headline may increasingly need to work for both the person and the assistant helping them compare.",
+        "watch": "Watch whether retailers improve the clarity and machine-readability of product information, or simply buy more visibility inside an emerging recommendation layer.",
+        "collectedAt": "2026-10-05"
+      },
+      {
+        "title": "Reese's turns local Halloween knowledge into brand utility",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/reeses-searches-for-trick-or-treatiest-street-in-multichannel-effort/831813/",
+        "sourceDate": "2026-10-01",
+        "whatHappened": "Reese's surveyed 15,000 Americans and evaluated 150 streets for decorations, community participation, and walkability. A creator-and-celebrity Halloween Council will judge the finalists, with one street receiving a branded celebration in partnership with Zillow.",
+        "whyItMatters": "The campaign earns attention by answering a recognizable seasonal question — where should families go? — before asking people to care about the candy. The brand becomes part of a decision, not just an interruption around it.",
+        "watch": "Watch whether the local evidence and community participation keep the idea useful after the launch spectacle, since specificity is doing much of the persuasive work.",
+        "collectedAt": "2026-10-05"
+      },
+      {
+        "title": "ChatGPT shopping adds try-on and memory for product decisions",
+        "source": "OpenAI",
+        "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+        "sourceDate": "2026-10-01",
+        "whatHappened": "OpenAI's October release notes describe a virtual try-on button for clothing and accessories, plus the ability to save products to Favorites or folders in ChatGPT's Library.",
+        "whyItMatters": "The product is addressing two different frictions in shopping: uncertainty about fit and the loss of promising options during research. The promise is moving from finding an item to helping a shopper carry a decision forward.",
+        "watch": "Watch whether saved context and visual try-on increase confidence without making the shopping journey feel more persuasive than useful.",
+        "collectedAt": "2026-10-05"
+      },
+      {
+        "title": "Stripe expands the infrastructure around agent-led commerce",
+        "source": "Stripe",
+        "url": "https://stripe.com/newsroom/news",
+        "sourceDate": "2026-09-30",
+        "whatHappened": "Stripe's newsroom lists a September 30 agreement to acquire Parafin to expand revenue opportunities for platforms and help small businesses grow, alongside the launch of OUSD on Stripe. Its recent product work also includes enabling Meta's Muse agent to shop across the internet with Link.",
+        "whyItMatters": "As agents become participants in discovery and checkout, the commercial problem is not only generating demand; it is giving platforms the payment, identity, and working-capital rails to complete the transaction reliably.",
+        "watch": "Watch whether agentic commerce creates measurable new demand for small businesses or mainly adds another technical and financial layer between merchants and customers.",
+        "collectedAt": "2026-10-05"
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-10-05",
+        "sourceDate": "2026-10-04",
+        "feed": "for_you",
+        "author": "Karri Saarinen",
+        "handle": "karrisaarinen",
+        "title": "Quality is a way of working, not a cleanup sprint",
+        "summary": "Karri Saarinen argues that frantic fixes after confusing shipping only reproduce the underlying problem. The useful fragment is a reminder that clarity should shape what gets built and what gets left out before launch, not arrive as a repair phase afterward.",
+        "text": "Frantically fixing a confusing product caused by frantic shipping is just more of the same.\n\nPause and step back. Get the team clear on what you’re building and why. Have clarity to guide the shape, what ships and what doesn’t.\n\nQuality is a way of working, not a cleanup sprint.",
+        "url": "https://x.com/karrisaarinen/status/2106877363648929912"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
