@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-06",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-10-06.json",
+  "master": "Robert McKee",
+  "work": "Story: Substance, Structure, Style, and the Principles of Screenwriting",
+  "chapter_or_section": "Chapter 14, \"Genre\" (bounded opening section, PDF pages 319-343)",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-10-04-weekly-program.json",
+  "scheduled_program_note": "The weekly program assigns McKee's Chapter 14, \"Genre.\" Canon history was checked before assignment: McKee Chapter 13, \"Characterization,\" was studied on 2026-09-29; Chapter 14 is the next distinct reading.",
+  "canon_history_checked": true,
+  "parser_preflight": "manual_verified; local scanned McKee PDF boundary record places Chapter 13 on PDF pages 294-318 and Chapter 14, Genre, at PDF page 319. The bounded opening section is PDF pages 319-343, with an explicit stop point.",
+  "validation_command": "node ops/scripts/validate-issue.mjs 2026-10-06 --draft",
+  "validation_result": "passed",
+  "notes": "Canon-only run: no publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
