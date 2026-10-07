@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-07",
+  "status": "canon_prepped",
+  "issue_file": "ops/issues/2026-10-07.json",
+  "master": "Al Ries and Jack Trout",
+  "work": "Positioning: The Battle for Your Mind",
+  "chapter_or_section": "Chapter 9, \"The Power of the Name\" (PDF pages 67-76)",
+  "source_access_checked": true,
+  "drive_link_present": true,
+  "local_mac_link_present": true,
+  "canon_is_source_first": true,
+  "no_publish_attempted": true,
+  "weekly_program_source": "ops/state/2026-10-04-weekly-program.json",
+  "scheduled_program_note": "The weekly program assigns Chapter 9, \"The Name Game.\" The local source edition titles the chapter \"The Power of the Name\"; canon history was checked before assignment and shows Chapters 1-8 already studied, making this the next distinct chapter.",
+  "canon_history_checked": true,
+  "parser_preflight": "manual_verified; local Positioning PDF contents and outline boundary verification identify Chapter 9 as \"The Power of the Name\" at PDF page 67 and Chapter 10, \"The No-Name Trap,\" at PDF page 77. The bounded ten-page reading is PDF pages 67-76.",
+  "validation_command": "node ops/scripts/validate-issue.mjs 2026-10-07 --draft",
+  "validation_result": "passed",
+  "notes": "Canon-only run: no publish, push, email, X/Twitter browsing, field notes, X fragments, or hand-edited HTML were performed."
+}
