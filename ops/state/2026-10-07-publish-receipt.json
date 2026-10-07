@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-07",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-10-07 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "b8df52b608a6a762ccdfbb0dc80ddf21f393bca7",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Wednesday, 7 October 2026",
+    "Issue 068",
+    "Give the name a place in the mind."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 7 October 2026",
+  "gmail_message_id": "01a1149b-96ec-76c4-bf9c-bfc5b682f8a0",
+  "completed_at_ist": "2026-10-07 09:55:03 IST"
+}
