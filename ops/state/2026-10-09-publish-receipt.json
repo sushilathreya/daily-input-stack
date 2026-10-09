@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-09",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-10-09 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "1b54e8365310ef2939d92d8c357c2c827023c2c6",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Friday, 9 October 2026",
+    "Issue 070",
+    "Build the capability the market actually needs."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 9 October 2026",
+  "gmail_message_id": "01a11ee8-4faf-7ac5-889d-f3129d2ef678",
+  "completed_at_ist": "2026-10-09 09:55:03 IST"
+}
