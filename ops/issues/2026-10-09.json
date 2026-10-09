@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-09",
+  "displayDate": "Friday, 9 October 2026",
+  "issueNumber": 70,
+  "title": "Build the capability the market actually needs.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 8 of The Innovator's Dilemma, Clayton Christensen separates resources, processes, and values from the capabilities a new market requires.",
+  "meta": {
+    "canon": "Clayton M. Christensen, <em>The Innovator's Dilemma</em>",
+    "study": "35-45 min",
+    "practice": "one capability diagnosis"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A strong organization can still be the wrong organization for a new market. Diagnose the resources, processes, and values that shape what the team can do before asking it to execute a strategy it was not built to support."
+  },
+  "canon": {
+    "author": "Clayton M. Christensen",
+    "work": "The Innovator's Dilemma",
+    "chapter": "How to Appraise Your Organization's Capabilities and Disabilities",
+    "chapterLabel": "Chapter 8, \"How to Appraise Your Organization's Capabilities and Disabilities\"",
+    "field": "technology strategy / disruptive innovation / organizational capabilities",
+    "pageRange": "PDF pages 216-235 in the local scanned edition; begin at the Chapter 8 opener, \"How to Appraise Your Organization's Capabilities and Disabilities,\" on PDF page 216 and read the first bounded 20-page section through PDF page 235.",
+    "pageCount": 20,
+    "stopPoint": "Stop at the end of PDF page 235. Do not continue beyond this bounded first section of Chapter 8.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_scanned_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/The Innovator’s Dilemma - Clayton Christensen.pdf",
+      "driveUrl": "https://drive.google.com/file/d/1X5-ZodswFwiIg2uFtgLMZNHzmJqCtu8w/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "rendered_pages_verified",
+        "classification": "scanned_image_based",
+        "tool": "local embedded-page extraction and direct rendered-page inspection",
+        "nativeTextPages": "No usable native text; the source behaves as a scanned image PDF.",
+        "tableOfContentsVerified": true,
+        "notes": "The local VPS Books copy was checked against the established rendered-page inspection: Chapter 7 ends on PDF page 215 and Chapter 8 opens on PDF page 216. The assigned first 20 PDF pages run through page 235 and stop there as an explicit bounded section."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1X5-ZodswFwiIg2uFtgLMZNHzmJqCtu8w/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/The Innovator’s Dilemma - Clayton Christensen.pdf\""
+    },
+    "heading": "Fit the organization to the market before scaling it.",
+    "standfirst": "Read the first bounded section of Chapter 8, \"How to Appraise Your Organization's Capabilities and Disabilities,\" from Clayton M. Christensen's <em>The Innovator's Dilemma</em> on PDF pages 216-235. Christensen shows why an organization's strengths are shaped by its resources, processes, and values—and why those same strengths can become disabilities in a new market.",
+    "readerIntro": "Read this as a diagnosis of organizational fit. Mark where Christensen distinguishes what a company has from what it can repeatedly do, where established processes make certain opportunities difficult to pursue, and where a new market requires a different organization. Then write one capability diagnosis: resources, processes, values, market need, and the smallest structural change that would close the gap. Stop at PDF page 235.",
+    "blocks": [
+      {
+        "label": "01 / Capabilities are more than resources",
+        "paragraphs": [
+          "A company may possess money, technology, talent, and customer access without being able to execute a particular strategy. Resources are inputs; capability depends on how the organization turns those inputs into repeated action.",
+          "Study the distinction between having an asset and being organized to use it for the market in front of you."
+        ]
+      },
+      {
+        "label": "02 / Processes make performance repeatable",
+        "paragraphs": [
+          "Processes include the routines by which work is evaluated, prioritized, approved, and delivered. They create reliability, but they also make some kinds of work easier than others.",
+          "A process that serves a mature business can resist the speed, uncertainty, or cost structure of a disruptive opportunity."
+        ]
+      },
+      {
+        "label": "03 / Values decide what gets funded",
+        "paragraphs": [
+          "Values shape which customers, margins, opportunities, and uses of time appear attractive to an organization. They influence decisions before a strategy is written down.",
+          "Ask which opportunities the current values make visible and which they quietly reject as too small, too uncertain, or insufficiently profitable."
+        ]
+      },
+      {
+        "label": "04 / Strength can become disability",
+        "paragraphs": [
+          "The same routines and priorities that create success in an established market can prevent the organization from responding to a different market's requirements.",
+          "The problem is not simply poor execution. It may be a mismatch between the organization's architecture and the work the new opportunity demands."
+        ]
+      },
+      {
+        "label": "05 / Diagnose the organization before the plan",
+        "paragraphs": [
+          "Before committing to a new strategy, name the resources, processes, and values that will support it and the ones that will obstruct it.",
+          "Stop with one capability diagnosis: the market need, the organizational constraint, and the smallest change in structure or ownership that would make the next experiment possible."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "organizational capabilities and disabilities",
+      "resources, processes, and values",
+      "the processes by which work gets done",
+      "the values that define acceptable opportunities",
+      "fit between organization and market"
+    ],
+    "closeReading": [
+      "What does Christensen distinguish between resources, processes, and values, and why does the distinction matter for strategy?",
+      "Which current process would make a disruptive opportunity difficult to pursue even if the company had the necessary resources?",
+      "What does the organization value strongly enough that it may overlook a small or low-margin emerging market?",
+      "Choose one new opportunity. What resources support it, which processes constrain it, and which values make it hard to prioritize?",
+      "What is the smallest change in team, ownership, or process that would let the organization run a meaningful next experiment?"
+    ]
+  },
+  "principle": {
+    "heading": "Match the organization to the work the market requires.",
+    "body": "Strategy fails when it asks an organization to perform work its resources, processes, and values are not designed to support. Diagnose the capability gap before scaling the plan.",
+    "exampleLabel": "Example",
+    "example": "An incumbent software company exploring a low-cost product may need a separate team with different release rhythms and margin expectations, because the main organization is optimized for large accounts and high-touch delivery.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one new opportunity and make a five-line capability map: needed resource, current process, current value, resulting constraint, and the smallest organizational change that would enable a test."
+  },
+  "output": {
+    "heading": "Find the capability gap before you forecast growth.",
+    "body": "Name what the market requires, what the organization can repeatedly do, and the structural change that would let the team learn whether the opportunity is real."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "heading": "Four current signals on the capabilities organizations need to make new markets real.",
+    "fieldNotes": [
+      {
+        "title": "OpenAI makes the interface part of the product capability",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/gpt-6-for-everyone/",
+        "sourceDate": "2026-10-07",
+        "collectedAt": "2026-10-09",
+        "whatHappened": "OpenAI introduced GPT-6 with Intelligent UI, allowing ChatGPT to generate task-shaped interfaces such as visuals, controls, forms, charts, and interactive experiences. The company describes a component library and compiler that let interfaces appear as the model generates them.",
+        "whyItMatters": "The capability is not just a stronger model; it is a product system that turns an answer into something a user can inspect and act on. That requires resources, interface components, and a process for matching the form to the task.",
+        "watch": "Watch whether generated interfaces improve task completion and understanding, or whether automatic formatting becomes novelty without a dependable connection to the user's decision."
+      },
+      {
+        "title": "Anthropic pairs frontier models with infrastructure-specific expertise",
+        "source": "Anthropic",
+        "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+        "sourceDate": "2026-10-08",
+        "collectedAt": "2026-10-09",
+        "whatHappened": "Anthropic launched its Cyber Mission, including a Critical Infrastructure Defense Program with frontier models, on-site engineers, and threat research, plus OSS Scanner for regular free scans of open-source projects.",
+        "whyItMatters": "The move shows that a general model is not the whole capability for a high-consequence market. The offer is assembled from model access, domain operators, threat intelligence, and a delivery process designed for power, water, transport, and software infrastructure.",
+        "watch": "Watch whether the partnerships create repeatable operating capability for defenders, or remain a collection of pilots whose expertise cannot be deployed where the infrastructure is hardest to reach."
+      },
+      {
+        "title": "Revlon uses interactive video to connect attention to action",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/how-revlon-used-amazons-interactive-video-ads-to-drive-outcomes/832462/",
+        "sourceDate": "2026-10-08",
+        "collectedAt": "2026-10-09",
+        "whatHappened": "At Advertising Week, Revlon's chief digital marketing officer described a campaign using Amazon's interactive video ad capabilities to drive outcomes rather than treat video as a purely awareness channel.",
+        "whyItMatters": "The strategic shift depends on an operating process that links creative, interactive media, and measurable response. The capability is not simply making more video; it is designing the ad so the audience can move from attention toward an observable next action.",
+        "watch": "Watch whether interactive formats produce better qualified action than standard video, and whether creative and media teams can repeat the workflow without turning every campaign into a bespoke production."
+      },
+      {
+        "title": "TikTok moves discovery and checkout into one agentic workflow",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/tiktok-ai-powered-discovery-one-click-checkout/832326/",
+        "sourceDate": "2026-10-07",
+        "collectedAt": "2026-10-09",
+        "whatHappened": "TikTok announced Shopping Assistant, a conversational agent that can use context to answer product questions, alongside Buy Direct for one-click purchase from the For You feed. Retail Dive notes the shift could move the customer journey away from a retailer's own ecosystem and data.",
+        "whyItMatters": "The new market capability is not only recommendation quality. It combines discovery, product information, sizing, availability, checkout, and data ownership in one channel, forcing brands to decide which resources and relationships they must retain when an intermediary owns the journey.",
+        "watch": "Watch whether brands build durable customer context and service processes around third-party agents, or lose the learning loop and absorb blame when an external recommendation creates a bad purchase experience."
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-10-09",
+        "sourceDate": "2026-10-08",
+        "feed": "for_you",
+        "author": "Lauren",
+        "handle": "poteto",
+        "title": "Agent adoption changes the unit of engineering work",
+        "summary": "Lauren argues that once coding agents make high output widely available, the engineer's job shifts from producing code to designing and operating the system that produces trustworthy software. The fragment is a useful field example of resources, processes, and trust changing together.",
+        "text": "the reality that i don't think has hit yet is that job of the software engineer has truly changed. our job is not merely to produce software any longer ... but the machine that writes the software.",
+        "url": "https://x.com/poteto/status/2108290818746528017"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the capability diagnosis."
+  }
+}
