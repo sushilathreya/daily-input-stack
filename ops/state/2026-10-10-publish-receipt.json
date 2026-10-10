@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-10",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-10-10 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "9e7e5e8de8d0eaf85201bad08ecb4b5254257843",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Saturday, 10 October 2026",
+    "Issue 071",
+    "Turn delivered value into durable revenue."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 10 October 2026",
+  "gmail_message_id": "01a1240e-ad00-74bb-9ff7-895ba4c91cf8",
+  "completed_at_ist": "2026-10-10 09:55:04 IST"
+}
