@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-11",
+  "displayDate": "Sunday, 11 October 2026",
+  "issueNumber": 72,
+  "title": "Earn trust by becoming the guide.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 6 of Building a StoryBrand, Donald Miller explains how brands earn attention by positioning the customer as the hero and combining empathy with authority as the guide.",
+  "meta": {
+    "canon": "Donald Miller, <em>Building a StoryBrand</em>",
+    "study": "35-45 min",
+    "practice": "one guide-positioning brief"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A useful guide does two things at once: understands the customer's difficulty and demonstrates enough competence to help. Make the customer the hero, then prove you can move the story forward."
+  },
+  "canon": {
+    "author": "Donald Miller",
+    "work": "Building a StoryBrand",
+    "chapter": "And Meets a Guide",
+    "chapterLabel": "Chapter 6, \"And Meets a Guide\"",
+    "field": "storytelling / marketing communication / brand positioning",
+    "pageRange": "EPUB Chapter 6 only; begin at the Chapter 6 heading in `index_split_021.html` and stop before Chapter 7, \"Who Gives Them a Plan,\" begins in `index_split_022.html`.",
+    "pageCount": 1,
+    "stopPoint": "Stop at the end of `index_split_021.html`. Do not continue into Chapter 7, \"Who Gives Them a Plan,\" which begins in `index_split_022.html`.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_epub",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub",
+      "driveUrl": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "native_text_epub_with_toc_and_split_file_boundary_verification",
+        "tool": "local EPUB unzip, NCX inspection, and native XHTML extraction",
+        "nativeTextPages": "Chapter 6 is contained in `index_split_021.html`; Chapter 7 begins in `index_split_022.html`.",
+        "tableOfContentsVerified": true,
+        "notes": "The local Books EPUB was inspected directly. The EPUB NCX identifies Chapter 6, \"And Meets a Guide,\" at `index_split_021.html` and Chapter 7, \"Who Gives Them a Plan,\" at `index_split_022.html`. The complete Chapter 6 file is therefore the bounded reading; this EPUB has no printed-page map."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub\""
+    },
+    "heading": "Be the guide, not the hero.",
+    "standfirst": "Read Chapter 6, \"And Meets a Guide,\" from Donald Miller's <em>Building a StoryBrand</em>. Miller argues that customers want a brand that understands their difficulty and has the competence to help them overcome it.",
+    "readerIntro": "Read this as a study of useful credibility. Mark where Miller keeps the customer in the hero's role, how empathy creates recognition, and how authority creates confidence without turning the brand into the center of the story. Then write one guide-positioning brief for an offer you know.",
+    "blocks": [
+      {
+        "label": "01 / The customer is the hero",
+        "paragraphs": [
+          "Miller's central correction is positional: the customer faces the conflict and wants to win the day, while the brand should help the customer do so.",
+          "A brand that casts itself as the hero asks the audience to admire the wrong character. The guide exists to equip the person whose problem actually matters."
+        ]
+      },
+      {
+        "label": "02 / A guide understands the struggle",
+        "paragraphs": [
+          "Empathy tells the customer that the brand recognizes the internal problem beneath the visible task. It makes the offer feel relevant before it makes the offer impressive.",
+          "The chapter treats empathy as a clear statement of shared understanding, not as a sentimental slogan detached from the customer's real frustration."
+        ]
+      },
+      {
+        "label": "03 / Authority creates confidence",
+        "paragraphs": [
+          "Authority is competence made legible. Testimonials, statistics, awards, and customer logos let people verify that the guide has helped others with a similar challenge.",
+          "The proof should answer the customer's quiet question—can this brand help me?—without making the brand's accomplishments the main story."
+        ]
+      },
+      {
+        "label": "04 / Empathy and authority work together",
+        "paragraphs": [
+          "Empathy without competence may feel warm but cannot move the story forward. Authority without empathy can feel distant, boastful, or irrelevant.",
+          "The guide's one-two punch is to show both that it understands the customer's situation and that it knows how to help the customer make progress."
+        ]
+      },
+      {
+        "label": "05 / Turn credibility into a guide brief",
+        "paragraphs": [
+          "Choose one offer and name the customer's internal problem, the empathetic statement that would make the customer feel seen, and the smallest proof of competence that would create confidence.",
+          "Stop with one guide-positioning brief. Keep the customer at the center and make the brand's role specific: understand the struggle, show the capability, and invite the next step."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "customers aren't looking for another hero",
+      "every hero is looking for a guide",
+      "empathy",
+      "authority",
+      "the story is not about us"
+    ],
+    "closeReading": [
+      "Why does Miller argue that a brand loses when it positions itself as the hero rather than the guide?",
+      "What does empathy allow a customer to feel or understand before the brand presents its solution?",
+      "Which forms of proof demonstrate authority without making the brand the center of the story?",
+      "Choose one offer. What is the customer's internal problem, and what sentence would show genuine understanding of it?",
+      "Write one guide-positioning brief with an empathetic statement, one proof point, and the next action the customer can take."
+    ]
+  },
+  "principle": {
+    "heading": "Earn trust by helping the customer win.",
+    "body": "A brand becomes credible when it understands the customer's difficulty and demonstrates the competence to help. Keep the customer in the hero's role; use empathy to create recognition and authority to create confidence.",
+    "exampleLabel": "Example",
+    "example": "A payroll service might begin by acknowledging the anxiety of getting a small team's pay right, then show a short customer testimonial and a clear accuracy statistic. The customer remains the protagonist; the service proves it can guide the work.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one offer and write three lines: the customer's internal problem, an empathetic statement that shows you understand it, and one proof point that demonstrates competence. Remove any sentence that makes the brand the hero."
+  },
+  "output": {
+    "heading": "Make trust visible before asking for action.",
+    "body": "Name the customer's struggle, express understanding, and provide just enough evidence of competence for the customer to believe the next step is safe."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "heading": "Four current signals on how brands become useful guides by making trust, proof, and participation visible.",
+    "fieldNotes": [
+      {
+        "title": "Omaha Steaks makes quality mean something customers can verify",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/inside-omaha-steaks-efforts-to-ditch-marketing-bull-and-attract-gen-z/832062/",
+        "sourceDate": "2026-10-08",
+        "collectedAt": "2026-10-11",
+        "whatHappened": "Omaha Steaks' No Bull platform replaces vague quality language with specific claims about U.S. sourcing, aging, and hand-cutting; the brand reported a 46% conversion-rate increase and 130% rise in social mentions about two weeks after launch.",
+        "whyItMatters": "The campaign treats credibility as a customer service: it answers the shopper's uncertainty before asking for the order. Authority becomes useful when the claim is concrete enough for people to understand and assess.",
+        "watch": "Watch whether the conversion lift holds beyond launch attention and whether different customer groups need different forms of proof."
+      },
+      {
+        "title": "Prime Big Deal Days rewarded shoppers for finding the clearest value",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/amazon-prime-big-deal-days-online-spend-nears-ten-billion/832604/",
+        "sourceDate": "2026-10-09",
+        "collectedAt": "2026-10-11",
+        "whatHappened": "Adobe data cited by Retail Dive put U.S. online sales during Amazon's two-day Prime Big Deal Days at $9.86 billion; mobile sales grew 12.8% year over year to $5.1 billion and made up 52% of online sales.",
+        "whyItMatters": "In a crowded promotion, the guide's job is not merely to announce a discount but to reduce decision friction. Shoppers prioritized value, so the retailer that explains the tradeoff most clearly earns confidence as well as the transaction.",
+        "watch": "Watch post-event repeat purchase and November demand to separate durable trust from a short-lived bargain response."
+      },
+      {
+        "title": "Free People let the collaborator carry part of the meaning",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/why-free-people-prioritizes-cultural-co-authorship-in-celeb-tie-ups/832568/",
+        "sourceDate": "2026-10-09",
+        "collectedAt": "2026-10-11",
+        "whatHappened": "Free People and musician Willow co-created a fall campaign, live performance video, and record-release event, with the brand deliberately ceding creative control rather than treating the artist as a conventional ambassador.",
+        "whyItMatters": "The brand acts as a facilitator of someone else's relationship with a community. That is guide behavior: provide resources and a credible platform while allowing the person with the lived cultural knowledge to remain central.",
+        "watch": "Watch whether the relationship continues beyond a single campaign and whether the new audience recognizes the collaboration as reciprocal rather than extractive."
+      },
+      {
+        "title": "AI infrastructure companies are using disclosure to repair trust",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+        "sourceDate": "2026-10-09",
+        "collectedAt": "2026-10-11",
+        "whatHappened": "TechCrunch reported that Amazon will stop using NDAs when negotiating data-center deals with local governments, following Microsoft's similar move, after secrecy contributed to community backlash and moratoriums.",
+        "whyItMatters": "Transparency is not the same as trust, but it can make trust possible by giving affected people enough information to judge the tradeoff. The guide earns a hearing by acknowledging the audience's concern instead of asking for admiration first.",
+        "watch": "Watch whether disclosure changes community decisions or only changes the companies' explanation of them; proof has to affect the customer's risk, not just the message."
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-10-11",
+        "sourceDate": "2026-10-11",
+        "feed": "following",
+        "author": "Patrick Collison",
+        "handle": "patrickc",
+        "title": "Personal agents may make product quality easier to discover",
+        "summary": "Patrick Collison argues that personal agents could reduce the advantage of short-attention demand routing and make product quality, fit, and evidence more important in purchase decisions.",
+        "text": "Assorted things I've been mulling over regarding agents in the economy:\n\n• Companies are in some sense the original superintelligence. It's often the case that they can use their amortized cognitive surplus to advance their interests against those of certain consumers: relative to the optimization capacity of companies, consumers can be inattentive, underinformed, irrational, etc.\n\n• In corporate strategy, people have long debated the relative importance of distribution and product quality. Perhaps you've made something better, but does anyone know about it? Won't people just continue to buy the ACME Corp Mousetraps? Personal agents will, I think, act as a kind of structural subsidy for product quality.\n\n• Many internet companies have monetized demand routing, which is in turn often predicated on short attention spans. How will the nature and value of this routing change in a world of personal agents? I don't know the answer, but I think that the effects might be pretty big.",
+        "url": "https://x.com/patrickc/status/2109122600630952282"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
