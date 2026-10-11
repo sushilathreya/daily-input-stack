@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-11",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-10-11 12:00:00 IST",
+  "local_verified": true,
+  "git_commit": "c17cfbcdb825ddaa07844aef5ce2dd70a5eeee2b",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Sunday, 11 October 2026",
+    "Issue 072",
+    "Earn trust by becoming the guide."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - Sunday - 11 October 2026",
+  "gmail_message_id": "01a129a2-e6a5-7798-904a-986b81787f8a",
+  "completed_at_ist": "2026-10-11 11:55:04 IST"
+}
