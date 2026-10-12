@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-11",
+  "week_start": "2026-10-12",
+  "week_end": "2026-10-18",
+  "status": "planned",
+  "theme": "Move from belonging to durable growth: earn consent through shared identity, give the story a next step, occupy a clear position, concentrate desire into a mechanism, fit strategy to market reality, compound a growth loop, and make the message sell in plain language.",
+  "days": [
+    {
+      "date": "2026-10-12",
+      "master": "Robert B. Cialdini",
+      "work": "Influence: The Psychology of Persuasion",
+      "chapter_or_section": "Chapter 8, \"Unity: The 'Us' of the Influence\"",
+      "fundamental": "Persuasion: understand how shared identity can make a request feel self-consistent, while distinguishing genuine belonging from manufactured in-group pressure.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Influence - Robert Cialdini.pdf",
+      "drive_link": "https://drive.google.com/file/d/1sTpikK8Y7ebUBiSRRkiZoBcbNSh4Dk_Y/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history records Cialdini Chapters 1-7 but not Chapter 8; canon prep should verify the local chapter boundary before assignment."
+    },
+    {
+      "date": "2026-10-13",
+      "master": "Donald Miller",
+      "work": "Building a StoryBrand",
+      "chapter_or_section": "Chapter 7, \"Who Gives Them a Plan\"",
+      "fundamental": "Storytelling: turn a customer's desired transformation into a sequence of clear steps, so the narrative reduces uncertainty and makes the next action feel possible.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Building a Stroybrand.epub",
+      "drive_link": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. The EPUB contents place Chapter 7 after the studied Chapter 6; use the chapter boundary as the bounded reading."
+    },
+    {
+      "date": "2026-10-14",
+      "master": "Al Ries and Jack Trout",
+      "work": "Positioning: The Battle for Your Mind",
+      "chapter_or_section": "Chapter 10, \"The No-Name Trap\"",
+      "fundamental": "Positioning/brand: see how an offer loses memorability when it relies on generic naming, and choose a name that gives the intended position a durable handle in the mind.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Positioning - Al Ries and Jack Trout.pdf",
+      "drive_link": "https://drive.google.com/file/d/1fISuTXG4QmxQ6MrFaI3wxE6eR6EoEh-p/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Local prep verified Chapter 9, The Power of the Name, through PDF page 76 and places Chapter 10 at PDF page 77; assign a bounded section before the next chapter."
+    },
+    {
+      "date": "2026-10-15",
+      "master": "Eugene Schwartz",
+      "work": "Breakthrough Advertising",
+      "chapter_or_section": "Part II, Chapter 12, \"Concentration\"",
+      "fundamental": "Human desire/psychology: intensify a promise by concentrating attention on the single emotional force most capable of organizing the prospect's action.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Breakthrough Advertising Eugene Schwartz.pdf",
+      "drive_link": "https://drive.google.com/file/d/1HMVnMMmOMxmqrZz0Zcb6-dmbTdMZ0ezI/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Local prep places the previously studied Mechanization chapter on PDF pages 173-180 and Chapter 12, Concentration, beginning at PDF page 181; verify and bound the opening section."
+    },
+    {
+      "date": "2026-10-16",
+      "master": "Clayton M. Christensen",
+      "work": "The Innovator's Dilemma",
+      "chapter_or_section": "Chapter 9, \"Performance Oversupply, Not Market Demand, Causes the Disruptive Threat\"",
+      "fundamental": "Tech/strategy: recognize when improvement outruns what mainstream customers can use, creating room for simpler, cheaper, or more convenient offers to define a new basis of competition.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/The Innovator’s Dilemma - Clayton Christensen.pdf",
+      "drive_link": "https://drive.google.com/file/d/1X5-ZodswFwiIg2uFtgLMZNHzmJqCtu8w/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history reaches Christensen Chapter 8; canon prep must parser-preflight the scanned PDF, verify the local heading, and assign a bounded section under 60 pages."
+    },
+    {
+      "date": "2026-10-17",
+      "master": "Sean Ellis and Morgan Brown",
+      "work": "Hacking Growth",
+      "chapter_or_section": "Chapter Nine, \"A Virtuous Growth Cycle\"",
+      "fundamental": "Distribution/growth: connect acquisition, activation, retention, and monetization into a reinforcing loop instead of optimizing one stage while weakening the system.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Hacking Growth.epub",
+      "drive_link": "https://drive.google.com/file/d/1wtU-SZ-6s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. The EPUB table of contents places Chapter Nine after the studied Chapter Eight; use its clean chapter boundary for the bounded reading."
+    },
+    {
+      "date": "2026-10-18",
+      "master": "John Caples",
+      "work": "Tested Advertising Methods",
+      "chapter_or_section": "Chapter 4, \"How to Write Copy That Sells\"",
+      "fundamental": "Writing/taste: make copy earn response by leading with the reader's interest, sustaining clarity and proof, and turning every sentence toward a specific action.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Tested Advertising Methods.pdf",
+      "drive_link": "https://drive.google.com/file/d/16fm09bdOkdiH8MZwoTKFnOXV16fJcZOZ/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history records Caples Chapters 1-3; canon prep should verify the local scanned edition's Chapter 4 heading and bound its pages before assignment."
+    }
+  ],
+  "created_at_ist": "2026-10-11 18:00:00 IST",
+  "created_by": "weekly-program-agent"
+}
