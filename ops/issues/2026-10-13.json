@@ -1,0 +1,184 @@
+{
+  "date": "2026-10-13",
+  "displayDate": "Tuesday, 13 October 2026",
+  "issueNumber": 74,
+  "title": "Give the customer a path they can trust.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 7 of Building a StoryBrand, Donald Miller shows how a clear plan reduces the risk of commitment and gives customers a practical bridge from desire to action.",
+  "meta": {
+    "canon": "Donald Miller, <em>Building a StoryBrand</em>",
+    "study": "35-45 min",
+    "practice": "one customer action plan"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A plan earns movement by making the next steps visible. Remove ambiguity, reduce perceived risk, and show the customer how progress can begin."
+  },
+  "canon": {
+    "author": "Donald Miller",
+    "work": "Building a StoryBrand",
+    "chapter": "Who Gives Them a Plan",
+    "chapterLabel": "Chapter 7, \"Who Gives Them a Plan\"",
+    "field": "storytelling / marketing communication / customer experience",
+    "pageRange": "EPUB Chapter 7 only; begin at the Chapter 7 heading in `index_split_022.html` and stop before Chapter 8, \"And Calls Them to Action,\" begins in `index_split_023.html`.",
+    "pageCount": 1,
+    "stopPoint": "Stop at the end of `index_split_022.html`. Do not continue into Chapter 8, \"And Calls Them to Action,\" which begins in `index_split_023.html`.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_epub",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub",
+      "driveUrl": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "native_text_epub_with_toc_and_split_file_boundary_verification",
+        "tool": "local EPUB unzip, NCX inspection, and native XHTML extraction",
+        "nativeTextPages": "Chapter 7 is contained in `index_split_022.html`; Chapter 8 begins in `index_split_023.html`.",
+        "tableOfContentsVerified": true,
+        "notes": "The local Books EPUB was inspected directly. The EPUB NCX identifies Chapter 7, \"Who Gives Them a Plan,\" at `index_split_022.html` and Chapter 8, \"And Calls Them to Action,\" at `index_split_023.html`. The complete Chapter 7 file is therefore the bounded reading; this EPUB has no printed-page map."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub\""
+    },
+    "heading": "Make the next step easy to see.",
+    "standfirst": "Read Chapter 7, \"Who Gives Them a Plan,\" from Donald Miller's <em>Building a StoryBrand</em>. Miller argues that customers trust a guide who turns uncertainty into a clear sequence of steps.",
+    "readerIntro": "Read this as a study of clarity and commitment. Mark how Miller connects a plan to reduced risk, how process plans clarify doing business, and how agreement plans make the offer feel safer. Then write one short customer action plan with the smallest credible next steps. Stop at the end of Chapter 7.",
+    "blocks": [
+      {
+        "label": "01 / A plan bridges the risk",
+        "paragraphs": [
+          "Miller frames commitment as a crossing: customers want the outcome, but the perceived cost of choosing badly keeps them at the edge.",
+          "A plan places visible stepping stones between the customer's present problem and the desired result, making progress feel possible rather than perilous."
+        ]
+      },
+      {
+        "label": "02 / Clarity prevents drift",
+        "paragraphs": [
+          "The first job of a plan is to answer the customer's immediate question: what should I do now? Clear sequencing removes the confusion that can become an excuse not to act.",
+          "Study how a simple process can turn a vague promise into a path the customer can picture and follow."
+        ]
+      },
+      {
+        "label": "03 / Process plans explain the relationship",
+        "paragraphs": [
+          "A process plan clarifies how the customer does business with the company. It makes the exchange legible by showing what happens first, next, and after the purchase.",
+          "The plan is useful when it reduces cognitive load without burying the customer in operational detail."
+        ]
+      },
+      {
+        "label": "04 / Agreement plans reduce perceived risk",
+        "paragraphs": [
+          "An agreement plan names the commitments or expectations that protect both sides. It helps the customer understand what is included and what a successful engagement requires.",
+          "By addressing the fear beneath the decision, the plan makes trust practical: the customer can see how uncertainty will be contained."
+        ]
+      },
+      {
+        "label": "05 / Turn the idea into one customer plan",
+        "paragraphs": [
+          "Choose one offer and write three to five steps that move a customer from interest to a meaningful result. Remove any step that exists only because the company is organized that way.",
+          "Stop with one customer action plan. Every step should clarify the path, lower a specific risk, or make the next decision easier."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "the plan creates clarity",
+      "path of hope",
+      "process plan",
+      "agreement plan",
+      "If you confuse, you lose"
+    ],
+    "closeReading": [
+      "How does Miller connect a customer's fear of commitment with the need for a plan?",
+      "What confusion does a process plan remove, and which steps does a customer actually need to see?",
+      "How does an agreement plan reduce perceived risk without making the offer feel defensive or complicated?",
+      "Choose one offer. What are the three to five stepping stones from first commitment to a meaningful result?",
+      "Which step in your plan is most likely to restore clarity, and what evidence would show that it has reduced hesitation?"
+    ]
+  },
+  "principle": {
+    "heading": "Turn uncertainty into a sequence.",
+    "body": "Customers trust a guide who makes progress visible. Clarify how the relationship works, reduce the risk of commitment, and give the customer a small sequence they can believe in.",
+    "exampleLabel": "Example",
+    "example": "A consulting offer might show three steps: diagnose the constraint, agree on one intervention, and review the result after two weeks. The sequence makes the work concrete before the buyer commits to a larger engagement.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one offer and write a three-step process plan plus one sentence that reduces the customer's main fear of buying. Cut every step that does not clarify progress or lower risk."
+  },
+  "output": {
+    "heading": "Give belief a path to travel.",
+    "body": "Show the customer what happens next, make the commitment safer, and turn the promise of transformation into a sequence that can be acted on."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "heading": "Four current signals on making the next step clearer, safer, and easier to take.",
+    "fieldNotes": [
+      {
+        "title": "OpenAI is turning the answer into an interface",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/gpt-6-for-everyone/",
+        "sourceDate": "2026-10-07",
+        "collectedAt": "2026-10-13",
+        "whatHappened": "OpenAI's GPT-6 rollout adds Intelligent UI, allowing ChatGPT to produce visual responses and interactive experiences directly in the conversation.",
+        "whyItMatters": "The product is making the path from question to action visible inside the answer itself. That can reduce friction, but it also makes the interface's framing part of the customer's decision environment.",
+        "watch": "Watch whether interactivity improves completion of meaningful tasks or mainly increases confidence because an answer looks finished."
+      },
+      {
+        "title": "AI founders are being asked to design for trust, not just novelty",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+        "sourceDate": "2026-10-07",
+        "collectedAt": "2026-10-13",
+        "whatHappened": "TechCrunch's Disrupt preview frames OpenAI's Dots as an always-on personal agent that can connect to everyday apps and work toward goals in the background, while putting control, privacy, and trust at the center of adoption.",
+        "whyItMatters": "When software acts on a customer's behalf, a feature list is not enough. The product has to show what it will do, what it can access, and where the customer remains in control.",
+        "watch": "Watch which permission, review, and recovery steps become part of the product's main adoption path rather than buried in settings."
+      },
+      {
+        "title": "Stripe is reducing friction between discovery and global checkout",
+        "source": "Stripe",
+        "url": "https://stripe.com/newsroom/news/fedex-and-stripe",
+        "sourceDate": "2026-10-06",
+        "collectedAt": "2026-10-13",
+        "whatHappened": "Stripe and FedEx Dataworks announced a collaboration combining FedEx supply-chain intelligence with Stripe financial infrastructure; the first planned solution is intended to expand financing access for tens of thousands of small and midsize businesses, while Stripe also adds more than 50 payment methods to FedEx checkout.",
+        "whyItMatters": "The customer path is shaped by the infrastructure behind the offer: financing, payment choice, and fulfillment signals can remove practical reasons to hesitate. A clear promise still needs a credible path through the transaction.",
+        "watch": "Watch whether more payment and financing options reduce genuine friction or merely add choice without helping customers decide."
+      },
+      {
+        "title": "Holiday shoppers are looking for confidence as much as deals",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/topic/consumer-trends/",
+        "sourceDate": "2026-10-12",
+        "collectedAt": "2026-10-13",
+        "whatHappened": "Retail Dive reports that nearly half of shoppers are worried about affording holiday gifts, while inflation expectations and job and debt concerns are shaping planned spending.",
+        "whyItMatters": "A promotion may attract attention, but an uncertain customer also needs a credible reason to believe the purchase will be worth it. Clear value, price transparency, and a low-risk next step can matter more than louder urgency.",
+        "watch": "Watch which guarantees, bundles, payment options, or service explanations reduce hesitation without disguising the real cost."
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-10-13",
+        "sourceDate": "2026-10-12",
+        "feed": "for_you",
+        "author": "Rajiv Ayyangar",
+        "handle": "rajivayyangar",
+        "title": "A market fragment on building a hull around an AI product",
+        "summary": "Rajiv Ayyangar argues that AI products need a durable hull—such as proprietary data, a vertical harness, network effects, or distribution—so they rise with model improvements instead of becoming redundant.",
+        "text": "As CEO of Product Hunt, I see hundreds of launches a week. One trait separates winners from losers.\n\nEvery few months, new models come out. Some products become better, effortlessly. Some don't improve, or become irrelevant.\n\nThis property needs a name. I'm calling it Buoyancy.\n\nBuoyant startups rise with model improvements the way a boat rises with the tide.\n\nTo be buoyant, you need a \"hull\" - usually proprietary data, a vertical-specific harness, network effects, or distribution advantage. This hull keeps you buoyant as models improve.\n\nHulls are the new moats.",
+        "url": "https://x.com/rajivayyangar/status/2109727405652717967"
+      },
+      {
+        "collectedAt": "2026-10-13",
+        "sourceDate": "2026-10-12",
+        "feed": "for_you",
+        "author": "levelsio",
+        "handle": "levelsio",
+        "title": "A market fragment on the moats customers can actually feel",
+        "summary": "Levelsio lists proprietary content, community, distribution, physical operations, capital, and regulation as forms of defensibility beyond code alone.",
+        "text": "I'd expand the moats left to:\n\n- Proprietary data or content: data nobody else has, or unique content you can create\n- Network effects / community: users make it more valuable for each other\n- Audience / distribution: you can get attention on demand\n- Physical component: hardware, locations, real-world operations\n- Capital: owning assets and investing (esp into the AI companies as they are and will suck up large parts of the economy)\n- Regulatory: licenses and legal barriers",
+        "url": "https://x.com/levelsio/status/2109653584706990506"
+      }
+    ],
+    "tweetHeading": "Two fragments from the timeline worth carrying into the work."
+  }
+}
