@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-14",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-10-14 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "4a896e6b03c4349b700e983c293fd84486e845cd",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Wednesday, 14 October 2026",
+    "Issue 075",
+    "Give the position a name the mind can keep."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 14 October 2026",
+  "gmail_message_id": "01a138a8-1bee-7207-a60e-387ecd69593f",
+  "completed_at_ist": "2026-10-14 09:55:03 IST"
+}
