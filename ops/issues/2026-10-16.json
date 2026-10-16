@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-16",
+  "displayDate": "Friday, 16 October 2026",
+  "issueNumber": 77,
+  "title": "Let performance oversupply open the market you could not serve before.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 9 of The Innovator's Dilemma, Clayton Christensen shows how performance that outruns customer needs creates room for simpler, cheaper, and more convenient disruptive offers.",
+  "meta": {
+    "canon": "Clayton M. Christensen, <em>The Innovator's Dilemma</em>",
+    "study": "35-45 min",
+    "practice": "one oversupply diagnosis"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A market can become vulnerable when the incumbent keeps improving along dimensions customers no longer value. Find the performance customers can actually use, then look for the simpler offer hidden beneath the surplus."
+  },
+  "canon": {
+    "author": "Clayton M. Christensen",
+    "work": "The Innovator's Dilemma",
+    "chapter": "Performance Oversupply, Not Market Demand, Causes the Disruptive Threat",
+    "chapterLabel": "Chapter 9, \"Performance Oversupply, Not Market Demand, Causes the Disruptive Threat\"",
+    "field": "technology strategy / disruptive innovation / market demand",
+    "pageRange": "PDF pages 236-255 in the local scanned edition; begin at the Chapter 9 opener, \"Performance Oversupply, Not Market Demand, Causes the Disruptive Threat,\" on PDF page 236 and read the first bounded 20-page section through PDF page 255.",
+    "pageCount": 20,
+    "stopPoint": "Stop at the end of PDF page 255. Do not continue beyond this bounded first section of Chapter 9.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_scanned_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/The Innovator’s Dilemma - Clayton Christensen.pdf",
+      "driveUrl": "https://drive.google.com/file/d/1X5-ZodswFwiIg2uFtgLMZNHzmJqCtu8w/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "rendered_pages_verified",
+        "classification": "scanned_image_based",
+        "tool": "local embedded-page extraction and direct rendered-page inspection",
+        "nativeTextPages": "No usable native text; the source behaves as a scanned image PDF.",
+        "tableOfContentsVerified": true,
+        "notes": "The local VPS Books copy was checked against the established rendered-page inspection: Chapter 8 ends on PDF page 235 and Chapter 9 opens on PDF page 236. The assigned first 20 PDF pages run through page 255 and stop there as an explicit bounded section."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1X5-ZodswFwiIg2uFtgLMZNHzmJqCtu8w/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/The Innovator’s Dilemma - Clayton Christensen.pdf\""
+    },
+    "heading": "Find the demand the incumbent has outgrown.",
+    "standfirst": "Read the first bounded section of Chapter 9, \"Performance Oversupply, Not Market Demand, Causes the Disruptive Threat,\" from Clayton M. Christensen's <em>The Innovator's Dilemma</em> on PDF pages 236-255. Christensen explains how improving beyond what mainstream customers can use creates an opening for simpler and more accessible offers.",
+    "readerIntro": "Read this as a diagnosis of excess performance. Mark where Christensen separates what technology can deliver from what customers can use, where the basis of competition changes, and where a lower-end or new-market offer becomes attractive. Then write one oversupply diagnosis: the dimension being over-served, the customer need that remains unmet, and the simpler offer that could exploit the gap. Stop at PDF page 255.",
+    "blocks": [
+      {
+        "label": "01 / Improvement can outrun use",
+        "paragraphs": [
+          "A product can become more capable than its target customer requires. When improvement continues along the incumbent's preferred dimension, additional performance may stop creating additional value.",
+          "Study the difference between what a technology can do and what a customer has the time, skill, or willingness to use."
+        ]
+      },
+      {
+        "label": "02 / Oversupply changes the basis of competition",
+        "paragraphs": [
+          "Once performance is sufficient, customers may care more about convenience, speed, simplicity, affordability, or accessibility than another increment of technical excellence.",
+          "Notice how the criteria that win in an established market can become less important when the product has already crossed the customer's threshold of usefulness."
+        ]
+      },
+      {
+        "label": "03 / Disruption starts where the incumbent is satisfied",
+        "paragraphs": [
+          "A disruptive offer often begins in a market the incumbent considers unattractive because it is smaller, lower-margin, or less demanding on the incumbent's traditional performance metric.",
+          "Ask why the incumbent's apparent strength can make the new offer easy to dismiss even while customers find its different tradeoff compelling."
+        ]
+      },
+      {
+        "label": "04 / Follow the unmet job",
+        "paragraphs": [
+          "The opportunity is not simply to make a weaker product. It is to solve a job for customers who are over-served by the dominant product or excluded by its cost and complexity.",
+          "Identify the job that becomes visible when you stop treating the incumbent's performance measure as the only definition of value."
+        ]
+      },
+      {
+        "label": "05 / Write one oversupply diagnosis",
+        "paragraphs": [
+          "Choose one category and name the dimension on which customers are over-served, the customer group that remains poorly served, and the simpler tradeoff that could make a new offer viable.",
+          "Stop with one oversupply diagnosis. State what the incumbent is likely to ignore and what evidence would show that the alternative has crossed into a real market."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "performance oversupply",
+      "not market demand",
+      "what customers can use",
+      "the basis of competition",
+      "disruptive threat"
+    ],
+    "closeReading": [
+      "Where does Christensen distinguish technical improvement from performance customers can actually use?",
+      "Which customer dimension becomes more important once the incumbent has supplied enough performance?",
+      "Why can the incumbent rationally ignore the lower-end or new-market opportunity at first?",
+      "Choose one category. What is being over-supplied, which customer remains poorly served, and what simpler tradeoff could serve that customer?",
+      "What evidence would distinguish a genuinely emerging market from a product that is merely worse on the incumbent's chosen measure?"
+    ]
+  },
+  "principle": {
+    "heading": "Compete on the need the incumbent has stopped seeing.",
+    "body": "Disruption becomes possible when improvement outruns usefulness. Look for customers who are over-served by the dominant offer, then design around the convenience, price, or simplicity they still cannot get.",
+    "exampleLabel": "Example",
+    "example": "A professional editing suite may keep adding controls that expert users value while overwhelming small teams that only need fast, reliable video output. A simpler tool can win by reducing setup time and cost, even if it offers fewer advanced features.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one product category and write five lines: over-served dimension, excluded customer, unmet job, simpler tradeoff, and the first signal that the tradeoff is becoming valuable."
+  },
+  "output": {
+    "heading": "Find the customer the performance curve leaves behind.",
+    "body": "When the incumbent keeps improving past the point of usefulness, change the question from 'How do we add performance?' to 'Which customer needs a different basis of value?'"
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "heading": "Four current signals on where simpler, more usable offers are finding room beneath incumbent performance.",
+    "fieldNotes": [
+      {
+        "title": "Figma gives agents a simpler design-language brief",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+        "sourceDate": "2026-10-14",
+        "whatHappened": "Figma introduced Specs, a Markdown-based editor where teams can define design language and connect design and code libraries so agents can follow the system more predictably.",
+        "whyItMatters": "The important shift is from adding more generative power to reducing the effort required to get a useful, on-brand result. The simpler interface is a governed brief that makes capability usable for more teams.",
+        "watch": "Watch whether design-language files become the practical bridge between powerful agents and teams that cannot afford to manage every output manually.",
+        "collectedAt": "2026-10-16"
+      },
+      {
+        "title": "Google turns scattered shopping research into one cart",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+        "sourceDate": "2026-10-15",
+        "whatHappened": "Google launched Universal Cart in the U.S., letting people collect products found across Search and Gemini, track price and availability, and continue toward checkout across retailers.",
+        "whyItMatters": "The product does not win by adding another storefront. It removes the friction of remembering, comparing, and restarting a purchase journey, making convenience the basis of value after product discovery is already abundant.",
+        "watch": "Watch whether saved intent and price alerts create a durable shopping habit, or whether shoppers still abandon the journey before an agent-mediated checkout.",
+        "collectedAt": "2026-10-16"
+      },
+      {
+        "title": "Consumer brands spend harder while tech platforms pull back",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/consumer-goods-giants-step-up-ad-intensity-as-other-big-spenders-pull-back/833102/",
+        "sourceDate": "2026-10-15",
+        "whatHappened": "A WARC Media report found major consumer-goods marketers increased advertising intensity from 2023 to 2025 while technology companies reduced ad spend relative to revenue as their platforms captured more attention.",
+        "whyItMatters": "The market is separating between companies that own a direct attention channel and brands that must pay to reach customers. That creates room for sharper, more efficient propositions rather than simply louder media plans.",
+        "watch": "Watch whether retail media and tighter category-specific promises help consumer brands regain efficient reach, especially with value-conscious shoppers.",
+        "collectedAt": "2026-10-16"
+      },
+      {
+        "title": "Bealls makes the loyalty layer easier to reach",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/bealls-debuts-mobile-app-marketing-campaign/832855/",
+        "sourceDate": "2026-10-15",
+        "whatHappened": "Off-price retailer Bealls announced a mobile app alongside its For the Haul of It campaign, linking store discovery, customer acquisition, loyalty, and lifetime value as it expands beyond 650 locations.",
+        "whyItMatters": "The app is a lower-friction entry point into an existing treasure-hunt proposition. It helps an expanding physical retailer make discovery and return behavior easier without pretending the customer needs a more complex shopping system.",
+        "watch": "Watch whether the app increases repeat visits and loyalty participation, or merely adds another channel without improving the reason customers return to stores.",
+        "collectedAt": "2026-10-16"
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-10-16",
+        "sourceDate": "2026-10-15",
+        "feed": "for_you",
+        "author": "Rex Salisbury",
+        "handle": "rexsalisbury",
+        "title": "Selling is the fastest test of whether the market cares",
+        "summary": "This is useful because it collapses a comforting research loop into the market's actual test: will anyone take action? It belongs beside the canon as a reminder that evidence improves a diagnosis only when it changes what you do next.",
+        "text": "Ramp is nearing 10% market share.  That is bad.  It sounds awesome...\"Look at how much TPV we are doing $275 billion annualized TPV (cards and AP) in the $2.23 trillion corporate card market\"\n\nYou don't want to build a company with \"a lot of market share.\" You want to build a huge company.\n\nOnce you cross \"10% market share\"...you can only grow ~10x from there!\n\nLook at the other corporate card issuers.  Nielsen US Commercial Card Report (2024) implies Ramp, growing as fast as they are, could soon become the second biggest!\n- AMEX has 24%\n....Ramp?\n- JPM has 10%\n- BofA has 9%\n- US Bank has 5%\n\nGoing from 0->10% is hard...but you can do it without upsetting anyone.  You can grow and everyone else can grow too.\n\nGoing from 10-20% is even harder.  Growth becomes zero sum.  wonder why Mercury, Ramp and Airwallex are fighting on X...they are getting bigger and growth is increasingly zero sum!\n\nGrowing from 10->20% starts to reshape the entire industry\n\nI said \"this is bad\".\n\nThe truth is \"this is exciting\".\n\nRamp's mission is not \"be the biggest corporate card company\"....the mission is \"save companies time and money.\"\n\nRamp has reached the end of the beginning of their story.\n\nEric says as much \"Chapter 1 is over.  Chapter 2 is just starting\" (paraphrased).\n\nIf you are investing in Ramp today, you are not investing in \"the biggest corporate card company\".\n\nYou are investing in a company that has bigger mission.\n\nThey need to keep growing market share, but more importantly, they need to grow their product lineup.\n\nJPM morgan is nearly a $1 trillion company.  Corporate cards are just a small small part of what they do.\n\nIf Ramp wants to be a $1 trillion company...well...get back work.\n\nThe whole Ramp team is well aware of the above.  Why do you think the focus on shipping new product so fast? why do you think they are launching AI products?\n\nRamp is also in some ways a story of much of fintech at this point.  Robinhood is also at ~10% market share for example.\n\nThe whole industry of plucky upstarts w/ <10% market share is now starting to change the entire ecosystem.\n\nI love this! I want the entire industry to change.  It is just starting.  Fintech is still early.\n\nI look forward to seeing what Ramp (and everyone else) ships next!\n\nI'm excited to watch them (and everyone else) continue to grow market share, but I'm even more excited to see what their products might become.  What if corporate cards turn out to be just a small part of what Ramp does in the future?\n\nIf that happens, I'm here for it!\n\n*re: market share.  Ramps TPV includes all forms of spend, not just card spend.  so it's hard to get an exact market share percentage.  \"is nearing 10%\" is not precise, but directionally correct.  Also if you're growing 100% a year, the broad points made in this post still apply (or will apply very soon!).",
+        "url": "https://x.com/rexsalisbury/status/2110757515206295799"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
