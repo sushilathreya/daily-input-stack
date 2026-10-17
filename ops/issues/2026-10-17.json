@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-17",
+  "displayDate": "Saturday, 17 October 2026",
+  "issueNumber": 78,
+  "title": "Build the loop that keeps growth moving.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter Nine of Hacking Growth, Sean Ellis and Morgan Brown show how teams sustain growth by connecting experimentation, customer learning, and reinvestment into a virtuous cycle.",
+  "meta": {
+    "canon": "Sean Ellis and Morgan Brown, <em>Hacking Growth</em>",
+    "study": "30-40 min",
+    "practice": "one virtuous-growth-loop diagnosis"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "Growth becomes durable when each win creates the conditions for the next one. Find the loop, identify where it weakens, and improve the connection rather than optimizing one stage in isolation."
+  },
+  "canon": {
+    "author": "Sean Ellis and Morgan Brown",
+    "work": "Hacking Growth",
+    "chapter": "A Virtuous Growth Cycle",
+    "chapterLabel": "Chapter Nine, \"A Virtuous Growth Cycle\"",
+    "field": "growth strategy / experimentation / customer acquisition and retention",
+    "pageRange": "EPUB printed pages 270-282 in the local edition; begin at Chapter Nine, \"A Virtuous Growth Cycle,\" on printed page 270 and stop at the end of printed page 282.",
+    "pageCount": 13,
+    "stopPoint": "Stop at the end of printed page 282. Do not continue into the acknowledgments on printed page 283.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_epub",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Hacking Growth.epub",
+      "driveUrl": "https://drive.google.com/file/d/1wtU-SZ-6s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "EPUB_with_nav_page_map_and_XHTML_boundary_verification",
+        "tool": "local EPUB navigation, page map, and direct XHTML inspection",
+        "nativeTextPages": "Printed pages 270-282",
+        "tableOfContentsVerified": true,
+        "notes": "The local EPUB navigation identifies Chapter Nine as A Virtuous Growth Cycle. The page map places its opener at printed page 270 and the acknowledgments at printed page 283, confirming the bounded 13-page reading on pages 270-282."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1wtU-SZ-6s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Hacking Growth.epub\""
+    },
+    "heading": "Make each growth win fund the next experiment.",
+    "standfirst": "Read Chapter Nine, \"A Virtuous Growth Cycle,\" from Sean Ellis and Morgan Brown's <em>Hacking Growth</em> on printed pages 270-282. The chapter studies how disciplined experimentation, customer learning, and reinvestment keep growth from becoming a one-time spike.",
+    "readerIntro": "Read this as a study of compounding growth systems. Mark where the authors describe growth stalls, doubling down on successful levers, deeper data, new channels, and broader ideation. Then write one virtuous-growth-loop diagnosis: the current win, the next reinvestment, the feedback signal, and the point where the loop could stall. Stop at printed page 282.",
+    "blocks": [
+      {
+        "label": "01 / Growth is a cycle, not a finish line",
+        "paragraphs": [
+          "Sustained growth comes from using success as fuel for the next round of learning, not from treating a successful result as permission to stop experimenting.",
+          "Notice how the chapter connects acquisition, activation, retention, and monetization into a system that can reinforce itself."
+        ]
+      },
+      {
+        "label": "02 / Detect the stall early",
+        "paragraphs": [
+          "Growth stalls can follow strong performance when teams become complacent, over-rely on a channel, lose customer focus, or fail to notice changing conditions.",
+          "Study the early warnings that reveal a loop is weakening before the headline metric makes the problem obvious."
+        ]
+      },
+      {
+        "label": "03 / Double down on evidence",
+        "paragraphs": [
+          "A promising lever deserves deeper investigation before a team moves on to a new idea. More experiments around a real signal can stack one win on another.",
+          "Ask what evidence distinguishes a repeatable growth mechanism from a lucky one-off result."
+        ]
+      },
+      {
+        "label": "04 / Expand the learning surface",
+        "paragraphs": [
+          "When a team exhausts its current ideas, it can improve the data, explore another channel, or invite new contributors into ideation.",
+          "Read these moves as ways of creating more possible experiments rather than as escapes from disciplined focus."
+        ]
+      },
+      {
+        "label": "05 / Write one loop diagnosis",
+        "paragraphs": [
+          "Choose one product and name the growth win already present, the reinvestment that could amplify it, the feedback signal to watch, and the stall risk to manage.",
+          "Stop with one diagnosis. Make the next experiment specific enough to show whether the loop is actually getting stronger."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "a virtuous growth cycle",
+      "growth stalls",
+      "doubling down",
+      "deeper data",
+      "new channels",
+      "ideation process"
+    ],
+    "closeReading": [
+      "What does Ellis and Brown's virtuous growth cycle add to a simple funnel model?",
+      "Which early warning sign best reveals that a successful growth loop is beginning to stall?",
+      "When should a team double down on a proven lever instead of opening a new front?",
+      "Choose one product. What current win could fund the next experiment, and what feedback signal would prove the loop is strengthening?",
+      "Write one virtuous-growth-loop diagnosis with the win, reinvestment, signal, and stall risk."
+    ]
+  },
+  "principle": {
+    "heading": "Turn every win into better conditions for the next win.",
+    "body": "Durable growth comes from a reinforcing system: learn from customer behavior, improve the strongest levers, and reinvest the result into the next experiment before complacency turns momentum into a stall.",
+    "exampleLabel": "Example",
+    "example": "A learning app may discover that a short first lesson improves activation. The virtuous move is to improve the onboarding around that lesson, measure completed second lessons, and use the new evidence to find the next retention experiment.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one product and write four lines: current growth win, reinvestment, feedback signal, and stall risk. Design the smallest experiment that tests whether the loop is strengthening."
+  },
+  "output": {
+    "heading": "Keep the growth loop in motion.",
+    "body": "Find the win that can create the next experiment, then protect the feedback cycle that turns a single result into a durable system."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "heading": "Four current signals about turning product capability, attention, and customer pressure into the next learning loop.",
+    "fieldNotes": [
+      {
+        "title": "Google’s Universal Cart turns discovery into a cross-retailer action",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+        "sourceDate": "2026-10-15",
+        "collectedAt": "2026-10-17",
+        "whatHappened": "Google’s Universal Cart launched in the U.S., letting shoppers collect items from different retailers into one cart and complete checkout through Google’s shopping experience.",
+        "whyItMatters": "The product is not only a new surface for discovery; it connects intent, comparison, and transaction. That makes the next growth question whether convenience produces repeat behavior, not merely a first click.",
+        "watch": "Watch whether multi-retailer cart behavior lifts completed purchases and return usage, or whether checkout complexity breaks the loop at the handoff."
+      },
+      {
+        "title": "Shoppers are cutting Halloween purchases as budgets tighten",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/halloween-without-candy-shoppers-cutting-budgets/832950/",
+        "sourceDate": "2026-10-16",
+        "collectedAt": "2026-10-17",
+        "whatHappened": "A LendingTree survey reported that nearly two-thirds of shoppers plan to skip some Halloween purchases this year, including staples such as costumes and candy.",
+        "whyItMatters": "Demand is not simply disappearing; consumers are choosing which parts of a ritual still earn a place in the basket. The useful growth response is to learn which value signal preserves participation when the full bundle feels too expensive.",
+        "watch": "Watch trade-down patterns by category and whether retailers make the smaller, still-meaningful version of the occasion easy to buy."
+      },
+      {
+        "title": "Wendy’s sponsors a personalized Bravo fandom layer",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/wendys-signs-on-as-first-sponsor-for-in-app-bravo-fan-experience/833067/",
+        "sourceDate": "2026-10-15",
+        "collectedAt": "2026-10-17",
+        "whatHappened": "Peacock launched Your Bravoverse, an AI-powered mobile experience with a personalized feed and an AI-generated Andy Cohen avatar; Wendy’s is the launch sponsor with custom integrations.",
+        "whyItMatters": "The sponsorship moves the brand inside a repeat fandom journey instead of placing it beside a program. The experiment is therefore about whether contextual participation deepens engagement without making the experience feel like an interruption.",
+        "watch": "Watch repeat sessions, interaction with the branded layer, and whether personalization improves sponsor recall or merely increases novelty."
+      },
+      {
+        "title": "OpenAI offers labs a lower-friction path into specialized AI research",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/introducing-the-rosalind-academic-plan/",
+        "sourceDate": "2026-10-15",
+        "collectedAt": "2026-10-17",
+        "whatHappened": "OpenAI introduced the Rosalind Academic Plan, offering eligible U.S. university labs up to 30 seats at no cost for up to 12 months, with access to GPT-Rosalind subject to approval.",
+        "whyItMatters": "The offer treats adoption as a supported workflow rather than a model announcement: access, a named lab owner, specialized tooling, and a defined research context create the conditions for repeated use and feedback.",
+        "watch": "Watch how many labs move from approved access to sustained research use, and which workflows generate evidence strong enough to justify renewal or expansion."
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-10-17",
+        "sourceDate": "2026-10-17",
+        "feed": "following",
+        "author": "elsid",
+        "handle": "elsidcad",
+        "title": "A product fragment on turning capability into behavior",
+        "summary": "This fragment is useful because it names the behavioral question behind a new capability. The important test is not whether the feature is impressive, but whether it changes a repeated workflow enough for the user to adopt it.",
+        "text": "Hiring: Senior Creative Strategist - Supplement Niche (Health & Wellness) for 8 Figure Supplement Brand (PORTFOLIO/SCREENSHOTS NEEDED)\n\nDo well, you can jump on our other brands as well\n\n20+ ad concepts/week (net NEW concepts, mostly TOF, all video ads)\n\nExtremely flexible with concepts, if you're killing it with less, you can do less, if you're not and want to push more, we can get that sorted too.\n\nWrite winning copy, but also understand why its winning.\n\nUnderstand formats, iteration, and DR advertising extremely well.\n\nCreative Strategy experience required. (You don't need anything crazy, if you can show me strong TOF concepts and an amazing work ethic im willing to take someone with 100k spend monthly under their belt or in that range)\n\nAround $6-10k/month + Every SPENDING concept = % bonus pay (UNCAPPED)\n\nFULL TIME POSITION, do well, you can work w/ more of our brands (if you want)\n\nNegotiable based on your experience (both retainer and bonus percentages)\n\nNative ads experience is a bonus, but this role is for mainly video ads.\n\nNEED to be extremely up to date with AI concepts, AI workflows, and the DR e-commerce demons on the ad library. I want someone who lives and breathes strategy, not someone who is just dabbling in it.\n\nYou must: be extremely ready to learn, test new formats, ideate using your own brain rather than just swiping, bring new ideas to the table for everything from specific voices up until pages to run from, just overall be extremely hungry and ambitious. Know the ins and outs of the ads manager metrics (such as hook rate, hold rate, etc).\n\nYou will oversee the entire process from ideation to final creation, and will be designated 2 editors (or even 3 editors)\n\nDon't apply if you're new to this role, and when you apply please show some type of proof of spend. You don't have to be in the role for super long, but I need to see you're capabilities and you need to be able to show that to me. If you're going to bounce around between the best offers and aren't looking to build a long term relationship - also not interested.\n\nThis goal is LONG TERM work. I want to be able to give you everything you need and teach you what I know as well.",
+        "url": "https://x.com/elsidcad/status/2111284750027468935"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
