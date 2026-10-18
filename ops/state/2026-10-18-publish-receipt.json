@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-18",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-10-18 12:00:00 IST",
+  "local_verified": true,
+  "git_commit": "f60bbc8a87f0db48b330894da95b0b7508c3a7e4",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Sunday, 18 October 2026",
+    "Issue 079",
+    "Make every headline earn its emphasis."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - Sunday - 18 October 2026",
+  "gmail_message_id": "01a14daf-69d4-71b6-bbce-016b8145e1e2",
+  "completed_at_ist": "2026-10-18 11:55:04 IST"
+}
