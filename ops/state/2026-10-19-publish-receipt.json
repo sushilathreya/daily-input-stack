@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-19",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-10-19 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "2c888c39942ef222f2651fe9d9f68d1d1809f1d3",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Monday, 19 October 2026",
+    "Issue 080",
+    "Give the reader a reason to keep reading."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 19 October 2026",
+  "gmail_message_id": "01a15267-e87f-782c-886f-fe82b56cef5f",
+  "completed_at_ist": "2026-10-19 09:55:04 IST"
+}
