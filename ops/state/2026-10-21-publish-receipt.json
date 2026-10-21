@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-21",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-10-21 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "cefee7c0a8f7ed3f6849cc864861033ac88408b2",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Wednesday, 21 October 2026",
+    "Issue 082",
+    "Do not borrow a name when you need a position."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 21 October 2026",
+  "gmail_message_id": "01a15cb4-a039-72a2-92ca-f1765deb1f90",
+  "completed_at_ist": "2026-10-21 09:55:03 IST"
+}
