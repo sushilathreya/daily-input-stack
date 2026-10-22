@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-22",
+  "displayDate": "Thursday, 22 October 2026",
+  "issueNumber": 83,
+  "title": "Treat irrationality as evidence, not error.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In the opening pages of Chapter 1 of Rory Sutherland's Alchemy, reason becomes useful when it knows what it cannot explain. The first question is not why a choice looks irrational, but what human value the model has left out.",
+  "meta": {
+    "canon": "Rory Sutherland, <em>Alchemy</em>",
+    "study": "20-30 min",
+    "practice": "one irrationality audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "When behaviour and theory diverge, inspect the theory before correcting the person. The strange choice may be carrying the value your model cannot see."
+  },
+  "canon": {
+    "author": "Rory Sutherland",
+    "work": "Alchemy",
+    "chapter": "On the Uses and Abuses of Reason",
+    "chapterLabel": "Chapter 1, \"On the Uses and Abuses of Reason\"",
+    "field": "human behaviour / decision-making / psychology",
+    "pageRange": "PDF pages 52-55 in the local edition; begin at the Chapter 1 opener on PDF page 52 and stop before subsection 1.1, \"The Broken Binoculars,\" begins on PDF page 56.",
+    "pageCount": 4,
+    "stopPoint": "Stop at the end of PDF page 55. Do not continue into subsection 1.1, \"The Broken Binoculars,\" which begins on PDF page 56.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Alchemy - Rory Sutherland.pdf",
+      "driveUrl": "https://drive.google.com/file/d/1N3T4Qh1LHH6_Fibe-8WlW6COvwEiJyN4/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDgDfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "native_text_pdf_with_outline_boundary_verification",
+        "tool": "local raw PDF outline and page-object inspection with Node",
+        "nativeTextPages": "PDF pages 52-55",
+        "tableOfContentsVerified": true,
+        "notes": "The local Books copy was inspected directly. The PDF outline maps Chapter 1, \"On the Uses and Abuses of Reason,\" to destination page object 81 and subsection 1.1, \"The Broken Binoculars,\" to destination page object 85. Mapping those destinations across the PDF's 628 /Type/Page objects yields PDF pages 52 and 56 respectively; the bounded opening section is therefore PDF pages 52-55."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1N3T4Qh1LHH6_Fibe-8WlW6COvwEiJyN4/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Alchemy - Rory Sutherland.pdf\""
+    },
+    "heading": "A rational model is only as good as the human reality it leaves in view.",
+    "standfirst": "Read the opening of Chapter 1, \"On the Uses and Abuses of Reason,\" from Rory Sutherland's <em>Alchemy</em> on PDF pages 52-55. This is the source-verified chapter behind the weekly program's \"Problem with Rationality\" assignment: study how an apparently irrational choice can expose a missing variable in the model.",
+    "readerIntro": "Read these four pages as a test of analytical humility. Mark where Sutherland separates useful reasoning from the urge to force every human choice into a tidy rational account. Notice what kinds of context, emotion, status, or meaning a narrow model is likely to discard. Then audit one behaviour your team calls irrational. Stop at PDF page 55.",
+    "blocks": [
+      {
+        "label": "01 / Reason is a tool, not a complete picture",
+        "paragraphs": [
+          "Sutherland's target is not clear thinking; it is the belief that one style of reasoning can account for every human decision.",
+          "As you read, separate a model's usefulness for one problem from the temptation to treat it as a description of the whole person."
+        ]
+      },
+      {
+        "label": "02 / Irrational behaviour may contain the missing value",
+        "paragraphs": [
+          "A choice that looks wasteful or inconsistent may be protecting reassurance, identity, status, convenience, or a social meaning the spreadsheet does not record.",
+          "The practical move is to ask what the behaviour accomplishes before asking how to eliminate it."
+        ]
+      },
+      {
+        "label": "03 / Audit the model before correcting the person",
+        "paragraphs": [
+          "When observed behaviour repeatedly defeats the official explanation, the discrepancy is evidence. It may reveal a variable the system has made invisible.",
+          "Choose one live example and write the stated reason, the observed behaviour, and the human motive or context the stated reason leaves out."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "On the Uses and Abuses of Reason",
+      "rationality",
+      "irrational behaviour",
+      "model versus reality",
+      "human motive"
+    ],
+    "closeReading": [
+      "Where does Sutherland distinguish useful reasoning from the overreach of treating every choice as rationally calculable?",
+      "What kind of human value might a narrow model erase from the behaviour it is trying to explain?",
+      "Choose one behaviour your team calls irrational. What does the behaviour achieve for the person who chooses it?",
+      "What evidence would show that the model is incomplete rather than that the person is making a mistake?",
+      "What is the smallest observation or experiment that could reveal the missing variable?"
+    ]
+  },
+  "principle": {
+    "heading": "Treat the anomaly as a clue to the missing human value.",
+    "body": "A tidy explanation can still be too thin. When people persistently act against the model, look for the emotional, social, contextual, or symbolic payoff the model has failed to measure.",
+    "exampleLabel": "One example",
+    "example": "A team removes a human onboarding call because self-serve setup is faster. If serious buyers hesitate, the call may have been supplying reassurance and recognition rather than mere instruction; the efficient model priced the wrong thing.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Pick one user behaviour your team labels irrational. Write the official explanation, the observed behaviour, and three human variables the explanation omits. End with one test that could distinguish a flawed model from a flawed choice."
+  },
+  "output": {
+    "heading": "Let strange behaviour improve the model.",
+    "body": "Before optimizing away an irrational-looking choice, ask what human value it is defending and whether your explanation has earned the right to dismiss it."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "heading": "Four current signals about the human value hidden inside efficient systems.",
+    "fieldNotes": [
+      {
+        "title": "Independent evaluation is becoming part of the product",
+        "source": "Anthropic",
+        "url": "https://www.anthropic.com/news/update-on-independent-evaluators",
+        "sourceDate": "2026-10-15",
+        "collectedAt": "2026-10-22",
+        "whatHappened": "Anthropic said it is giving METR, a nonprofit frontier-model evaluator, employee-like access to evaluate the safety of its systems and is discussing similar arrangements with other organizations.",
+        "whyItMatters": "The company is admitting that internal confidence is not enough evidence for systems with unfamiliar failure modes. External access creates a route for discovering what the builder's own model of risk has missed.",
+        "watch": "When a system makes consequential claims about safety or quality, ask who can inspect it with enough access and independence to find the failure the builder cannot see."
+      },
+      {
+        "title": "Target makes the store part of the holiday story",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/target-unwraps-high-concept-holiday-ads-focused-on-gift-giving-academy/833583/",
+        "sourceDate": "2026-10-21",
+        "collectedAt": "2026-10-22",
+        "whatHappened": "Marketing Dive reports that Target's 2026 holiday campaign turns gift-giving into a fictional academy, extends the idea through creators and social video, and carries the visual system into stores.",
+        "whyItMatters": "The campaign treats the physical store as a marketing medium and a place where the story can be experienced, not just a last-mile fulfillment box. Meaning and guidance become part of the shopping value alongside price.",
+        "watch": "When a campaign promises help with a human problem, carry the promise into the environment where the choice is actually made instead of leaving it inside the ad."
+      },
+      {
+        "title": "Anthropic is making public benefit an ownership mechanism",
+        "source": "Anthropic",
+        "url": "https://www.anthropic.com/news/public-benefit-fund",
+        "sourceDate": "2026-10-18",
+        "collectedAt": "2026-10-22",
+        "whatHappened": "Anthropic announced that, subject to stockholder approval, 5% of its shares will be committed to a new Anthropic Public Benefit Fund, with the board able to add 2% for every 50% increase in company value above a baseline.",
+        "whyItMatters": "Mission is being expressed through a structural claim about who benefits from growth, not only through messaging. The design attempts to preserve a public-purpose payoff that a conventional value-maximizing model might leave outside the ledger.",
+        "watch": "When a company claims a social purpose, look for the ownership, governance, or allocation mechanism that makes the promise costly to abandon."
+      },
+      {
+        "title": "Ads are being designed for conversations that have not reached a conclusion",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries/",
+        "sourceDate": "2026-10-21",
+        "collectedAt": "2026-10-22",
+        "whatHappened": "OpenAI expanded ChatGPT Ads to 26 additional countries, bringing availability to 89 countries, and described ads appearing while people explore, compare, and decide what to buy in a multi-turn conversation.",
+        "whyItMatters": "The commercial unit is becoming a developing intention rather than a single query. A useful ad must respect the uncertainty and changing constraints in the decision, instead of treating every mention as a purchase signal.",
+        "watch": "Separate exploration from commitment in your funnel; the right intervention may be the one that helps a person clarify the problem rather than forcing an immediate conversion."
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-10-22",
+        "sourceDate": "2026-10-21",
+        "feed": "following",
+        "author": "Suraj Sharma",
+        "handle": "suraj_sharma14",
+        "title": "A startup wins when the new physics force a new story",
+        "summary": "This is worth keeping because it treats narrative as part of the operating system, not decoration. A strange technical or market bet has to become desirable before incumbents copy it, and the company has to keep moving fast enough that the story remains attached to real progress.",
+        "text": "I want to meet 100 people who are building the future.\n\nIf you're a:\n• Founder or co-founder\n• Founding team member\n• AI engineer\n• Product lead\n• GTM or growth lead\n• Marketing lead at an AI startup\n• DevRel or community builder\n\nReply with what you're working on.\n\nI'll read every reply and DM the ones I can help, collaborate with or connect.\n\nLet's build together.",
+        "url": "https://x.com/suraj_sharma14/status/2112758873509810470"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
