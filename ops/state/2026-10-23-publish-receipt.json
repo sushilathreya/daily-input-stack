@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-23",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-10-23 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "4acdfe7d81430cf182312dc3d2a53d617a08e748",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Friday, 23 October 2026",
+    "Issue 084",
+    "Build a separate home for the opportunity the core business cannot value."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 23 October 2026",
+  "gmail_message_id": "01a16701-583f-78a1-9743-df14082ad23d",
+  "completed_at_ist": "2026-10-23 09:55:03 IST"
+}
