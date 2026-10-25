@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-25",
+  "displayDate": "Sunday, 25 October 2026",
+  "issueNumber": 86,
+  "title": "Make the next action too clear to postpone.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 8 of Building a StoryBrand, Donald Miller shows why a clear call to action turns a well-understood offer into a decision the customer can actually make.",
+  "meta": {
+    "canon": "Donald Miller, <em>Building a StoryBrand</em>",
+    "study": "20-30 min",
+    "practice": "one call-to-action audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "Clarity is incomplete until it gives the customer a visible next move. Make the action explicit, credible, and easy to begin."
+  },
+  "canon": {
+    "author": "Donald Miller",
+    "work": "Building a StoryBrand",
+    "chapter": "And Calls Them to Action",
+    "chapterLabel": "Chapter 8, \"And Calls Them to Action\"",
+    "field": "storytelling / marketing communication / conversion",
+    "pageRange": "EPUB Chapter 8 only; begin at the Chapter 8 heading in `index_split_023.html` and stop before Chapter 9, \"That Helps Them Avoid Failure,\" begins in `index_split_024.html`.",
+    "pageCount": 1,
+    "stopPoint": "Stop at the end of Chapter 8 in the local EPUB. Do not continue into Chapter 9, \"That Helps Them Avoid Failure,\" which begins at the start of `index_split_024.html`.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_epub",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub",
+      "driveUrl": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "native_text_epub_with_toc_and_split-file_boundary_verification",
+        "tool": "local EPUB unzip, NCX inspection, and native XHTML extraction",
+        "nativeTextPages": "Chapter 8 is contained in the EPUB chapter file `index_split_023.html`; Chapter 9 begins in `index_split_024.html`.",
+        "tableOfContentsVerified": true,
+        "notes": "The local Books EPUB was inspected directly. The EPUB NCX confirms Chapter 8, \"And Calls Them to Action,\" and places Chapter 9 immediately after it. Native XHTML inspection confirms the complete Chapter 8 boundary between `index_split_023.html` and `index_split_024.html`; the EPUB has no separate printed-page map."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub\""
+    },
+    "heading": "A clear message earns its attention by making the next move visible.",
+    "standfirst": "Read Chapter 8, \"And Calls Them to Action,\" from Donald Miller's <em>Building a StoryBrand</em>. Miller argues that customers do not act merely because they understand an offer; they need a direct, credible invitation that makes action feel possible now.",
+    "readerIntro": "Read this chapter as a study of decision friction. Mark how Miller distinguishes a direct call to action from a transitional step, why customers need to be challenged rather than merely informed, and how repeated clarity can make action feel safer. Then audit one message: name the desired action, the proof that supports it, and the smaller step that prepares the customer to take it. Stop at the end of Chapter 8.",
+    "blocks": [
+      {
+        "label": "01 / Understanding is not the same as deciding",
+        "paragraphs": [
+          "Miller's customer may understand the offer and still remain passive. Recognition, empathy, and a plan create readiness, but they do not automatically produce movement.",
+          "Study the gap between a message that explains what the brand does and one that gives the customer a clear reason and opportunity to act."
+        ]
+      },
+      {
+        "label": "02 / The direct call to action removes ambiguity",
+        "paragraphs": [
+          "A direct call to action names the behavior the business wants: buy, schedule, register, start, or contact. It does not make the customer infer the intended next step from a cloud of information.",
+          "Notice how explicit language can reduce cognitive work without becoming coercive. The customer should know what will happen after the click or commitment."
+        ]
+      },
+      {
+        "label": "03 / Transitional steps make commitment easier",
+        "paragraphs": [
+          "Not every customer is ready for the final commitment. Miller's transitional calls to action give people a lower-risk way to learn, compare, or experience the offer before they decide.",
+          "Separate the small step that builds trust from the primary action that creates value. A useful transition prepares the customer rather than replacing the decision."
+        ]
+      },
+      {
+        "label": "04 / Put the invitation where the decision happens",
+        "paragraphs": [
+          "A call to action can fail simply because it is hidden, vague, or separated from the moment when the customer has enough context to choose.",
+          "Audit one page, pitch, or onboarding flow. Identify the point where intent is highest, then make the desired action and its immediate consequence unmistakable there."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "And Calls Them to Action",
+      "customers do not take action unless they are challenged to take action",
+      "direct call to action",
+      "transitional call to action",
+      "call to action"
+    ],
+    "closeReading": [
+      "Why does Miller say that a customer can understand a brand's message and still fail to act?",
+      "What makes a direct call to action different from a vague invitation to learn more?",
+      "When is a transitional call to action more appropriate than asking for the final commitment?",
+      "Where does one of your current messages make the customer infer what to do next?",
+      "Choose one offer. What is the primary action, what proof makes it credible, and what smaller step could prepare a hesitant customer?"
+    ]
+  },
+  "principle": {
+    "heading": "Do not make the customer translate interest into a next step.",
+    "body": "A message earns action by naming the desired behavior, showing why it is safe or worthwhile, and placing the invitation where the customer's intent is already present.",
+    "exampleLabel": "One example",
+    "example": "A consulting firm replaces a generic \"Explore our approach\" link with \"Book a 20-minute diagnostic call\" and a short explanation of what the customer will leave with. The action becomes concrete without pretending the buyer is ready for a large commitment.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one page, email, or sales explanation. Write the customer's desired outcome, the primary call to action, the proof that supports it, and one transitional action for someone who is interested but not ready."
+  },
+  "output": {
+    "heading": "Make the next action legible at the moment of intent.",
+    "body": "A clear offer should not end in interpretation. Give the customer one visible move, one credible reason to take it, and a smaller path forward when commitment needs to build."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "collectedAt": "2026-10-25",
+    "heading": "Four current signals on how products turn capability into a clear next action.",
+    "fieldNotes": [
+      {
+        "title": "Canva turns image generation into an editable design decision",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+        "sourceDate": "2026-10-22",
+        "collectedAt": "2026-10-25",
+        "whatHappened": "Canva launched Canva Craft, an image model that plans spatial relationships, hierarchy, and text before generating images, then connects outputs to layered designs. The company says it is available across Canva and through its API, with MCP support planned for third-party chatbots.",
+        "whyItMatters": "The product does not stop at showing a generated image; it makes the next useful action—editing and placing the asset in a design—visible inside the same workflow. Capability becomes easier to adopt when the handoff after generation is concrete.",
+        "watch": "Watch whether the design-layer workflow produces more completed work than standalone image novelty, especially as users compare Canva's native model with general-purpose generators."
+      },
+      {
+        "title": "OpenAI packages small judgments as an explicit next-action layer",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/decisions-api/",
+        "sourceDate": "2026-10-22",
+        "collectedAt": "2026-10-25",
+        "whatHappened": "OpenAI made the Decisions API generally available for bounded answers such as classifying, routing, or choosing whether an agent should continue, retry, or ask for clarification. The API accepts text, images, and structured inputs and returns a probability, choice, or score.",
+        "whyItMatters": "The offer is legible because it names the decision the developer needs to make and the allowed outcomes. That is a stronger call to action than asking teams to imagine what a general model might do inside an open-ended workflow.",
+        "watch": "Watch whether developers adopt focused decision endpoints in production hot paths, where latency, confidence, and escalation behavior can be measured rather than inferred from demos."
+      },
+      {
+        "title": "Brands are finding sharper category handles in challenger behavior",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/topic/brand-strategy/",
+        "sourceDate": "2026-10-22",
+        "collectedAt": "2026-10-25",
+        "whatHappened": "Marketing Dive's recent brand-strategy coverage highlights challenger CPG brands using distinct signals—from Liquid Death's AI use to Graza's packaging—to take share from better-funded legacy brands, alongside campaigns that make a specific promise around gifting or creator-led experiences.",
+        "whyItMatters": "A customer can act more easily when the offer has a memorable handle before the purchase request arrives. Distinctive packaging, category language, and a focused cultural use give the call to action something concrete to attach to.",
+        "watch": "Watch whether these challenger signals lead to repeat purchase and category preference, or only produce a moment of attention that does not clarify what to buy next."
+      },
+      {
+        "title": "AI support needs an obvious human escape hatch",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/why-customers-fed-up-ai-chatbots/833488/",
+        "sourceDate": "2026-10-22",
+        "collectedAt": "2026-10-25",
+        "whatHappened": "Retail Dive reports Five9 survey findings that 46% of consumers rated their latest AI or chatbot experience positively, while nearly half of those who switched to a human did so because the bot repeatedly misunderstood them. Trust was higher when a human option was available.",
+        "whyItMatters": "A direct automated next step is only credible when the customer can see what happens if the system fails. The human handoff is not an admission that the product has no value; it makes the boundary of the promise safer to test.",
+        "watch": "Watch whether teams measure successful resolution and easy escalation rather than celebrating containment, since a trapped customer is unlikely to take the next suggested action."
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-10-25",
+        "sourceDate": "2026-10-24",
+        "feed": "for_you",
+        "author": "Nithin Kamath",
+        "handle": "Nithin0dha",
+        "title": "A product fragment on turning capability into behavior",
+        "summary": "This fragment is useful because it names the behavioral question behind a new capability. The important test is not whether the feature is impressive, but whether it changes a repeated workflow enough for the user to adopt it.",
+        "text": "History doesn’t repeat itself, but it often rhymes.\n\nWith everything happening around AI, it feels like we’ve seen versions of this story before. Technologies change, industries get disrupted, and businesses that once seemed permanent disappear.\n\nThe latest episode of Intermission by @TheKenWeb is on TCS, and one thing stood out to me. In the 1960s, India had only a few dozen computers, and even that was enough for unions to protest, fearing they would take away jobs. TCS was started around the same time, and over the next few decades, it and the rest of the IT industry went on to employ millions of Indians. Now the same industry is dealing with a new version of that fear, with AI starting to do some of the work that people used to do.\n\nI didn’t know this story, and I think most people don’t either. It’s the kind of detail that gets lost with time. Businesses, like people, come and go. Which is all the more reason to document them well. How they were built, the decisions that worked and didn’t, the mistakes, the people, the culture, and all the little stories that would otherwise disappear.\n\nWe spend a lot of time documenting history through countries, wars, politics, and famous people. Maybe we need to do a much better job of documenting the history of businesses too. There’s probably a lot for future entrepreneurs to learn from them🙂",
+        "url": "https://x.com/Nithin0dha/status/2113867229385064697"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
