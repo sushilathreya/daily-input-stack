@@ -1,0 +1,157 @@
+{
+  "date": "2026-10-27",
+  "displayDate": "Tuesday, 27 October 2026",
+  "issueNumber": 88,
+  "title": "Give the story a cost worth avoiding.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 9 of Building a StoryBrand, Donald Miller shows how naming the failure a customer wants to avoid gives a promise its stakes.",
+  "meta": {
+    "canon": "Donald Miller, <em>Building a StoryBrand</em>",
+    "study": "20-30 min",
+    "practice": "one stakes audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A desired outcome becomes more actionable when the customer can also see what remains at risk. Name the consequence without letting fear become the whole message."
+  },
+  "canon": {
+    "author": "Donald Miller",
+    "work": "Building a StoryBrand",
+    "chapter": "That Helps Them Avoid Failure",
+    "chapterLabel": "Chapter 9, \"That Helps Them Avoid Failure\"",
+    "field": "storytelling / marketing communication / positioning",
+    "pageRange": "EPUB Chapter 9 only; begin at the Chapter 9 heading in `index_split_024.html` and stop before Chapter 10, \"And Ends in a Success,\" begins in `index_split_025.html`.",
+    "pageCount": 1,
+    "stopPoint": "Stop at the end of Chapter 9 in the local EPUB. Do not continue into Chapter 10, \"And Ends in a Success,\" which begins at the start of `index_split_025.html`.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_epub",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub",
+      "driveUrl": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "native_text_epub_with_toc_and_split-file_boundary_verification",
+        "tool": "local EPUB unzip, NCX inspection, and native XHTML extraction",
+        "nativeTextPages": "Chapter 9 is contained in the EPUB chapter file `index_split_024.html`; Chapter 10 begins in `index_split_025.html`.",
+        "tableOfContentsVerified": true,
+        "notes": "The local Books EPUB was inspected directly. Native XHTML inspection confirms the complete Chapter 9 boundary between index_split_024.html and index_split_025.html; the EPUB has no separate printed-page map."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub\""
+    },
+    "heading": "A clear promise needs a consequence worth escaping.",
+    "standfirst": "Read Chapter 9, \"That Helps Them Avoid Failure,\" from Donald Miller's <em>Building a StoryBrand</em>. Miller argues that customers need to see the failure a story helps them avoid, because a promise without stakes gives people little reason to move.",
+    "readerIntro": "Read this chapter as a study of stakes rather than fear. Mark how Miller connects a customer's desired outcome to the bad result they want to avoid, how stories use suspense between success and failure, and where a brand can name consequence without becoming manipulative. Then audit one message: identify the desired result, the credible failure it prevents, and the proof that makes the warning useful. Stop at the end of Chapter 9.",
+    "blocks": [
+      {
+        "label": "01 / A story needs something at stake",
+        "paragraphs": [
+          "Miller's central question is not only whether the hero can succeed, but what happens if the problem remains unresolved. Without consequence, information may be clear while the decision still feels optional.",
+          "Study where the chapter turns an abstract benefit into a meaningful choice between a better outcome and a result the customer wants to avoid."
+        ]
+      },
+      {
+        "label": "02 / Failure gives the promise weight",
+        "paragraphs": [
+          "A successful ending becomes more vivid when the audience understands the tragic alternative. The point is not to frighten for its own sake, but to show why solving the problem matters now.",
+          "Notice how a message can name a cost that is specific enough to clarify the decision without pretending every customer faces the same danger."
+        ]
+      },
+      {
+        "label": "03 / Keep consequence subordinate to the customer's goal",
+        "paragraphs": [
+          "The failure a brand names should illuminate the customer's situation, not replace the promised transformation with anxiety. The desired future remains the reason to act; the avoided failure supplies urgency and contrast.",
+          "Separate a useful warning from pressure. Ask whether the consequence helps the customer recognise a real problem they already want solved."
+        ]
+      },
+      {
+        "label": "04 / Audit the stakes in one message",
+        "paragraphs": [
+          "Take one offer and write its three-part story: what the customer wants, what may happen if the problem persists, and what evidence makes the offer a credible guide.",
+          "If the message has a benefit but no consequence, it may be pleasant rather than compelling. If it has consequence but no credible path forward, it may be alarming rather than useful."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "That Helps Them Avoid Failure",
+      "Every human being is trying to avoid a tragic ending",
+      "What’s at stake for the hero?",
+      "The only two motivations a hero has",
+      "brands that don’t warn their customers"
+    ],
+    "closeReading": [
+      "Why does Miller say a story without stakes is boring, and how does that apply to a commercial message?",
+      "How does the chapter distinguish naming a real consequence from using fear as a shortcut?",
+      "What is the specific failure the customer in one of your offers is trying to avoid?",
+      "Where does the message make the desired success vivid, and where does it leave the alternative vague?",
+      "Rewrite one benefit-led message so it names the desired result, the credible failure it prevents, and the proof that makes the invitation trustworthy."
+    ]
+  },
+  "principle": {
+    "heading": "A promise earns urgency when the customer can see what remains at risk.",
+    "body": "Name the failure a useful solution helps the customer avoid, then connect that consequence to a specific, credible path toward the desired outcome.",
+    "exampleLabel": "One example",
+    "example": "A bookkeeping service replaces \"Get clearer finances\" with \"Know your true cash position before a missed payment becomes a crisis\" and explains the weekly review it provides. The consequence sharpens the promise without making catastrophe the product.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one offer. Write the customer's desired success, the concrete failure that may follow if the problem remains unresolved, and the proof that your offer can help them avoid it. Remove any consequence that is vague, exaggerated, or unrelated to the customer's actual goal."
+  },
+  "output": {
+    "heading": "Make the consequence clarifying, not coercive.",
+    "body": "The strongest message gives the customer a future worth wanting, a cost worth avoiding, and enough evidence to believe the proposed next step can move them between the two."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "collectedAt": "2026-10-27",
+    "heading": "Four current signals on making consequence visible without turning the message into pressure.",
+    "fieldNotes": [
+      {
+        "title": "Clorox replaces the campaign calendar with a relevance system",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/why-clorox-shifted-from-creating-brand-campaigns-to-systems-of-relevance/838232/",
+        "sourceDate": "2026-10-26",
+        "collectedAt": "2026-10-27",
+        "whatHappened": "Clorox described a marketing model built around continuous listening, small bets, AI-enabled optimization, and fast action across brands including Pine-Sol, Brita, and Hidden Valley. The company said Pine-Sol's social-to-commerce experiment sold out four limited-edition products in hours, while Brita used a Gen Z insight to shape a high-volume content system.",
+        "whyItMatters": "The consequence of waiting for certainty is not abstract: a brand can miss the short window in which a cultural signal can become useful. Clorox's system makes the avoided failure legible—being late to the moment—while keeping the promise focused on better learning and action.",
+        "watch": "Watch whether continuous relevance produces durable preference and sales, or only a faster stream of content that still lacks a clear customer promise."
+      },
+      {
+        "title": "Google gives holiday advertisers tighter control over channel risk",
+        "source": "Google",
+        "url": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/",
+        "sourceDate": "2026-10-21",
+        "collectedAt": "2026-10-27",
+        "whatHappened": "Google introduced channel-prioritization and budget-allocation controls for Search, Shopping, Performance Max, and Demand Gen, allowing advertisers to fund high-priority channels first and cap lower-priority spend while testing holiday demand.",
+        "whyItMatters": "The avoided failure is treating every impression as equally safe or useful. Explicit priorities let a marketer name the downside they are protecting against—wasted spend or uncontrolled experimentation—and make a bounded next step possible.",
+        "watch": "Watch whether these controls improve incremental conversion and learning, or simply move budget toward channels that already look safe while starving new sources of demand."
+      },
+      {
+        "title": "OpenAI frames computer use around bounded professional work",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+        "sourceDate": "2026-10-26",
+        "collectedAt": "2026-10-27",
+        "whatHappened": "OpenAI introduced GPT-6.1 Terra as a fast model for high-volume professional work, highlighting computer use and image analysis while pairing the launch with updated safety evaluation information. The release positions the model around concrete tasks rather than an unlimited promise of autonomy.",
+        "whyItMatters": "A capability becomes more credible when the customer can see the failure boundary it is designed to avoid: a system that acts beyond its authorization or cannot be inspected. Naming the task and the safeguards gives the promise a cost worth avoiding and a path forward.",
+        "watch": "Watch whether teams can verify authorization, escalation, and error recovery in real workflows, not just in launch demonstrations."
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-10-27",
+        "sourceDate": "2026-10-26",
+        "feed": "for_you",
+        "author": "Fastlane",
+        "handle": "UseFastlane",
+        "title": "A market fragment on beating copycats through speed and supply",
+        "summary": "This is worth keeping because it reframes imitation as market evidence rather than only a legal threat. The useful lesson is that demand has to be met with speed, volume, and a stronger operating rhythm, not just protected by complaint after the opportunity is visible.",
+        "text": "AGI for ads is here.\n\nThe best growth teams are idea machines. Most don't get the time to be.\n\nIntroducing Fastlane: the world’s first AI that runs your ads end to end.\n\nLet your next winning ad run on autopilot, while you get back to what made you fall in love with marketing.",
+        "url": "https://x.com/UseFastlane/status/2114601157385703465"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
