@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-28",
+  "displayDate": "Wednesday, 28 October 2026",
+  "issueNumber": 89,
+  "title": "Make growth easier to see than loyalty is to praise.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 6 of How Brands Grow, Byron Sharp replaces the loyalty myth with a harder question: what repeatable buying patterns explain why brands grow?",
+  "meta": {
+    "canon": "Byron Sharp, <em>How Brands Grow</em>",
+    "study": "35-45 min",
+    "practice": "one loyalty-to-penetration audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A brand's most enthusiastic buyers are not automatically its best growth explanation. Study the wider pattern before turning loyalty into a strategy."
+  },
+  "canon": {
+    "author": "Byron Sharp",
+    "work": "How Brands Grow",
+    "chapter": "Duplication of purchase analysis",
+    "chapterLabel": "Chapter 6, \"Duplication of purchase analysis\"",
+    "field": "brand strategy / marketing science / growth",
+    "pageRange": "PDF pages 116-135; stop before the separator and Chapter 7, \"Brand loyalty—a natural part of buying behaviour,\" which begins on PDF page 137.",
+    "pageCount": 20,
+    "stopPoint": "Stop at the end of PDF page 135. Do not continue through the separator on PDF page 136 or into Chapter 7, which begins on PDF page 137.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/How Brands Grow - Byron Sharp.pdf",
+      "driveUrl": "https://drive.google.com/file/d/1v-1gh4_y8s4yauwnVTEpphSBhpEBbBJE/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "text_based_pdf_with_bookmark_and_page-tree_verification",
+        "tool": "local Node PDF object, bookmark, and page-tree inspection",
+        "nativeTextPages": "The source bookmark destination for Chapter 6 is PDF page 116; Chapter 7 begins on PDF page 137, leaving pages 116-135 for the bounded Chapter 6 reading.",
+        "tableOfContentsVerified": true,
+        "notes": "The local Books PDF was inspected directly. Its bookmark label is Chapter 6: Duplication of purchase analysis; the weekly program's The Loyalty Myth wording is a thematic shorthand, not the source heading. The local page tree maps the Chapter 6 destination to PDF page 116 and Chapter 7 to PDF page 137, with a separator page between them."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1v-1gh4_y8s4yauwnVTEpphSBhpEBbBJE/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/How Brands Grow - Byron Sharp.pdf\""
+    },
+    "heading": "Growth is usually a reach problem disguised as a loyalty story.",
+    "standfirst": "Read Chapter 6, \"Duplication of purchase analysis,\" from Byron Sharp's <em>How Brands Grow</em>, through PDF page 135. Sharp uses recurring patterns of shared buying to challenge the idea that brands grow mainly by converting a special, devoted customer type.",
+    "readerIntro": "Read this chapter as a test of the loyalty explanation. Mark where Sharp distinguishes genuine repeat buying from the stronger claim that a brand's buyers are uniquely committed, and where duplication patterns reveal overlap across competing brands. Then audit one brand: separate its observed loyalty behavior from the growth assumption built on top of it. Stop at the end of PDF page 135.",
+    "blocks": [
+      {
+        "label": "01 / Begin with the pattern, not the flattering customer story",
+        "paragraphs": [
+          "Sharp's target is not the existence of repeat buying. It is the leap from repeat buying to a strategy built around a supposedly special, highly committed customer base.",
+          "Study the evidence before the interpretation. Ask what the data says about who buys the brand, how often they buy, and how much those buyers also buy from competitors."
+        ]
+      },
+      {
+        "label": "02 / Duplication reveals shared markets",
+        "paragraphs": [
+          "The duplication of purchase law describes a regular pattern: brands share buyers with other brands in proportion to those brands' size. Competitors are not isolated tribes; they draw from overlapping category buyers.",
+          "Notice how this changes the strategic question. Instead of searching for a narrow identity that explains every buyer, a marketer must make the brand easier for more category buyers to notice and choose."
+        ]
+      },
+      {
+        "label": "03 / Loyalty metrics need a market context",
+        "paragraphs": [
+          "A larger brand will often have more loyal buyers in absolute terms and somewhat stronger loyalty metrics, but that does not prove a fundamentally different kind of customer. Size and buying frequency can create the appearance of a special relationship.",
+          "Read for the difference between describing a brand's current customer mix and explaining how the brand could grow. The second claim requires evidence about reach, penetration, and shared buying."
+        ]
+      },
+      {
+        "label": "04 / Turn the myth into a better growth audit",
+        "paragraphs": [
+          "Take one brand whose plan is framed around retention, devotion, or community. Identify which part is observed behavior and which part is an unsupported theory about why the behavior exists.",
+          "Then ask what would change if growth meant becoming easier to buy for more light and occasional category buyers, while still serving existing customers well."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "Duplication of purchase analysis",
+      "The duplication of purchase law",
+      "brand loyalty",
+      "shared customer base",
+      "loyalty myth"
+    ],
+    "closeReading": [
+      "How does Sharp distinguish the fact of repeat buying from the claim that a brand has a uniquely loyal customer type?",
+      "What does the duplication of purchase law predict about the customers a brand shares with larger and smaller competitors?",
+      "Where might a loyalty metric describe brand size or buying frequency rather than a special relationship with the brand?",
+      "Choose one brand whose growth plan emphasizes retention or devotion. Which parts are observed facts, and which parts are interpretation?",
+      "What would you measure differently if the practical growth question were how to become easier to notice and buy for more category buyers?"
+    ]
+  },
+  "principle": {
+    "heading": "Do not let loyal buyers hide the reach problem.",
+    "body": "Repeat buying is real, but it does not by itself prove that a brand grows through a special customer tribe. Use shared-buying patterns and penetration evidence to separate a description of current buyers from a credible growth strategy.",
+    "exampleLabel": "One example",
+    "example": "A meal-kit company sees that its most frequent customers renew often and builds a plan around making them even more devoted. A broader audit may show that the company is simply under-reaching light category buyers, who also buy from competing services. The growth opportunity is to become easier to notice and try without abandoning existing customers.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one brand. Write its current repeat-buying evidence, the loyalty story your team tells about that evidence, and the missing penetration or shared-buying measure that could confirm or weaken the story."
+  },
+  "output": {
+    "heading": "Replace the loyalty story with a measurable growth question.",
+    "body": "A stronger diagnosis names the observed buying pattern, tests it against category-wide overlap, and asks how the brand can become easier for more buyers to notice, remember, and choose."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "fieldNotes": [
+      {
+        "title": "Clorox turns brand marketing into a continuous relevance system",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/why-clorox-shifted-from-creating-brand-campaigns-to-systems-of-relevance/838232/",
+        "sourceDate": "2026-10-26",
+        "whatHappened": "Clorox described replacing isolated campaign launches with systems that use people, AI automation, partners, social listening, and rapid testing across Pine-Sol, Brita, and Hidden Valley.",
+        "whyItMatters": "The useful growth question is not whether a brand can make one memorable campaign; it is whether the organization can keep becoming more relevant to more category buyers while the opportunity is still live.",
+        "watch": "Track whether faster signal-to-action improves reach and trial, not only engagement from the brand's existing audience.",
+        "collectedAt": "2026-10-28"
+      },
+      {
+        "title": "Google makes the world model more steerable in real time",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+        "sourceDate": "2026-10-27",
+        "whatHappened": "Google DeepMind released Genie 4 as a research preview with audio, more realistic interactive worlds, and the ability to change scenes through prompts while a simulation is running.",
+        "whyItMatters": "The product is moving from a spectacle that produces a clip toward a behavior that lets users explore and iterate. Adoption will depend on whether the new control loop creates repeatable work, not just impressive demos.",
+        "watch": "Look for workflows in storyboarding, learning, gaming, or robotics where real-time steering earns repeated use despite current drift and text-quality limits.",
+        "collectedAt": "2026-10-28"
+      },
+      {
+        "title": "Anthropic expands enterprise accounts across products",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+        "sourceDate": "2026-10-26",
+        "whatHappened": "Anthropic's filing said more than half of customers spending at least $100,000 annually now use both its Claude platform and a first-party app such as Claude Code or Cowork, up from about 30% at the end of last year.",
+        "whyItMatters": "This is a concrete example of expansion through broader category usage rather than a loyalty story alone: the account becomes more valuable when the product reaches additional jobs and teams.",
+        "watch": "Separate genuine cross-workflow adoption from account concentration and high-spend outliers before treating retention or net revenue expansion as a general growth law.",
+        "collectedAt": "2026-10-28"
+      },
+      {
+        "title": "Etsy makes authenticity a visible part of product discovery",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/etsy-updates-ai-use-policies-emphasize-craftsmanship/833838/",
+        "sourceDate": "2026-10-23",
+        "whatHappened": "Etsy updated seller rules to require an authentic, non-AI-generated image in most listings, restrict AI-generated functional guides, and add tools to flag likely AI imagery while using AI internally for discovery and matching.",
+        "whyItMatters": "The marketplace is making a category distinction legible at the moment of choice: AI can improve matching, but visible proof of human making protects the reason some buyers choose Etsy.",
+        "watch": "Watch whether authenticity cues broaden buyer confidence and conversion, or mainly reassure existing craft-oriented customers without expanding reach.",
+        "collectedAt": "2026-10-28"
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-10-28",
+        "sourceDate": "2026-10-28",
+        "feed": "following",
+        "author": "signüll",
+        "handle": "signulll",
+        "title": "A product fragment on turning capability into behavior",
+        "summary": "This fragment is useful because it names the behavioral question behind a new capability. The important test is not whether the feature is impressive, but whether it changes a repeated workflow enough for the user to adopt it.",
+        "text": "unpopular opinion: ai generated designs are not slop. or even remotely close to slop.\n\nai raises the design floor so dramatically now that dismissing it as such is really no diff than when mathematicians got irked when ai solved decades old math problems.\n\nif you’ve studied interaction design to any extent you obviously know that so so much of it is patterns, conventions, & adapting to established behaviors. geee, imagine what new technology is amazing at this?\n\nyou should maximize its utilization.",
+        "url": "https://x.com/signulll/status/2115270876807475691"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
