@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-29",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-10-29 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "0bb5d13a2f73b965d35702095a0978b51e367772",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Thursday, 29 October 2026",
+    "Issue 090",
+    "Change the frame before you optimize the choice."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 29 October 2026",
+  "gmail_message_id": "01a185e7-7f5c-7a33-b2aa-1099211990fc",
+  "completed_at_ist": "2026-10-29 09:55:03 IST"
+}
