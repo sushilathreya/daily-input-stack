@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-29",
+  "displayDate": "Thursday, 29 October 2026",
+  "issueNumber": 90,
+  "title": "Change the frame before you optimize the choice.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 2 of Rory Sutherland's Alchemy, value appears when the frame around a choice changes. The practical question is not only what a thing costs, but what meaning, context, and perception make it worth choosing.",
+  "meta": {
+    "canon": "Rory Sutherland, <em>Alchemy</em>",
+    "study": "35-45 min",
+    "practice": "one value reframing audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "When the obvious lever is price or efficiency, look for the frame that determines what the choice means. A different context can create value without changing the underlying object."
+  },
+  "canon": {
+    "author": "Rory Sutherland",
+    "work": "Alchemy",
+    "chapter": "An Alchemist's Tale (Or Why Magic Really Still Exists)",
+    "chapterLabel": "Chapter 2, \"An Alchemist's Tale (Or Why Magic Really Still Exists)\"",
+    "field": "human behaviour / psychology / value creation",
+    "pageRange": "PDF pages 113-133; read the complete Chapter 2 and stop before Chapter 3, \"Signalling,\" begins on PDF page 134.",
+    "pageCount": 21,
+    "stopPoint": "Stop at the end of PDF page 133. Do not continue into Chapter 3, \"Signalling,\" which begins on PDF page 134.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Alchemy - Rory Sutherland.pdf",
+      "driveUrl": "https://drive.google.com/file/d/1N3T4Qh1LHH6_Fibe-8WlW6COvwEiJyN4/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "scanned_image_pdf_with_outline_boundary_verification",
+        "tool": "local raw PDF outline and page-object inspection with Python",
+        "nativeTextPages": "PDF pages 113-133",
+        "tableOfContentsVerified": true,
+        "notes": "The local Books PDF was inspected directly. Its outline maps Chapter 2, \"An Alchemist's Tale (Or Why Magic Really Still Exists),\" to page object 142 and Chapter 3, \"Signalling,\" to page object 163. Mapping those destinations across the PDF's 628 /Type/Page objects yields PDF pages 113 and 134 respectively, so the complete bounded Chapter 2 reading is PDF pages 113-133."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1N3T4Qh1LHH6_Fibe-8WlW6COvwEiJyN4/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Alchemy - Rory Sutherland.pdf\""
+    },
+    "heading": "The frame around a choice can be part of the value.",
+    "standfirst": "Read Chapter 2, \"An Alchemist's Tale (Or Why Magic Really Still Exists),\" from Rory Sutherland's <em>Alchemy</em> on PDF pages 113-133. Sutherland shows how meaning, context, semantics, and design can change what people value without changing the underlying physical thing.",
+    "readerIntro": "Read this chapter as a study of value that conventional optimisation misses. Mark where Sutherland shows logic being improved by a change of frame, how a symbolic or contextual shift changes behaviour, and where the alchemist's move creates value rather than merely describing it. Then audit one offer: identify the physical object, the current frame around it, and one alternative frame that could make its value more legible. Stop at PDF page 133.",
+    "blocks": [
+      {
+        "label": "01 / Magic begins by changing the question",
+        "paragraphs": [
+          "Sutherland's alchemy is not a claim that the laws of physics have disappeared. It is a way of noticing that human value is produced through interpretation, context, and expectation as well as through material inputs.",
+          "Study the moments where a narrow question about efficiency or function prevents a better question about what the person is actually trying to feel, signal, or accomplish."
+        ]
+      },
+      {
+        "label": "02 / Meaning can alter the value of the same thing",
+        "paragraphs": [
+          "The same object, service, or experience can become more valuable when its story, setting, language, or social meaning changes. The change is not fake because it is psychological; the perception is part of the user's experience.",
+          "Notice how this expands the marketer's work. Value may be created by changing the frame around an offer rather than by adding features or cutting price."
+        ]
+      },
+      {
+        "label": "03 / Irrationality is a design opportunity",
+        "paragraphs": [
+          "A behaviour that looks irrational under a functional model may make sense once status, reassurance, identity, or context enters the picture. The anomaly is a clue that the offer is being evaluated on more dimensions than the spreadsheet records.",
+          "Separate a superficial gimmick from a meaningful reframing: ask whether the new frame helps the person experience a real benefit or merely distracts from a weak offer."
+        ]
+      },
+      {
+        "label": "04 / Reframe one live offer",
+        "paragraphs": [
+          "Choose one product or service whose value proposition is trapped in features, cost, or efficiency. Write the physical thing, the human job it serves, and the current meaning attached to it.",
+          "Then test one alternative frame: a different setting, name, ritual, proof point, or social meaning that could make the existing value easier to perceive and choose."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "An Alchemist's Tale",
+      "Why Magic Really Still Exists",
+      "value is in the mind and heart of the valuer",
+      "alchemy of semantics",
+      "alchemy of design"
+    ],
+    "closeReading": [
+      "Where does Sutherland show that changing the frame around an object can change its value without changing its physical properties?",
+      "What does the chapter add to a purely functional or economic account of why people choose?",
+      "Choose one behaviour your team calls irrational. What context, status, identity, or reassurance could make it intelligible?",
+      "How can you distinguish a meaningful reframing from a superficial gimmick that hides a weak offer?",
+      "What is one alternative name, setting, ritual, or proof point that could make an existing offer more valuable to the people it serves?"
+    ]
+  },
+  "principle": {
+    "heading": "Change the frame before changing the thing.",
+    "body": "People do not value objects in isolation. Meaning, context, status, reassurance, and design can change the experience of the same underlying offer, so inspect the frame before reaching for more features or a lower price.",
+    "exampleLabel": "One example",
+    "example": "A neighbourhood clinic presents its first appointment as a 30-minute health-navigation session with a written next-step plan rather than as a generic consultation. The medical service may be similar, but the frame makes reassurance and progress visible.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one offer. Write the physical thing, the current frame, the human value it is meant to create, and three alternative frames. Pick the strongest one and state what evidence would show that it improves perceived value rather than merely adding decoration."
+  },
+  "output": {
+    "heading": "Make the hidden value easier to perceive.",
+    "body": "A stronger offer does not always require more substance. Sometimes the work is to change the context, language, or design so the human value already present can be recognised and chosen."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "collectedAt": "2026-10-29",
+    "heading": "Four current signals on making value legible by changing the frame around the choice.",
+    "fieldNotes": [
+      {
+        "title": "Google takes AI Search ads global as search monetization changes shape",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+        "sourceDate": "2026-10-28",
+        "collectedAt": "2026-10-29",
+        "whatHappened": "Google said it is expanding ads in AI Overviews and AI Mode to international markets, alongside multi-turn ads and AI Mode in the U.S. The company said AI Mode queries are longer and more multimodal than traditional searches, while core Search ad growth has slowed.",
+        "whyItMatters": "The frame of search is shifting from a list of links to an answer-and-recommendation environment. Advertisers may gain more context about intent, but they also have to earn relevance inside a conversation rather than merely win a position on a results page.",
+        "watch": "Watch whether users treat sponsored recommendations in AI answers as useful guidance or as an interruption, and whether the new format creates incremental demand rather than relocating existing clicks."
+      },
+      {
+        "title": "Sephora frames beauty gifting for people who do not know beauty",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/sephora-casts-seth-rogen-for-holiday-ads-targeted-at-gift-givers/872877/",
+        "sourceDate": "2026-10-28",
+        "collectedAt": "2026-10-29",
+        "whatHappened": "Sephora’s holiday campaign uses Seth Rogen as a clueless shopper and makes advisor help, a curated product list, humor, and a temporary Sethphora store takeover part of the experience for gift-givers who lack beauty knowledge.",
+        "whyItMatters": "The campaign changes the job from choosing a beauty product to becoming a thoughtful giver without needing specialist knowledge. The product may be the same, but the frame reduces uncertainty and makes the emotional benefit of the purchase visible.",
+        "watch": "Watch whether the novice-friendly frame brings new gift buyers into the category and converts them with advisor support, rather than only entertaining existing Sephora customers."
+      },
+      {
+        "title": "TikTok turns social recommendation into a local dining guide",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
+        "sourceDate": "2026-10-28",
+        "collectedAt": "2026-10-29",
+        "whatHappened": "TikTok launched Must Eat, a community-driven restaurant guide that organizes recommendations from more than 40 million posts and comments by city, cuisine, price, rating, and location. In selected markets, users can book through OpenTable.",
+        "whyItMatters": "TikTok is reframing discovery as a trusted social shortlist rather than a conventional directory. The move makes the path from inspiration to decision and booking more continuous, using the platform’s existing cultural authority as the value proposition.",
+        "watch": "Watch whether the social proof produces repeat local utility and bookings, or whether users still leave for maps and reviews when the choice requires confidence about practical details."
+      },
+      {
+        "title": "Apple makes the touchscreen MacBook a premium status choice",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+        "sourceDate": "2026-10-28",
+        "collectedAt": "2026-10-29",
+        "whatHappened": "Apple launched a touchscreen MacBook Pro starting at $2,899, with high-end configurations reaching roughly $14,549. Preorders open October 30 and availability begins November 6.",
+        "whyItMatters": "The product is not only a bundle of processor, memory, and screen specifications; its price and new input mode frame it as an elite professional instrument. That frame can justify a premium only if the interaction model creates a benefit buyers can feel in repeated work.",
+        "watch": "Watch whether touchscreen workflows become a durable reason to choose the MacBook Pro, or whether the feature remains a conspicuous symbol whose value is mostly explained by the price itself."
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-10-29",
+        "sourceDate": "2026-10-29",
+        "feed": "following",
+        "author": "signüll",
+        "handle": "signulll",
+        "title": "A market fragment on selling taste, status, and belonging",
+        "summary": "This fragment is useful because it notices that premium value can come from helping people acquire discernment, privacy, belonging, or social legitimacy—not only from supplying another material product. It is a provocative market hypothesis, so the practical test is whether the service creates real confidence and access rather than merely performing exclusivity.",
+        "text": "now that sf bay area is about to mint millionaires, if you want to capitalize, these are the businesses you should start & you should have dynamic pricing that adjusts based on wealth of the buyer:\n\n- high end interior designer (charge for services & take commission from the purchases). only recommend very high end items.\n\n- taste as a service. personal stylists, art advisers, & cultural curators. help ppl acquire discernment.\n\n- private household staff (personal chef, housekeeper, etc).\n\n- private social infrastructure. obviously the newly wealthy can buy material goods immediately but they cannot instantly purchase friendship, romantic relationships, belonging, or social legitimacy.\n\n- ultra premium childcare.\n\n- personal privacy & security.\n\nthe general rule of thumb is that you want to avoid building luxury services / products whose supply can expand as quickly as demand.",
+        "url": "https://x.com/signulll/status/2115610523542737403"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
