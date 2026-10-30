@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-30",
+  "displayDate": "Friday, 30 October 2026",
+  "issueNumber": 91,
+  "title": "Make the offer reachable where demand appears.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 14 of Scientific Advertising, Claude C. Hopkins treats distribution as part of the selling system: demand is wasted when buyers cannot find the product, and advertising must help create a reliable path from interest to supply.",
+  "meta": {
+    "canon": "Claude C. Hopkins, <em>Scientific Advertising</em>",
+    "study": "20-30 min",
+    "practice": "one distribution path audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A promise cannot carry a product farther than the buyer's next practical step. Make the route from interest to availability part of the offer before spending more to create demand."
+  },
+  "canon": {
+    "author": "Claude C. Hopkins",
+    "work": "Scientific Advertising",
+    "chapter": "Getting Distribution",
+    "chapterLabel": "Chapter 14, \"Getting Distribution\"",
+    "field": "advertising / distribution / customer acquisition / market access",
+    "pageRange": "PDF pages 43-45 in the local text-verified edition; begin at Chapter 14, \"Getting Distribution,\" on PDF page 43 and stop before Chapter 15, \"Test Campaigns,\" begins on PDF page 46.",
+    "pageCount": 3,
+    "stopPoint": "Stop at the end of PDF page 45. Do not continue into Chapter 15, \"Test Campaigns,\" which begins on PDF page 46.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_public_domain_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Scientific Advertising - Claude C. Hopkins.pdf",
+      "driveUrl": "https://jonrognerud.com/claude.pdf",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "native_text_pdf_with_local_stream_boundary_verification",
+        "tool": "local PDF page-stream decompression and text inspection with Python",
+        "nativeTextPages": "Chapter 14, \"Getting Distribution,\" opens on PDF page 43 and Chapter 15, \"Test Campaigns,\" opens on PDF page 46, yielding the bounded reading on PDF pages 43-45.",
+        "tableOfContentsVerified": true,
+        "notes": "The local VPS source was inspected directly. The verified page-stream boundary places Chapter 14 after Chapter 13 on PDF page 43 and before Chapter 15 on PDF page 46."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://jonrognerud.com/claude.pdf",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Scientific Advertising - Claude C. Hopkins.pdf\""
+    },
+    "heading": "Distribution is part of the promise.",
+    "standfirst": "Read Chapter 14, \"Getting Distribution,\" from Claude C. Hopkins's <em>Scientific Advertising</em> on PDF pages 43-45. Hopkins shows that advertising cannot create profitable demand when buyers cannot find the product, and that local proof, samples, dealer visibility, and a deliberate route to stock can make an offer reachable.",
+    "readerIntro": "Read this chapter as a study of the path between attention and purchase. Mark where Hopkins treats availability as a condition of profitable advertising, how local campaigns and named dealers create distribution, and how samples or direct orders can bridge the gap before broad coverage exists. Then audit one offer: map the buyer's first interest, the place they expect to find it, and the failure point if supply is missing. Stop at PDF page 45.",
+    "blocks": [
+      {
+        "label": "01 / Demand is wasted when supply is absent",
+        "paragraphs": [
+          "Hopkins begins with a practical constraint: national advertising is unthinkable when people who respond cannot find the goods. Interest that has nowhere to go is not a sale; it is an avoidable failure in the system.",
+          "Study the distance between a persuasive message and a stocked product. Ask which part of the route the advertiser is assuming rather than designing."
+        ]
+      },
+      {
+        "label": "02 / Build distribution from the ground up",
+        "paragraphs": [
+          "Hopkins describes ways to begin locally, create direct demand, use samples, name stocked dealers, and let successful advertising make other dealers more willing to carry the line.",
+          "Notice how local proof lowers the risk for the trade. Distribution can compound when each visible point of availability makes the next point easier to secure."
+        ]
+      },
+      {
+        "label": "03 / Make the buyer's route visible",
+        "paragraphs": [
+          "The chapter treats the dealer, retailer, jobber, sample offer, and direct order as parts of one commercial path. The right method depends on the product, its buying frequency, and how widely it must be available.",
+          "Translate the historical examples into a current journey: where does the buyer discover the offer, verify it, obtain it, and return for more?"
+        ]
+      },
+      {
+        "label": "04 / Audit one broken handoff",
+        "paragraphs": [
+          "Choose an offer that receives attention but loses momentum before purchase. Identify the missing stock point, unclear handoff, or channel assumption that prevents the interested buyer from completing the action.",
+          "Then choose one small distribution test: a named local partner, a direct-order path, a sample referral, or a clearer availability promise that can be measured by completed customers."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "Getting Distribution",
+      "nine in ten of the converts fail to find the goods",
+      "start by soliciting direct sales",
+      "name the dealers who are stocked",
+      "local advertising"
+    ],
+    "closeReading": [
+      "Why does Hopkins treat distribution as a condition of profitable advertising rather than as a separate retail problem?",
+      "Which methods does he describe for creating demand before a product has broad dealer coverage?",
+      "How do named dealers, samples, or local campaigns reduce the risk of stocking an unknown line?",
+      "Where does one of your current offers lose interested buyers because the next place to find or obtain it is unclear?",
+      "What small distribution test could you run this week, and what completed-customer measure would show that it worked?"
+    ]
+  },
+  "principle": {
+    "heading": "Make the path to purchase part of the offer.",
+    "body": "Advertising creates useful pressure only when the buyer can follow it to a product, partner, or next action. Design availability and measure completed customers alongside attention.",
+    "exampleLabel": "One example",
+    "example": "A specialist consultant names three local referral partners, gives each a simple booking route, and sends qualified prospects directly to the partner who can serve them. The campaign is judged by completed engagements, not inquiries alone.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one offer. Draw the route from first attention to completed purchase, mark the first handoff that depends on an assumption, and design one measurable distribution test to remove that friction."
+  },
+  "output": {
+    "heading": "Close the distance between interest and supply.",
+    "body": "Map where an interested buyer should find, verify, and obtain the offer. Fix the weakest handoff before buying more attention."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "collectedAt": "2026-10-30",
+    "heading": "Four current signals on making demand reachable at the point of choice.",
+    "fieldNotes": [
+      {
+        "title": "Google opens Search and Gemini to more connected apps",
+        "source": "Google",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
+        "sourceDate": "2026-10-28",
+        "collectedAt": "2026-10-30",
+        "whatHappened": "Google launched a preview of a Connected Apps Platform where developers can build once and reach users in Search and the Gemini app. The company says more than 50 connected apps are already live across areas such as productivity, ticketing, health, fitness, groceries, and reservations.",
+        "whyItMatters": "Distribution is moving into the answer surface itself. For many offers, the winning path may be an authenticated action inside a high-intent conversation rather than a click that sends the buyer to another site and asks them to reconstruct the journey.",
+        "watch": "Watch whether connected apps create incremental completed actions or merely relocate traffic, and whether brand identity, latency, and error-rate controls are strong enough for businesses to trust the new route."
+      },
+      {
+        "title": "OpenAI reorganizes its Model Spec around five operating values",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/updated-model-spec/",
+        "sourceDate": "2026-10-29",
+        "collectedAt": "2026-10-30",
+        "whatHappened": "OpenAI updated its public Model Spec around faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care, adding guidance on context, oversight, agency, and side effects.",
+        "whyItMatters": "As AI systems take more consequential actions, the product promise includes the judgment layer around the action: understanding intent, communicating uncertainty, and keeping people able to inspect or redirect the route. That is distribution of capability with guardrails, not capability alone.",
+        "watch": "Watch whether these values become visible controls and evaluation signals in products, rather than remaining a statement that users cannot connect to the decisions an agent makes on their behalf."
+      },
+      {
+        "title": "Granola extends its meeting product into cross-app dictation",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+        "sourceDate": "2026-10-29",
+        "collectedAt": "2026-10-30",
+        "whatHappened": "Granola launched a Mac dictation feature that cleans up spoken input and posts the result across apps, including notes, prompts, email, and messages. The move follows Wispr's expansion from dictation into meeting notes and reflects a wider convergence among voice tools.",
+        "whyItMatters": "A focused product is widening its distribution by meeting the user in more moments of work. The useful unit is no longer only the meeting transcript; it is the handoff from speech to the next system where work continues.",
+        "watch": "Watch whether cross-app availability produces repeated daily use and completed work, or whether feature convergence makes switching costs and differentiation harder to sustain."
+      },
+      {
+        "title": "Meta uses an existing social graph to distribute an AI wardrobe assistant",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+        "sourceDate": "2026-10-29",
+        "collectedAt": "2026-10-30",
+        "whatHappened": "Meta launched Style Sketch in Indonesia, Singapore, and Thailand. The app builds a virtual closet from Instagram photos or uploaded images, suggests outfits from clothes users own, and offers virtual try-ons, weather-based looks, and trip packing plans.",
+        "whyItMatters": "The route to a useful recommendation begins with a dataset the user already created on another surface. Distribution is not only where the app is listed; it is the permission, context, and existing identity that reduce the work required to reach the first useful result.",
+        "watch": "Watch whether Instagram's existing style graph improves activation and retention enough to overcome privacy friction, and whether the app drives wardrobe decisions rather than just generating try-on novelty."
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-10-30",
+        "sourceDate": "2026-10-29",
+        "feed": "for_you",
+        "author": "David Park",
+        "handle": "Davidjpark96",
+        "title": "A founder's distribution path from public building to acquisition",
+        "summary": "David Park shared that Jenni AI was acquired by Digital Science after building in public from the first day through pivots, near-bankruptcy, and a peak in MRR before the deal. The useful fragment is the compounding effect of making the journey visible: an archive can become part of the product's distribution and trust layer.",
+        "text": "our startup was acquired today :) jenni ai is now part of the digital science family. we built in public from day one all the way to exit, sharing the pivots, near bankruptcies, and general hijinks along the way, and hit our highest MRR shortly before deal close.",
+        "url": "https://x.com/Davidjpark96/status/2115771167026069600"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
