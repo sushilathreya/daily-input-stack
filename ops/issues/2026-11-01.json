@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-01",
+  "displayDate": "Sunday, 1 November 2026",
+  "issueNumber": 92,
+  "title": "Make the destination worth moving toward.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 10 of Building a StoryBrand, Donald Miller shows why a clear, concrete picture of the customer's successful future gives a message somewhere meaningful to go.",
+  "meta": {
+    "canon": "Donald Miller, <em>Building a StoryBrand</em>",
+    "study": "20-30 min",
+    "practice": "one success-vision audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A benefit stays abstract until the customer can picture the changed life it leads to. Give the promise a destination specific enough to recognize."
+  },
+  "canon": {
+    "author": "Donald Miller",
+    "work": "Building a StoryBrand",
+    "chapter": "And Ends in a Success",
+    "chapterLabel": "Chapter 10, \"And Ends in a Success\"",
+    "field": "storytelling / marketing communication / positioning",
+    "pageRange": "EPUB Chapter 10 only; begin at the Chapter 10 heading in `index_split_025.html` and stop at the end of that chapter before the next chapter begins in the following EPUB split file.",
+    "pageCount": 1,
+    "stopPoint": "Stop at the end of Chapter 10 in the local EPUB. Do not continue into the next chapter after the Chapter 10 closing exercise.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_epub",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub",
+      "driveUrl": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "native_text_epub_with_toc_and_split-file_boundary_verification",
+        "tool": "local EPUB unzip, NCX inspection, and native XHTML extraction",
+        "nativeTextPages": "Chapter 10, \"And Ends in a Success,\" begins in index_split_025.html and runs to the end of that chapter before the following chapter split file.",
+        "tableOfContentsVerified": true,
+        "notes": "The local Books EPUB was inspected directly. Native XHTML confirms the complete Chapter 10 boundary; the EPUB has no separate printed-page map."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub\""
+    },
+    "heading": "A clear promise needs a future the customer can see.",
+    "standfirst": "Read Chapter 10, \"And Ends in a Success,\" from Donald Miller's <em>Building a StoryBrand</em>. Miller argues that brands should make the customer's successful future specific and vivid enough to motivate action.",
+    "readerIntro": "Read this chapter as a study of outcome design. Mark how Miller turns an abstract benefit into a concrete picture of life after the problem is solved, how he uses status, completeness, and self-realization to explain satisfying endings, and where a brand can promise a future without overclaiming. Then audit one offer: describe the customer's external, internal, and philosophical before-and-after state in plain language. Stop at the end of Chapter 10.",
+    "blocks": [
+      {
+        "label": "01 / Give the story a destination",
+        "paragraphs": [
+          "Miller's central claim is that customers want to be taken somewhere. A message becomes more useful when it names the future the offer helps make possible rather than leaving the destination as a vague improvement.",
+          "Study the difference between a broad aspiration and a specific, achievable image that lets the customer recognize what success would look like."
+        ]
+      },
+      {
+        "label": "02 / Make success specific",
+        "paragraphs": [
+          "The chapter treats clarity as a form of motivation: stories resolve in defined outcomes, and brands should describe the changed life with enough detail to be pictured.",
+          "Notice how before-and-after thinking can reveal useful copy across what customers do, feel, and become."
+        ]
+      },
+      {
+        "label": "03 / Close the right story loop",
+        "paragraphs": [
+          "Miller explains satisfying endings through desires such as status, external completeness, self-realization, acceptance, and transcendence. These are lenses for understanding the emotional resolution behind a functional purchase.",
+          "Separate a genuine customer resolution from a decorative promise that sounds inspiring but does not describe a life the offer can credibly change."
+        ]
+      },
+      {
+        "label": "04 / Audit one promised future",
+        "paragraphs": [
+          "Choose one offer and write the customer's before-and-after state: what changes externally, how the customer feels internally, and what larger meaning the change carries.",
+          "Then reduce the result to one clear sentence and check whether the product, proof, and imagery all point toward the same destination."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "And Ends in a Success",
+      "people want to be taken somewhere",
+      "THE ENDING SHOULD BE SPECIFIC AND CLEAR",
+      "BEFORE AND AFTER",
+      "CLOSING THE STORY LOOPS"
+    ],
+    "closeReading": [
+      "Why does Miller say a brand needs to make the customer's successful future clear rather than merely describe a product benefit?",
+      "How does the before-and-after exercise make an abstract promise more concrete?",
+      "What is the difference between a useful story resolution and an inspirational phrase that the offer cannot substantiate?",
+      "Which of the chapter's resolutions—status, completeness, self-realization, acceptance, or transcendence—best describes one offer you work on, and why?",
+      "Rewrite one benefit-led message so the customer can picture what changes in their actions, feelings, and status after choosing the offer."
+    ]
+  },
+  "principle": {
+    "heading": "Make the promised future concrete enough to recognize.",
+    "body": "A customer moves more readily toward a destination they can picture. Describe the external change, internal feeling, and larger meaning your offer can credibly help create.",
+    "exampleLabel": "One example",
+    "example": "A career coaching service replaces \"Reach your potential\" with \"Leave each Friday knowing which three decisions matter next week, and explain them clearly to your team.\" The future is specific enough to imagine and inspect.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one offer. Write the customer's before-and-after state in three columns—what changes externally, how they feel, and what the change means—then turn the clearest resolution into one specific promise. Remove anything the offer cannot credibly support."
+  },
+  "output": {
+    "heading": "Give the promise somewhere worth going.",
+    "body": "Replace vague improvement with a concrete picture of the customer's changed life, then make sure the product and proof actually lead toward it."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "collectedAt": "2026-11-01",
+    "heading": "Four current signals on making a promised future concrete and credible.",
+    "fieldNotes": [
+      {
+        "title": "OpenAI gives publishers a shared signal for AI-training preferences",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
+        "sourceDate": "2026-10-30",
+        "collectedAt": "2026-11-01",
+        "whatHappened": "OpenAI said it will honor a common robots.txt signal that lets website operators communicate AI-training preferences to multiple participating providers, while keeping existing crawler controls in place.",
+        "whyItMatters": "The promise is not simply more control; it is a more legible path from a publisher's preference to a provider's behavior. In trust-sensitive products, a future customers can believe depends on visible mechanisms, not only an appealing principle.",
+        "watch": "Watch whether the shared signal becomes consistently honored across providers and whether publishers can inspect the effect without maintaining a separate maze of rules."
+      },
+      {
+        "title": "Clorox shifts from campaign launches to systems of relevance",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/why-clorox-shifted-from-creating-brand-campaigns-to-systems-of-relevance/838232/",
+        "sourceDate": "2026-10-26",
+        "collectedAt": "2026-11-01",
+        "whatHappened": "Marketing Dive reported that Clorox is replacing one-off campaign thinking with continuous systems of relevance for Pine-Sol, Brita, and Hidden Valley, using people, AI automation, partners, and fast feedback loops to adapt creative while it is live.",
+        "whyItMatters": "A brand promise becomes more credible when the organization can keep learning after launch. Clorox's examples connect the destination to visible operating behaviors: listen, make small bets, improve, and follow consumers into the moments that matter.",
+        "watch": "Watch whether continuous content systems improve durable business outcomes rather than optimizing for a stream of engagement signals that never changes the customer's decision."
+      },
+      {
+        "title": "Most consumers still do not begin product discovery with AI",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/most-consumers-arent-using-ai-for-product-discovery-yet/833604/",
+        "sourceDate": "2026-10-29",
+        "collectedAt": "2026-11-01",
+        "whatHappened": "Retail Dive reported that an AlixPartners survey of more than 9,000 U.S. consumers found only 10% currently begin product discovery with AI, while interest is stronger among higher-income shoppers and most consumers are not yet ready to hand over the purchase itself.",
+        "whyItMatters": "The gap between interest and behavior is a useful test for outcome-led positioning. Retailers may need structured product data and clear brand context before an AI recommendation can become a trusted route to a purchase rather than a novelty or comparison step.",
+        "watch": "Watch whether adoption rises first for commoditized, spec-and-price purchases while premium categories remain relationship-led, and whether brands can stay visible when an agent mediates discovery."
+      },
+      {
+        "title": "Fanatics makes the outfit recommendation concrete at the product page",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/fanatics-openai-outfit-curation-tool/873180/",
+        "sourceDate": "2026-10-29",
+        "collectedAt": "2026-11-01",
+        "whatHappened": "Retail Dive reported that Fanatics rebuilt its Shop the Look tool with OpenAI models to recommend coordinated, in-stock outfits using product, team, and inventory data; the retailer said the pilot produced 10% higher engagement than the previous version.",
+        "whyItMatters": "The customer can see the promised future at the moment of choice: not merely a product page, but a complete look assembled from available items. The result is inspectable because relevance rules, inventory, and a measurable engagement change sit behind the recommendation.",
+        "watch": "Watch whether higher engagement becomes completed baskets and better customer satisfaction, and whether daily refreshes keep recommendations useful without making the shopping experience feel over-directed."
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-11-01",
+        "sourceDate": "2026-10-31",
+        "feed": "for_you",
+        "author": "Patrick Collison",
+        "handle": "patrickc",
+        "title": "A personal app makes improvement a visible destination",
+        "summary": "Patrick Collison described adding an improvements field to personal applications so an agent can implement submitted rough edges, while also questioning how the pattern scales for reliability, security, and collaboration. The useful fragment is the immediate before-and-after: a user can name the change they want and see the software become more adjustable.",
+        "text": "I'm now building an \"improvements\" feature into all of my personal vibecoded applications: a freeform text input that's hooked up to an agent that yolo implements whatever is submitted. It's an interesting experience -- the activation energy barrier to sanding any rough edge or implementing any new feature becomes extremely low. Someone else who uses one of the applications I created has already implemented 150 improvements over the course of a few days. This pattern feels like a new kind of tool -- liquid software? -- and every application that doesn't have this feature now has a slightly rigid and anachronistic flavor. Why can't I just tell it how I want it to be different?",
+        "url": "https://x.com/patrickc/status/2116636967517798672"
+      }
+    ],
+    "tweetHeading": "Two fragments on making the promised change visible."
+  }
+}
