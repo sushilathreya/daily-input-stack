@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-02",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-11-02 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "5d6071cedb0f47a7c15b789838eed9e842956562",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Monday, 2 November 2026",
+    "Issue 093",
+    "Make the offer concrete enough to act on."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 2 November 2026",
+  "gmail_message_id": "01a19a80-eed1-7930-a8f0-9c9ade9f2b72",
+  "completed_at_ist": "2026-11-02 09:55:03 IST"
+}

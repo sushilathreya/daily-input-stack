@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-01",
+  "week_start": "2026-11-02",
+  "week_end": "2026-11-08",
+  "status": "planned",
+  "theme": "Make commercial meaning travel: shape the offer, give change dramatic consequence, claim a mental position, design for irrational human value, match strategy to disruption, build a repeatable growth loop, and make the promised transformation vivid.",
+  "days": [
+    {
+      "date": "2026-11-02",
+      "master": "Claude C. Hopkins",
+      "work": "Scientific Advertising",
+      "chapter_or_section": "Chapter 3, \"The Offer\"",
+      "fundamental": "Persuasion: make the desired response concrete by putting a clear, credible offer in front of the prospect.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Scientific Advertising - Claude C. Hopkins.pdf",
+      "drive_link": "",
+      "fallback_acquire_note": "Available locally. No verified Drive link is recorded; canon prep should parser-preflight the PDF and bound Chapter 3 to a reading under 60 pages."
+    },
+    {
+      "date": "2026-11-03",
+      "master": "Robert McKee",
+      "work": "Story: Substance, Structure, Style, and the Principles of Screenwriting",
+      "chapter_or_section": "Chapter 16, \"The Story Climax\"",
+      "fundamental": "Storytelling: make the final change feel earned by concentrating the narrative's values, choices, and consequences in the climax.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Robert McKee - Story .pdf",
+      "drive_link": "https://drive.google.com/file/d/1B1FBVTR0Z2YvQYJ7zoEOgmEI-q8GHetu/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history records McKee through Chapter 15; canon prep should verify the Chapter 16 boundary and assign a bounded section under 60 pages."
+    },
+    {
+      "date": "2026-11-04",
+      "master": "Al Ries and Jack Trout",
+      "work": "Positioning: The Battle for Your Mind",
+      "chapter_or_section": "Chapter 13, next unstudied chapter after \"The Line-Extension Trap\"",
+      "fundamental": "Positioning/brand: protect a distinct mental slot by recognizing the next trap that weakens a brand's simple, ownable association.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Positioning - Al Ries and Jack Trout.pdf",
+      "drive_link": "https://drive.google.com/file/d/1fISuTXG4QmxQ6MrFaI3wxE6eR6EoEh-p/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history reaches Chapter 12; canon prep must inspect the PDF contents, confirm the exact Chapter 13 heading, and stop within 60 pages."
+    },
+    {
+      "date": "2026-11-05",
+      "master": "Rory Sutherland",
+      "work": "Alchemy",
+      "chapter_or_section": "Chapter 3, next unstudied main chapter after \"An Alchemist's Tale (Or Why Magic Really Still Exists)\"",
+      "fundamental": "Human desire/psychology: interpret choice through context, status, emotion, and perceived value rather than rational optimisation alone.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Alchemy - Rory Sutherland.pdf",
+      "drive_link": "https://drive.google.com/file/d/1N3T4Qh1LHH6_Fibe-8WlW6COvwEiJyN4/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history records through Chapter 2; canon prep should verify the scanned contents for the exact Chapter 3 title and assign a bounded section."
+    },
+    {
+      "date": "2026-11-06",
+      "master": "Clayton M. Christensen",
+      "work": "The Innovator's Dilemma",
+      "chapter_or_section": "Chapter 11, next unstudied chapter after \"The Dilemmas of Disruptive Technology\"",
+      "fundamental": "Tech/strategy: place disruptive experiments where their emerging customers, incentives, and decision rules can survive incumbent demands.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/The Innovator’s Dilemma - Clayton Christensen.pdf",
+      "drive_link": "https://drive.google.com/file/d/1X5-ZodswFwiIg2uFtgLMZNHzmJqCtu8w/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history reaches Chapter 10; canon prep must parser-preflight the scanned PDF, verify whether a distinct Chapter 11 exists, and assign a confirmed under-60-page section or flag the source as exhausted."
+    },
+    {
+      "date": "2026-11-07",
+      "master": "Sean Ellis and Morgan Brown",
+      "work": "Hacking Growth",
+      "chapter_or_section": "Chapter Ten, next unstudied section after \"A Virtuous Growth Cycle\"",
+      "fundamental": "Distribution/growth: turn acquisition, activation, retention, and monetization into a measurable loop that compounds learning and reach.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Hacking Growth.epub",
+      "drive_link": "https://drive.google.com/file/d/1wtU-SZ-6s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history records through Chapter Nine; canon prep should inspect the EPUB contents, confirm the next bounded section, and keep it under 60 pages."
+    },
+    {
+      "date": "2026-11-08",
+      "master": "Donald Miller",
+      "work": "Building a StoryBrand",
+      "chapter_or_section": "Chapter 11, next unstudied section after \"And Ends in a Success\"",
+      "fundamental": "Writing/taste: make the transformation specific, legible, and emotionally satisfying so the audience can picture the after-state.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Building a Stroybrand.epub",
+      "drive_link": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history records through Chapter 10; canon prep should inspect the EPUB table of contents, confirm the next section, and assign only that bounded reading."
+    }
+  ],
+  "created_at_ist": "2026-11-01 18:00:00 IST",
+  "created_by": "weekly-program-agent"
+}
