@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-05",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-11-05 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "8ce9fe0952e03a7feedd7f316921c2377cece724",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Thursday, 5 November 2026",
+    "Issue 096",
+    "Make the signal costly enough to mean something."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 5 November 2026",
+  "gmail_message_id": "01a1a9f4-02e2-7b48-8c07-fd0e883bef36",
+  "completed_at_ist": "2026-11-05 09:55:03 IST"
+}
