@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-06",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-11-06 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "867ef02aab7de2f175f61b26deed225c9100ce12",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Friday, 6 November 2026",
+    "Issue 097",
+    "Make the transformation part of the brand promise."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 6 November 2026",
+  "gmail_message_id": "01a1af1a-6116-701d-a3a2-2cb3bc589234",
+  "completed_at_ist": "2026-11-06 09:55:04 IST"
+}
