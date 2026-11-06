@@ -1,0 +1,175 @@
+{
+  "date": "2026-11-06",
+  "displayDate": "Friday, 6 November 2026",
+  "issueNumber": 97,
+  "title": "Make the transformation part of the brand promise.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 11 of Building a StoryBrand, Donald Miller explains how a brand becomes more meaningful when it participates in the customer's transformation rather than merely describing its product.",
+  "meta": {
+    "canon": "Donald Miller, <em>Building a StoryBrand</em>",
+    "study": "35-45 min",
+    "practice": "one transformation-participation audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A brand earns a place in a customer's story when it helps the customer become someone new. Describe the transformation the offer can credibly support, then make the brand's role in that change clear."
+  },
+  "canon": {
+    "author": "Donald Miller",
+    "work": "Building a StoryBrand",
+    "chapter": "People Want Your Brand to Participate in Their Transformation",
+    "chapterLabel": "Chapter 11, \"People Want Your Brand to Participate in Their Transformation\"",
+    "field": "storytelling / marketing communication / brand strategy",
+    "pageRange": "Complete EPUB Chapter 11 in index_split_026.html; begin at the Chapter 11 heading and stop before Chapter 12 begins in the following EPUB split file. The local EPUB has no stable printed-page map.",
+    "pageCount": 1,
+    "stopPoint": "Stop at the end of Chapter 11 in index_split_026.html. Do not continue into Chapter 12, \"Building a Better Website.\"",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_epub",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub",
+      "driveUrl": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "native_text_epub_with_toc_and_split_file_boundary_verification",
+        "tool": "local EPUB unzip, NCX inspection, and native XHTML extraction",
+        "nativeTextPages": "Chapter 11 is contained in index_split_026.html; Chapter 12 begins in index_split_027.html.",
+        "tableOfContentsVerified": true,
+        "notes": "The local VPS EPUB was inspected directly. Its TOC names Chapter 11, \"People Want Your Brand to Participate in Their Transformation,\" and native XHTML confirms the complete chapter boundary in index_split_026.html. The EPUB has no separate printed-page map."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub\""
+    },
+    "heading": "Let the customer become someone new with your help.",
+    "standfirst": "Read Chapter 11, \"People Want Your Brand to Participate in Their Transformation,\" from Donald Miller's <em>Building a StoryBrand</em>. Miller moves from describing a customer's desired outcome to showing how a brand can become a meaningful participant in the change the customer wants to make.",
+    "readerIntro": "Read this chapter as a study of transformation-led positioning. Mark how Miller distinguishes a product's function from the identity or life change the customer is pursuing, how a brand can participate without taking the customer's role, and where the promise must remain credible. Then audit one offer: name the customer before-state, desired after-state, and the specific role the brand can play in helping the change occur. Stop at the end of Chapter 11.",
+    "blocks": [
+      {
+        "label": "01 / Name the transformation",
+        "paragraphs": [
+          "Start with the person the customer wants to become, not only with the object or service being purchased.",
+          "Separate the functional job from the identity, confidence, status, belonging, or capability the customer hopes the purchase will support."
+        ]
+      },
+      {
+        "label": "02 / Give the brand a useful role",
+        "paragraphs": [
+          "A brand can participate in transformation by providing tools, guidance, proof, structure, or a community that helps the customer move forward.",
+          "Notice the difference between helping the customer act and making the brand the hero of the story."
+        ]
+      },
+      {
+        "label": "03 / Make identity legible",
+        "paragraphs": [
+          "Transformation becomes persuasive when the customer can recognize the new identity or life state the offer supports.",
+          "Study how language, examples, rituals, and evidence can make that future feel both desirable and attainable rather than merely aspirational."
+        ]
+      },
+      {
+        "label": "04 / Audit one transformation",
+        "paragraphs": [
+          "Choose one offer and write the customer's before-state, desired after-state, and the obstacle between them.",
+          "Then state the brand's smallest credible contribution: what it gives the customer to help make the transformation real, and what remains the customer's responsibility."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "People Want Your Brand to Participate in Their Transformation",
+      "transformation",
+      "who they want to become",
+      "before and after",
+      "brand"
+    ],
+    "closeReading": [
+      "What transformation is the customer seeking beyond the product's immediate functional benefit?",
+      "How does Miller keep the brand useful without making the brand the hero instead of the customer?",
+      "Which language or example makes the desired identity feel concrete rather than aspirational?",
+      "What part of the transformation can the brand credibly support, and what must remain the customer's work?",
+      "Rewrite one offer so it names the customer's before-state, after-state, and the brand's specific role in the change."
+    ]
+  },
+  "principle": {
+    "heading": "Position the brand as a credible partner in change.",
+    "body": "Customers often buy toward an identity or life state, not only toward a feature. Make the desired transformation visible, then show exactly how the offer helps the customer move toward it.",
+    "exampleLabel": "One example",
+    "example": "A writing course does not stop at \"learn better copy.\" It shows the customer becoming someone who can explain an offer clearly, publish consistently, and earn trust through useful work, while naming the practice the customer must do.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one offer. Write the customer's before-state, desired identity, obstacle, and after-state. Then write one sentence explaining the brand's concrete contribution and one sentence naming the transformation it cannot promise on the customer's behalf."
+  },
+  "output": {
+    "heading": "Make the change visible and shared.",
+    "body": "Describe who the customer is becoming, then give the brand a clear, credible role in helping that transformation happen."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "fieldNotes": [
+      {
+        "title": "Fresh Step turns AI production speed into a relevance system",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/how-fresh-step-used-ai-to-go-from-brief-to-ads-at-one-tenth-the-cost/873688/",
+        "sourceDate": "2026-11-05",
+        "whatHappened": "Fresh Step and agency RECE produced three 15-second spots in 30 days at roughly one-tenth the cost of traditional production. The brand used AI to prototype concepts visually, make the strategy and creative work observable midstream, and design modular ads that can be refined from market response.",
+        "whyItMatters": "The meaningful transformation is operational: AI changes a campaign from a single expensive bet into a repeatable learning system. The customer-facing promise still has to be credible, but the brand can now test and improve the way it expresses that promise much faster.",
+        "watch": "Watch whether the modular creative produces better brand and sales signals, not merely more variants or cheaper output.",
+        "collectedAt": "2026-11-06"
+      },
+      {
+        "title": "Holiday shoppers want AI assistance without surrendering the choice",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/holiday-shoppers-only-want-a-dash-of-ai-for-the-gift-hunt/873317/",
+        "sourceDate": "2026-11-03",
+        "whatHappened": "Retail Dive reports that one-third of consumers are very or extremely willing to use generative AI for holiday recommendations, while only 13% currently use it for inspiration. Shoppers value price comparison and discovery, but many still want to review the purchase themselves because gifting carries a personal, human meaning.",
+        "whyItMatters": "A useful customer transformation is not always full automation. Here the desired state is a more confident, less effortful shopper who still owns the final decision; products that remove friction without erasing agency may earn more trust.",
+        "watch": "Watch where users accept delegation—research, comparison, or checkout—and whether the product makes review and control conspicuous.",
+        "collectedAt": "2026-11-06"
+      },
+      {
+        "title": "Google moves agentic shopping from discovery toward checkout",
+        "source": "Google",
+        "url": "https://blog.google/intl/en-ca/products/explore-get-answers/a-new-way-to-shop-introducing-a-more-intuitive-agentic-shopping-experience-for-consumers-and-retailers-in-canada/",
+        "sourceDate": "2026-11-04",
+        "whatHappened": "Google expanded UCP-powered direct checkout to Canadian shoppers in AI Mode and Gemini, including eligible lululemon, Shopify, Shoppers Drug Mart, and Simons offers. Retailers remain seller of record, while Google says saved Wallet details and future loyalty support should reduce checkout friction.",
+        "whyItMatters": "The brand relationship is moving into an AI-mediated moment of intent. Retailers can participate in the transformation from scattered research to completed purchase, but they must preserve recognition, trust, and a clear role for the merchant inside the new interface.",
+        "watch": "Watch whether customers remember and prefer the retailer after an AI surface completes the transaction, not just whether conversion rises.",
+        "collectedAt": "2026-11-06"
+      },
+      {
+        "title": "WhatsApp makes an event product useful beyond its own network",
+        "source": "Meta Newsroom",
+        "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
+        "sourceDate": "2026-11-05",
+        "whatHappened": "WhatsApp added an Events Home, customized invitations, RSVP management, and shareable invites that people without WhatsApp can open and respond to without downloading the app. The rollout keeps phone numbers private and preserves end-to-end encryption for messages and calls.",
+        "whyItMatters": "The product participates in a social transformation—turning a group chat into a real-world gathering—by reducing the boundary between members and non-members. The invitation link is a small but important role: it helps the user include others without demanding identity conversion first.",
+        "watch": "Watch whether the open invite expands attendance while the privacy boundary remains legible to both members and guests.",
+        "collectedAt": "2026-11-06"
+      },
+      {
+        "title": "OpenAI frames stronger cyber capability around authorized defense",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/introducing-gpt-6-cyber/",
+        "sourceDate": "2026-11-05",
+        "whatHappened": "OpenAI introduced GPT-6 Cyber and described work with security teams to find vulnerabilities, validate impact, and develop fixes. The release pairs higher capability with authorization monitoring, critical-infrastructure safeguards, and a stated focus on keeping model actions within scope.",
+        "whyItMatters": "Capability alone is not the customer transformation. For security teams, the credible promise is moving from scattered clues to verified fixes while retaining control over what the system may touch; guardrails are part of the product's role, not an appendix to it.",
+        "watch": "Watch how customers verify model findings and enforce scope in long-running workflows before treating autonomous discovery as dependable.",
+        "collectedAt": "2026-11-06"
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-11-06",
+        "sourceDate": "2026-11-06",
+        "feed": "following",
+        "author": "David Senra",
+        "handle": "FoundersPodcast",
+        "title": "A useful fragment from the timeline",
+        "summary": "This fragment cleared the daily filter because it offers a portable distinction rather than a throwaway reaction.",
+        "text": "A few surprising things I learned from reading about Eiichrio Oda, the creator of One Piece:\n\n1.  He slept 3 hours a night for 15 years.\n\n2.  He created the most successful manga of all time with more than 600 million copies in circulation.\n\n3.  He said he would have missed his parent’s funeral because it conflicted with his work.\n\n4.  He is extremely private. He does not allow his face to be photographed and when he appears on video he has a giant fish avatar placed on his head.\n\n5.  When he hires a new editor the first thing he says to them is you need to be willing to die for One Piece.\n\n6.  His editor said he might someday encounter a writer more talented than Oda but he would never meet anyone who worked harder.\n\n7.  He doesn’t want ideas, he wants criticism.\n\n8.  He would hand draw entire Disney animated movies to learn how to give his characters emotion.\n\n9.  He said he only saw his family once a week because family time was too relaxing.\n\n10.  He holds the Guinness World Record for the most copies published for the same comic book series by a single author.\n\n11.  He is often described as a maniac due to his unbelievable work ethic and inhuman daily habits.\n\n12.  He believes in having the least number of people possible touching the work.\n\n13.  He says he gets his best ideas by not sleeping or eating. He says humans can only come up with truly new ideas when they reach their limit.\n\n14.  He started working on One Piece when he was 22. He is still working on it at 51.\n\n15.  He once spent 12 consecutive hours on the telephone discussing a single story with his editor.\n\n16.  He has an extreme tolerance for repetition.\n\n17.  Imagination is the organizing force of his entire life.\n\n18.  He's a perfectionist who has repeatedly admitted that he cannot make himself work in a more efficient way, even when he desperately wants to.\n\n19.  He never finishes before a deadline. He equates using every available minute with giving his maximum effort.\n\n20.  He believes it’s impossible to create something great unless you do everything yourself, attend to every detail, and test it exhaustively.\n\n21.  He believes the more experience he has the harder it is to create.\n\n22.  He was 4 when he decided to be a manga artist. He said he wanted to avoid ever having to get a real job.\n\n23.  He creates his work for an audience of exactly one person: himself at 15 years old.\n\n25.  He has dedicated his entire adult life to writing a story about freedom and adventure, while accepting an extraordinarily restrictive life in order to create it.\n\n26. To this day he does not feel successful.\n\n--\nEiichiro Oda is a relentlessly obsessive creative genius who has devoted nearly every waking hour of his adult life to building one of the most extraordinary fictional universes ever imagined. You don't want to miss this episode:",
+        "url": "https://x.com/FoundersPodcast/status/2118432839624765447"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
