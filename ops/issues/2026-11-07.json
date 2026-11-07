@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-07",
+  "displayDate": "Saturday, 7 November 2026",
+  "issueNumber": 98,
+  "title": "Let tests replace the guesswork.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 15 of Scientific Advertising, Claude C. Hopkins treats advertising as a sequence of controlled tests: compare one variable at a time, trace the response, and keep what proves profitable.",
+  "meta": {
+    "canon": "Claude C. Hopkins, <em>Scientific Advertising</em>",
+    "study": "25-35 min",
+    "practice": "one controlled message test"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A test is useful only when it can teach you what caused the result. Change one meaningful variable, trace the response to an outcome, and let evidence—not preference—choose the next version."
+  },
+  "canon": {
+    "author": "Claude C. Hopkins",
+    "work": "Scientific Advertising",
+    "chapter": "Test Campaigns",
+    "chapterLabel": "Chapter 15, \"Test Campaigns\"",
+    "field": "advertising / experimentation / measurement / direct response",
+    "pageRange": "PDF pages 46-48 in the local text-verified edition; begin at Chapter 15, \"Test Campaigns,\" on PDF page 46 and stop before Chapter 16, \"Leaning On Dealers,\" begins on PDF page 49.",
+    "pageCount": 3,
+    "stopPoint": "Stop at the end of PDF page 48. Do not continue into Chapter 16, \"Leaning On Dealers,\" which begins on PDF page 49.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_public_domain_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Scientific Advertising - Claude C. Hopkins.pdf",
+      "driveUrl": "https://jonrognerud.com/claude.pdf",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "native_text_pdf_with_local_stream_boundary_verification",
+        "tool": "local PDF page-stream decompression and text inspection with Python",
+        "nativeTextPages": "Chapter 15, \"Test Campaigns,\" opens on PDF page 46 and Chapter 16, \"Leaning On Dealers,\" opens on PDF page 49, yielding the bounded reading on PDF pages 46-48.",
+        "tableOfContentsVerified": true,
+        "notes": "The local VPS source was inspected directly. The verified page-stream boundary places Chapter 15 after Chapter 14 on PDF page 46 and before Chapter 16 on PDF page 49."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://jonrognerud.com/claude.pdf",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Scientific Advertising - Claude C. Hopkins.pdf\""
+    },
+    "heading": "Test the claim before you scale it.",
+    "standfirst": "Read Chapter 15, \"Test Campaigns,\" from Claude C. Hopkins's <em>Scientific Advertising</em> on PDF pages 46-48. Hopkins shows how small, traceable comparisons turn advertising from opinion into accumulated knowledge, then stop before Chapter 16.",
+    "readerIntro": "Read this chapter as a study of disciplined learning. Mark how Hopkins frames testing, what he compares, how he traces responses, and why a test must be tied to profitable action rather than attention alone. Then design one small test for an offer: name the variable, the control, the response measure, and the decision rule. Stop at PDF page 48.",
+    "blocks": [
+      {
+        "label": "01 / Replace opinion with comparison",
+        "paragraphs": [
+          "Hopkins treats advertising as a field for repeated experiments rather than a stage for personal taste.",
+          "Notice how a comparison becomes useful only when the alternatives and the outcome are clear enough to learn from."
+        ]
+      },
+      {
+        "label": "02 / Change one meaningful variable",
+        "paragraphs": [
+          "A test can compare headlines, arguments, offers, formats, sizes, or pictures, but the result becomes harder to interpret when too many elements change at once.",
+          "Study the discipline of isolating a variable without pretending that context and audience do not matter."
+        ]
+      },
+      {
+        "label": "03 / Trace the response to value",
+        "paragraphs": [
+          "The relevant result is not applause or clicks but the response that connects to a sale, a qualified action, or a profitable customer.",
+          "Follow Hopkins's emphasis on keyed responses, coupons, and records as ways to make learning cumulative rather than anecdotal."
+        ]
+      },
+      {
+        "label": "04 / Design one useful test",
+        "paragraphs": [
+          "Choose one offer and write the control, the single variable to change, the audience or traffic split, and the outcome that will decide the winner.",
+          "Set the rule before seeing the result: what evidence would make you keep, revise, or discard the tested version?"
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "Test Campaigns",
+      "repeated tests",
+      "keyed advertising",
+      "traced returns",
+      "headlines, settings, sizes, arguments and pictures"
+    ],
+    "closeReading": [
+      "What does Hopkins believe a test must isolate in order to produce reliable learning?",
+      "Which kinds of advertising variables does he describe comparing, and what makes the comparison meaningful?",
+      "Why does he insist on tracing responses instead of judging an advertisement by appearance or immediate attention?",
+      "What is the smallest controlled test you could run on one current offer, and what outcome would decide it?",
+      "How would you prevent a test from producing a local win that does not translate into profitable customers?"
+    ]
+  },
+  "principle": {
+    "heading": "Turn each campaign into a learning instrument.",
+    "body": "Keep a clear control, change one meaningful variable, trace the response to a valuable outcome, and carry the result into the next decision.",
+    "exampleLabel": "One example",
+    "example": "A consulting firm tests two landing-page openings with the same audience and offer: one names the costly problem, the other names the desired outcome. It measures qualified bookings and completed calls, then keeps the version that produces better customers rather than the one that earns more casual clicks.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one offer. Write the control, the single variable, the audience split, the traced response, and the decision rule. Do not change the test after seeing the first result unless you record the new question separately."
+  },
+  "output": {
+    "heading": "Let evidence choose the next version.",
+    "body": "Make one claim testable, connect the response to a valuable action, and preserve the learning for the next campaign."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "fieldNotes": [
+      {
+        "title": "Australian universities turn AI access into practice before graduation",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/australian-universities-ai-native-graduates/",
+        "sourceDate": "2026-11-05",
+        "whatHappened": "OpenAI described collaborations with Australian universities that pair access to ChatGPT Edu and Codex with clinical simulations, teacher-training practice, hackathons, industry projects, and explicit rules for when AI is allowed, prohibited, or required.",
+        "whyItMatters": "The useful test is not whether students can access a powerful tool; it is whether repeated, supervised practice improves judgment and produces work that matters outside the classroom. Capability becomes credible when the learning environment makes its use observable and consequential.",
+        "watch": "Watch whether these programs measure better decisions and real project outcomes, not just usage or the number of AI-enabled assignments.",
+        "collectedAt": "2026-11-07"
+      },
+      {
+        "title": "Reformation uses AI planning to read demand faster",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/reformation-q3-earnings-sales-growth-ai-planning-tool-in-stock-rates/873991/",
+        "sourceDate": "2026-11-06",
+        "whatHappened": "Reformation said an AI-backed planning tool is improving product-performance evaluation and demand forecasting, helping its in-stock rates and full-price selling. The apparel brand reported 19% year-over-year Q3 revenue growth and said its weekly-drop model helps it react quickly to changing preferences.",
+        "whyItMatters": "The meaningful promise is faster learning between demand and assortment, not AI as a decorative label. Better forecasting only matters if it helps the brand make fewer availability mistakes and turn customer signals into profitable decisions.",
+        "watch": "Watch whether improved in-stock rates and localized assortments translate into durable full-price sales and retention rather than only a strong quarter.",
+        "collectedAt": "2026-11-07"
+      },
+      {
+        "title": "L'Oréal tests entertainment before product messaging",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/loreals-evolving-microdrama-strategy-puts-entertainment-over-product/873646/",
+        "sourceDate": "2026-11-05",
+        "whatHappened": "Urban Decay launched a six-episode ReelShort microdrama, Ghost Hunter Hotline, that generated 3.8 million views in five days. L'Oréal produced it with the platform, using a story about ghosting dates to make the product part of an entertainment format rather than leading with a conventional ad.",
+        "whyItMatters": "This is a live test of whether audience-first entertainment can earn attention and carry a product role without collapsing into a product demo. The result is more instructive because the brand chose a platform-native format and acknowledged that not every emerging-channel bet works.",
+        "watch": "Watch qualified engagement, brand recall, and downstream product interest alongside views; reach alone cannot show that the format taught the market anything.",
+        "collectedAt": "2026-11-07"
+      },
+      {
+        "title": "Meta lets people talk to the Muse app they want",
+        "source": "Meta Newsroom",
+        "url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+        "sourceDate": "2026-11-06",
+        "whatHappened": "Meta introduced Design the Muse App, a way for users to describe the personal AI app they want and have Muse build it, with options to connect services and share finished apps. Meta framed the feature as a move from using a fixed assistant to shaping a tool around a specific need.",
+        "whyItMatters": "The product claim becomes testable at the moment a vague request must become a repeated behavior. Personalization is valuable only if the resulting app helps a user complete something reliably, not merely if the first generated prototype feels surprising.",
+        "watch": "Watch which user-created apps are reused, shared, and retained after the novelty fades, and where users need to revise the prompt or workflow to make the result dependable.",
+        "collectedAt": "2026-11-07"
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-11-07",
+        "sourceDate": "2026-11-07",
+        "feed": "following",
+        "author": "signüll",
+        "handle": "signulll",
+        "title": "A market fragment on beating copycats through speed and supply",
+        "summary": "This is worth keeping because it reframes imitation as market evidence rather than only a legal threat. The useful lesson is that demand has to be met with speed, volume, and a stronger operating rhythm, not just protected by complaint after the opportunity is visible.",
+        "text": "at some point the connective tissue around agents that depends on gmail today will likely disappear because ppl will naturally give entities like schools, service providers, & stores their agents email address instead of a gmail address. if agentic commerce works, that will be automatic because the agent will simply fill in its email to complete the purchase.\n\nthe idea of connecting your gmail/google calendar to derive value from a personal agent will be a thing of the past.",
+        "url": "https://x.com/signulll/status/2118861444263616641"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
