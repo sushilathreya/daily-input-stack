@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-08",
+  "displayDate": "Sunday, 8 November 2026",
+  "issueNumber": 99,
+  "title": "Make the message pass the grunt test.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 12 of Building a StoryBrand, Donald Miller turns a brand script into a practical website: make the offer obvious, reduce noise, and help the right customer take the next step.",
+  "meta": {
+    "canon": "Donald Miller, <em>Building a StoryBrand</em>",
+    "study": "35-45 min",
+    "practice": "one website grunt-test audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "Clarity is not the same as completeness. A useful page lets the right person understand what you offer, whether it can help, and what to do next before the surrounding detail creates doubt or friction."
+  },
+  "canon": {
+    "author": "Donald Miller",
+    "work": "Building a StoryBrand",
+    "chapter": "Building a Better Website",
+    "chapterLabel": "Chapter 12, \"Building a Better Website\"",
+    "field": "storytelling / marketing communication / website strategy / conversion",
+    "pageRange": "Complete EPUB Chapter 12 in index_split_028.html through index_split_033.html in the local text-verified edition; begin at the Chapter 12 heading and stop before Chapter 13 begins in index_split_034.html. The EPUB has no stable printed-page map.",
+    "pageCount": 1,
+    "stopPoint": "Stop at the end of Chapter 12 in index_split_033.html. Do not continue into Chapter 13, \"How StoryBrand Can Transform a Large Organization,\" which begins in index_split_034.html.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_epub",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub",
+      "driveUrl": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "native_text_epub_with_toc_and_split_file_boundary_verification",
+        "tool": "local EPUB unzip, NCX inspection, and native XHTML extraction",
+        "nativeTextPages": "The TOC names Chapter 12, \"Building a Better Website,\" at index_split_028.html; the chapter continues through index_split_033.html, and Chapter 13 begins at index_split_034.html, yielding one bounded EPUB chapter.",
+        "tableOfContentsVerified": true,
+        "notes": "The local VPS EPUB was inspected directly. Its TOC maps Chapter 12 to index_split_028.html and Chapter 13 to index_split_034.html. The complete Chapter 12 reading is therefore index_split_028.html through index_split_033.html; the EPUB has no separate printed-page map."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub\""
+    },
+    "heading": "Make the next step obvious.",
+    "standfirst": "Read Chapter 12, \"Building a Better Website,\" from Donald Miller's <em>Building a StoryBrand</em>. Miller translates a brand script into a page that quickly tells the customer what is offered, how it helps, and what to do next, then stop before Chapter 13.",
+    "readerIntro": "Read this chapter as a study of applied clarity. Mark how Miller distinguishes a useful website from an information dump, what the customer must understand quickly, and how the page moves from a clear promise toward action. Then audit one website: write what a first-time visitor should be able to answer within five seconds, what noise can be removed, and what single next step deserves emphasis. Stop at the end of Chapter 12.",
+    "blocks": [
+      {
+        "label": "01 / Pass the grunt test",
+        "paragraphs": [
+          "Study the three questions a visitor should be able to answer quickly: what do you offer, how will it make my life better, and what do I need to do to get it?",
+          "Notice how clarity depends on the first impression, not on the amount of information available somewhere deeper in the site."
+        ]
+      },
+      {
+        "label": "02 / Remove villainous noise",
+        "paragraphs": [
+          "Miller treats a website as an elevator pitch rather than a clearinghouse for every fact a company could say about itself.",
+          "Mark the difference between detail that resolves a customer's uncertainty and detail that makes the main promise harder to find."
+        ]
+      },
+      {
+        "label": "03 / Guide the customer toward action",
+        "paragraphs": [
+          "A clear promise needs a visible path: the page should show the customer what to do next and make that action feel connected to the problem being solved.",
+          "Study how direct calls to action, transitional calls to action, images, and proof work together without competing for the same attention."
+        ]
+      },
+      {
+        "label": "04 / Audit one page",
+        "paragraphs": [
+          "Choose one website and write the answers a first-time visitor should find immediately: the offer, the improved life or outcome, and the next step.",
+          "Then remove or demote one piece of noise, strengthen one proof point, and make one primary action unmistakable."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "Building a Better Website",
+      "grunt test",
+      "Keep It Simple",
+      "The Five Things Your Website Should Include",
+      "call to action"
+    ],
+    "closeReading": [
+      "What must a visitor understand quickly for the website to pass Miller's grunt test?",
+      "Which kinds of information reduce uncertainty, and which kinds create villainous noise?",
+      "How does Miller connect a clear promise to a visible next step?",
+      "What role do direct calls to action, transitional calls to action, images, and proof each play on the page?",
+      "Choose one website: what would you remove, clarify, or elevate so the right customer can act with less hesitation?"
+    ]
+  },
+  "principle": {
+    "heading": "Make the path to value easy to see.",
+    "body": "A page earns attention by making the customer's problem, the promised improvement, and the next step legible before the surrounding detail gets in the way.",
+    "exampleLabel": "One example",
+    "example": "A specialist studio replaces a homepage collage and a paragraph of services with one sentence naming the costly problem it solves, three proof-backed outcomes, and a clear invitation to book a diagnostic call. Visitors who need the service can orient themselves before exploring the full portfolio.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Open one website as if you were a first-time customer. Write the offer, the better outcome, and the next action you can infer in five seconds. Circle the biggest source of noise, then propose one edit that makes the primary path easier to follow."
+  },
+  "output": {
+    "heading": "Let clarity carry the customer forward.",
+    "body": "State the offer plainly, show the better outcome, remove competing noise, and give the right customer one obvious next step."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "collectedAt": "2026-11-08",
+    "heading": "Four current signals on making the next step obvious.",
+    "fieldNotes": [
+      {
+        "title": "Lands' End turns one clear idea into an always-on experience",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/how-lands-ends-holiday-pop-up-feeds-an-always-on-marketing-strategy/873792/",
+        "sourceDate": "2026-11-06",
+        "collectedAt": "2026-11-08",
+        "whatHappened": "Lands' End opened a Chicago Holiday Tree Farm pop-up built around archival copy about providing 'everything but the tree.' The stations connect to outerwear and pajamas, while the retailer plans to reuse the experience as content across the holiday season.",
+        "whyItMatters": "The activation has a simple customer-facing idea and a visible connection to the products, so the experience is not just an event looking for a brand afterward. A clear frame can make many channels feel like parts of one promise.",
+        "watch": "Watch whether the reusable content and local participation create stronger product consideration, not only social reach or a memorable installation."
+      },
+      {
+        "title": "Australian universities make AI practice part of the work",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/australian-universities-ai-native-graduates/",
+        "sourceDate": "2026-11-05",
+        "collectedAt": "2026-11-08",
+        "whatHappened": "OpenAI described collaborations with Australian universities that pair access to ChatGPT Edu and Codex with clinical simulations, teacher-training practice, hackathons, industry projects, and explicit rules for when AI is allowed, prohibited, or required.",
+        "whyItMatters": "The offer is clearer when capability is attached to a concrete job and a supervised practice loop. Access to a tool is only the opening promise; the user needs a visible path from trying it to producing work that matters outside the classroom.",
+        "watch": "Watch whether these programs measure better decisions and real project outcomes, not just usage or the number of AI-enabled assignments."
+      },
+      {
+        "title": "Meta makes a half-formed request into a reusable personal space",
+        "source": "Meta Newsroom",
+        "url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+        "sourceDate": "2026-11-06",
+        "collectedAt": "2026-11-08",
+        "whatHappened": "Meta introduced Spaces in Muse: users describe an idea such as a gift tracker, planner, or client hub, then keep revising the resulting experience, connect services, and place it in the app where it fits their routine.",
+        "whyItMatters": "The product reduces the distance between a vague need and a usable workflow. The important promise is not that an AI can generate a first version, but that the user can return, refine it, and see the tool stay connected to the job.",
+        "watch": "Watch which spaces are revisited and retained after the first surprise, and how often users need to repair a generated workflow before trusting it."
+      },
+      {
+        "title": "Trajectory sells a learning loop, not just an AI model",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+        "sourceDate": "2026-11-02",
+        "collectedAt": "2026-11-08",
+        "whatHappened": "Trajectory raised $45 million for a platform that lets organizations connect models to application feedback and continually improve them for specialized work. Its interface is designed to let nontechnical users define what good looks like and turn that feedback into model improvements.",
+        "whyItMatters": "This is a useful product-positioning distinction: the offer is not abstract intelligence but a repeatable path from observed failure to a better result. The clearer promise is tied to a behavior customers can recognize inside their own workflow.",
+        "watch": "Watch whether customers can see measurable improvement in specialized tasks and whether human feedback remains part of the operating loop rather than a launch-story detail."
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-11-08",
+        "sourceDate": "2026-11-08",
+        "feed": "following",
+        "author": "signüll",
+        "handle": "signulll",
+        "title": "A product fragment on turning capability into behavior",
+        "summary": "This fragment is useful because it names the behavioral question behind a new capability. The important test is not whether the feature is impressive, but whether it changes a repeated workflow enough for the user to adopt it.",
+        "text": "claude duet is a beautifully executed product end to end.\n\nit’s perhaps the best example of a seamless ramp from product to model & model back to product. the product layer is very intuitive & remarkably lightweight, yet makes the full power of opus accessible without getting in its way.\n\nthis is a non trivial balance to strike. muse is another product in this category that is getting much better in terms of making the vertical integration from model to product much more seamless & accessible.",
+        "url": "https://x.com/signulll/status/2119300732637552806"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}

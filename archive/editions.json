@@ -1345,5 +1345,19 @@
     "href": "../editions/2026-11-07/",
     "sourceHref": "https://jonrognerud.com/claude.pdf",
     "kind": "manifest"
+  },
+  {
+    "date": "2026-11-08",
+    "issueNumber": 99,
+    "displayDate": "Sunday, 8 November 2026",
+    "title": "Make the message pass the grunt test.",
+    "author": "Donald Miller",
+    "work": "Building a StoryBrand",
+    "chapter": "Building a Better Website",
+    "field": "storytelling / marketing communication / website strategy / conversion",
+    "study": "35-45 min",
+    "href": "../editions/2026-11-08/",
+    "sourceHref": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+    "kind": "manifest"
   }
 ]
