@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-08",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-11-08 12:00:00 IST",
+  "local_verified": true,
+  "git_commit": "46342f5b4743ecd35989c136c3f42e96924f30b5",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Sunday, 8 November 2026",
+    "Issue 099",
+    "Make the message pass the grunt test."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - Sunday - 8 November 2026",
+  "gmail_message_id": "01a1b9d4-f46f-7ed3-8ee9-ce3898fffe56",
+  "completed_at_ist": "2026-11-08 11:55:03 IST"
+}
