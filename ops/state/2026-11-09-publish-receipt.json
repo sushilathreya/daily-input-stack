@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-09",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-11-09 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "c736f4a0a58103bd835585f3fc432eddfa8630a8",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Monday, 9 November 2026",
+    "Issue 100",
+    "Make value feel rare before it is gone."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 9 November 2026",
+  "gmail_message_id": "01a1be8d-7279-7ec2-85e5-148338f1ae7e",
+  "completed_at_ist": "2026-11-09 09:55:03 IST"
+}
