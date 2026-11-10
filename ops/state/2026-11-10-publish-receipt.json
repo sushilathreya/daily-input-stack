@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-10",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-11-10 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "406158fb5d5b13b4537d7ab176b0b0b2d6af7f66",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Tuesday, 10 November 2026",
+    "Issue 101",
+    "Make opposition strong enough to reveal the choice."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 10 November 2026",
+  "gmail_message_id": "01a1c3b3-d175-702c-b5d5-d39755564f7c",
+  "completed_at_ist": "2026-11-10 09:55:04 IST"
+}
