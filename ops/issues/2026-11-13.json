@@ -1,0 +1,168 @@
+{
+  "date": "2026-11-13",
+  "displayDate": "Friday, 13 November 2026",
+  "issueNumber": 104,
+  "title": "Treat loyalty as a buying pattern, not a personality type.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 7 of Byron Sharp's How Brands Grow, brand loyalty becomes a natural feature of buying behaviour rather than proof of a special customer tribe.",
+  "meta": {
+    "canon": "Byron Sharp, <em>How Brands Grow</em>",
+    "study": "35-45 min",
+    "practice": "one loyalty-assumption audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "Repeat buying matters, but it is not automatically a theory of growth. Separate the pattern you can observe from the story you want the pattern to prove."
+  },
+  "canon": {
+    "author": "Byron Sharp",
+    "work": "How Brands Grow",
+    "chapter": "Brand loyalty—a natural part of buying behaviour",
+    "chapterLabel": "Chapter 7, \"Brand loyalty—a natural part of buying behaviour\"",
+    "field": "brand strategy / marketing science / growth",
+    "pageRange": "PDF pages 137-163; stop before the separator and Chapter 8, \"Thou Shalt Differentiate,\" which begins on PDF page 164.",
+    "pageCount": 27,
+    "stopPoint": "Stop at the end of PDF page 163. Do not continue through the separator before Chapter 8 or into Chapter 8, \"Thou Shalt Differentiate,\" which begins on PDF page 164.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/How Brands Grow - Byron Sharp.pdf",
+      "driveUrl": "https://drive.google.com/file/d/1v-1gh4_y8s4yauwnVTEpphSBhpEBbBJE/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "scanned_pdf_with_bookmark_and_page-tree_boundary_verification",
+        "tool": "local Node PDF object, bookmark, and page-tree inspection",
+        "nativeTextPages": "The source bookmark for Chapter 7 is \"Brand loyalty—a natural part of buying behaviour\" at page object 737; the established page-object mapping places the chapter opener on PDF page 137. The Chapter 8 bookmark, \"Thou Shalt Differentiate,\" is at page object 878 and maps to PDF page 164, yielding PDF pages 137-163.",
+        "tableOfContentsVerified": true,
+        "notes": "The local VPS PDF was inspected directly. Chapter 7 is the next unstudied chapter after Chapter 6, and the verified Chapter 7-to-Chapter 8 boundary produces a complete 27-page reading under 60 pages."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1v-1gh4_y8s4yauwnVTEpphSBhpEBbBJE/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/How Brands Grow - Byron Sharp.pdf\""
+    },
+    "heading": "Loyalty is real; the loyalty myth is optional.",
+    "standfirst": "Read Chapter 7, \"Brand loyalty—a natural part of buying behaviour,\" from Byron Sharp's <em>How Brands Grow</em> on PDF pages 137-163. Sharp examines repeat buying, divided loyalty, natural monopoly effects, and the limits of using passion or advocacy to explain growth. Stop before Chapter 8.",
+    "readerIntro": "Read this chapter as a test of the loyalty story. Mark where Sharp distinguishes repeat buying from exclusive commitment, where divided loyalty reveals the category context around a brand, and where apparently passionate customers fail to explain broad growth. Then audit one brand: name the observed loyalty pattern, the interpretation built on it, and the penetration or availability measure that would test the interpretation. Stop at PDF page 163.",
+    "blocks": [
+      {
+        "label": "01 / Start with natural buying behaviour",
+        "paragraphs": [
+          "Sharp does not deny that people repeat purchases. He asks whether repeat buying should be treated as evidence of a special psychological relationship or as a predictable feature of how category buying normally works.",
+          "Mark the point where a description of behaviour becomes a claim about why the brand grows."
+        ]
+      },
+      {
+        "label": "02 / Study divided loyalty",
+        "paragraphs": [
+          "Buyers often divide their purchases across several brands. This makes the category, not a single brand, the right context for interpreting loyalty metrics.",
+          "Notice what shared buying says about the limits of treating each brand's customers as a separate tribe."
+        ]
+      },
+      {
+        "label": "03 / Test passion against penetration",
+        "paragraphs": [
+          "A small group of enthusiastic buyers can be vivid and strategically flattering without being the main source of growth. Compare advocacy, frequency, and commitment claims with the broader pattern of who buys the brand.",
+          "Ask whether the evidence points to a stronger relationship or simply to a brand with more buyers and more buying occasions."
+        ]
+      },
+      {
+        "label": "04 / Replace the myth with an audit",
+        "paragraphs": [
+          "Choose one brand whose plan emphasizes devotion, community, or retention. Separate the observed behaviour from the explanation attached to it.",
+          "Write the missing measure—penetration, mental availability, physical availability, or shared buying—that could confirm or weaken the loyalty explanation."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "Brand loyalty—a natural part of buying behaviour",
+      "Are buyers puppets?",
+      "Divided loyalty",
+      "Natural monopoly law",
+      "Prosaic, not passionate, loyalty",
+      "Conclusion"
+    ],
+    "closeReading": [
+      "How does Sharp distinguish repeat buying from exclusive commitment or a special customer identity?",
+      "What does divided loyalty reveal about the category context in which a brand is bought?",
+      "Where does the chapter challenge the idea that passionate customers explain broad brand growth?",
+      "Choose one loyalty or community claim. Which part is observed behaviour, and which part is interpretation?",
+      "What penetration, availability, or shared-buying measure would most directly test the brand's growth story?"
+    ]
+  },
+  "principle": {
+    "heading": "Describe loyalty before you prescribe it.",
+    "body": "Repeat buying is a real pattern, but it does not automatically prove a special customer tribe or a growth strategy. Use category context and penetration evidence to separate what buyers do from the story a brand tells about why they do it.",
+    "exampleLabel": "One example",
+    "example": "A coffee brand sees that its regular buyers purchase it often and launches a plan to make those buyers even more devoted. A better audit asks how many category buyers it reaches, how many also buy competitors, and whether easier mental and physical availability would create more growth.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one brand. Write its observed repeat-buying and advocacy evidence, the loyalty story built on that evidence, and one missing penetration, availability, or shared-buying measure that could confirm or weaken the story."
+  },
+  "output": {
+    "heading": "Turn the loyalty story into a measurable question.",
+    "body": "A disciplined growth diagnosis names the buying pattern, places it in the category, and tests whether reach and availability—not a flattering customer myth—better explain the opportunity."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "collectedAt": "2026-11-13",
+    "heading": "Four current signals on turning recognition, reach, and usefulness into repeat buying.",
+    "fieldNotes": [
+      {
+        "title": "Google makes task difficulty part of the product choice",
+        "source": "Google",
+        "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+        "sourceDate": "2026-11-12",
+        "collectedAt": "2026-11-13",
+        "whatHappened": "Google said Gemini 4 Hydrogen is rolling out globally in Search with better handling of complex, multi-part questions, simultaneous queries, structured answers, and more visual content.",
+        "whyItMatters": "The feature is not only a model upgrade; it gives Search a clearer job in moments when a user needs synthesis rather than a list of links. A repeat-use pattern can grow from being useful at a recognizable task, not from a vague promise of intelligence.",
+        "watch": "Watch whether people return to Hydrogen for complex decisions because the output is easier to act on, or whether the richer interface merely creates novelty without a durable use case."
+      },
+      {
+        "title": "Anthropic turns model range into a routing habit",
+        "source": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "sourceDate": "2026-11-09",
+        "collectedAt": "2026-11-13",
+        "whatHappened": "Anthropic introduced Claude Fable 5.2 and Mythos 5.2 for demanding technical work, while recommending Opus 5.5 for most daily coding and knowledge tasks and positioning the other models as choices for different scopes and risks.",
+        "whyItMatters": "The company is teaching customers a buying and usage heuristic: start with the daily driver, then move up or down as the job changes. That makes product-family recognition operational rather than merely aspirational.",
+        "watch": "Watch whether users can reliably tell which model fits which job, and whether the routing rule creates repeated adoption across the family instead of concentrating all demand on the most impressive name."
+      },
+      {
+        "title": "Fetch embeds brands inside a reason to keep watching",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/fetch-trades-views-for-rewards-with-brand-backed-holiday-microseries/874424/",
+        "sourceDate": "2026-11-12",
+        "collectedAt": "2026-11-13",
+        "whatHappened": "Fetch is launching a six-part holiday microseries with one brand partner tied to each episode, while viewers can earn points toward gift cards by watching and shopping through the app.",
+        "whyItMatters": "This is a test of whether brands can earn repeated attention by becoming part of a useful entertainment-and-reward loop, rather than asking a small fan group to care more intensely. The relevant growth question is reach and repeat participation across the category of viewers.",
+        "watch": "Watch completion, repeat viewing, and partner-level reach separately; strong engagement from a narrow rewards cohort would not by itself prove broad brand growth or memory."
+      },
+      {
+        "title": "Convenience becomes repeat behavior only after a successful first use",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/bnpl-bolsters-holiday-budgets/874425/",
+        "sourceDate": "2026-11-12",
+        "collectedAt": "2026-11-13",
+        "whatHappened": "Retail Dive reported that one-fifth of consumers expect to use buy now, pay later more often during the 2026 holiday season, while the survey also found that familiarity and convenience are stronger drivers of repeat use for tap-to-pay, digital wallets, and peer-to-peer apps than novelty alone.",
+        "whyItMatters": "The finding is a useful warning against calling early enthusiasm loyalty. Repeat behavior follows a successful, familiar first transaction and a clear job to be done; the growth question is whether the service can widen adoption beyond the people already inclined to use it.",
+        "watch": "Watch first-transaction success, repeat use, and category reach separately; a favorable attitude among current users is not the same as broad penetration."
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-11-13",
+        "sourceDate": "2026-11-13",
+        "feed": "following",
+        "author": "Blake Scholl 🛫",
+        "handle": "bscholl",
+        "title": "A startup wins when the new physics force a new story",
+        "summary": "This is worth keeping because it treats narrative as part of the operating system, not decoration. A strange technical or market bet has to become desirable before incumbents copy it, and the company has to keep moving fast enough that the story remains attached to real progress.",
+        "text": "Founder succession is an open problem.\n\nSuccessful founders are themselves odd ducks who surround themselves with people who complement their strengths and weaknesses.\n\nBy definition, the people who surround a founder are very different from the founder.\n\nBut when a founder leaves, we promote the most successful subordinate into an organizational spot which they, almost by definition, don’t fit.\n\nReplacing a visionary founder CEO with a CFO or COO is comically stupid. Yet it is considered the best practice.\n\nI don’t know the answer to this problem,  and although I have some ideas, I am nowhere close to ready to test them on my own business :)",
+        "url": "https://x.com/bscholl/status/2121079310941671530"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}

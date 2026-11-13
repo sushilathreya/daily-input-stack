@@ -1,0 +1,1213 @@
+{
+  "date": "2026-11-13",
+  "capturedAtIST": "2026-11-13 09:00:09",
+  "command": "bird-readonly home --json plus bird-readonly home --following --json",
+  "readonlyOnly": true,
+  "minimumSelectionRequired": 1,
+  "rawCounts": {
+    "for_you": 80,
+    "following": 80
+  },
+  "candidates": [
+    {
+      "id": "2120942936380809272",
+      "url": "https://x.com/eldianangel/status/2120942936380809272",
+      "text": "i dated a guy for years who refused to watch anything with me, and right before breaking up (when i knew it was inevitable) i did one final big beg to watch a movie together and he FINALLY agreed. i didn’t want to squander my chances to harm him, so this is the movie i chose.",
+      "createdAt": "Thu Nov 12 18:12:55 +0000 2026",
+      "author": "📼 vermina 🐀",
+      "handle": "eldianangel",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 263,
+        "reposts": 1187,
+        "likes": 57727
+      },
+      "score": 55.9
+    },
+    {
+      "id": "2120973994191094179",
+      "url": "https://x.com/claudeai/status/2120973994191094179",
+      "text": "Introducing Claude Meetings: add Claude to your team’s video call and it builds docs, whiteboards, and other artifacts with you while you’re still talking.\n\nStarting to roll out in beta on Team and Enterprise plans. https://t.co/qlZYTcXBsC",
+      "createdAt": "Thu Nov 12 20:16:20 +0000 2026",
+      "author": "Claude",
+      "handle": "claudeai",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 1327,
+        "reposts": 2915,
+        "likes": 49143
+      },
+      "score": 55.8
+    },
+    {
+      "id": "2120667383673106571",
+      "url": "https://x.com/MyDaebakCafe/status/2120667383673106571",
+      "text": "Just so everybody gets a clear image about this.\n​If the board removes him as CEO, several clear boundaries apply:\n\n• Every share Jensen Huang already owns outright is his legal property. He retains full voting rights for those shares and can hold them, borrow against them, or dump them on the open market whenever he chooses (subject only to standard SEC insider trading blackout windows if he remains on the board, or Rule 144 volume limits if he steps down completely).\n\n• The only shares a board can claw back or cancel upon termination are unvested performance stock units (PSUs) or restricted stock units (RSUs) that have not yet met their time or performance milestones. Given that Jensen co-founded Nvidia in 1993 and holds roughly 3.5% of the company outright, the vast majority of his multi-billion-dollar stake is long since vested. \n\n• Because he is Nvidia's largest individual shareholder, firing him against his will creates an immediate existential headache for the board. As an outside shareholder, he could launch a proxy fight to replace the board directors at the next annual meeting, start a rival silicon venture and poach Nvidia's top CUDA and architecture leads, or threaten to liquidate tens of billions of dollars in stock, cratering the share price for institutional investors.\n\nIn short, firing a founder who owns over $100 billion in vested stock does not strip him of power; it just turns him into an activist shareholder with infinite capital and zero fiduciary obligations to protect the board.",
+      "createdAt": "Wed Nov 11 23:57:59 +0000 2026",
+      "author": "Daebak 앤디",
+      "handle": "MyDaebakCafe",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 560,
+        "reposts": 2101,
+        "likes": 34027
+      },
+      "score": 54.2
+    },
+    {
+      "id": "2113935967006404936",
+      "url": "https://x.com/gtmwitch/status/2113935967006404936",
+      "text": "i'm sorry, Explee can WHAT?\n\nit can take your website link, find people who need your product, email them and book the calls?\n\nsince when?? i've been doing this by hand for a YEAR.\n\nok. testing it: $30 free 👇",
+      "createdAt": "Sat Oct 24 10:09:44 +0000 2026",
+      "author": "Alisa",
+      "handle": "gtmwitch",
+      "feed": "following",
+      "metrics": {
+        "replies": 259,
+        "reposts": 130,
+        "likes": 1267
+      },
+      "score": 53.4
+    },
+    {
+      "id": "2112595451455144138",
+      "url": "https://x.com/ElevenLabsDevs/status/2112595451455144138",
+      "text": "Add expressive speech to any product. Eleven v4 Turbo: rich emotion, audio tags like [laughs] and [whispers], 90+ languages, ~150ms median time to first speech.",
+      "createdAt": "Tue Oct 20 17:23:00 +0000 2026",
+      "author": "ElevenLabs Developers",
+      "handle": "ElevenLabsDevs",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 62,
+        "reposts": 76,
+        "likes": 1447
+      },
+      "score": 52.6
+    },
+    {
+      "id": "2120712687470489771",
+      "url": "https://x.com/Md_Sadiq_Md/status/2120712687470489771",
+      "text": "some lore\n> hacked a blr-based startup worth $50-80 million\n> got access to 6.6 TiB of data, ~10M objects, and data belonging to ~2.3k customers and their customers. their bucket was public\n> data included customer designs, chats (some people pasted their api keys in the chat), audio recordings, presentations, marketing videos, private website pages, and more\n> responsibly reported everything to their CTO via whatsapp and sent a security report via email\n> guess how many days they took to solve it? 17 days\n> the bounty? 5k, not USD, just 5k rupees (~$55)\n> mind you, they pay crazy comp to their engineers and are a modern ai startup, not some corporate junk\n> haven't accepted the bounty yet, the amount felt insulting\n> could've sold it for ~$100k easily, but ethics come first\n> btw, responsible disclosure still comes with its own legal risks in india",
+      "createdAt": "Thu Nov 12 02:58:00 +0000 2026",
+      "author": "Sadiq",
+      "handle": "Md_Sadiq_Md",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 40,
+        "reposts": 26,
+        "likes": 1202
+      },
+      "score": 51.3
+    },
+    {
+      "id": "2120916023335661908",
+      "url": "https://x.com/strxwmxn/status/2120916023335661908",
+      "text": "\"You're not talking to someone who woke up a loser.\"\n\nThis was an insane clip, even before Jensen was caught in a CCP honeypot. https://t.co/rkyLo2fP1s",
+      "createdAt": "Thu Nov 12 16:25:59 +0000 2026",
+      "author": "Strxwmxn",
+      "handle": "strxwmxn",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 635,
+        "reposts": 1100,
+        "likes": 16551
+      },
+      "score": 51.2
+    },
+    {
+      "id": "2120902332913197456",
+      "url": "https://x.com/premierleague/status/2120902332913197456",
+      "text": "How the table looks after 10 Matchweeks compared to last season 📊\n\nWhat do you notice? 🤔 https://t.co/h9ihPhFfae",
+      "createdAt": "Thu Nov 12 15:31:35 +0000 2026",
+      "author": "Premier League",
+      "handle": "premierleague",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 884,
+        "reposts": 2626,
+        "likes": 22625
+      },
+      "score": 49.1
+    },
+    {
+      "id": "2120946729021292920",
+      "url": "https://x.com/markgoldbridge/status/2120946729021292920",
+      "text": "So Wilcox wanted Howe and Glazers said no it's Poch. Wilcox has to go. It's only fair he takes the hit with Carrick for this season and the transfer window",
+      "createdAt": "Thu Nov 12 18:28:00 +0000 2026",
+      "author": "Mark Goldbridge",
+      "handle": "markgoldbridge",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 135,
+        "reposts": 551,
+        "likes": 9690
+      },
+      "score": 48.6
+    },
+    {
+      "id": "2120948376066019561",
+      "url": "https://x.com/afc_sk14/status/2120948376066019561",
+      "text": "They Really smoked him. Agbonlahor had absolutely no comeback. These are men who were better than him, won more than him and achieved more than him in the game. https://t.co/h1cHciXpDS",
+      "createdAt": "Thu Nov 12 18:34:32 +0000 2026",
+      "author": "Bruno G.",
+      "handle": "afc_sk14",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 39,
+        "reposts": 738,
+        "likes": 8852
+      },
+      "score": 48.5
+    },
+    {
+      "id": "2121012244427473120",
+      "url": "https://x.com/shutupmikeginn/status/2121012244427473120",
+      "text": "i'm sitting next to a couple using Claude to create their NYC vacation itinerary and the wife just said \"11AM we have lunch at the Manhattan Sweetgreen\"",
+      "createdAt": "Thu Nov 12 22:48:20 +0000 2026",
+      "author": "mike ginn",
+      "handle": "shutupmikeginn",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 55,
+        "reposts": 187,
+        "likes": 10164
+      },
+      "score": 48.3
+    },
+    {
+      "id": "2120970013456949756",
+      "url": "https://x.com/AJamesMcCarthy/status/2120970013456949756",
+      "text": "Since apparently we can post up to 20 photos/videos now here are a bunch of mine https://t.co/Sxj4oEVfDD",
+      "createdAt": "Thu Nov 12 20:00:31 +0000 2026",
+      "author": "Andrew McCarthy",
+      "handle": "AJamesMcCarthy",
+      "feed": "following",
+      "metrics": {
+        "replies": 542,
+        "reposts": 1770,
+        "likes": 14822
+      },
+      "score": 47.3
+    },
+    {
+      "id": "2120936706610491805",
+      "url": "https://x.com/TheFergusonWay/status/2120936706610491805",
+      "text": "So, based on the reports, the Glazers have essentially told Sir Jim Ratcliffe and his co-clowns to fuck off with their Eddie Howe recommendation and have gone ahead with appointing Pochettino, and left SJR and his minions with little choice but to fall in line?\n\nAnd now we're also hearing that Pochettino will report directly to them, bypassing both Berrada and Wilcox????",
+      "createdAt": "Thu Nov 12 17:48:10 +0000 2026",
+      "author": "☈ッ",
+      "handle": "TheFergusonWay",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 151,
+        "reposts": 396,
+        "likes": 6872
+      },
+      "score": 47.2
+    },
+    {
+      "id": "2120598763094069524",
+      "url": "https://x.com/deepstash/status/2120598763094069524",
+      "text": "me: idk how bro always has the perfect comeback\n\nalso what he scrolls: philosophy, psychology, history, literature 📚\n\nDeepstash, the TikTok alternative for highly intelligent people.",
+      "createdAt": "Wed Nov 11 19:25:18 +0000 2026",
+      "author": "Deepstash",
+      "handle": "deepstash",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 7,
+        "reposts": 23,
+        "likes": 362
+      },
+      "score": 46.5
+    },
+    {
+      "id": "2120969747336773817",
+      "url": "https://x.com/England/status/2120969747336773817",
+      "text": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 🤝 🇭🇷\n\nA touching message from Croatia presented to @HKane  ahead of tonight’s match ❤️ https://t.co/ZRrv879pDT",
+      "createdAt": "Thu Nov 12 19:59:28 +0000 2026",
+      "author": "England",
+      "handle": "England",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 106,
+        "reposts": 729,
+        "likes": 12587
+      },
+      "score": 45.8
+    },
+    {
+      "id": "2120967763623633188",
+      "url": "https://x.com/2666enjoyer/status/2120967763623633188",
+      "text": "discovering that everyone around you is abusing stimulants 24/7 and that's how they get so much work done https://t.co/NO1NmUVH6U",
+      "createdAt": "Thu Nov 12 19:51:35 +0000 2026",
+      "author": "laika",
+      "handle": "2666enjoyer",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 29,
+        "reposts": 413,
+        "likes": 11690
+      },
+      "score": 45.1
+    },
+    {
+      "id": "2120955689304817856",
+      "url": "https://x.com/theshinecomics/status/2120955689304817856",
+      "text": "Well when they were making female centric movies, none of you keyboard warriors showed up. In fact more MEN supported those films than WOMEN did. Please stop with the performative fake outrage. https://t.co/BtcVel3BFG",
+      "createdAt": "Thu Nov 12 19:03:36 +0000 2026",
+      "author": "Shine Comics",
+      "handle": "theshinecomics",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 34,
+        "reposts": 312,
+        "likes": 3751
+      },
+      "score": 44.8
+    },
+    {
+      "id": "2120851860986675573",
+      "url": "https://x.com/CyberChamp_/status/2120851860986675573",
+      "text": "I'm slowly making every Discord Scam bot scared to message me https://t.co/vUNwgN1a91",
+      "createdAt": "Thu Nov 12 12:11:01 +0000 2026",
+      "author": "Cyber 🏴󠁧󠁢󠁳󠁣󠁴󠁿🦌",
+      "handle": "CyberChamp_",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 76,
+        "reposts": 224,
+        "likes": 11187
+      },
+      "score": 44.8
+    },
+    {
+      "id": "2121058968894427215",
+      "url": "https://x.com/FabrizioRomano/status/2121058968894427215",
+      "text": "🚨 Senne Lammens: “Hats off to Arda Güler. You can only say congratulations for his goal”. https://t.co/CmYHxJ1lzh",
+      "createdAt": "Fri Nov 13 01:54:00 +0000 2026",
+      "author": "Fabrizio Romano",
+      "handle": "FabrizioRomano",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 106,
+        "reposts": 280,
+        "likes": 8338
+      },
+      "score": 43.7
+    },
+    {
+      "id": "2120940532700414157",
+      "url": "https://x.com/lulumeservey/status/2120940532700414157",
+      "text": "If a CEO hypothetically wanted to make his departure maximally painful for the company he would have: \n\nNo successor, no COO, no president besides himself, dozens of direct reports, no 1:1 coaching for any of them, a cult of personality, and all key company contacts as his personal relationships\n\nThis is going to be tough",
+      "createdAt": "Thu Nov 12 18:03:22 +0000 2026",
+      "author": "Lulu Cheng Meservey",
+      "handle": "lulumeservey",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 62,
+        "reposts": 87,
+        "likes": 3011
+      },
+      "score": 43.3
+    },
+    {
+      "id": "2120928235567366478",
+      "url": "https://x.com/akaNemsko/status/2120928235567366478",
+      "text": "You've got a way better shot beating Serena on 1 leg than you do beating Magnus in chess.",
+      "createdAt": "Thu Nov 12 17:14:30 +0000 2026",
+      "author": "Nemo",
+      "handle": "akaNemsko",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 136,
+        "reposts": 138,
+        "likes": 5872
+      },
+      "score": 42.2
+    },
+    {
+      "id": "2121075782386688204",
+      "url": "https://x.com/YanPeronn/status/2121075782386688204",
+      "text": "In case you didn't follow day 4 of international break:\n\n>🏴󠁧󠁢󠁥󠁮󠁧󠁿Man Utd officially sacked Carrick & Fabrizio said \"here we go\" on Pochettino replacing him\n\n>🇮🇹Italy beat 🇫🇷France 3-1 in the NL. Zidane's first loss as France manager\n\n>🇮🇹Materazzi said Jesús de Miguel's death made him grateful nothing happened to him after Zidane's 2006 WC final headbutt\n\n>🏴󠁧󠁢󠁥󠁮󠁧󠁿Kane broke England's all-time caps record (126) & scored the winning pen vs Croatia in the Nations League\n\n>🇧🇪Belgium beat Turkey 2-1 scoring twice in 3 mins right after Arda Güler's free kick GOLAZO (vid in replies)\n\n>🇪🇸Spain beat 10-man Czechia 2-0 to extend their record unbeaten run to 43 games\n\n>🇪🇺Other Nations League results:\n     -🇦🇱Albania 2-0 🇫🇮Finland\n     -🇲🇪Montenegro 2-1 🇱🇻Latvia\n     -🇧🇾Belarus 2-0 🇸🇲San Marino\n     -🇦🇲Armenia 1-1 🇨🇾Cyprus\n\n>🏴󠁧󠁢󠁥󠁮󠁧󠁿Bruno Fernandes turned down a 2nd contract offer from Man Utd\n\n>🏴󠁧󠁢󠁥󠁮󠁧󠁿Amazon's Man Utd documentary producers said they \"can't believe their luck\" at what's unfolded this season\n\n>🏴󠁧󠁢󠁥󠁮󠁧󠁿Crystal Palace sacked Pierre Sage after 16 games\n\n>🇫🇷France's president, Macron offered to back Arsène Wenger if he runs against Infantino for FIFA president\n\n>🇦🇷Scaloni extended his Argentina contract until the 2030 World Cup\n\n>🇩🇪Klopp said Nmecha \"doesn't want to celebrate like that anymore\" about his religious crown celebration\n\n>🏴󠁧󠁢󠁥󠁮󠁧󠁿Emery said Prince William asks about Villa \"every day\" during transfer windows\n\n>🏴󠁧󠁢󠁥󠁮󠁧󠁿The EFL asked clubs to stop \"targeted banter\" on social media over fears of reputational damage (bit woke)\n\n>🇪🇺Women's UCL results:\n     -🏴󠁧󠁢󠁥󠁮󠁧󠁿Arsenal drew 1-1 at 🇪🇸Barcelona (first team to take pts off them this szn)\n     -🇵🇹Benfica 3-1 🇦🇹Austria Vienna\n\n>🌍AFCON qualifiers:\n     -🇸🇳Senegal 4-1 🇸🇩Sudan\n     -🇨🇩DR Congo 3-1 🇸🇱Sierra Leone\n     -🇨🇮Ivory Coast 2-1 🇬🇲Gambia\n     -🇨🇲Cameroon 2-0 🇳🇦Namibia\n     -🇬🇭Ghana 2-0 🇸🇴Somalia\n\n>🌎Friendlies:\n     -🇷🇺Russia beat 🇺🇿Uzbekistan 3-2\n     -🇳🇿New Zealand beat 🇮🇳India 5-0\n\n>Let me know what I missed\n\nIf you love football but don't have time to scroll twitter all day — I post one of these recaps every night... Follow me on pookie",
+      "createdAt": "Fri Nov 13 03:00:48 +0000 2026",
+      "author": "Yan",
+      "handle": "YanPeronn",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 8,
+        "reposts": 5,
+        "likes": 96
+      },
+      "score": 41.1
+    },
+    {
+      "id": "2121014721302442150",
+      "url": "https://x.com/tszzl/status/2121014721302442150",
+      "text": "the chinese have rightfully earned enormous global goodwill and soft power with their open source model efforts. even most Americans in this space feel more sympathetic to them than with the model companies",
+      "createdAt": "Thu Nov 12 22:58:10 +0000 2026",
+      "author": "roon",
+      "handle": "tszzl",
+      "feed": "following",
+      "metrics": {
+        "replies": 106,
+        "reposts": 85,
+        "likes": 1509
+      },
+      "score": 41
+    },
+    {
+      "id": "2120903786713719284",
+      "url": "https://x.com/RioMoussallem/status/2120903786713719284",
+      "text": "We asked Fergie to train players not managers.\nHe won 13 PL, you won 3.\nHe won 2 CL, you won none.",
+      "createdAt": "Thu Nov 12 15:37:21 +0000 2026",
+      "author": "Rayane Moussallem",
+      "handle": "RioMoussallem",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 13,
+        "reposts": 205,
+        "likes": 2916
+      },
+      "score": 39.5
+    },
+    {
+      "id": "2110659040573559048",
+      "url": "https://x.com/BouncerForFeed/status/2110659040573559048",
+      "text": "I can't stand AI art, so I made a plugin that removes it from your feed.",
+      "createdAt": "Thu Oct 15 09:08:24 +0000 2026",
+      "author": "Bouncer",
+      "handle": "BouncerForFeed",
+      "feed": "following",
+      "metrics": {
+        "replies": 1206,
+        "reposts": 4129,
+        "likes": 34496
+      },
+      "score": 38.9
+    },
+    {
+      "id": "2121011733699633613",
+      "url": "https://x.com/lydiahallie/status/2121011733699633613",
+      "text": "reminder to run `/doctor prompt-audit` in your Claude Code repos if you haven't already :)",
+      "createdAt": "Thu Nov 12 22:46:18 +0000 2026",
+      "author": "Lydia Hallie ✨",
+      "handle": "lydiahallie",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 132,
+        "reposts": 102,
+        "likes": 2420
+      },
+      "score": 38.8
+    },
+    {
+      "id": "2121009372470067544",
+      "url": "https://x.com/steipete/status/2121009372470067544",
+      "text": "There’s some new agent launching later this week and marketers offer a lot of money to say nice things about it on X. Keep a lookout on honest reviews 🫠",
+      "createdAt": "Thu Nov 12 22:36:55 +0000 2026",
+      "author": "Peter Steinberger",
+      "handle": "steipete",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 102,
+        "reposts": 19,
+        "likes": 872
+      },
+      "score": 38.5
+    },
+    {
+      "id": "2120941630278746337",
+      "url": "https://x.com/sporadica/status/2120941630278746337",
+      "text": "this one genuinely confuses me?\n\nJensen’s been incredibly pro-selling chips to China, and the big thing with Megaspeed was they were definitely the backdoor to Chinese companies for Nvidia chips\n\nChina’s chip haul is probably in a much worse spot with Jensen gone?",
+      "createdAt": "Thu Nov 12 18:07:44 +0000 2026",
+      "author": "spor",
+      "handle": "sporadica",
+      "feed": "following",
+      "metrics": {
+        "replies": 57,
+        "reposts": 24,
+        "likes": 919
+      },
+      "score": 38.4
+    },
+    {
+      "id": "2120892969779630387",
+      "url": "https://x.com/josbjohnson/status/2120892969779630387",
+      "text": "nobody ever woke up having accidentally conquered a mountain they never intended to climb. they had to look up at the damn thing and decide they were going to reach the top. THINK ABOUT WHAT YOURE ASKING OF YOUR LIFE. THINK BIGGER.",
+      "createdAt": "Thu Nov 12 14:54:22 +0000 2026",
+      "author": "jo johnson",
+      "handle": "josbjohnson",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 7,
+        "reposts": 86,
+        "likes": 750
+      },
+      "score": 38.1
+    },
+    {
+      "id": "2120983739018735777",
+      "url": "https://x.com/ryaneshea/status/2120983739018735777",
+      "text": "To figure out why Jensen Huang got ousted, just ask the question:\n\n\"What did Jensen refuse to do?\" https://t.co/4NyuecKrL7",
+      "createdAt": "Thu Nov 12 20:55:04 +0000 2026",
+      "author": "Ryan Shea",
+      "handle": "ryaneshea",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 46,
+        "reposts": 200,
+        "likes": 1773
+      },
+      "score": 37.9
+    },
+    {
+      "id": "2120882122101776446",
+      "url": "https://x.com/jvicwills/status/2120882122101776446",
+      "text": "out of topic but still insane to me that the one who deserves it, and we know he's capable of winning, is the one who has the least interest in bdor while his peers are moving like this publicly https://t.co/BdDbbLMe9W",
+      "createdAt": "Thu Nov 12 14:11:16 +0000 2026",
+      "author": "𝙖𝙮",
+      "handle": "jvicwills",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 17,
+        "reposts": 20,
+        "likes": 893
+      },
+      "score": 37.9
+    },
+    {
+      "id": "2120958298933633506",
+      "url": "https://x.com/jinxpilledd/status/2120958298933633506",
+      "text": "5 of these women cannot fully move their bodies anymore",
+      "createdAt": "Thu Nov 12 19:13:58 +0000 2026",
+      "author": "lina",
+      "handle": "jinxpilledd",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 98,
+        "reposts": 889,
+        "likes": 36357
+      },
+      "score": 37.9
+    },
+    {
+      "id": "2120756805597004180",
+      "url": "https://x.com/heybrosai/status/2120756805597004180",
+      "text": "If you're doing more than 1cr in revenue\n\n- Get an LLP in India\n- Get a virtual office address\n- Form an entity in Delaware\n- Open a bank account in HDFC, Yes bank..etc\n- Do ODI\n- Get a bank account in Mercury, relay..etc\n\nLife is sorted bro. You would also save 4-5% in taxes. on profits in comparison to India.",
+      "createdAt": "Thu Nov 12 05:53:18 +0000 2026",
+      "author": "Sai",
+      "handle": "heybrosai",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 27,
+        "reposts": 32,
+        "likes": 786
+      },
+      "score": 37.7
+    },
+    {
+      "id": "2120885340621730050",
+      "url": "https://x.com/vijaythirumalai/status/2120885340621730050",
+      "text": "For those in the BTFD camp of $nvda, citing low P/E , issue is what earnings are\n\nWhat if Jensen is a smart Ramalinga Raju\n\nWhat if earnings are cut by half coz of illegal china sales, circular financing & dozen other things\n\nRemember if he can lie abt affairs , he can lie abt books too or worse cook the books too",
+      "createdAt": "Thu Nov 12 14:24:04 +0000 2026",
+      "author": "Vijay Thirumalai",
+      "handle": "vijaythirumalai",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 8,
+        "reposts": 0,
+        "likes": 38
+      },
+      "score": 37.4
+    },
+    {
+      "id": "2120930176980938823",
+      "url": "https://x.com/zfredericks/status/2120930176980938823",
+      "text": "Hey Jensen,\n\nI'm Zach, principal at Primary Venture Partners, a $1.6B AUM seed firm in NY. We’ve backed companies like Etched and Dandy at the intersection of compute and physical AI. Would love to connect to discuss what's next.",
+      "createdAt": "Thu Nov 12 17:22:13 +0000 2026",
+      "author": "Zach Fredericks",
+      "handle": "zfredericks",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 54,
+        "reposts": 10,
+        "likes": 706
+      },
+      "score": 37.3
+    },
+    {
+      "id": "2121047085634257358",
+      "url": "https://x.com/sophiadew/status/2121047085634257358",
+      "text": "the best part of launching the method was getting to work with @lou3ee \n\nlouie is truly one of the most talented video creators i have ever met. he took a rough concept of an idea (before we even knew what the show would be) and created the entire launch video\n\ni met Louie about 2 years ago. at the time I was a software engineer but louie inspired me to start creating and that led to my first video “the digital renaissance.” creating that video together led to my next job, doing more things in media, and eventually now, hosting at mts. \n\nLouie’s creative energy is so contagious. and getting to work with him to create the method launch video was such an honor. endlessly grateful  https://t.co/Q0W23Pe00c",
+      "createdAt": "Fri Nov 13 01:06:47 +0000 2026",
+      "author": "sophia dew",
+      "handle": "sophiadew",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 6,
+        "reposts": 2,
+        "likes": 33
+      },
+      "score": 37.2
+    },
+    {
+      "id": "2121028737584283700",
+      "url": "https://x.com/roryisconfused/status/2121028737584283700",
+      "text": "This is the first time he’s done a Dril-level beguiling sentence in a while tbf https://t.co/TRb3TAmHJa",
+      "createdAt": "Thu Nov 12 23:53:52 +0000 2026",
+      "author": "Rory McCarthy",
+      "handle": "roryisconfused",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 10,
+        "reposts": 27,
+        "likes": 1822
+      },
+      "score": 36.8
+    },
+    {
+      "id": "2117892909936890188",
+      "url": "https://x.com/tripoai/status/2117892909936890188",
+      "text": "Need More Detail from Claude?\nTurn Initial 3D Models into High-Fidelity Assets with Tripo.",
+      "createdAt": "Wed Nov 04 08:13:12 +0000 2026",
+      "author": "Tripo",
+      "handle": "tripoai",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 34,
+        "reposts": 22,
+        "likes": 1751
+      },
+      "score": 36.8
+    },
+    {
+      "id": "2121077506220667005",
+      "url": "https://x.com/0xAlaric/status/2121077506220667005",
+      "text": "RT @CEBKCEBKCEBK: When Kavanaugh was nominated to SCOTUS:\n\n-Judy Munro-Leighton (an activist from CA) sent an anonymous letter to Senator K…",
+      "createdAt": "Fri Nov 13 03:07:39 +0000 2026",
+      "author": "Alaric",
+      "handle": "0xAlaric",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 242,
+        "likes": 0
+      },
+      "score": 36.6
+    },
+    {
+      "id": "2121055033735483810",
+      "url": "https://x.com/QTRResearch/status/2121055033735483810",
+      "text": "beyond surreal. imagine someone told you a month ago this would be a headline and lede. https://t.co/LckY8f3B2x",
+      "createdAt": "Fri Nov 13 01:38:21 +0000 2026",
+      "author": "Quoth the Raven",
+      "handle": "QTRResearch",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 23,
+        "reposts": 45,
+        "likes": 1383
+      },
+      "score": 35.9
+    },
+    {
+      "id": "2111131061111726151",
+      "url": "https://x.com/attio/status/2111131061111726151",
+      "text": "Agents are breaking your software. The old architecture was never intended for them. GTM needs a new architecture.",
+      "createdAt": "Fri Oct 16 16:24:02 +0000 2026",
+      "author": "Attio",
+      "handle": "attio",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 247,
+        "reposts": 66,
+        "likes": 743
+      },
+      "score": 35.6
+    },
+    {
+      "id": "2121067142145806453",
+      "url": "https://x.com/orenmeetsworld/status/2121067142145806453",
+      "text": "Spoke at Adobe MAX in Miami today about strategies for the competitive creator era \n\n- how to make content brands pay a premium for \n- creative directing your personal brand\n- how I storyboard and create my content and big brand projects \n- contents place in your career arc and promoting yourself \n\nFourth on stage session in last few weeks Atlanta is up next 🫡",
+      "createdAt": "Fri Nov 13 02:26:28 +0000 2026",
+      "author": "Oren John",
+      "handle": "orenmeetsworld",
+      "feed": "following",
+      "metrics": {
+        "replies": 3,
+        "reposts": 0,
+        "likes": 26
+      },
+      "score": 35.2
+    },
+    {
+      "id": "2120944579377582363",
+      "url": "https://x.com/KeyTryer/status/2120944579377582363",
+      "text": "Rewatching Silicon Valley and it's funny how Richard Hendricks pretty much invents the Transformer but the writers didn't really know it.",
+      "createdAt": "Thu Nov 12 18:19:27 +0000 2026",
+      "author": "Key 🗝 🦊",
+      "handle": "KeyTryer",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 12,
+        "reposts": 16,
+        "likes": 1227
+      },
+      "score": 35.1
+    },
+    {
+      "id": "2105909670456254707",
+      "url": "https://x.com/GOLDCOUNCIL/status/2105909670456254707",
+      "text": "There’s always a trend, a fashion, a fad, but gold has always been timeless. Visit https://t.co/xbb99hpXBM",
+      "createdAt": "Fri Oct 02 06:36:06 +0000 2026",
+      "author": "World Gold Council",
+      "handle": "GOLDCOUNCIL",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 28,
+        "reposts": 42,
+        "likes": 912
+      },
+      "score": 34.4
+    },
+    {
+      "id": "2120886740894232938",
+      "url": "https://x.com/packyM/status/2120886740894232938",
+      "text": "Imagine showing someone this headline last Saturday. \n\nI have a theory that everything just keeps getting crazier, that things that seemed like \"oh no way this was as crazy as it's ever gonna get\" look small.\n\nThe last bubble popped with the whole FTX thing, which seemed INSANE, but is small potatoes next to the CEO and founder of the 2nd largest company in the world, one that got hit in the FTX thing, too, because crypto miners were big GPU buyers, this guy who was grinding away on this thing for decades only for GPUs to finally really really matter and make possible the technology that people seem to think will either kill us or propel us into a state of everlasting abundance, this guy who seemed like an adult in the room and just a good, intense, work-focused guy, getting caught cheating with both an (alleged) Chinese spy and a direct report, and potentially popping a much bigger one, the WEEK before the IPO of the biggest frontier lab. \n\nNVDA is down 13% as I write this. It's shed over $1T over this affair. \n\nYou think this is as crazy as it will ever get. It will, somehow, get crazier.",
+      "createdAt": "Thu Nov 12 14:29:37 +0000 2026",
+      "author": "Packy McCormick",
+      "handle": "packyM",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 29,
+        "reposts": 8,
+        "likes": 292
+      },
+      "score": 33.7
+    },
+    {
+      "id": "2120913624910770477",
+      "url": "https://x.com/maxkilberg/status/2120913624910770477",
+      "text": "Hey Jensen,\n\nI'm Max, partner at Village Global – a pre-seed + seed venture firm chaired by Reid Hoffman. We came across your work through a couple of references in our network and would love to learn more about your next chapter.\n\nLooking forward to meeting,\nMax",
+      "createdAt": "Thu Nov 12 16:16:27 +0000 2026",
+      "author": "Max Kilberg",
+      "handle": "maxkilberg",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 22,
+        "reposts": 3,
+        "likes": 299
+      },
+      "score": 33.5
+    },
+    {
+      "id": "2121068329507098904",
+      "url": "https://x.com/scaria/status/2121068329507098904",
+      "text": "RT @galactamelamasc: https://t.co/Wr3JP77HMR",
+      "createdAt": "Fri Nov 13 02:31:11 +0000 2026",
+      "author": "thomas scaria",
+      "handle": "scaria",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 4762,
+        "likes": 0
+      },
+      "score": 33.5
+    },
+    {
+      "id": "2120970600030273661",
+      "url": "https://x.com/SuspectFed/status/2120970600030273661",
+      "text": "I guess he wasn't very BASED afterall https://t.co/ZuwOUwBYdH",
+      "createdAt": "Thu Nov 12 20:02:51 +0000 2026",
+      "author": "Posts By Feds",
+      "handle": "SuspectFed",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 90,
+        "reposts": 452,
+        "likes": 11784
+      },
+      "score": 33.2
+    },
+    {
+      "id": "2120939939219271777",
+      "url": "https://x.com/winglee/status/2120939939219271777",
+      "text": "what if you could turn your agent orchestrator into whatever you needed it to be?\n\nwith zeron plugins, you can change anything you want\n\nno javascript, electron, tauri, or gpui\n\na ui entirely customizable by your agents, with performance up to 90% faster than before https://t.co/9MTJqD2elg",
+      "createdAt": "Thu Nov 12 18:01:01 +0000 2026",
+      "author": "wing",
+      "handle": "winglee",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 50,
+        "reposts": 11,
+        "likes": 187
+      },
+      "score": 33.1
+    },
+    {
+      "id": "2121062974161092792",
+      "url": "https://x.com/thsottiaux/status/2121062974161092792",
+      "text": "How can codex be improved? Try not to say model.",
+      "createdAt": "Fri Nov 13 02:09:55 +0000 2026",
+      "author": "Tibo",
+      "handle": "thsottiaux",
+      "feed": "following",
+      "metrics": {
+        "replies": 4941,
+        "reposts": 55,
+        "likes": 2920
+      },
+      "score": 33.1
+    },
+    {
+      "id": "2120910620715282853",
+      "url": "https://x.com/ncarowland/status/2120910620715282853",
+      "text": "Excellent this. Even the players know that modern football's shite",
+      "createdAt": "Thu Nov 12 16:04:31 +0000 2026",
+      "author": "Nicholas 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "handle": "ncarowland",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 12,
+        "reposts": 166,
+        "likes": 9641
+      },
+      "score": 32.1
+    },
+    {
+      "id": "2118541548556009606",
+      "url": "https://x.com/Starlink/status/2118541548556009606",
+      "text": "Get 50% off Starlink kits and service. Connect to fast, reliable internet for streaming, video calls, working from home, and more.\n\nOffer ends on November 30.",
+      "createdAt": "Fri Nov 06 03:10:40 +0000 2026",
+      "author": "Starlink",
+      "handle": "Starlink",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 23,
+        "reposts": 7,
+        "likes": 168
+      },
+      "score": 31.7
+    },
+    {
+      "id": "2121077855912366177",
+      "url": "https://x.com/AJamesMcCarthy/status/2121077855912366177",
+      "text": "Pending a launch license, this is Starship’s final night before flying into space. \n\nHopefully not its final night on Earth 😜 https://t.co/Wt7DQQ9usu",
+      "createdAt": "Fri Nov 13 03:09:03 +0000 2026",
+      "author": "Andrew McCarthy",
+      "handle": "AJamesMcCarthy",
+      "feed": "following",
+      "metrics": {
+        "replies": 8,
+        "reposts": 7,
+        "likes": 195
+      },
+      "score": 31.7
+    },
+    {
+      "id": "2118637748609241530",
+      "url": "https://x.com/jobescape_ai/status/2118637748609241530",
+      "text": "Full Claude Course \n\nMaster Claude to automate repetitive tasks, build apps without coding, create real portfolio projects, and become more valuable at work.",
+      "createdAt": "Fri Nov 06 09:32:56 +0000 2026",
+      "author": "Jobescape",
+      "handle": "jobescape_ai",
+      "feed": "following",
+      "metrics": {
+        "replies": 6,
+        "reposts": 12,
+        "likes": 171
+      },
+      "score": 31.4
+    },
+    {
+      "id": "2121073254446371170",
+      "url": "https://x.com/lulumeservey/status/2121073254446371170",
+      "text": "As an Asian American I would feel embarrassed by this person’s longshot attempt at milking this situation for secondhand victimhood, except thankfully I view myself and others as individuals rather than fungible members of monolithic groups",
+      "createdAt": "Fri Nov 13 02:50:46 +0000 2026",
+      "author": "Lulu Cheng Meservey",
+      "handle": "lulumeservey",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 12,
+        "reposts": 8,
+        "likes": 155
+      },
+      "score": 31.1
+    },
+    {
+      "id": "2120955819386712123",
+      "url": "https://x.com/umzrs/status/2120955819386712123",
+      "text": "Email marketing in 2018:\n\n- Send \"20% off\" to your whole list\n- 40% open rates\n- Make $50k on a Tuesday\n\nEmail marketing in 2026:",
+      "createdAt": "Thu Nov 12 19:04:07 +0000 2026",
+      "author": "Umar",
+      "handle": "umzrs",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 5,
+        "reposts": 0,
+        "likes": 15
+      },
+      "score": 30.1
+    },
+    {
+      "id": "2120922756644839732",
+      "url": "https://x.com/orenmeetsworld/status/2120922756644839732",
+      "text": "In a world of endless yapping, creators that want to stand out in organic and ads should get out in the world and make vlogs\n\nMy guide 👇 https://t.co/jn7qkrZo6X",
+      "createdAt": "Thu Nov 12 16:52:44 +0000 2026",
+      "author": "Oren John",
+      "handle": "orenmeetsworld",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 10,
+        "reposts": 1,
+        "likes": 92
+      },
+      "score": 28.6
+    },
+    {
+      "id": "2121051670658609243",
+      "url": "https://x.com/artenpedia/status/2121051670658609243",
+      "text": "A Cloud and Landscape Study by Moonlight by Johan Christian Dahl https://t.co/t3IqK6MRiZ",
+      "createdAt": "Fri Nov 13 01:25:00 +0000 2026",
+      "author": "Art Encyclopedia",
+      "handle": "artenpedia",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 36,
+        "likes": 179
+      },
+      "score": 28.6
+    },
+    {
+      "id": "2121060054816129152",
+      "url": "https://x.com/favelaoverlord/status/2121060054816129152",
+      "text": "what we call “technology and science” is pretty much 90% the development of metallurgical techniques that enable greater precision, standardization, and strength; so not only is this spurious on obvious face but it also acute denial of truly remarkable technology!",
+      "createdAt": "Fri Nov 13 01:58:19 +0000 2026",
+      "author": "Mr. S.T.A.R.",
+      "handle": "favelaoverlord",
+      "feed": "following",
+      "metrics": {
+        "replies": 3,
+        "reposts": 2,
+        "likes": 97
+      },
+      "score": 28.4
+    },
+    {
+      "id": "2120984127138845007",
+      "url": "https://x.com/stevelauda_/status/2120984127138845007",
+      "text": "Welp, I potentially got some lungs infection, either virus or bacteria, and created some mucus layers inside the lungs.\n\nEver since I removed my tonsils, now my layer of nasal protection goes straight to my lungs.\n\nThe unstopable cough in my case is because my body instinctively trying to reduce the amount of the mucus inside the lungs, but not possible by simply just coughing.\n\nWhen the mucus layers being created around the tonsils, it’s easier to remove it by simply coughing.\n\nBut in this case, not that simple.\n\nFor people who also face the same prolong cough, try to check up and do some x-ray to make sure you’re not facing the same issue like mine.",
+      "createdAt": "Thu Nov 12 20:56:36 +0000 2026",
+      "author": "Steve Lauda",
+      "handle": "stevelauda_",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 26,
+        "reposts": 0,
+        "likes": 46
+      },
+      "score": 28
+    },
+    {
+      "id": "2121064414359281707",
+      "url": "https://x.com/0xAlaric/status/2121064414359281707",
+      "text": "Dynamism should be measured in terms of the *firing* rate — high turnover means tons of entry level openness, and upward mobility. America’s two economic peaks (1880s-1920 and the postwar boom) were like this. Today it is near-impossible and often costly to fire anyone",
+      "createdAt": "Fri Nov 13 02:15:38 +0000 2026",
+      "author": "Alaric",
+      "handle": "0xAlaric",
+      "feed": "following",
+      "metrics": {
+        "replies": 2,
+        "reposts": 4,
+        "likes": 82
+      },
+      "score": 28
+    },
+    {
+      "id": "2121063652052856976",
+      "url": "https://x.com/orangebook/status/2121063652052856976",
+      "text": "A lot of people suddenly feel very confident when it comes to piling on someone who is already on the floor, especially those who wanted a distraction from their own problems and struggles.",
+      "createdAt": "Fri Nov 13 02:12:36 +0000 2026",
+      "author": "Orange Book 🍊📖",
+      "handle": "orangebook",
+      "feed": "following",
+      "metrics": {
+        "replies": 2,
+        "reposts": 8,
+        "likes": 70
+      },
+      "score": 28
+    },
+    {
+      "id": "2120800653807370318",
+      "url": "https://x.com/camski/status/2120800653807370318",
+      "text": "I'm paying $621/ year for Premium + and on top of that my company pays 600$ for my affiliate badge\n\nthats 1221$/ year, @grok why am I seeing adds now?",
+      "createdAt": "Thu Nov 12 08:47:33 +0000 2026",
+      "author": "Camski",
+      "handle": "camski",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 21,
+        "reposts": 0,
+        "likes": 52
+      },
+      "score": 27.8
+    },
+    {
+      "id": "2092778537396916461",
+      "url": "https://x.com/Starlink/status/2092778537396916461",
+      "text": "Starlink offers fast, reliable internet in the most rural and remote locations. Portable and easy to set up, Starlink Mini works wherever you are.\n\nOrder online in minutes.",
+      "createdAt": "Thu Aug 27 00:57:39 +0000 2026",
+      "author": "Starlink",
+      "handle": "Starlink",
+      "feed": "following",
+      "metrics": {
+        "replies": 13,
+        "reposts": 5,
+        "likes": 54
+      },
+      "score": 27.8
+    },
+    {
+      "id": "2121080498881700275",
+      "url": "https://x.com/tszzl/status/2121080498881700275",
+      "text": "Ambulocetus. a mammal that played a similar ecological to modern crocodiles, waiting around at the edges of the rivers to snap up land mammals. He is the ancestor to all modern whales and dolphins https://t.co/SqDWP2wd8D",
+      "createdAt": "Fri Nov 13 03:19:33 +0000 2026",
+      "author": "roon",
+      "handle": "tszzl",
+      "feed": "following",
+      "metrics": {
+        "replies": 9,
+        "reposts": 2,
+        "likes": 67
+      },
+      "score": 27.6
+    },
+    {
+      "id": "2121079310941671530",
+      "url": "https://x.com/bscholl/status/2121079310941671530",
+      "text": "Founder succession is an open problem. \n\nSuccessful founders are themselves odd ducks who surround themselves with people who complement their strengths and weaknesses.\n\nBy definition, the people who surround a founder are very different from the founder.\n\nBut when a founder leaves, we promote the most successful subordinate into an organizational spot which they, almost by definition, don’t fit. \n\nReplacing a visionary founder CEO with a CFO or COO is comically stupid. Yet it is considered the best practice.\n\nI don’t know the answer to this problem,  and although I have some ideas, I am nowhere close to ready to test them on my own business :)",
+      "createdAt": "Fri Nov 13 03:14:50 +0000 2026",
+      "author": "Blake Scholl 🛫",
+      "handle": "bscholl",
+      "feed": "following",
+      "metrics": {
+        "replies": 4,
+        "reposts": 4,
+        "likes": 67
+      },
+      "score": 27.4
+    },
+    {
+      "id": "2121052930081968462",
+      "url": "https://x.com/boardyai/status/2121052930081968462",
+      "text": "be outgoing\npost your product\n\nthat's how i went from 75k followers to 52k",
+      "createdAt": "Fri Nov 13 01:30:00 +0000 2026",
+      "author": "Boardy",
+      "handle": "boardyai",
+      "feed": "following",
+      "metrics": {
+        "replies": 38,
+        "reposts": 3,
+        "likes": 125
+      },
+      "score": 27.2
+    },
+    {
+      "id": "2120922934911070564",
+      "url": "https://x.com/vijaythirumalai/status/2120922934911070564",
+      "text": "Wow, this is how a CEO should be\n\nNow contrast to the over hyped SaaS CEO who turned out be a fraud, dumped his shares to public and who forever tainted Nasdaq IPO to Indian founders with his shenanigans\n\nWhat's he doing now, giving Gyaan full time, using his ill gotten secondaries to produce a movie!\n\n#Bigfail!",
+      "createdAt": "Thu Nov 12 16:53:27 +0000 2026",
+      "author": "Vijay Thirumalai",
+      "handle": "vijaythirumalai",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 6,
+        "reposts": 3,
+        "likes": 47
+      },
+      "score": 26.4
+    },
+    {
+      "id": "2120934557361004667",
+      "url": "https://x.com/DylanTweetin/status/2120934557361004667",
+      "text": "Yo Christ come get your Christians https://t.co/ZTOeWcp7ZJ",
+      "createdAt": "Thu Nov 12 17:39:38 +0000 2026",
+      "author": "Darkwoke Duck",
+      "handle": "DylanTweetin",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 17,
+        "reposts": 95,
+        "likes": 2314
+      },
+      "score": 26.2
+    },
+    {
+      "id": "2112838749197623315",
+      "url": "https://x.com/FTMO_com/status/2112838749197623315",
+      "text": "Trust in yourself. Trust in FTMO. Trading masters are born every day. Master your skills today!",
+      "createdAt": "Wed Oct 21 09:29:47 +0000 2026",
+      "author": "FTMO.com",
+      "handle": "FTMO_com",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 6,
+        "reposts": 4,
+        "likes": 109
+      },
+      "score": 25.3
+    },
+    {
+      "id": "2121074514541109251",
+      "url": "https://x.com/FoundersPodcast/status/2121074514541109251",
+      "text": "RT @nikesharora: https://t.co/ICtFUFSNRu\n\n@davidsenra thank you for coming over to do this. Was fun.",
+      "createdAt": "Fri Nov 13 02:55:46 +0000 2026",
+      "author": "David Senra",
+      "handle": "FoundersPodcast",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 40,
+        "likes": 0
+      },
+      "score": 24.8
+    },
+    {
+      "id": "2120954576882827273",
+      "url": "https://x.com/G2Schiz0/status/2120954576882827273",
+      "text": "ranking brain rewiring beliefs. https://t.co/Iu6vy4CqDm",
+      "createdAt": "Thu Nov 12 18:59:11 +0000 2026",
+      "author": "g2Ø",
+      "handle": "G2Schiz0",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 18,
+        "reposts": 52,
+        "likes": 1588
+      },
+      "score": 24.5
+    },
+    {
+      "id": "2120898350484701525",
+      "url": "https://x.com/ponnappa/status/2120898350484701525",
+      "text": "the bar isn't \"show me the code\" anymore because any idiot can ship code\n\nThe bar is now \"show me the popular code\"\n\ntraction is the benchmark",
+      "createdAt": "Thu Nov 12 15:15:45 +0000 2026",
+      "author": "Sidu Ponnappa",
+      "handle": "ponnappa",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 3,
+        "reposts": 1,
+        "likes": 32
+      },
+      "score": 24.2
+    },
+    {
+      "id": "2121067365752606767",
+      "url": "https://x.com/PalmerLuckey/status/2121067365752606767",
+      "text": "@sporadica China doesn't want Nvidia to sell chips to China.",
+      "createdAt": "Fri Nov 13 02:27:22 +0000 2026",
+      "author": "Palmer Luckey",
+      "handle": "PalmerLuckey",
+      "feed": "following",
+      "metrics": {
+        "replies": 102,
+        "reposts": 36,
+        "likes": 1340
+      },
+      "score": 24.2
+    },
+    {
+      "id": "2120202022108516446",
+      "url": "https://x.com/dmitricherniak/status/2120202022108516446",
+      "text": "Eruv takes about an hour to play, and I know that's a lot to ask. The positive private feedback I've received on it is why I made this trailer.\n\nAnd yes, it's generative: everyone who plays gets a street of their own. I fixed a couple of bugs and made a few key moments more cinematic, but at the end of the day, every cut stays on the line.\n\nhttps://t.co/C0bXHmIAes",
+      "createdAt": "Tue Nov 10 17:08:48 +0000 2026",
+      "author": "Dmitri Cherniak",
+      "handle": "dmitricherniak",
+      "feed": "following",
+      "metrics": {
+        "replies": 4,
+        "reposts": 0,
+        "likes": 33
+      },
+      "score": 24.2
+    },
+    {
+      "id": "2120937079861657648",
+      "url": "https://x.com/clairekart/status/2120937079861657648",
+      "text": "Nvidia and Jensen spinning this as an affair and everyone buying it shows the power of effective comms. Running with the affair line is smart bc it’s interesting. Sex sells. \n\nThis has nothing to do with a run of the mill affair. \n\nI presume ppl knew he was having an affair with his subordinate, and possibly other ppl. Those are usually pretty widely known ‘secrets’ within company leadership. I bet we’ll find out he’s been having affairs going back years, and honestly… who cares! \n\nThis is about national security, securities fraud, board deception. High stakes things.",
+      "createdAt": "Thu Nov 12 17:49:39 +0000 2026",
+      "author": "Claire Kart",
+      "handle": "clairekart",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 36
+      },
+      "score": 24.1
+    },
+    {
+      "id": "2121057459276308589",
+      "url": "https://x.com/jasonlk/status/2121057459276308589",
+      "text": ".@higgsfield_ai went from a $1B run rate in September to $1.35B in October.\n\nThat’s $350M of new run rate in one month, at $1B+.\n\nWhen Alex came on stage at SaaStr AI in May, they were at ~$500M. Now they’re aiming for $2B by year-end. And that only takes holding October’s pace for two more months.\n\nUBS also just put them on its IPO watchlist.\n\nProud early investor, and very early customer too.",
+      "createdAt": "Fri Nov 13 01:48:00 +0000 2026",
+      "author": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "handle": "jasonlk",
+      "feed": "following",
+      "metrics": {
+        "replies": 11,
+        "reposts": 1,
+        "likes": 11
+      },
+      "score": 23.7
+    },
+    {
+      "id": "2121077433084559719",
+      "url": "https://x.com/orangebook/status/2121077433084559719",
+      "text": "A common slippery rope with many men who think that they can outsource everything with money, is that at some point, they also stop thinking by themselves (they can always hire \"experts\"), they are no longer capable of any compromise and isolate themselves in a bubble of \"yes people\" (\"this conflict isn't worth my time, I have plenty of other options\"), and they even forget what it's like to build a meaningful bond with someone else, including with their own wife, children, parents (\"I can hire people for the household chores, I'm being a great husband, babysitters can take care of the kids and then expensive private schools will give them the best education, I'm being a great father, I'm sending my parents to a retirement home, I'm being a great son.\")\n\nThe biggest irony of a lot of smart people is how, in their quest of hyper-efficiency and maximization of every output, they become completely disconnected with their own emotions (but call it \"detachment\") and they often end up being susceptible to the most timelessly common blunders that keep leading many men to their ruin generation after generation.\n\nThe important thing we should all keep in mind: the smarter you are, the more sophisticated and believable your self-talk, and the easier it actually becomes to lie to yourself.",
+      "createdAt": "Fri Nov 13 03:07:22 +0000 2026",
+      "author": "Orange Book 🍊📖",
+      "handle": "orangebook",
+      "feed": "following",
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 28
+      },
+      "score": 23.3
+    },
+    {
+      "id": "2121076880786739492",
+      "url": "https://x.com/ramahluwalia/status/2121076880786739492",
+      "text": "Nvidia’s board placed the CFO as interim CEO of the company. \n\nThat’s a really stupid decision. \n\nThe CEO is a General Manager. \n\nThe right interim leader would be Ian Buck who runs the largest and fastest growing Datacenter business. \n\nSatya Nadella previously ran Azure - the largest and fastest growing business. \n\nAndy Jassy led AWS - Amazon’s largest and fastest growing business. \n\nGeneral Managers lead, make trade-offs, hire, ship…\n\nThe life of a CFO is living in a spreadsheet - not the messiness of the real world. \n\nThe only good reason not to put Ian in as Interim CEO is if the board thought he might be knowingly caught up in export violations swirling the firm. \n\nThe General Manager would of course know all these details. \n\nSo, either the board is stupid or they have legitimate deeper concerns. \n\nEither way, appointing the CFO as CEO raises questions, not confidence. \n\n$NVDA",
+      "createdAt": "Fri Nov 13 03:05:10 +0000 2026",
+      "author": "Ram Ahluwalia CFA, Lumida",
+      "handle": "ramahluwalia",
+      "feed": "following",
+      "metrics": {
+        "replies": 7,
+        "reposts": 1,
+        "likes": 14
+      },
+      "score": 23.1
+    },
+    {
+      "id": "2121056968672764316",
+      "url": "https://x.com/divz_i_am/status/2121056968672764316",
+      "text": "RT @growing_daniel: They should make Emmett Shear the Nvidia CEO for ten minutes",
+      "createdAt": "Fri Nov 13 01:46:03 +0000 2026",
+      "author": "Divya George",
+      "handle": "divz_i_am",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 25,
+        "likes": 0
+      },
+      "score": 22.8
+    }
+  ]
+}
