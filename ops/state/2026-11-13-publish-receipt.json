@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-13",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-11-13 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "c89ea17c9bd53ca308abc6b1af7a3ea0c9422983",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Friday, 13 November 2026",
+    "Issue 104",
+    "Treat loyalty as a buying pattern, not a personality type."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 13 November 2026",
+  "gmail_message_id": "01a1d326-e478-7dd1-88f9-03ef1e896b94",
+  "completed_at_ist": "2026-11-13 09:55:03 IST"
+}
