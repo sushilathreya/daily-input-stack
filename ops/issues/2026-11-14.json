@@ -1,0 +1,176 @@
+{
+  "date": "2026-11-14",
+  "displayDate": "Saturday, 14 November 2026",
+  "issueNumber": 105,
+  "title": "Turn experimentation into a learning cadence.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter Four of Hacking Growth, Sean Ellis and Morgan Brown show how disciplined, high-tempo testing compounds learning when a team gives experiments a repeatable cycle and a shared operating rhythm.",
+  "meta": {
+    "canon": "Sean Ellis and Morgan Brown, <em>Hacking Growth</em>",
+    "study": "35-45 min",
+    "practice": "one growth-cycle audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "Speed only compounds when the team can learn from each test. Build a repeatable cycle that turns analysis into ideas, ideas into prioritized experiments, and results into the next question."
+  },
+  "canon": {
+    "author": "Sean Ellis and Morgan Brown",
+    "work": "Hacking Growth",
+    "chapter": "Testing at High Tempo",
+    "chapterLabel": "Chapter Four, \"Testing at High Tempo\"",
+    "field": "growth strategy / experimentation / operating cadence",
+    "pageRange": "Printed pages 110-138 in the EPUB page list; begin at Chapter Four on page 110 and stop at the end of the chapter on page 138, before Part II and Chapter Five begin.",
+    "pageCount": 29,
+    "stopPoint": "Stop at the end of printed page 138. Do not continue into the Part II separator or Chapter Five, \"Hacking Acquisition,\" which begins on printed page 140.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_epub",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Hacking Growth.epub",
+      "driveUrl": "https://drive.google.com/file/d/1wtU-SZ-6s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "native_text_epub_with_page_list_and_xhtml_boundary_verification",
+        "tool": "local EPUB unzip, nav/page-list inspection, and native XHTML extraction",
+        "nativeTextPages": "The EPUB nav names Chapter Four, \"Testing at High Tempo.\" The page map places its opening at printed page 110; the chapter XHTML contains pagebreaks through page 138 and ends before the Part II separator, while Chapter Five begins at printed page 140.",
+        "tableOfContentsVerified": true,
+        "notes": "The local VPS EPUB was inspected directly. Chapter Four is the next unstudied section after Chapter Three in canon history. Direct XHTML inspection confirms the chapter opening at page 110, the final chapter material at page 138, and the next chapter boundary at page 140, yielding a bounded 29-page reading."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1wtU-SZ-6s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Hacking Growth.epub\""
+    },
+    "heading": "Make the growth loop fast enough to teach you.",
+    "standfirst": "Read Chapter Four, \"Testing at High Tempo,\" from Sean Ellis and Morgan Brown's <em>Hacking Growth</em> on printed pages 110-138. Study how a growth team turns analysis, ideation, prioritization, testing, and learning into a repeatable cycle, then stop before Part II.",
+    "readerIntro": "Read this chapter as an operating design for learning. Mark where the authors distinguish speed from scattershot activity, how the four-stage cycle protects attention, and which meeting practices convert test results into institutional memory. Then map one growth process: name its current focus, the ideas it is generating, the rule used to prioritize them, and the evidence that should change the next cycle. Stop at printed page 138.",
+    "blocks": [
+      {
+        "label": "01 / Let tempo compound learning, not noise",
+        "paragraphs": [
+          "The chapter opens with high-tempo football to make a precise point: more plays create more opportunities to learn, but only when the team can interpret what happened and adjust.",
+          "Notice the qualification. Speed is valuable because it increases the rate of learning, not because activity is inherently virtuous."
+        ]
+      },
+      {
+        "label": "02 / Build a cycle that turns uncertainty into work",
+        "paragraphs": [
+          "Ellis and Brown organize growth around a continuous loop of analysis, ideation, prioritization, testing, and renewed analysis.",
+          "Study how the sequence prevents a team from jumping straight from a hunch to implementation while still keeping the work moving at a practical cadence."
+        ]
+      },
+      {
+        "label": "03 / Prioritize ideas before the test queue fills",
+        "paragraphs": [
+          "A large idea pipeline is useful only if the team has a disciplined way to choose what deserves scarce engineering, design, analytical, and attention capacity.",
+          "Mark how the ICE framework and collaborative nomination process make opportunity cost visible instead of allowing the loudest idea to win by default."
+        ]
+      },
+      {
+        "label": "04 / Make valid results part of the operating rhythm",
+        "paragraphs": [
+          "The testing rules treat experimental quality as a growth constraint: weak design, false positives, and inconclusive results consume opportunities that cannot be recovered.",
+          "Notice how the growth meeting closes the loop by reviewing metrics, unfinished tests, lessons, owners, and the next cycle's candidates."
+        ]
+      },
+      {
+        "label": "05 / Store learning so the team does not repeat itself",
+        "paragraphs": [
+          "The knowledge base is more than documentation. It lets the team search past tests, revisit conclusions, and avoid spending a new cycle rediscovering an old result.",
+          "Choose one current experiment process and ask what evidence would still be findable six months from now—and what disappears as soon as the meeting ends."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "learning more by learning faster",
+      "TEMPO PICKS UP OVER TIME",
+      "THE GROWTH HACKING CYCLE",
+      "STAGE 3: PRIORITIZE",
+      "TESTING RULES OF THE ROAD",
+      "THE GROWTH MEETING",
+      "GROWTH WITHIN WEEKS"
+    ],
+    "closeReading": [
+      "Why does the Baylor football analogy make speed a learning advantage rather than merely a productivity claim?",
+      "How do the four stages of the growth hacking cycle constrain one another, and what goes wrong when a team skips one stage?",
+      "What does the ICE score make visible about opportunity cost that an unranked idea backlog hides?",
+      "Where does the chapter distinguish a high-tempo process from scattershot experimentation?",
+      "Choose one team or product. What should its growth meeting review each week, and what evidence should determine the next cycle's tests?"
+    ]
+  },
+  "principle": {
+    "heading": "Design the loop that turns tests into memory.",
+    "body": "Growth compounds when every experiment leaves the team with a sharper model of what to do next. Build a cadence that protects both speed and validity, then make the learning searchable.",
+    "exampleLabel": "One example",
+    "example": "A product team does not treat its A/B tests as isolated launches. It reviews the North Star metric, ranks ideas by impact and confidence, records the result with its assumptions, and uses the finding to select the next experiment.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Map one growth loop in five steps: analyze, ideate, prioritize, test, learn. Identify the step where work currently stalls, the evidence it lacks, and one change to the weekly cadence that would make the next cycle more reliable."
+  },
+  "output": {
+    "heading": "Make every experiment improve the next question.",
+    "body": "A fast testing system earns its speed by converting results into shared judgment, not by producing a larger pile of activity."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "collectedAt": "2026-11-14",
+    "heading": "Four current signals on making experimentation a repeatable learning system.",
+    "fieldNotes": [
+      {
+        "title": "Google makes multi-step usefulness part of the phone proposition",
+        "source": "Google",
+        "url": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
+        "sourceDate": "2026-11-10",
+        "collectedAt": "2026-11-14",
+        "whatHappened": "Google's November Pixel Drop added Gemini Intelligence capabilities on Pixel 10, including multi-step tasks such as ordering coffee, proactive suggestions, message polishing, and Pixel Tag availability.",
+        "whyItMatters": "The product story is organized around recognizable jobs rather than intelligence as an abstract claim. That gives the team testable adoption questions: which task earns a first use, whether the handoff succeeds, and which successful action creates a reason to return.",
+        "watch": "Watch task completion and repeat use by job, not just feature awareness; a broad launch can still fail if the first multi-step experience is unreliable or hard to understand."
+      },
+      {
+        "title": "OpenAI turns access control and latency into product experiments",
+        "source": "OpenAI API Changelog",
+        "url": "https://developers.openai.com/api/docs/changelog",
+        "sourceDate": "2026-11-13",
+        "collectedAt": "2026-11-14",
+        "whatHappened": "OpenAI's November changelog listed enhanced role-based access controls, new GPT-5.1-Codex models for the Responses API, and extended prompt-cache retention of up to 24 hours.",
+        "whyItMatters": "These are operating-system improvements that make it easier to run controlled work at scale: the right people can access the right actions, and repeated context can be tested with lower latency and cost. Growth here depends on shortening the distance between a useful workflow and the next iteration.",
+        "watch": "Watch whether teams use the controls and cache economics to run more reliable workflow experiments, or whether additional capability simply increases setup complexity."
+      },
+      {
+        "title": "Fetch makes repeated attention the unit of a branded series",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/fetch-trades-views-for-rewards-with-brand-backed-holiday-microseries/874424/",
+        "sourceDate": "2026-11-12",
+        "collectedAt": "2026-11-14",
+        "whatHappened": "Fetch launched a six-part holiday microseries with a brand partner tied to each episode, offering viewers points redeemable for gift cards when they watch and shop through the app.",
+        "whyItMatters": "The format creates a concrete loop—content, viewing, reward, shopping—that can be measured episode by episode. It tests whether brands can earn repeat participation through a useful system rather than relying on a one-off creative claim or a narrow fan base.",
+        "watch": "Watch completion, repeat viewing, shopping conversion, and reach separately; high activity from reward-seeking viewers would not by itself prove durable brand learning or broad growth."
+      },
+      {
+        "title": "Google DeepMind benchmarks the visual work agents actually face",
+        "source": "Google DeepMind",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
+        "sourceDate": "2026-11-10",
+        "collectedAt": "2026-11-14",
+        "whatHappened": "Google DeepMind introduced the Multimodal Knowledge Agent benchmark with Artificial Analysis to evaluate agents on visually complex files and real-world knowledge-work tasks such as interpreting blueprints, schematics, reports, and spreadsheets.",
+        "whyItMatters": "The benchmark turns a vague promise—agents can handle knowledge work—into observable task conditions. That is the same discipline as a good growth cycle: define the job, make the result measurable, and use failure modes to choose the next test.",
+        "watch": "Watch whether benchmark performance predicts useful outcomes in live workflows, including error recovery and time to a trusted next action, rather than only scores on a curated file set."
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-11-14",
+        "sourceDate": "2026-11-13",
+        "feed": "for_you",
+        "author": "Davide Grieco",
+        "handle": "imDavideGrieco",
+        "title": "Test the message before polishing the campaign",
+        "summary": "Davide Grieco argues that growth teams should test ICP, pain point, and use case before investing in polished creative. The useful fragment is its sequencing claim: use speed to find a promising narrative, then spend quality effort on what earns evidence.",
+        "text": "Every growth marketer I know who got fired over the last 12 months made the same mistake: they optimized for quality instead of speed.\n\nThey spend three months designing the perfect landing page, filming high-production videos, designing fancy ads, and building out a full nurture flow. Then they launch. It flops. And they start over.\n\nIn growth, 80% of your initiatives will fail. So if you dedicate resources to making each one beautiful, you're allocating unnecessary effort to initiatives that won't exist in three months.\n\nTest ICP → pain point → use case. Iterate until you find early signs of success. Then improve the quality of the campaign.",
+        "url": "https://x.com/imDavideGrieco/status/2121250504877490224"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
