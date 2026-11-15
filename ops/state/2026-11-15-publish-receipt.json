@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-15",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-11-15 12:00:00 IST",
+  "local_verified": true,
+  "git_commit": "d8c923fb7856c36abad4e28e9f42c02a1e9705f4",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Sunday, 15 November 2026",
+    "Issue 106",
+    "Make the reader's motive do the selling."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - Sunday - 15 November 2026",
+  "gmail_message_id": "01a1dde1-7920-76fa-a4a2-8f2aa625f972",
+  "completed_at_ist": "2026-11-15 11:55:03 IST"
+}
