@@ -1,0 +1,1213 @@
+{
+  "date": "2026-11-15",
+  "capturedAtIST": "2026-11-15 11:00:11",
+  "command": "bird-readonly home --json plus bird-readonly home --following --json",
+  "readonlyOnly": true,
+  "minimumSelectionRequired": 1,
+  "rawCounts": {
+    "for_you": 80,
+    "following": 80
+  },
+  "candidates": [
+    {
+      "id": "2121739714998780263",
+      "url": "https://x.com/FabrizioRomano/status/2121739714998780263",
+      "text": "🚨🇵🇹 Jorge Jesus when asked if he missed Cristiano Ronaldo tonight: “Missing what?\nHe’s no longer on the national team, so what’s missing?”.\n\n“The only thing missing is his presence here to keep me company”. ❗️ https://t.co/QONqNDl5mu",
+      "createdAt": "Sat Nov 14 22:59:02 +0000 2026",
+      "author": "Fabrizio Romano",
+      "handle": "FabrizioRomano",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 2242,
+        "reposts": 3909,
+        "likes": 68486
+      },
+      "score": 57.3
+    },
+    {
+      "id": "2121694295644311988",
+      "url": "https://x.com/mejorespatadas1/status/2121694295644311988",
+      "text": "❌ Este árbitro en la Champions de África parece haber encontrado la solución para que nadie le proteste al final del partido.\n\nEl GENIO sacó la tarjeta roja por las dudas de que alguien se le acerque. https://t.co/w6FQ6aTv2N",
+      "createdAt": "Sat Nov 14 19:58:33 +0000 2026",
+      "author": "🦵💥 MEJORES PATADAS ⚽️💀",
+      "handle": "mejorespatadas1",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 107,
+        "reposts": 1301,
+        "likes": 41920
+      },
+      "score": 54.6
+    },
+    {
+      "id": "2121645972174602543",
+      "url": "https://x.com/uncledoomer/status/2121645972174602543",
+      "text": "my uncle died a few weeks ago. the whole family went to war over his house, truck, his gun safe. ugly stuff. i stayed out of it, didnt ask for anything. stayed level headed and offered to handle paperwork so nobody else had to. anyway its my house now. grief makes people sloppy",
+      "createdAt": "Sat Nov 14 16:46:32 +0000 2026",
+      "author": "doomer",
+      "handle": "uncledoomer",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 217,
+        "reposts": 1102,
+        "likes": 39189
+      },
+      "score": 54.3
+    },
+    {
+      "id": "2121651991478948229",
+      "url": "https://x.com/dhaiwat/status/2121651991478948229",
+      "text": "RT @nacholastrabaez: Ninguno de los derechos que hoy tenés te los dio un gobierno de derecha",
+      "createdAt": "Sat Nov 14 17:10:27 +0000 2026",
+      "author": "Dhaiwat",
+      "handle": "dhaiwat",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 0,
+        "reposts": 32089,
+        "likes": 0
+      },
+      "score": 53.8
+    },
+    {
+      "id": "2121656175800598757",
+      "url": "https://x.com/FotMob/status/2121656175800598757",
+      "text": "🇳🇴🏆 Actual FotMob staff member Axel Ahlander scored a HATTRICK for his side Bjarg today, to put them through to playoff final for promotion to Norweigan’s second tier!\n\nDoing Team FotMob proud! 😅💚 https://t.co/HkToBenK8l",
+      "createdAt": "Sat Nov 14 17:27:05 +0000 2026",
+      "author": "FotMob",
+      "handle": "FotMob",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 81,
+        "reposts": 1023,
+        "likes": 33253
+      },
+      "score": 53.6
+    },
+    {
+      "id": "2121648879389335743",
+      "url": "https://x.com/bofrench/status/2121648879389335743",
+      "text": "As an American, who's family has been here for 400 years, I shouldn't have to listen to people who are in fact not from here, do not share our culture, scam our institutions, and hate our nation, because they shouldn't be here in the first place.",
+      "createdAt": "Sat Nov 14 16:58:05 +0000 2026",
+      "author": "Bo French",
+      "handle": "bofrench",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 1706,
+        "reposts": 1648,
+        "likes": 14846
+      },
+      "score": 51.7
+    },
+    {
+      "id": "2121594980556755276",
+      "url": "https://x.com/Lavader_/status/2121594980556755276",
+      "text": "I came across Petite Bourgeois propaganda, so now you have to experience it too 💔 https://t.co/TxojLEVZni",
+      "createdAt": "Sat Nov 14 13:23:55 +0000 2026",
+      "author": "Lavader",
+      "handle": "Lavader_",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 432,
+        "reposts": 2293,
+        "likes": 33559
+      },
+      "score": 50.2
+    },
+    {
+      "id": "2121735960270385201",
+      "url": "https://x.com/oliverhamrin/status/2121735960270385201",
+      "text": "Jean Pierre is no doubt one of my favorite follows. His work radiates such raw and infectious creative energy. A weird mix of DIY and absolute mastery. It’s impossible not to get inspired scrolling his feed.",
+      "createdAt": "Sat Nov 14 22:44:07 +0000 2026",
+      "author": "Oliver",
+      "handle": "oliverhamrin",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 13,
+        "reposts": 483,
+        "likes": 13923
+      },
+      "score": 49.9
+    },
+    {
+      "id": "2121711637904388163",
+      "url": "https://x.com/TouchlineX/status/2121711637904388163",
+      "text": "📸 - RASMUS HØJLUND IS HONORING HIS BIGGEST IDOL BY DESTROYING THE MANAGER THAT DISRESPECTED HIM!\n\nWHAT A GUY! ❤️ https://t.co/oJZanOnfwh",
+      "createdAt": "Sat Nov 14 21:07:28 +0000 2026",
+      "author": "The Touchline | 𝐓",
+      "handle": "TouchlineX",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 82,
+        "reposts": 1666,
+        "likes": 29224
+      },
+      "score": 49.4
+    },
+    {
+      "id": "2121588715978211604",
+      "url": "https://x.com/BowTiedBills/status/2121588715978211604",
+      "text": "> Be this marketer\n> Buy a domain for $11.25 (cheaper than lunch)\n> Spend an hour on a 3-page site for a deodorant that doesn't exist\n> Write one Substack post about it\n> Skip the fake reviews and the Reddit spam\n> Leave it alone for 3 weeks\n> Ask ChatGPT two specific questions and see your fake brand named first in all 4 answers\n> Find it listed above a clinically tested brand carrying the National Eczema Association seal\n> Learn that ChatGPT recommends whatever it can find a clear page about, even a product nobody can buy\n\nYour business has years of happy clients behind it.\n\nIf a fake deodorant got named in 3 weeks, ChatGPT can name you too.\n\nIt needs one page that says exactly what you do and which city you do it in.\n\nBuild that page this week, anon.",
+      "createdAt": "Sat Nov 14 12:59:01 +0000 2026",
+      "author": "BowTiedBills",
+      "handle": "BowTiedBills",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 12,
+        "reposts": 30,
+        "likes": 731
+      },
+      "score": 49.3
+    },
+    {
+      "id": "2120065131681812488",
+      "url": "https://x.com/ilyabatishchev/status/2120065131681812488",
+      "text": "posted this a month ago at $2M ARR. haven't hired a single sales rep since. we're at $4M.\n\nthe tool we used is the one you can use: your link in, buyers found, emails sent, and it helped us book calls.\n\n$30 free 👇\n\nhttps://t.co/w1d4OGEooC https://t.co/yfTryt9eWz",
+      "createdAt": "Tue Nov 10 08:04:50 +0000 2026",
+      "author": "Ilya Batishchev",
+      "handle": "ilyabatishchev",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 93,
+        "reposts": 45,
+        "likes": 504
+      },
+      "score": 49.2
+    },
+    {
+      "id": "2121638798584869178",
+      "url": "https://x.com/HabibuAbuGoat/status/2121638798584869178",
+      "text": "Kishimoto you really managed to release a chapter where only one word was spoken and it was perfect https://t.co/BFenvSeFgj",
+      "createdAt": "Sat Nov 14 16:18:02 +0000 2026",
+      "author": "Habibuu😺",
+      "handle": "HabibuAbuGoat",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 89,
+        "reposts": 1931,
+        "likes": 26637
+      },
+      "score": 49.1
+    },
+    {
+      "id": "2121657619718795608",
+      "url": "https://x.com/HeissAlpha/status/2121657619718795608",
+      "text": "Pau Cubarsi wearing \"Cubarci 5\" on his back, number 16 on his shorts, putting on Barça's 22/23 kit in 2026 while Kylian Mbappe with short number 8 approaches him.\n\nYou had to be there🔥",
+      "createdAt": "Sat Nov 14 17:32:49 +0000 2026",
+      "author": "Heis Alpha𓃵",
+      "handle": "HeissAlpha",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 14,
+        "reposts": 521,
+        "likes": 10483
+      },
+      "score": 48.8
+    },
+    {
+      "id": "2121691637743255721",
+      "url": "https://x.com/_chenglou/status/2121691637743255721",
+      "text": "GET UP Jensen Huang. Get the hell up. Save your family, save your company, then save yourself. History judges us not on how we fell, but how we got back up\n\nYou have far more people to inspire than to disappoint",
+      "createdAt": "Sat Nov 14 19:48:00 +0000 2026",
+      "author": "Cheng Lou",
+      "handle": "_chenglou",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 163,
+        "reposts": 736,
+        "likes": 8059
+      },
+      "score": 48.3
+    },
+    {
+      "id": "2121533390625124631",
+      "url": "https://x.com/Utdsammyloe/status/2121533390625124631",
+      "text": "Brahim Díaz is a benchwarmer at Real Madrid.\nEndrick is a benchwarmer at Real Madrid.\nEspi is a benchwarmer at Real Madrid \nNico Paz had to leave for Como in search of regular playing time.\n\nBut this boy at Manchester United is reportedly ready to join Real Madrid soon in search of first-team opportunities and more playing time.\nAnyway, I wish him all the best.",
+      "createdAt": "Sat Nov 14 09:19:11 +0000 2026",
+      "author": "Sammy",
+      "handle": "Utdsammyloe",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 111,
+        "reposts": 374,
+        "likes": 5505
+      },
+      "score": 46.4
+    },
+    {
+      "id": "2121634270758478069",
+      "url": "https://x.com/muskonomy/status/2121634270758478069",
+      "text": "NEWS: Elon Musk called MKBHD \"a chicken\" over a Cybercab bet.\n\nMKBHD had said he would shave his head if the Cybercab became publicly available for under $30,000 by the end of 2026. \n\nWith the car now listed at $29,990, he argued his \"hair is safe for several reasons.\"\n\nElon Musk: \"He's a chicken.\"\n\nSource: Elon Musk on X",
+      "createdAt": "Sat Nov 14 16:00:02 +0000 2026",
+      "author": "Muskonomy",
+      "handle": "muskonomy",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 137,
+        "reposts": 140,
+        "likes": 6259
+      },
+      "score": 46.4
+    },
+    {
+      "id": "2121697062509253042",
+      "url": "https://x.com/AlexHormozi/status/2121697062509253042",
+      "text": "99% of problems can be solved with brutal unrelenting violent effort.\n\n Most people have just been so neutered by society that they forget the violence they are capable of and how dangerous they can become by really fucking trying harder than everyone else.",
+      "createdAt": "Sat Nov 14 20:09:33 +0000 2026",
+      "author": "Alex Hormozi",
+      "handle": "AlexHormozi",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 138,
+        "reposts": 438,
+        "likes": 4834
+      },
+      "score": 46.1
+    },
+    {
+      "id": "2121567106668077405",
+      "url": "https://x.com/Omahh11/status/2121567106668077405",
+      "text": "The sound design for this omnitrix is so fcking awesome",
+      "createdAt": "Sat Nov 14 11:33:09 +0000 2026",
+      "author": "Ladiesman217 🦅",
+      "handle": "Omahh11",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 48,
+        "reposts": 1146,
+        "likes": 12392
+      },
+      "score": 46
+    },
+    {
+      "id": "2121831558185115814",
+      "url": "https://x.com/gumdalf_/status/2121831558185115814",
+      "text": "RT @vartuattheghat: Several people encouraged me to share a post I made on LinkedIn,  here on X\n\nI wrote this from the heart, about someone…",
+      "createdAt": "Sun Nov 15 05:03:59 +0000 2026",
+      "author": "Arun",
+      "handle": "gumdalf_",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 2114,
+        "likes": 0
+      },
+      "score": 46
+    },
+    {
+      "id": "2121761479791677470",
+      "url": "https://x.com/YanPeronn/status/2121761479791677470",
+      "text": "Egypt's coach just got sacked over a fight between his 2 wives... here is a rundown of his last 6 months:\n\n⚽️Jun 21 > Hossam Hassan led Egypt to their first EVER World Cup win, 3-1 vs New Zealand\n\n⚽️Jul 3 > Egypt beat Australia on pens in RO32\n\n⚽️Jul 7 > The infamous \"rigged\" match vs FIFA & Argentina...\n     -15':🇪🇬Yasser Ibrahim header, 1-0 Egypt\n     -21': Messi's pen was SAVED by Egypt GK\n     -58':🇪🇬Zico's goal for 2-0 got called back by VAR bc Lisandro's foot was stepped on \"in the build up\" (literally on the complete opposite end of the pitch)\n     -67':🇪🇬Zico scored again, 2-0 Egypt\n     -79':🇦🇷Romero got one back for Argentina 2-1\n     -83':🇦🇷Messi equalized 2-2\n     -❌Mac Allister pulled Hamdy Fathy's shirt in the box, no pen\n     -❌Alvarez took Salah down in the box, no pen & the ref never checked VAR\n     -92':🇦🇷Enzo scored match winner, 3-2 Argentina\n     -🇪🇬Egypt's GK coach got a red & had to be restrained\n     -🇪🇬Hassan got a yellow & threw up an X at the ref (the anti-racism signal)\n\n⚽️ > Hassan after the match: \"We have suffered injustice\" & \"Perhaps they wanted Messi to stay in the running\"\n\n⚽️ > Carragher on the disallowed goal: \"if that was against another team, it would have been awarded\"\n\n⚽️Jul 8 > Egypt FA still gave him a contract extension (reportedly to 2030)\n\n🥊Aug 14 > his 1st & 2nd wife got into a fight with punches & hair-pulling at a beach resort & he FAINTED trying to break it up (vid in replies)\n\n💔Aug 19 > Reports came out he signed divorce papers with his 1st wife\n\n⚽️Sep 25 > He subbed Salah off in the 60th min of a 0-0 draw vs Angola & then Salah missed the next 2 games\n\n⚽️Oct 3 > Egypt FA denied reports Hassan's brother (the team director) cursed out the players\n\n⚖️Nov 2 > His lawyers accused his 2nd wife of forging a document & being married to 2 husbands at the same time\n\n📵Nov 4 > Egypt's media regulator banned him from appearing on Egyptian TV & media to stop the public back & forth with his 2nd wife\n     -His 2nd wife was already banned back in Sept\n\n⚽️Nov 7 > Egypt FA sacked him & his whole staff\n\n⚽️Nov 10 > Egypt players posted a video singing at dinner & fans took it as them celebrating his exit\n\n⚽️Nov 12 > Salah's uncle claimed Hassan cursed out Salah & the team at halftime vs Angola (then deleted the post)\n\n>Let me know what I missed\n\nI just post quick sports recaps like this. Follow me if you'd like",
+      "createdAt": "Sun Nov 15 00:25:31 +0000 2026",
+      "author": "Yan",
+      "handle": "YanPeronn",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 21,
+        "reposts": 17,
+        "likes": 273
+      },
+      "score": 45.6
+    },
+    {
+      "id": "2121828786065055879",
+      "url": "https://x.com/chiefofautism/status/2121828786065055879",
+      "text": "RT @ousafadenha: Como é procrastinar sabendo que só mais um pouquinho de esforço já valeria a pena. https://t.co/gcUI6Keu9X",
+      "createdAt": "Sun Nov 15 04:52:58 +0000 2026",
+      "author": "chiefofautism",
+      "handle": "chiefofautism",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 3881,
+        "likes": 0
+      },
+      "score": 44.7
+    },
+    {
+      "id": "2121683541755138086",
+      "url": "https://x.com/lulumeservey/status/2121683541755138086",
+      "text": "The more media pieces like this, the better it actually is for Jensen\n\nThis is why traditional PR is outdated",
+      "createdAt": "Sat Nov 14 19:15:49 +0000 2026",
+      "author": "Lulu Cheng Meservey",
+      "handle": "lulumeservey",
+      "feed": "following",
+      "metrics": {
+        "replies": 37,
+        "reposts": 10,
+        "likes": 616
+      },
+      "score": 44.6
+    },
+    {
+      "id": "2121748401893015799",
+      "url": "https://x.com/McFlybowy/status/2121748401893015799",
+      "text": "You can’t see coaches like Carlo Ancelotti, Jose Mourinho, Pep Guardiola or Sir Alex Ferguson treat legends like this. Do you know why? Because they are stars themselves. They are winners. They have achieved enough in football to understand what greatness looks like and respect it.\n\nIt’s usually managers who have little to show for their own careers who feel the need to make a statement by disrespecting established icons. Jorge Jesus and Erik ten Hag are perfect examples. The biggest club Jorge Jesus has managed is Benfica. He’s not accustomed to managing players whose stature in football is bigger than that of most clubs and managers.\n\nManaging a legend requires a certain level of understanding. You don’t have to agree with everything the player does, but you should have enough respect for what they’ve achieved not to resort to unnecessary digs. Some people are simply too small to understand the stature of the people they are dealing with. Jorge Jesus has never really operated at that level of football.",
+      "createdAt": "Sat Nov 14 23:33:33 +0000 2026",
+      "author": "Ororo😎",
+      "handle": "McFlybowy",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 28,
+        "reposts": 359,
+        "likes": 2619
+      },
+      "score": 43.7
+    },
+    {
+      "id": "2101064372781232500",
+      "url": "https://x.com/IBKR/status/2101064372781232500",
+      "text": "IBKR retail clients averaged 19.20% in 2025, beating the S&amp;P 500’s 17.9%. The best-informed investors choose Interactive Brokers. Your capital is at risk.",
+      "createdAt": "Fri Sep 18 21:42:37 +0000 2026",
+      "author": "Interactive Brokers",
+      "handle": "IBKR",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 111,
+        "reposts": 120,
+        "likes": 2685
+      },
+      "score": 43.1
+    },
+    {
+      "id": "2121664459026403819",
+      "url": "https://x.com/GRITCULT/status/2121664459026403819",
+      "text": "A grieving kid asked Norm for wisdom. This is what he got. Rest easy, Norm. https://t.co/a1ykD2eIoI",
+      "createdAt": "Sat Nov 14 18:00:00 +0000 2026",
+      "author": "GRITCULT",
+      "handle": "GRITCULT",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 18,
+        "reposts": 312,
+        "likes": 6572
+      },
+      "score": 42.8
+    },
+    {
+      "id": "2121593367549075906",
+      "url": "https://x.com/tirvo_/status/2121593367549075906",
+      "text": "Maresca didn’t trust him, so he didn’t give him much playing time.\n\nRosenior played him, but he publicly criticised Rosenior for not controlling the ball well.\n\nXabi Alonso doesn’t trust him because he’s selfish on the ball and most times doesn’t play for the team.\n\nAncelotti trusted and played him today, but his selfishness stopped him from passing to his nearest teammate which could have given his team an advantage.\n\nFour different managers, but the kid is never ready to step up and improve. I’ll never accept people saying Xabi should be sacked because of him.",
+      "createdAt": "Sat Nov 14 13:17:30 +0000 2026",
+      "author": "Tirvo",
+      "handle": "tirvo_",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 88,
+        "reposts": 146,
+        "likes": 2386
+      },
+      "score": 42.8
+    },
+    {
+      "id": "2121392923803857282",
+      "url": "https://x.com/Brian_Peotter/status/2121392923803857282",
+      "text": "Male professions if you want to be a chad. \n\nMoney isnt everything. It isnt nothing. https://t.co/vD184IP7lm",
+      "createdAt": "Sat Nov 14 00:01:01 +0000 2026",
+      "author": "Brian Peotter",
+      "handle": "Brian_Peotter",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 273,
+        "reposts": 168,
+        "likes": 5569
+      },
+      "score": 42.2
+    },
+    {
+      "id": "2121718674235224077",
+      "url": "https://x.com/willdepue/status/2121718674235224077",
+      "text": "i don’t think you guys understand. you will get the chance to go to space in your lifetime. new era",
+      "createdAt": "Sat Nov 14 21:35:26 +0000 2026",
+      "author": "will depue",
+      "handle": "willdepue",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 98,
+        "reposts": 208,
+        "likes": 5412
+      },
+      "score": 41.9
+    },
+    {
+      "id": "2103455600034144735",
+      "url": "https://x.com/grok/status/2103455600034144735",
+      "text": "Tell Grok an idea, and it builds a working version live in your chat. \n\nGrok Build is now available on every plan - on web, iOS, and Android.",
+      "createdAt": "Fri Sep 25 12:04:30 +0000 2026",
+      "author": "Grok",
+      "handle": "grok",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 118,
+        "reposts": 127,
+        "likes": 1720
+      },
+      "score": 41.7
+    },
+    {
+      "id": "2121669467658981824",
+      "url": "https://x.com/saintniko/status/2121669467658981824",
+      "text": "brand new pfp, created by the one and only @batzdu \n\nthere is no second best 🤍 https://t.co/Oe9OXkjp9F",
+      "createdAt": "Sat Nov 14 18:19:54 +0000 2026",
+      "author": "niko",
+      "handle": "saintniko",
+      "feed": "following",
+      "metrics": {
+        "replies": 61,
+        "reposts": 4,
+        "likes": 222
+      },
+      "score": 41.5
+    },
+    {
+      "id": "2121612128226316581",
+      "url": "https://x.com/realwethebest/status/2121612128226316581",
+      "text": "I thought the joke was puns made her so horny she let him hit it raw",
+      "createdAt": "Sat Nov 14 14:32:03 +0000 2026",
+      "author": "Dj Khaled",
+      "handle": "realwethebest",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 154,
+        "reposts": 1772,
+        "likes": 77327
+      },
+      "score": 41.2
+    },
+    {
+      "id": "2121725961100272025",
+      "url": "https://x.com/BraddrofliT/status/2121725961100272025",
+      "text": "If you want to understand what unfolded between Tuesday and Friday, read pages 632–634 of Project 2025.",
+      "createdAt": "Sat Nov 14 22:04:23 +0000 2026",
+      "author": "Brad",
+      "handle": "BraddrofliT",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 43,
+        "reposts": 648,
+        "likes": 3056
+      },
+      "score": 41.1
+    },
+    {
+      "id": "2108689189302919507",
+      "url": "https://x.com/nebiusai/status/2108689189302919507",
+      "text": "Validate your skills in agentic AI workflows and AI-powered apps. Pass the online exam to earn a Credly badge, an official certificate and access to free credits. Limited-time offer: $1 instead of $100. Explore the certification and take the next step.",
+      "createdAt": "Fri Oct 09 22:40:54 +0000 2026",
+      "author": "Nebius",
+      "handle": "nebiusai",
+      "feed": "following",
+      "metrics": {
+        "replies": 72,
+        "reposts": 84,
+        "likes": 1379
+      },
+      "score": 40.5
+    },
+    {
+      "id": "2121698253003780203",
+      "url": "https://x.com/utdsnaps/status/2121698253003780203",
+      "text": "Toni Jimenez, Pochettino’s goalkeeping coach, saw my message and replied to me on Instagram, saying that he had SHOWN it to Pochettino himself.\n\nPochettino has personally seen my message!\n\nThey’re also looking forward to beginning a massive work at Manchester United.\n\nGood times ahead. Hopefully. ❤️",
+      "createdAt": "Sat Nov 14 20:14:17 +0000 2026",
+      "author": "cold pics of Manchester United",
+      "handle": "utdsnaps",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 22,
+        "reposts": 79,
+        "likes": 1277
+      },
+      "score": 39.9
+    },
+    {
+      "id": "2110659040573559048",
+      "url": "https://x.com/BouncerForFeed/status/2110659040573559048",
+      "text": "I can't stand AI art, so I made a plugin that removes it from your feed.",
+      "createdAt": "Thu Oct 15 09:08:24 +0000 2026",
+      "author": "Bouncer",
+      "handle": "BouncerForFeed",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 1312,
+        "reposts": 4493,
+        "likes": 37522
+      },
+      "score": 39.3
+    },
+    {
+      "id": "2121649464385425678",
+      "url": "https://x.com/M4RZ0V3LLI/status/2121649464385425678",
+      "text": "The “Bruno replacement” should be a world class winger, so United can transition into using a 3 man midfield again",
+      "createdAt": "Sat Nov 14 17:00:25 +0000 2026",
+      "author": ".",
+      "handle": "M4RZ0V3LLI",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 24,
+        "reposts": 76,
+        "likes": 2830
+      },
+      "score": 38.9
+    },
+    {
+      "id": "2121722166185992218",
+      "url": "https://x.com/utdbrxy/status/2121722166185992218",
+      "text": "enough time has passed to accept united failed hojlund. we threw a young unproven striker into the deep end and expected him to float",
+      "createdAt": "Sat Nov 14 21:49:18 +0000 2026",
+      "author": "B",
+      "handle": "utdbrxy",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 40,
+        "reposts": 75,
+        "likes": 2224
+      },
+      "score": 38
+    },
+    {
+      "id": "2121778103559053590",
+      "url": "https://x.com/YanPeronn/status/2121778103559053590",
+      "text": "In case you didn't follow day 6 of international break:\n\n>🇵🇹Portugal wore Ronaldo shirts to honor him… then got BATTERED 4-1 by 🇩🇰Denmark\n     -their worst ever competitive home loss\n\n>🇵🇹Jorge Jesus was asked if they missed CR7, he said: \"what's there to miss?\"\n\n>🇯🇵Japan beat 🇧🇷Brazil 3-2 off a 91st min winner\n     -Vini scored 2\n\n>🇧🇷Raphinha & Ancelotti got sent off for protesting vs Japan\n\n>🌎Arsène Wenger decided not to run against Infantino for FIFA president\n\n>🇺🇸USA battered 🇭🇹Haiti 6-0 in the CONCACAF Nations League in Pochettino's 2nd last match before going to Man Utd\n\n>🇺🇸Auston Trusty scored in his first USA game since his dad passed last month\n\n>Rest of Nations League results:\n     -🇳🇴Norway 3-1 🏴󠁧󠁢󠁷󠁬󠁳󠁿Wales in the Nations League \n     -🇸🇪Sweden 3-2 🇧🇦Bosnia\n     -🇭🇺Hungary 2-0 🇬🇪Georgia\n     -🇦🇹Austria 1-0 🇮🇪Ireland\n     -Northern Ireland 1-0 🇺🇦Ukraine\n     -🇷🇴Romania 2-1 🇵🇱Poland\n     -🇽🇰Kosovo 0-0 🇮🇱Israel\n\n>🇬🇫French Guiana 5-1 🇸🇽Sint Maarten in the CONCACAF Nations League\n\n>AFCON qualifying\n     -🇩🇿Algeria 1-0 🇹🇬Togo\n     -🇦🇴Angola 2-0 🇸🇸South Sudan\n     -🇺🇬Uganda 1-1 🇧🇼Botswana\n\n>Friendlies\n     -🇮🇷Iran 2-0 🇵🇸Palestine\n     -🇨🇳China 2-0 🇲🇾Malaysia\n     -🇰🇬Kyrgyzstan 3-0 🇹🇼Chinese Taipei\n     -🇧🇭Bahrain 3-1 🇾🇪Yemen\n     -🇵🇫Tahiti 4-0 🇨🇰Cook Islands\n\n>🇵🇹Portugal retired Ronaldo's version of the No.7, future No.7s will have a little cross on it\n\n>🇪🇸Spain coach Luis de la Fuente said \"There's no racism in Spain\" after Tuchel said he might remind England of anti-racism protocols\n     -FIFA fined Spain's federation last month for fans' anti-Muslim chants\n\n>🇮🇹De Bruyne's wife spoke on moving back to Belgium: \"The sooner we get there, the better\"\n\n>🇳🇱Frenkie de Jong left the Netherlands camp with \"minor complaints\" & will miss Monday's match vs Germany\n\n>🇧🇷46 y/o Ronaldinho is expected to make his debut for Italian 3rd tier club Ravenna tomorrow",
+      "createdAt": "Sun Nov 15 01:31:35 +0000 2026",
+      "author": "Yan",
+      "handle": "YanPeronn",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 18,
+        "reposts": 34,
+        "likes": 788
+      },
+      "score": 37.7
+    },
+    {
+      "id": "2117892909936890188",
+      "url": "https://x.com/tripoai/status/2117892909936890188",
+      "text": "Need More Detail from Claude?\nTurn Initial 3D Models into High-Fidelity Assets with Tripo.",
+      "createdAt": "Wed Nov 04 08:13:12 +0000 2026",
+      "author": "Tripo",
+      "handle": "tripoai",
+      "feed": "following",
+      "metrics": {
+        "replies": 38,
+        "reposts": 25,
+        "likes": 1952
+      },
+      "score": 37.2
+    },
+    {
+      "id": "2121759925219029475",
+      "url": "https://x.com/eigenrobot/status/2121759925219029475",
+      "text": "im blocked and cant reply directly but this is an outrageous instance of wordcel behavior where a participant throws sophomoric chaff to obfuscate a perfectly reasonable point and convince novice onlookers of his sophistication\n\nnotes:\n\n1. classical/marginalist distinction is immaterial for casual discussion unless youre a historian. no one is confused\n\n2. \"jevonsian\" isnt even the right name drop. for the record marshall is more appropriate. but neither are necessary and once more it doesnt matter\n\n3. yes veblen goods are weird. they also in no way escape analysis by marginalist methods. students might encounter them in a stray problem set presented as one might a hermaphrodite in anatomy class or kojevians in surveys of contemporary intellectual life",
+      "createdAt": "Sun Nov 15 00:19:21 +0000 2026",
+      "author": "eigenrobot",
+      "handle": "eigenrobot",
+      "feed": "following",
+      "metrics": {
+        "replies": 63,
+        "reposts": 16,
+        "likes": 629
+      },
+      "score": 37.1
+    },
+    {
+      "id": "2121685306575601832",
+      "url": "https://x.com/signulll/status/2121685306575601832",
+      "text": "RT @signulll: in the modern world, you need to master one psychological component of your being: \n\nyou absolutely must be comfortable with…",
+      "createdAt": "Sat Nov 14 19:22:50 +0000 2026",
+      "author": "signüll",
+      "handle": "signulll",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 0,
+        "reposts": 582,
+        "likes": 0
+      },
+      "score": 36.4
+    },
+    {
+      "id": "2120797524097143147",
+      "url": "https://x.com/AlexKataev/status/2120797524097143147",
+      "text": "someone asked grok about trying us. that screenshot is the reply they got.\n\nyou paste your website link into Explee, it finds companies that need you, writes each a personal email, and replies to interested buyers with your booking link.\n\n$30 free 👇\n\nhttps://t.co/Xx6s7sF5ef https://t.co/Q0XN7V2to4",
+      "createdAt": "Thu Nov 12 08:35:06 +0000 2026",
+      "author": "Alex Kataev",
+      "handle": "AlexKataev",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 56,
+        "reposts": 33,
+        "likes": 433
+      },
+      "score": 36.1
+    },
+    {
+      "id": "2121814334414418075",
+      "url": "https://x.com/nikitabier/status/2121814334414418075",
+      "text": "@bofrench It’s funny that all the racists on X have been arguing about which race is better while the entire world has been getting wildly wealthy during the AI boom. \n\nKeep distracting yourself and stay poor.",
+      "createdAt": "Sun Nov 15 03:55:33 +0000 2026",
+      "author": "Nikita Bier",
+      "handle": "nikitabier",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 83,
+        "reposts": 19,
+        "likes": 398
+      },
+      "score": 35.9
+    },
+    {
+      "id": "2121720584103198920",
+      "url": "https://x.com/3YearLetterman/status/2121720584103198920",
+      "text": "This app has peaked https://t.co/3wC36h0Lrw",
+      "createdAt": "Sat Nov 14 21:43:01 +0000 2026",
+      "author": "Three Year Letterman",
+      "handle": "3YearLetterman",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 337,
+        "reposts": 696,
+        "likes": 14876
+      },
+      "score": 34.5
+    },
+    {
+      "id": "2121834840651657643",
+      "url": "https://x.com/signulll/status/2121834840651657643",
+      "text": "one consistent thing you notice in lots of new ai products including the current class of personal assistants is how few natural vectors of distribution they have. most of them rely entirely on awareness, word of mouth, or an invite system (& so many of them are sustained almost entirely by the google/fb tax).\n\nit may be worth it to invert the model here entirely, e.g. focus on the natural growth mechanics first, & build ai products around those loops. this is like the number one thing i spend my time thinking about. in the ai era you may have to invert come for the tool, & stay for the network entirely.",
+      "createdAt": "Sun Nov 15 05:17:02 +0000 2026",
+      "author": "signüll",
+      "handle": "signulll",
+      "feed": "following",
+      "metrics": {
+        "replies": 3,
+        "reposts": 2,
+        "likes": 10
+      },
+      "score": 33.6
+    },
+    {
+      "id": "2112595451568427244",
+      "url": "https://x.com/ElevenLabsDevs/status/2112595451568427244",
+      "text": "Expressiveness meets speed at ~150ms. Eleven v4 Turbo: REST, streaming and SDKs — switch models with one model_id.",
+      "createdAt": "Tue Oct 20 17:23:00 +0000 2026",
+      "author": "ElevenLabs Developers",
+      "handle": "ElevenLabsDevs",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 33,
+        "reposts": 31,
+        "likes": 661
+      },
+      "score": 33.1
+    },
+    {
+      "id": "2121711987696791892",
+      "url": "https://x.com/nullversed/status/2121711987696791892",
+      "text": "i love the internet https://t.co/loC5KYBbRO",
+      "createdAt": "Sat Nov 14 21:08:52 +0000 2026",
+      "author": "Null .ᐟ",
+      "handle": "nullversed",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 4,
+        "reposts": 488,
+        "likes": 10679
+      },
+      "score": 32.8
+    },
+    {
+      "id": "2118541548556009606",
+      "url": "https://x.com/Starlink/status/2118541548556009606",
+      "text": "Get 50% off Starlink kits and service. Connect to fast, reliable internet for streaming, video calls, working from home, and more.\n\nOffer ends on November 30.",
+      "createdAt": "Fri Nov 06 03:10:40 +0000 2026",
+      "author": "Starlink",
+      "handle": "Starlink",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 31,
+        "reposts": 10,
+        "likes": 204
+      },
+      "score": 32.7
+    },
+    {
+      "id": "2121657619190632593",
+      "url": "https://x.com/OneFootball/status/2121657619190632593",
+      "text": "Brothers who play for different national teams 👀 🌎 https://t.co/9Oetj0P1eR",
+      "createdAt": "Sat Nov 14 17:32:49 +0000 2026",
+      "author": "OneFootball",
+      "handle": "OneFootball",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 42,
+        "reposts": 399,
+        "likes": 10020
+      },
+      "score": 32.5
+    },
+    {
+      "id": "2121813901730091270",
+      "url": "https://x.com/kramnotmark/status/2121813901730091270",
+      "text": "RT @rivatez: that SpaceX did that while the government shut everything down due to legacy software issues (and then demanded $50bn in emerg…",
+      "createdAt": "Sun Nov 15 03:53:50 +0000 2026",
+      "author": "mark",
+      "handle": "kramnotmark",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 79,
+        "likes": 0
+      },
+      "score": 31.8
+    },
+    {
+      "id": "2121792236224434632",
+      "url": "https://x.com/jasonlk/status/2121792236224434632",
+      "text": "New!! Come Meet Us Live at Granola HQ in SF: Granola’s VP of Sales and I Will Be There to Talk Agents for GTM, What’s Working and What Isn’t\n\nDec 8, live in SF.\n\nWe went from 10 SDRs and AEs to 1 AE and 20+ agents.\n\nhttps://t.co/cqifk3HUCv",
+      "createdAt": "Sun Nov 15 02:27:44 +0000 2026",
+      "author": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "handle": "jasonlk",
+      "feed": "following",
+      "metrics": {
+        "replies": 5,
+        "reposts": 0,
+        "likes": 4
+      },
+      "score": 31.8
+    },
+    {
+      "id": "2121791425109221720",
+      "url": "https://x.com/nikitabier/status/2121791425109221720",
+      "text": "@JamesonCamp @allegrajacchia Update Rev Share policy for 3 month ban for Community-Noted misinformation about an armed conflict",
+      "createdAt": "Sun Nov 15 02:24:31 +0000 2026",
+      "author": "Nikita Bier",
+      "handle": "nikitabier",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 26,
+        "reposts": 13,
+        "likes": 389
+      },
+      "score": 30.8
+    },
+    {
+      "id": "2121810137262493856",
+      "url": "https://x.com/chiefofautism/status/2121810137262493856",
+      "text": "RT @DougJBalloon: I still got it https://t.co/vfaFhopwP5",
+      "createdAt": "Sun Nov 15 03:38:52 +0000 2026",
+      "author": "chiefofautism",
+      "handle": "chiefofautism",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 0,
+        "reposts": 2427,
+        "likes": 0
+      },
+      "score": 30.6
+    },
+    {
+      "id": "2121674369789477041",
+      "url": "https://x.com/zionmafi/status/2121674369789477041",
+      "text": "I be forgetting Rasengan is basically a tailed beast bomb",
+      "createdAt": "Sat Nov 14 18:39:23 +0000 2026",
+      "author": "ZI",
+      "handle": "zionmafi",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 15,
+        "reposts": 163,
+        "likes": 6465
+      },
+      "score": 30.4
+    },
+    {
+      "id": "2121734821890167089",
+      "url": "https://x.com/SHL0MS/status/2121734821890167089",
+      "text": "tap the first pic then swipe quickly on the preview row at the bottom https://t.co/VBJ96j8Uv7",
+      "createdAt": "Sat Nov 14 22:39:36 +0000 2026",
+      "author": "𒐪",
+      "handle": "SHL0MS",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 21,
+        "reposts": 24,
+        "likes": 232
+      },
+      "score": 29.4
+    },
+    {
+      "id": "2121787133442879922",
+      "url": "https://x.com/srijancse/status/2121787133442879922",
+      "text": "RT @gzvamp: This might be the single greatest piece of Australian literature I’ve ever seen https://t.co/JiC8EvzgSh",
+      "createdAt": "Sun Nov 15 02:07:28 +0000 2026",
+      "author": "🦒",
+      "handle": "srijancse",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 116,
+        "likes": 0
+      },
+      "score": 29.4
+    },
+    {
+      "id": "2121686536160690297",
+      "url": "https://x.com/JessicaTetreau/status/2121686536160690297",
+      "text": "One last pic before we head to the first ever Starship catch! 🎅🏻 https://t.co/rPLSM0x91d",
+      "createdAt": "Sat Nov 14 19:27:43 +0000 2026",
+      "author": "Jessica",
+      "handle": "JessicaTetreau",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 17,
+        "reposts": 4,
+        "likes": 272
+      },
+      "score": 29
+    },
+    {
+      "id": "2121834529837011228",
+      "url": "https://x.com/chiefofautism/status/2121834529837011228",
+      "text": "RT @realDonaldTrump: My @foxandfriends interview from this morning  http://t.co/0hIjWMSg",
+      "createdAt": "Sun Nov 15 05:15:48 +0000 2026",
+      "author": "chiefofautism",
+      "handle": "chiefofautism",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 91,
+        "likes": 0
+      },
+      "score": 28.4
+    },
+    {
+      "id": "2121791255801987304",
+      "url": "https://x.com/tszzl/status/2121791255801987304",
+      "text": "RT @peterwildeford: \"They are saying that recursive self-improvement has kicked in, despite the obvious safety problems with that. Recursiv…",
+      "createdAt": "Sun Nov 15 02:23:51 +0000 2026",
+      "author": "roon",
+      "handle": "tszzl",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 34,
+        "likes": 0
+      },
+      "score": 28.1
+    },
+    {
+      "id": "2121800721171693890",
+      "url": "https://x.com/orangebook/status/2121800721171693890",
+      "text": "There are those who jump at any opportunity to make fun of other people's struggles to feel better about themselves, and there are those who are focused on building the life they want and barely notice all the distractions that are being thrown at them; the latter is what is commonly called \"lucky people.\"",
+      "createdAt": "Sun Nov 15 03:01:27 +0000 2026",
+      "author": "Orange Book 🍊📖",
+      "handle": "orangebook",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 5,
+        "likes": 84
+      },
+      "score": 28
+    },
+    {
+      "id": "2121808811765964817",
+      "url": "https://x.com/chiefofautism/status/2121808811765964817",
+      "text": "RT @lfschiavo: 2027. every hour, another person generates a magnum opus 2.5 hour long movie for a couple grand and shills a shitcoin around…",
+      "createdAt": "Sun Nov 15 03:33:36 +0000 2026",
+      "author": "chiefofautism",
+      "handle": "chiefofautism",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 28,
+        "likes": 0
+      },
+      "score": 27.3
+    },
+    {
+      "id": "2121634554943574156",
+      "url": "https://x.com/drewvento/status/2121634554943574156",
+      "text": "I’m about to get sued. https://t.co/7EjH2Iynr1",
+      "createdAt": "Sat Nov 14 16:01:10 +0000 2026",
+      "author": "Degen CPA",
+      "handle": "drewvento",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 41,
+        "reposts": 35,
+        "likes": 2948
+      },
+      "score": 27
+    },
+    {
+      "id": "2121535370911474020",
+      "url": "https://x.com/OccultHours/status/2121535370911474020",
+      "text": "Gurdjieff’s teachings on magic and manifestation \n\nThe Fourth Way by P.D. Ouspensky https://t.co/w7vkB98wLi",
+      "createdAt": "Sat Nov 14 09:27:03 +0000 2026",
+      "author": "🔱Occult Hours🔱",
+      "handle": "OccultHours",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 2,
+        "reposts": 10,
+        "likes": 165
+      },
+      "score": 27
+    },
+    {
+      "id": "2121706116619091985",
+      "url": "https://x.com/orenmeetsworld/status/2121706116619091985",
+      "text": "told new graphic designer they can just start cooking anything if the queue is clear and she got me in rhinestones and a puka shell necklace hawking selvedge I love to see it https://t.co/M4IK2ydPGg",
+      "createdAt": "Sat Nov 14 20:45:32 +0000 2026",
+      "author": "Oren John",
+      "handle": "orenmeetsworld",
+      "feed": "following",
+      "metrics": {
+        "replies": 4,
+        "reposts": 1,
+        "likes": 59
+      },
+      "score": 26.5
+    },
+    {
+      "id": "2121649122125959541",
+      "url": "https://x.com/giddy_fx/status/2121649122125959541",
+      "text": "Anything Ruben Amorim, see here - #AmorimFiles 🐐 https://t.co/S3ydM6rbSF",
+      "createdAt": "Sat Nov 14 16:59:03 +0000 2026",
+      "author": "GiddyFx ",
+      "handle": "giddy_fx",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 36,
+        "reposts": 127,
+        "likes": 2117
+      },
+      "score": 26.1
+    },
+    {
+      "id": "2121760339541053615",
+      "url": "https://x.com/chiefofautism/status/2121760339541053615",
+      "text": "If dwarkesh is true, all vc investments is cooked, if frontier labs hillclimb their way to sample-efficient learning and crack AGI, every business moat becomes a 1 day project for an agent, team, code,  execution speed, all commodity, since if you have sample-efficient learner on par with fable 5.2 intelligence, you are literally have superintelligence...?",
+      "createdAt": "Sun Nov 15 00:21:00 +0000 2026",
+      "author": "chiefofautism",
+      "handle": "chiefofautism",
+      "feed": "following",
+      "metrics": {
+        "replies": 6,
+        "reposts": 4,
+        "likes": 40
+      },
+      "score": 26.1
+    },
+    {
+      "id": "2121645538768719988",
+      "url": "https://x.com/RuzTV/status/2121645538768719988",
+      "text": "Sleeper account detected \n\nThis guy quit his $400K/year tech job at the #1 company in the world \n\nTo go all in on his venture, bootstrapped \n\nNow they're projected to end 2026 with $5M revenue \n\nWorth following",
+      "createdAt": "Sat Nov 14 16:44:49 +0000 2026",
+      "author": "Ruz",
+      "handle": "RuzTV",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 4,
+        "reposts": 1,
+        "likes": 49
+      },
+      "score": 25.9
+    },
+    {
+      "id": "2121800643581014448",
+      "url": "https://x.com/jasonlk/status/2121800643581014448",
+      "text": "Sh*t Our Agents Do:\n\nAn agent added a guardrail nobody asked for.\n\nIt skipped a signed contract because the title didn't say \"SaaStr AI Annual.\"",
+      "createdAt": "Sun Nov 15 03:01:09 +0000 2026",
+      "author": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "handle": "jasonlk",
+      "feed": "following",
+      "metrics": {
+        "replies": 23,
+        "reposts": 0,
+        "likes": 10
+      },
+      "score": 25.6
+    },
+    {
+      "id": "2121800857964744911",
+      "url": "https://x.com/artenpedia/status/2121800857964744911",
+      "text": "The Singer (La cantante mondana), c.1884 by Giovanni Boldini (Italian, 1842–1931) https://t.co/Kl4bwbMJ9I",
+      "createdAt": "Sun Nov 15 03:02:00 +0000 2026",
+      "author": "Art Encyclopedia",
+      "handle": "artenpedia",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 15,
+        "likes": 80
+      },
+      "score": 25
+    },
+    {
+      "id": "2121783760513556500",
+      "url": "https://x.com/JamesonCamp/status/2121783760513556500",
+      "text": "New X algo is such insane garbage and it just fear mongers from other countries what is going on here?! https://t.co/STdXqu6dJJ",
+      "createdAt": "Sun Nov 15 01:54:03 +0000 2026",
+      "author": "James Camp 🛠,🛠",
+      "handle": "JamesonCamp",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 17,
+        "reposts": 1,
+        "likes": 85
+      },
+      "score": 24.9
+    },
+    {
+      "id": "2121654954645446967",
+      "url": "https://x.com/josbjohnson/status/2121654954645446967",
+      "text": "I have an insatiable hunger for greatness \n\nbecause\n\nwhy not me?",
+      "createdAt": "Sat Nov 14 17:22:14 +0000 2026",
+      "author": "jo johnson",
+      "handle": "josbjohnson",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 3,
+        "reposts": 215,
+        "likes": 1081
+      },
+      "score": 24.4
+    },
+    {
+      "id": "2121820143428981241",
+      "url": "https://x.com/chiefofautism/status/2121820143428981241",
+      "text": "RT @karmakarthik: for those who are wondering, this is like a 9/11 moment for SGLang &amp; VLLM",
+      "createdAt": "Sun Nov 15 04:18:38 +0000 2026",
+      "author": "chiefofautism",
+      "handle": "chiefofautism",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 32,
+        "likes": 0
+      },
+      "score": 23.9
+    },
+    {
+      "id": "2121641030986695108",
+      "url": "https://x.com/dibratto/status/2121641030986695108",
+      "text": "if you type\n\nthe right words\n\ninto the machine\n\npeople pay you money https://t.co/d89ejPB7uS",
+      "createdAt": "Sat Nov 14 16:26:54 +0000 2026",
+      "author": "Christian Di Bratto",
+      "handle": "dibratto",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 4,
+        "reposts": 0,
+        "likes": 86
+      },
+      "score": 23.8
+    },
+    {
+      "id": "2121807864717337060",
+      "url": "https://x.com/tszzl/status/2121807864717337060",
+      "text": "RT @w01fe: As models automate more and more of the tasks involved in AI research, many people (myself included) worry this could dramatical…",
+      "createdAt": "Sun Nov 15 03:29:50 +0000 2026",
+      "author": "roon",
+      "handle": "tszzl",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 12,
+        "likes": 0
+      },
+      "score": 23.7
+    },
+    {
+      "id": "2121825072956551509",
+      "url": "https://x.com/signulll/status/2121825072956551509",
+      "text": "it's wonderful just to be able to talk to your friends without any agenda or anything to promote. every time i'm in sf we just have a lot of fun riffing on what's latest in the zeitgeist.\n\nthat's exactly what a great pod should feel like. & i suspect this convo would've been the same whether it was recorded or not.\n\nalthough for next time i suspect there will be no gray blob, it's been fun but it might be time for a change.",
+      "createdAt": "Sun Nov 15 04:38:13 +0000 2026",
+      "author": "signüll",
+      "handle": "signulll",
+      "feed": "following",
+      "metrics": {
+        "replies": 5,
+        "reposts": 2,
+        "likes": 19
+      },
+      "score": 23.6
+    },
+    {
+      "id": "2121812834598408468",
+      "url": "https://x.com/tszzl/status/2121812834598408468",
+      "text": "@eigenrobot can’t tell you how happy I am to see logo Daedalus being accused of wordcel behavior nearly five years after the first instance",
+      "createdAt": "Sun Nov 15 03:49:35 +0000 2026",
+      "author": "roon",
+      "handle": "tszzl",
+      "feed": "following",
+      "metrics": {
+        "replies": 4,
+        "reposts": 0,
+        "likes": 74
+      },
+      "score": 23.2
+    },
+    {
+      "id": "2121835422527398337",
+      "url": "https://x.com/lulumeservey/status/2121835422527398337",
+      "text": "Kudos to NYT’s Kenneth Chang for a refreshing and optimistic reversal of typical SpaceX coverage\n\nHistorically it would’ve been: “SpaceX did a thing but fell short of what could have been” \n\nThis was: “SpaceX has more to work on but this was an important success and milestone”\n\nFlipping the order changes the whole tone of the reporting",
+      "createdAt": "Sun Nov 15 05:19:21 +0000 2026",
+      "author": "Lulu Cheng Meservey",
+      "handle": "lulumeservey",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 25
+      },
+      "score": 22.6
+    },
+    {
+      "id": "2121679267134419119",
+      "url": "https://x.com/BoredElonMusk/status/2121679267134419119",
+      "text": "The “we should line them up and shoot them” mentality is becoming far more prevalent in the minds of certain political groups. \n\nThis is not just an internet bubble thing. real people are parroting this stuff to each other flippantly. And we have a very serious problem if the trend doesn’t slow down.",
+      "createdAt": "Sat Nov 14 18:58:50 +0000 2026",
+      "author": "BORED",
+      "handle": "BoredElonMusk",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 3,
+        "reposts": 0,
+        "likes": 21
+      },
+      "score": 22.5
+    },
+    {
+      "id": "2121641294078607666",
+      "url": "https://x.com/BoredElonMusk/status/2121641294078607666",
+      "text": "Let me tell you. If you’re designing a house with your spouse and you don’t have an iron clad relationship, it will break you.",
+      "createdAt": "Sat Nov 14 16:27:57 +0000 2026",
+      "author": "BORED",
+      "handle": "BoredElonMusk",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 6,
+        "reposts": 0,
+        "likes": 56
+      },
+      "score": 22.4
+    },
+    {
+      "id": "2121798464128291041",
+      "url": "https://x.com/kelxyz_/status/2121798464128291041",
+      "text": "This feels like time to slam the bid for me\n\nExpecting a bit more pain but a few names here look relatively ripe",
+      "createdAt": "Sun Nov 15 02:52:29 +0000 2026",
+      "author": "kel.",
+      "handle": "kelxyz_",
+      "feed": "following",
+      "metrics": {
+        "replies": 6,
+        "reposts": 1,
+        "likes": 51
+      },
+      "score": 22.3
+    }
+  ]
+}
