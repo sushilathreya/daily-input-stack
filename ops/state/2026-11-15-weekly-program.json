@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-15",
+  "week_start": "2026-11-16",
+  "week_end": "2026-11-22",
+  "status": "planned",
+  "theme": "Make commercial meaning move through the whole system: create belonging, dramatize consequence, claim a mental position, decode irrational value, organize for disruption, widen availability, and turn transformation into a usable story.",
+  "days": [
+    {
+      "date": "2026-11-16",
+      "master": "Robert B. Cialdini",
+      "work": "Influence: The Psychology of Persuasion",
+      "chapter_or_section": "Chapter 8, \"Unity: The 'Us' of Influence\"",
+      "fundamental": "Persuasion: make a request feel native to the audience's identity by showing shared membership, not merely shared interest.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Influence - Robert Cialdini.pdf",
+      "drive_link": "https://drive.google.com/file/d/1sTpikK8Y7ebUBiSRRkiZoBcbNSh4Dk_Y/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Unity is not recorded in canon history; canon prep should verify the Chapter 8 heading and assign a bounded reading under 60 pages."
+    },
+    {
+      "date": "2026-11-17",
+      "master": "Robert McKee",
+      "work": "Story: Substance, Structure, Style, and the Principles of Screenwriting",
+      "chapter_or_section": "Chapter 18, next unstudied chapter after \"The Principle of Antagonism\"",
+      "fundamental": "Storytelling: make change feel earned by testing desire against opposition until the protagonist's choice carries irreversible consequence.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Robert McKee - Story .pdf",
+      "drive_link": "https://drive.google.com/file/d/1B1FBVTR0Z2YvQYJ7zoEOgmEI-q8GHetu/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history records McKee through Chapter 17; canon prep must inspect the scanned PDF contents, confirm the exact Chapter 18 heading, and bound the verified section under 60 pages."
+    },
+    {
+      "date": "2026-11-18",
+      "master": "Al Ries and Jack Trout",
+      "work": "Positioning: The Battle for Your Mind",
+      "chapter_or_section": "Chapter 15, \"Positioning a Country: Belgium\"",
+      "fundamental": "Positioning/brand: own a simple, distinctive association by choosing the mental frame through which a crowded category will be remembered.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Positioning - Al Ries and Jack Trout.pdf",
+      "drive_link": "https://drive.google.com/file/d/1fISuTXG4QmxQ6MrFaI3wxE6eR6EoEh-p/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history reaches Chapter 14; canon prep should verify the Chapter 15 boundary and assign only the chapter or a clearly bounded section under 60 pages."
+    },
+    {
+      "date": "2026-11-19",
+      "master": "Rory Sutherland",
+      "work": "Alchemy",
+      "chapter_or_section": "Chapter 5, next unstudied main chapter after \"Subconscious Hacking: Signalling to Ourselves\"",
+      "fundamental": "Human desire/psychology: treat apparently irrational preference as evidence of context, status, emotion, or meaning missing from the model.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Alchemy - Rory Sutherland.pdf",
+      "drive_link": "https://drive.google.com/file/d/1N3T4Qh1LHH6_Fibe-8WlW6COvwEiJyN4/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history records through Chapter 4; canon prep should verify the scanned contents for the exact Chapter 5 title and assign a bounded section under 60 pages."
+    },
+    {
+      "date": "2026-11-20",
+      "master": "Clayton M. Christensen",
+      "work": "The Innovator's Dilemma",
+      "chapter_or_section": "Chapter 11, next unstudied chapter after \"The Dilemmas of Disruptive Technology\"",
+      "fundamental": "Tech/strategy: place disruptive experiments where emerging customers, incentives, and decision rules can survive incumbent demands.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/The Innovator’s Dilemma - Clayton Christensen.pdf",
+      "drive_link": "https://drive.google.com/file/d/1X5-ZodswFwiIg2uFtgLMZNHzmJqCtu8w/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history reaches Chapter 10; canon prep must parser-preflight the scanned PDF, verify whether a distinct Chapter 11 exists, and assign a confirmed under-60-page section or flag the source as exhausted."
+    },
+    {
+      "date": "2026-11-21",
+      "master": "Byron Sharp",
+      "work": "How Brands Grow",
+      "chapter_or_section": "Chapter 8, next unstudied chapter after \"Brand loyalty—a natural part of buying behaviour\"",
+      "fundamental": "Distribution/growth: turn broad mental and physical availability into a practical growth system that reaches buyers beyond the already loyal.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/How Brands Grow - Byron Sharp.pdf",
+      "drive_link": "https://drive.google.com/file/d/1v-1gh4_y8s4yauwnVTEpphSBhpEBbBJE/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history records through Chapter 7; canon prep must verify the local PDF's Chapter 8 heading and boundary, then assign a section under 60 pages."
+    },
+    {
+      "date": "2026-11-22",
+      "master": "Donald Miller",
+      "work": "Building a StoryBrand",
+      "chapter_or_section": "Chapter 13, \"Using StoryBrand to Transform Company Culture\"",
+      "fundamental": "Writing/taste: make a commercial narrative useful beyond the homepage by turning its promise and language into repeated choices inside the organization.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Building a Stroybrand.epub",
+      "drive_link": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "fallback_acquire_note": "Available locally and in Drive. Canon history records StoryBrand through Chapter 12; the EPUB contents identify Chapter 13, so canon prep should assign the complete bounded chapter and retain the local filename spelling."
+    }
+  ],
+  "created_at_ist": "2026-11-15 18:00:00 IST",
+  "created_by": "weekly-program-agent"
+}
