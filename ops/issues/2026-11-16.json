@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-16",
+  "displayDate": "Monday, 16 November 2026",
+  "issueNumber": 107,
+  "title": "Make the story usable inside the company.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 13 of <em>Building a StoryBrand</em>, Donald Miller extends the BrandScript from customer communication into the daily language and decisions of the organization.",
+  "meta": {
+    "canon": "Donald Miller, <em>Building a StoryBrand</em>",
+    "study": "30-40 min",
+    "practice": "one internal-message audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A story is not a strategy when it lives only in the marketing department. It becomes useful when the same clear promise helps employees decide what matters and what to do next."
+  },
+  "canon": {
+    "author": "Donald Miller",
+    "work": "Building a StoryBrand",
+    "chapter": "Using StoryBrand to Transform Company Culture",
+    "chapterLabel": "Chapter 13, \"How StoryBrand Can Transform a Large Organization\"",
+    "field": "storytelling / organizational communication / brand strategy",
+    "pageRange": "Complete EPUB Chapter 13, from the Chapter 13 heading in index_split_034.html through the end of that file, stopping before the StoryBrand Marketing Roadmap begins in index_split_035.html.",
+    "stopPoint": "Stop at the end of the Chapter 13 section in index_split_034.html. Do not continue into the StoryBrand Marketing Roadmap.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_epub",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub",
+      "driveUrl": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "epub_toc_and_split_file_boundary_verification",
+        "tool": "local EPUB archive and HTML inspection",
+        "nativeTextPages": "The local EPUB TOC identifies Chapter 13 at index_split_034.html and the StoryBrand Marketing Roadmap begins at index_split_035.html. The Chapter 13 heading in the source reads HOW STORYBRAND CAN TRANSFORM A LARGE ORGANIZATION.",
+        "tableOfContentsVerified": true,
+        "notes": "The VPS copy at /home/sushil/studying-the-masters/Books/Building a Stroybrand.epub was inspected directly. Canon history records StoryBrand through Chapter 12, so Chapter 13 is the next distinct reading."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1aaOJXEmL4E47Xz5mkpLl--M1KuJ5wnl5/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Building a Stroybrand.epub\""
+    },
+    "heading": "Make the story a tool for decisions.",
+    "standfirst": "Read Chapter 13, \"How StoryBrand Can Transform a Large Organization,\" from Donald Miller's <em>Building a StoryBrand</em>. Study how a clear narrative can reduce internal confusion, align employees around the customer, and turn brand language into behavior.",
+    "readerIntro": "Read this chapter as an operating test, not just a branding lesson. Mark every place where Miller moves from a message for customers to a shared language for employees. Then audit one internal message: name the confusion it should remove, the decision it should clarify, and the action it should make easier. Stop at the end of Chapter 13.",
+    "blocks": [
+      {
+        "label": "01 / Find the internal confusion",
+        "paragraphs": [
+          "Miller treats unclear communication as an organizational cost, not merely a copy problem.",
+          "Mark the points where employees lose sight of the customer, the offer, or the next action."
+        ]
+      },
+      {
+        "label": "02 / Turn the narrative into shared language",
+        "paragraphs": [
+          "A BrandScript becomes operational when people across the company can use the same simple terms to explain what the organization does.",
+          "Notice which parts of the story are stable enough to guide different teams without becoming slogans detached from work."
+        ]
+      },
+      {
+        "label": "03 / Connect clarity to behavior",
+        "paragraphs": [
+          "The value of a clear story is measured in decisions, priorities, and customer-facing behavior.",
+          "Underline the moments where Miller links language to a concrete change in how people work."
+        ]
+      },
+      {
+        "label": "04 / Audit one internal message",
+        "paragraphs": [
+          "Choose a meeting brief, onboarding note, or team announcement that currently creates friction.",
+          "Rewrite its core message so the audience, problem, desired outcome, and next action are unmistakable."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "employee engagement",
+      "internal communication",
+      "organizational clarity",
+      "BrandScript",
+      "customer"
+    ],
+    "closeReading": [
+      "What kind of organizational confusion does Miller say a clear story can remove?",
+      "Where does the chapter distinguish a shared narrative from a marketing slogan?",
+      "How does employee clarity change the experience of the customer?",
+      "Choose one internal message. What decision should it clarify, and what action should become easier?"
+    ]
+  },
+  "principle": {
+    "heading": "A story earns its keep when it improves decisions.",
+    "body": "The strongest brand narrative is usable language: it helps employees recognize the customer's problem, understand the promise, and choose the next helpful action.",
+    "exampleLabel": "One example",
+    "example": "A support team does not receive a vague values poster. It gets a short decision rule that names the customer's problem, the promised outcome, and the response that moves the customer toward it.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Take one internal message and write three lines: the customer problem, the promise the team must protect, and the next behavior the message should produce."
+  },
+  "output": {
+    "heading": "Make clarity travel through the organization.",
+    "body": "The story becomes strategic when it gives people a shared way to see the customer and make the next decision."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "heading": "Four current signals on making a company easier to understand, trust, and act on.",
+    "fieldNotes": [
+      {
+        "title": "Businesses are being asked to maintain a machine-readable story",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+        "sourceDate": "2026-11-10",
+        "collectedAt": "2026-11-16",
+        "whatHappened": "OpenAI introduced Businesses in ChatGPT, letting eligible companies claim a business profile, update details, add product feeds, see aggregated discovery insights, and build Business Agents.",
+        "whyItMatters": "The brand story is becoming operational data: accuracy, availability, and a useful explanation now affect whether a company can be found and understood inside an answer engine.",
+        "watch": "Audit whether your public product information can answer the questions a customer asks before they ever reach your site."
+      },
+      {
+        "title": "Agentic checkout makes trust part of the product promise",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/introducing-chatgpt-wallet/",
+        "sourceDate": "2026-11-13",
+        "collectedAt": "2026-11-16",
+        "whatHappened": "OpenAI introduced ChatGPT Wallet for limited U.S. rollout, with user approval and security checks for each purchase, tokenized payment details, and guidance for businesses to make sites and risk systems compatible with agents.",
+        "whyItMatters": "A clear customer promise must now travel through discovery, comparison, payment, fulfillment, and support; a broken step in that chain makes the story feel false.",
+        "watch": "Map the customer journey beyond the campaign: where could a legitimate buyer, agent, or support request be blocked by an internal system?"
+      },
+      {
+        "title": "Unilever is tying social-first work to growth ownership",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/how-unilevers-social-first-marketing-is-evolving-amid-reorganization/874457/",
+        "sourceDate": "2026-11-12",
+        "collectedAt": "2026-11-16",
+        "whatHappened": "Unilever said its 2027 reorganization will use a global-strategy, local-execution model, while its marketing organization expands creator-led work and connects content, media, commerce, and growth responsibilities.",
+        "whyItMatters": "The narrative is more useful when ownership is explicit: the promise is not just communicated by marketing but translated into decisions across teams and markets.",
+        "watch": "For one initiative, name the promise, the local adaptation, and the person accountable for turning attention into customer value."
+      },
+      {
+        "title": "Meta is using long-term demand to create a new supply story",
+        "source": "Meta Newsroom",
+        "url": "https://about.fb.com/news/2026/11/meta-new-agreements-clean-manufacturing-data-center-supply-chains/",
+        "sourceDate": "2026-11-12",
+        "collectedAt": "2026-11-16",
+        "whatHappened": "Meta announced multi-year purchase commitments for lower-carbon cement, steel, electric freight, and recycled plastics, arguing that early demand can help suppliers reach commercial scale.",
+        "whyItMatters": "A company story gains credibility when it explains how a stated goal changes procurement, supplier behavior, and the wider market—not only what the company says about itself.",
+        "watch": "Look for the operating decision that makes a public commitment believable: budget, contract, process change, or measurable constraint."
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-11-16",
+        "sourceDate": "2026-11-15",
+        "feed": "following",
+        "author": "Lulu Cheng Meservey",
+        "handle": "lulumeservey",
+        "title": "A product fragment on turning capability into behavior",
+        "summary": "This fragment is useful because it names the behavioral question behind a new capability. The important test is not whether the feature is impressive, but whether it changes a repeated workflow enough for the user to adopt it.",
+        "text": "Being good at LinkedIn doesn’t make you good at X. Being good at media relations doesn’t make you good at X. Being good at launching products doesn’t make you good at X\n\nBut if you’re good at X, you’re probably good at all the above. They’re all downstream\n\nThis here, this sui generis gladiatorial circus, is the proving ground",
+        "url": "https://x.com/lulumeservey/status/2121959406791270715"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
