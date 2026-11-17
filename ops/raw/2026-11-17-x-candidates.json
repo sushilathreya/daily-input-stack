@@ -1,0 +1,1213 @@
+{
+  "date": "2026-11-17",
+  "capturedAtIST": "2026-11-17 09:00:10",
+  "command": "bird-readonly home --json plus bird-readonly home --following --json",
+  "readonlyOnly": true,
+  "minimumSelectionRequired": 1,
+  "rawCounts": {
+    "for_you": 80,
+    "following": 80
+  },
+  "candidates": [
+    {
+      "id": "2122394272091848868",
+      "url": "https://x.com/benjitaylor/status/2122394272091848868",
+      "text": "Not every day you get to design something that goes on The Sphere!  https://t.co/AfgoglTARb",
+      "createdAt": "Mon Nov 16 18:20:01 +0000 2026",
+      "author": "Benji Taylor",
+      "handle": "benjitaylor",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 293,
+        "reposts": 256,
+        "likes": 7089
+      },
+      "score": 55.3
+    },
+    {
+      "id": "2117944954303770625",
+      "url": "https://x.com/vovudebosh/status/2117944954303770625",
+      "text": "this ai scares you for real.\n\nyou paste your website link. Explee works out who needs the product. the replies and booked calls land on your calendar.\n\nit runs the entire process. i did not sign up for this scare.\n\nok. testing it: $30 free\n\nhttps://t.co/g10AAb4bF6",
+      "createdAt": "Wed Nov 04 11:40:01 +0000 2026",
+      "author": "Vladimir Bayandin",
+      "handle": "vovudebosh",
+      "feed": "following",
+      "metrics": {
+        "replies": 248,
+        "reposts": 86,
+        "likes": 988
+      },
+      "score": 52.4
+    },
+    {
+      "id": "2122517419973374176",
+      "url": "https://x.com/mattstasoff/status/2122517419973374176",
+      "text": "RT @zamdoteth: Saw a guy call it cuck coding instead of vibe coding because you just sit in a chair and watch😭",
+      "createdAt": "Tue Nov 17 02:29:22 +0000 2026",
+      "author": "matthew stasoff",
+      "handle": "mattstasoff",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 18890,
+        "likes": 0
+      },
+      "score": 51.5
+    },
+    {
+      "id": "2122349068706017700",
+      "url": "https://x.com/lemonsqueezy/status/2122349068706017700",
+      "text": "Lemon Squeezy is winding down. Over the last two years, we’ve taken everything we learned and built Managed Payments, Stripe’s merchant of record solution.\n\nWe care about supporting as many businesses as possible. We also want to offer an excellent product and rapidly ship improvements: increasingly, the best way to do so is by offering a single product instead of running two platforms.\n\nLemon Squeezy closed new store sign-ups today and we’ll stop processing payments on March 31, 2027. We know this is disruptive. We’re reaching out to all businesses using Lemon Squeezy and sharing next steps specific to their business. Our support team is here to help throughout the transition.\n\nTo every founder, developer, and creator who built with us, thank you.\n\nhttps://t.co/x9oPOxyuwS.",
+      "createdAt": "Mon Nov 16 15:20:23 +0000 2026",
+      "author": "Lemon Squeezy",
+      "handle": "lemonsqueezy",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 176,
+        "reposts": 64,
+        "likes": 846
+      },
+      "score": 51.4
+    },
+    {
+      "id": "2122279867555201383",
+      "url": "https://x.com/jintendori/status/2122279867555201383",
+      "text": "i was having a 1:1 with my manager and the topic came to my vacation plans i was like i have some kpop concerts and a budapest trip he was like did you know the reason we have kpop is jurassic park and i just googled and he is right lmaaoooo",
+      "createdAt": "Mon Nov 16 10:45:25 +0000 2026",
+      "author": "eren",
+      "handle": "jintendori",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 46,
+        "reposts": 487,
+        "likes": 15278
+      },
+      "score": 50.3
+    },
+    {
+      "id": "2122194291032547479",
+      "url": "https://x.com/madmrad/status/2122194291032547479",
+      "text": "RT @sixmisses6: the actual worst impact AI has had on our society is that people think proper english grammar is ai slop",
+      "createdAt": "Mon Nov 16 05:05:22 +0000 2026",
+      "author": "Mradula",
+      "handle": "madmrad",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 0,
+        "reposts": 13262,
+        "likes": 0
+      },
+      "score": 50
+    },
+    {
+      "id": "2122473124314694066",
+      "url": "https://x.com/theMadridZone/status/2122473124314694066",
+      "text": "🚨 Lucas Vazquez: \"Xabi Alonso was not a bad coach. Absolutely NOT.\n\nWhat he achieved at Leverkusen is something they won't forget for a VERY LONG time. He's regarded as a legend here.\n\nA club like Leverkusen does NOT face the same level of media scrutiny as Real Madrid.\n\nAt Real Madrid, a draw is considered a crisis. Everything takes time, and in football, sometimes situations arise where you simply aren't given that time.\" @ellarguero",
+      "createdAt": "Mon Nov 16 23:33:21 +0000 2026",
+      "author": "Madrid Zone",
+      "handle": "theMadridZone",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 2,
+        "reposts": 30,
+        "likes": 818
+      },
+      "score": 49.6
+    },
+    {
+      "id": "2122395509293989985",
+      "url": "https://x.com/boringmarketer/status/2122395509293989985",
+      "text": "I'm open sourcing 32 of my best skills that cover every marketing use case for AI agents I can think of\n\nit helps your AI execute marketing at a world class quality focused on RESULTS and ROI\n\nNot sure how long I'll keep these open, but you can grab them here: https://t.co/IfPLLBMbmW\n\nthis is what's inside (seo, ads, aeo, social, copy, research, and more more more)\n\nstart here\n1) start-here, reads any business from its site and reviews in 3 min, writes the brand files, routes you\n2) brand-voice, a voice profile built from real quotes\n3) positioning-angles, the angle and the offer, then the first screen and objection answers\n4) audience-research, your customers' own words from reviews, reddit and comments\n5) competitive-intel, rivals' messaging, pricing, paid ads and the gaps\n\nget found\n6) google-business-profile, your profile vs the top 3 in the map pack, plus a month of posts\n7) local-seo-plan, a 90 day plan with every page, title and week\n8) service-area-pages, town pages that aren't the same page with the city swapped\n9) ai-search, whether chatgpt, perplexity and google's AI name you, and what to fix\n10) keyword-research, a topic map instead of a 5,000 row spreadsheet\n11) seo-content, articles that rank and get cited in AI answers\n12) programmatic-seo, hundreds of pages from one template and real data\n13) site-audit, crawls your site the way google and the AI crawlers do, then ranks the fixes\n\nget chosen\n14) reviews, owner replies and the review ask after every job\n15) first-screen-check, your site on a phone the way a customer sees it\n16) landing-page, one offer per page, built and ready to ship\n17) direct-response-copy, copy in your customer's words, every claim checked\n18) lead-magnet, a quiz, calculator or guide, actually built\n\nget the call\n19) paid-ads, meta, google, linkedin and tiktok campaigns with a test plan\n20) google-ads-tracking, makes google ads count real calls and forms\n21) ads-incrementality-check, a pause test to see if ads add calls or just take credit\n22) meta-ads, launches and verifies campaigns through the API\n23) speed-to-lead, missed call text-back and follow-up\n24) creative, ads in 21 formats built from 336 live ads from top DTC brands, made with GPT Image, Seedance and Higgsfield\n\nbring them back\n25) email-sequences, welcome, follow-up, win-back and cold outbound\n26) newsletter, editions in your voice using your own click data\n27) performance-review, reads your numbers and feeds what worked back in\n\nwin clients\n28) find-local-clients, ranks the local businesses losing the most customers\n29) pitch-the-fix, a short email about one broken thing with a fix to sell\n\nmarket yourself\n30) social-content, posts built from your own best posts\n31) long-form-article, a long guide with named sources\n32) content-atomizer, one piece into native posts for every platform\n\nevery skill reads the same brand files. your edits become checks the next run follows. your results feed back in. free tools first, paid ones optional.\n\nnpx skills add boringmarketer/boring-marketing-skills",
+      "createdAt": "Mon Nov 16 18:24:56 +0000 2026",
+      "author": "The Boring Marketer",
+      "handle": "boringmarketer",
+      "feed": "following",
+      "metrics": {
+        "replies": 59,
+        "reposts": 19,
+        "likes": 529
+      },
+      "score": 48.5
+    },
+    {
+      "id": "2122493193677627453",
+      "url": "https://x.com/GergelyOrosz/status/2122493193677627453",
+      "text": "Wild to think how Microsoft had a bullet proof strategy, built up over 10+ years with VS Code: \n\nEmbrace, extend, extinguish:\n\nMake VS Code REALLY GOOD. Make it open source. Make it TOO easy to build your own. But too hard to make it as good as Microsoft's.\n\nClaude Code destroyed this bulletproof strategy meant to work for decades... in less than 6 months.",
+      "createdAt": "Tue Nov 17 00:53:06 +0000 2026",
+      "author": "Gergely Orosz",
+      "handle": "GergelyOrosz",
+      "feed": "following",
+      "metrics": {
+        "replies": 62,
+        "reposts": 10,
+        "likes": 549
+      },
+      "score": 48.5
+    },
+    {
+      "id": "2122360504815694014",
+      "url": "https://x.com/DeveloperHarris/status/2122360504815694014",
+      "text": "when accounting doesn't understand that some people are just built different https://t.co/d1ALX7cLA1",
+      "createdAt": "Mon Nov 16 16:05:50 +0000 2026",
+      "author": "Harris Rothaermel",
+      "handle": "DeveloperHarris",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 102,
+        "reposts": 161,
+        "likes": 23737
+      },
+      "score": 47.9
+    },
+    {
+      "id": "2122170296744509880",
+      "url": "https://x.com/depressionlesss/status/2122170296744509880",
+      "text": "the funniest part is how happy he looks after successfully annoying his friend 😂😂",
+      "createdAt": "Mon Nov 16 03:30:01 +0000 2026",
+      "author": "Antidepressant Content",
+      "handle": "depressionlesss",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 13,
+        "reposts": 1064,
+        "likes": 14376
+      },
+      "score": 46.5
+    },
+    {
+      "id": "2122456379487133898",
+      "url": "https://x.com/TouchlineX/status/2122456379487133898",
+      "text": "🚨 𝗕𝗥𝗘𝗔𝗞𝗜𝗡𝗚: Romelu Lukaku REFUSED to come on against Italy. He had already decided his Belgium career was OVER! 🇧🇪❌\n\nHe told the coach (Mark van Bommel) to send on Hugo Cuypers instead.\n\nHe also made a hip injury sound worse than it was to AVOID traveling to Turkey.\n\nAfter the Italy game, he told his teammates he was retiring. Mark van Bommel and his staff only found out later.\n\nBeing left on the bench had become too much for him. Still grieving his father’s death, Lukaku now wants to put his family first.\n\n— @HLN_BE",
+      "createdAt": "Mon Nov 16 22:26:48 +0000 2026",
+      "author": "The Touchline | 𝐓",
+      "handle": "TouchlineX",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 27,
+        "reposts": 177,
+        "likes": 5656
+      },
+      "score": 46
+    },
+    {
+      "id": "2090859635175514253",
+      "url": "https://x.com/Atlas3DAI/status/2090859635175514253",
+      "text": "Terrain heightfields, garment pipelines, scene builders, retopo nodes. Teams build them in-house, on Atlas.\n\nThe workflow canvas, custom nodes and the API make Atlas the layer your TDs build on. \n\nTry it today",
+      "createdAt": "Fri Aug 21 17:52:37 +0000 2026",
+      "author": "Atlas",
+      "handle": "Atlas3DAI",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 312,
+        "reposts": 381,
+        "likes": 4609
+      },
+      "score": 46
+    },
+    {
+      "id": "2122366798980866140",
+      "url": "https://x.com/cremieuxrecueil/status/2122366798980866140",
+      "text": "I noticed a follower of mine had a username that was a very close anagram for a certain CEO's name and he liked all my posts about the topic area that company is in.\n\nSo, I DM'd him and asked if he was an alt for the CEO. And it turned out he actually was!",
+      "createdAt": "Mon Nov 16 16:30:51 +0000 2026",
+      "author": "Crémieux",
+      "handle": "cremieuxrecueil",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 120,
+        "reposts": 39,
+        "likes": 5703
+      },
+      "score": 45.8
+    },
+    {
+      "id": "2103455600315363773",
+      "url": "https://x.com/grok/status/2103455600315363773",
+      "text": "Tell Grok an idea, and it builds a working version live in your chat. \n\nGrok Build is now available on every plan - on web, iOS, and Android.",
+      "createdAt": "Fri Sep 25 12:04:30 +0000 2026",
+      "author": "Grok",
+      "handle": "grok",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 274,
+        "reposts": 356,
+        "likes": 4243
+      },
+      "score": 45.7
+    },
+    {
+      "id": "2122373293843890449",
+      "url": "https://x.com/TouchlineX/status/2122373293843890449",
+      "text": "🚨🗣️ Mauricio Pochettino explained a bit how it will work upon his arrival at Manchester United: \n\n\"The assistants have headed out ahead of time. They are already on-site. This was the plan we agreed upon with Manchester United and the national team.\"\n\n\"They are getting to work, because from Wednesday—the moment we arrive—the pace will be frantic, followed immediately by a series of matches.\"",
+      "createdAt": "Mon Nov 16 16:56:39 +0000 2026",
+      "author": "The Touchline | 𝐓",
+      "handle": "TouchlineX",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 33,
+        "reposts": 261,
+        "likes": 4871
+      },
+      "score": 45.6
+    },
+    {
+      "id": "2122141320697565289",
+      "url": "https://x.com/Liv_Lanes/status/2122141320697565289",
+      "text": "I just saw a PhD say “ChatGPT cites ME” and ngl that shit went so hard",
+      "createdAt": "Mon Nov 16 01:34:52 +0000 2026",
+      "author": "Olivia Lanes",
+      "handle": "Liv_Lanes",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 57,
+        "reposts": 6511,
+        "likes": 141942
+      },
+      "score": 44.1
+    },
+    {
+      "id": "2122346897796989391",
+      "url": "https://x.com/AlexKataev/status/2122346897796989391",
+      "text": "technical founders who hate selling. that was me.\n\ni gave explee my website. it found companies that need my product and the right people in them, wrote personal emails, then helped me book calls.\n\n$30 free 👇\n\nhttps://t.co/hU7M60HTn6",
+      "createdAt": "Mon Nov 16 15:11:46 +0000 2026",
+      "author": "Alex Kataev",
+      "handle": "AlexKataev",
+      "feed": "following",
+      "metrics": {
+        "replies": 5,
+        "reposts": 13,
+        "likes": 192
+      },
+      "score": 43.8
+    },
+    {
+      "id": "2122318655065055328",
+      "url": "https://x.com/Yeren_e/status/2122318655065055328",
+      "text": "Infinity is quite confusing, isn't the force from infinity supposed to crush the ants the same way he crushed hanami with it?",
+      "createdAt": "Mon Nov 16 13:19:32 +0000 2026",
+      "author": "Yeren",
+      "handle": "Yeren_e",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 202,
+        "reposts": 71,
+        "likes": 6491
+      },
+      "score": 42.5
+    },
+    {
+      "id": "2122329462997938620",
+      "url": "https://x.com/HYPEconomist/status/2122329462997938620",
+      "text": "people are not grateful enough for what @phantom is doing for hyperliquid\n\nback in the prime solana days, switching from metamask and ethereum to phantom and solana made it obvious there was no going back\n\nphantom was a big reason for solana's success last cycle\n\nand they are going to have the same impact on hyperliquid's growth\n\ndistribution is one of the hardest problems to solve in crypto\n\nphantom has already onboarded over 200,000 accounts to hyperliquid, in a bear market\n\nthis number is going to be insane once retail comes back",
+      "createdAt": "Mon Nov 16 14:02:29 +0000 2026",
+      "author": "HYPEconomist",
+      "handle": "HYPEconomist",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 22,
+        "reposts": 3,
+        "likes": 106
+      },
+      "score": 42
+    },
+    {
+      "id": "2122337236616393146",
+      "url": "https://x.com/Adityaaa_Sharma/status/2122337236616393146",
+      "text": "Ep. 1: HOW I'D GROW @liquidtrading\n\nA new series - twice a week, I pick a company I actually use and break down how I'd run its marketing.\n\nHere's what I'd do if I ran their marketing: 14 mins; timestamps below (Best at 1.5x) ↓ \n\n00:00 Intro\n00:52 Liquid's X Strategy\n02:03 6 Moves I'd Make on X\n04:53 Paid Ads Around Market Events\n06:39 Google Search & Retargeting\n07:48 Short-Form Video\n09:16 Automated Carousel Accounts\n10:29 Building a Real Creator Program\n12:30 SEO Wins & Gaps\n\nFull doc - https://t.co/jAi47TqZpS\n\nIf you're a founder and want this done for your company, my DMs are open.",
+      "createdAt": "Mon Nov 16 14:33:22 +0000 2026",
+      "author": "Aditya Sharma",
+      "handle": "Adityaaa_Sharma",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 18,
+        "reposts": 6,
+        "likes": 100
+      },
+      "score": 41.9
+    },
+    {
+      "id": "2122240225133162826",
+      "url": "https://x.com/jjellisart/status/2122240225133162826",
+      "text": "It is amazing how the smallest bit of joy will send some people into an absolute spiral. 😂 https://t.co/yiDpwuzbva",
+      "createdAt": "Mon Nov 16 08:07:53 +0000 2026",
+      "author": "J. J. Ellis",
+      "handle": "jjellisart",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 27,
+        "reposts": 121,
+        "likes": 5442
+      },
+      "score": 41.7
+    },
+    {
+      "id": "2122309268216902098",
+      "url": "https://x.com/JamesB_afc/status/2122309268216902098",
+      "text": "I’m not sure anyone has ever run the data because it would be a slog but I wonder if anyone’s ever compared similar teams’ 38 game season and established that one was actually easier than the other\n\nFor example, if Frank does a good job at Palace (which I expect), that’s now a tougher away game than it was for City & Liverpool when Palace had Sage\n\nIn the same way, Arsenal went to Villa before anyone had settled in and their squad was being pulled apart - easier than City’s trip a few weeks back\n\nI wonder if it really just evens out ultimately or if a fixture list can go overwhelmingly in your favour\n\nBut then you have to factor injuries etc so again, probably a pointless exercise, but I’d love some kind of super computer answer",
+      "createdAt": "Mon Nov 16 12:42:14 +0000 2026",
+      "author": "James B",
+      "handle": "JamesB_afc",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 77,
+        "reposts": 51,
+        "likes": 1756
+      },
+      "score": 41.1
+    },
+    {
+      "id": "2122351233998475772",
+      "url": "https://x.com/christosdotjpeg/status/2122351233998475772",
+      "text": "CHOOSE YOUR CHARACTER https://t.co/WPe5SP7Ctb",
+      "createdAt": "Mon Nov 16 15:29:00 +0000 2026",
+      "author": "christos",
+      "handle": "christosdotjpeg",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 212,
+        "reposts": 7914,
+        "likes": 53298
+      },
+      "score": 40.9
+    },
+    {
+      "id": "2122364577052594236",
+      "url": "https://x.com/GRITCULT/status/2122364577052594236",
+      "text": "made a tier list for social skills \n\nthis one will be controversial. https://t.co/xLXMYR8WCP",
+      "createdAt": "Mon Nov 16 16:22:01 +0000 2026",
+      "author": "GRITCULT",
+      "handle": "GRITCULT",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 47,
+        "reposts": 140,
+        "likes": 2752
+      },
+      "score": 39.1
+    },
+    {
+      "id": "2122457460304749002",
+      "url": "https://x.com/asmartbear/status/2122457460304749002",
+      "text": "Is anyone actually using Jev?\n\n1mo ago the hype was amazing; if you search on YouTube you find videos from then, but none now.\n\nI tried it for many classification jobs and it was hard to get it just to match Sonnet.",
+      "createdAt": "Mon Nov 16 22:31:06 +0000 2026",
+      "author": "Jason Cohen",
+      "handle": "asmartbear",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 250,
+        "reposts": 10,
+        "likes": 681
+      },
+      "score": 38.8
+    },
+    {
+      "id": "2122494068928196684",
+      "url": "https://x.com/GergelyOrosz/status/2122494068928196684",
+      "text": "The wild thing about all this is Anthropic, I am 99% certain, had no clue about any strategy Microsoft had, neither did they care.\n\nThey just built a tool that was really good, ignoring any and all prior art\n\nAnd who would have thought a few 3-months old tool would be more efficient than one with 20+ years of dev tools best practices... I certainly would have not",
+      "createdAt": "Tue Nov 17 00:56:34 +0000 2026",
+      "author": "Gergely Orosz",
+      "handle": "GergelyOrosz",
+      "feed": "following",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 65
+      },
+      "score": 38.5
+    },
+    {
+      "id": "2122241018796093489",
+      "url": "https://x.com/ugronaribadi/status/2122241018796093489",
+      "text": "This is my favourite genre of posts https://t.co/LIwUtdJib5",
+      "createdAt": "Mon Nov 16 08:11:02 +0000 2026",
+      "author": "۩🔻🌈",
+      "handle": "ugronaribadi",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 37,
+        "reposts": 2399,
+        "likes": 34258
+      },
+      "score": 38.2
+    },
+    {
+      "id": "2122497635835863157",
+      "url": "https://x.com/AJamesMcCarthy/status/2122497635835863157",
+      "text": "I made a composite artwork with the photos I captured during the Starship launch/catch. I'll share it tomorrow (email subscribers first!). Really proud of this, so hope you love it!\n\nIn the meantime, here's a teaser... https://t.co/pz11gr9A9W",
+      "createdAt": "Tue Nov 17 01:10:45 +0000 2026",
+      "author": "Andrew McCarthy",
+      "handle": "AJamesMcCarthy",
+      "feed": "following",
+      "metrics": {
+        "replies": 24,
+        "reposts": 33,
+        "likes": 585
+      },
+      "score": 36.7
+    },
+    {
+      "id": "2111131061111726151",
+      "url": "https://x.com/attio/status/2111131061111726151",
+      "text": "Agents are breaking your software. The old architecture was never intended for them. GTM needs a new architecture.",
+      "createdAt": "Fri Oct 16 16:24:02 +0000 2026",
+      "author": "Attio",
+      "handle": "attio",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 298,
+        "reposts": 66,
+        "likes": 828
+      },
+      "score": 36.1
+    },
+    {
+      "id": "2122524114271555987",
+      "url": "https://x.com/interaction/status/2122524114271555987",
+      "text": "RT @walden_yan: I couldn't say it at the time, but this is actually a sneak peek of the capabilities of our new unreleased product. \n\nWe:\n-…",
+      "createdAt": "Tue Nov 17 02:55:58 +0000 2026",
+      "author": "Poke",
+      "handle": "interaction",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 13,
+        "likes": 0
+      },
+      "score": 36
+    },
+    {
+      "id": "2122504015044895162",
+      "url": "https://x.com/YanPeronn/status/2122504015044895162",
+      "text": "In case you didn't follow day 8 of international break:\n\n>🇵🇹Ronaldo's mom said she was happy Portugal lost 4-1 to Denmark & \"his teammates haven't shown him affection or respect\"\n\n>🇵🇹Ronaldo posted a clip doing a hand sign captioned \"Have you figured it out yet?\" (vid in replies)\n\n>🇩🇪Germany needed to beat 🇳🇱Netherlands by 5+ to top their Nations League group & won 5-0\n     -Wirtz scored 2 incl. a screamer (vid in replies)\n\n>🇧🇪Romelu Lukaku retired from Belgium at 33 as their all-time top scorer (94 goals in 135 games)\n\n>🌎UEFA picked French federation president Philippe Diallo to run against Infantino for FIFA president\n\n>🏴󠁧󠁢󠁥󠁮󠁧󠁿David Beckham's company sued Coty claiming his perfume got sold at Poundland (British dollar store) & a gas station bargain bin\n\n>🏴󠁧󠁢󠁥󠁮󠁧󠁿The Premier League board asked all 20 clubs (including Man City themselves) to cover them if Man City's sponsors sue over the \"sham deals\" ruling\n\n>🏴󠁧󠁢󠁥󠁮󠁧󠁿Declan Rice agreed “in principle” to a new 5 year deal at Arsenal\n\n>🏴󠁧󠁢󠁥󠁮󠁧󠁿Crystal Palace appointed Thomas Frank as manager\n\n>🇪🇸Vini Jr said all the summer interest incl. Arsenal \"messed with my head and how I saw my situation at Real Madrid\"\n\n>🇬🇷Greece beat 🇷🇸Serbia 1-0 in NL but missed the quarters on goal difference after Germany's 5-0\n\n>🇩🇪Germany played their last game in an Adidas kit after 72 years (switching to Nike)\n\n>🏴󠁧󠁢󠁥󠁮󠁧󠁿16 y/o Max Dowman became England U21's youngest ever scorer\n\n>🇨🇭Switzerland beat 🏴󠁧󠁢󠁳󠁣󠁴󠁿Scotland 4-0 in NL\n     -Andy Robertson became Scotland's most capped men's player (103)\n\n>🇪🇸Barcelona said Cubarsí has tightness in his hip flexor\n\n>🇪🇺Other Nations League results:\n     -🇸🇮Slovenia 3-0 🇲🇰North Macedonia\n     -🇮🇸Iceland 3-0 🇱🇺Luxembourg\n     -🇰🇿Kazakhstan 2-2 🇸🇰Slovakia (95' equalizer)\n     -🇪🇪Estonia 2-1 🇧🇬Bulgaria\n     -🇱🇹Lithuania 2-1 🇱🇮Liechtenstein\n     -🇫🇴Faroe Islands 1-0 🇲🇩Moldova\n     -🇬🇮Gibraltar 1-1 🇲🇹Malta\n\n>🇦🇿Azerbaijan beat 🇦🇩Andorra 3-1 in a friendly\n\n>Let me know what I missed\n\nIf you love football but don't have time to scroll twitter all day — I post one of these recaps every night... Follow me on pookie",
+      "createdAt": "Tue Nov 17 01:36:06 +0000 2026",
+      "author": "Yan",
+      "handle": "YanPeronn",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 7,
+        "reposts": 21,
+        "likes": 510
+      },
+      "score": 35.7
+    },
+    {
+      "id": "2105909670456254707",
+      "url": "https://x.com/GOLDCOUNCIL/status/2105909670456254707",
+      "text": "There’s always a trend, a fashion, a fad, but gold has always been timeless. Visit https://t.co/xbb99hpXBM",
+      "createdAt": "Fri Oct 02 06:36:06 +0000 2026",
+      "author": "World Gold Council",
+      "handle": "GOLDCOUNCIL",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 30,
+        "reposts": 44,
+        "likes": 972
+      },
+      "score": 34.7
+    },
+    {
+      "id": "2122486441318224291",
+      "url": "https://x.com/orangebook/status/2122486441318224291",
+      "text": "If you manage to get married to someone who is emotionally secure, mentally stable, and self-disciplined about making daily progress toward your common long-term vision, you've already won.",
+      "createdAt": "Tue Nov 17 00:26:16 +0000 2026",
+      "author": "Orange Book 🍊📖",
+      "handle": "orangebook",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 7,
+        "reposts": 29,
+        "likes": 352
+      },
+      "score": 34.6
+    },
+    {
+      "id": "2122516973657403834",
+      "url": "https://x.com/jasonlk/status/2122516973657403834",
+      "text": "New!! If You're Refounding Your B2B Company for AI, Make Your Product Cheaper. Probably Much Cheaper.\n\nAgents track every call. Price too high and they route around you.\n\nWe cut one vendor's calls 90%.\n\nCut price 80%, usage can go up 20x.\n\nhttps://t.co/GFIzudyAz0",
+      "createdAt": "Tue Nov 17 02:27:35 +0000 2026",
+      "author": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+      "handle": "jasonlk",
+      "feed": "following",
+      "metrics": {
+        "replies": 10,
+        "reposts": 0,
+        "likes": 8
+      },
+      "score": 34.6
+    },
+    {
+      "id": "2118541548556009606",
+      "url": "https://x.com/Starlink/status/2118541548556009606",
+      "text": "Get 50% off Starlink kits and service. Connect to fast, reliable internet for streaming, video calls, working from home, and more.\n\nOffer ends on November 30.",
+      "createdAt": "Fri Nov 06 03:10:40 +0000 2026",
+      "author": "Starlink",
+      "handle": "Starlink",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 34,
+        "reposts": 11,
+        "likes": 212
+      },
+      "score": 33
+    },
+    {
+      "id": "2122506399540478139",
+      "url": "https://x.com/_chenglou/status/2122506399540478139",
+      "text": "RT @cotterzz: Today I learned ⊃∪∩∈ is a story about set theory.",
+      "createdAt": "Tue Nov 17 01:45:34 +0000 2026",
+      "author": "Cheng Lou",
+      "handle": "_chenglou",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 0,
+        "reposts": 243,
+        "likes": 0
+      },
+      "score": 32.6
+    },
+    {
+      "id": "2122468977637220766",
+      "url": "https://x.com/HeyYoGB/status/2122468977637220766",
+      "text": "my personal brand made me $10,000 last month.\n\ntell me where you're stuck and i'll help https://t.co/9dctRTXszo",
+      "createdAt": "Mon Nov 16 23:16:52 +0000 2026",
+      "author": "GBE",
+      "handle": "HeyYoGB",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 8,
+        "reposts": 0,
+        "likes": 28
+      },
+      "score": 32.5
+    },
+    {
+      "id": "2122510414286381501",
+      "url": "https://x.com/signulll/status/2122510414286381501",
+      "text": "RT @signulll: between claude code, cowork, chatgpt work, &amp; codex, most current white collar work is either already automatable or visibly w…",
+      "createdAt": "Tue Nov 17 02:01:31 +0000 2026",
+      "author": "signüll",
+      "handle": "signulll",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 93,
+        "likes": 0
+      },
+      "score": 32.5
+    },
+    {
+      "id": "2122325090536681978",
+      "url": "https://x.com/ReadsWithOliver/status/2122325090536681978",
+      "text": "b2b saas founders doing $10-50k mrr with no salesperson: this one is for you.\n\ngive Explee your website link. it finds buyers, writes the emails, and helps you book calls.\n\n$30 free 👇\n\nhttps://t.co/Xc7q8sYzRw",
+      "createdAt": "Mon Nov 16 13:45:07 +0000 2026",
+      "author": "Reads With Oliver",
+      "handle": "ReadsWithOliver",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 41,
+        "reposts": 12,
+        "likes": 152
+      },
+      "score": 32.3
+    },
+    {
+      "id": "2122411451776438372",
+      "url": "https://x.com/deepstash/status/2122411451776438372",
+      "text": "Switch to the TikTok alternative for highly intelligent people.\n\nLearn ideas from the best books and thinkers instead of doomscrolling. \nDeepstash, 5 minutes a day.",
+      "createdAt": "Mon Nov 16 19:28:17 +0000 2026",
+      "author": "Deepstash",
+      "handle": "deepstash",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 7,
+        "likes": 224
+      },
+      "score": 31.9
+    },
+    {
+      "id": "2122502883505832157",
+      "url": "https://x.com/signulll/status/2122502883505832157",
+      "text": "i’ve found that almost everything worthwhile requires a little patience. i do appreciate speed &amp; hustle but the art of not pressing too much is under appreciated.",
+      "createdAt": "Tue Nov 17 01:31:36 +0000 2026",
+      "author": "signüll",
+      "handle": "signulll",
+      "feed": "following",
+      "metrics": {
+        "replies": 13,
+        "reposts": 5,
+        "likes": 191
+      },
+      "score": 31.7
+    },
+    {
+      "id": "2122357036339888609",
+      "url": "https://x.com/lulumeservey/status/2122357036339888609",
+      "text": "A company can keep secrets for months or years and then the dam just breaks and there are a dozen leaks in a day\n\nThis is fairly common - people are reluctant to be the first to spill, but once they know others are talking, it cascades from there\n\nThere’s a lot to be said for having an omertà culture",
+      "createdAt": "Mon Nov 16 15:52:03 +0000 2026",
+      "author": "Lulu Cheng Meservey",
+      "handle": "lulumeservey",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 14,
+        "reposts": 4,
+        "likes": 161
+      },
+      "score": 31.1
+    },
+    {
+      "id": "2122491950246879481",
+      "url": "https://x.com/signulll/status/2122491950246879481",
+      "text": "it’s funny that dudes historically once wore heels to elevate themselves, then largely surrendered them to women, which inadvertently raised the height bar they were expected to clear even more.\n\nso men invented & normalized a height advantage & then somehow ended up on the losing side of it. this is relevant more now than ever before.",
+      "createdAt": "Tue Nov 17 00:48:09 +0000 2026",
+      "author": "signüll",
+      "handle": "signulll",
+      "feed": "following",
+      "metrics": {
+        "replies": 15,
+        "reposts": 5,
+        "likes": 146
+      },
+      "score": 30.8
+    },
+    {
+      "id": "2122477477683515739",
+      "url": "https://x.com/lulumeservey/status/2122477477683515739",
+      "text": "It’s a bad idea to pick a public fight with someone better liked than you\n\nSure some people resent the privileged, but absolutely no one likes a scold",
+      "createdAt": "Mon Nov 16 23:50:39 +0000 2026",
+      "author": "Lulu Cheng Meservey",
+      "handle": "lulumeservey",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 8,
+        "reposts": 0,
+        "likes": 145
+      },
+      "score": 30.1
+    },
+    {
+      "id": "2122346980340846618",
+      "url": "https://x.com/sriramk/status/2122346980340846618",
+      "text": "Robert Pattinson to do Tenet, Batman, Odyssey and Bond is a generational run.",
+      "createdAt": "Mon Nov 16 15:12:06 +0000 2026",
+      "author": "Sriram Krishnan",
+      "handle": "sriramk",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 92,
+        "reposts": 277,
+        "likes": 5316
+      },
+      "score": 30
+    },
+    {
+      "id": "2057919237566407063",
+      "url": "https://x.com/ElevenLabsDevs/status/2057919237566407063",
+      "text": "Turn your existing chat agent into a real-time voice agent with one prompt.",
+      "createdAt": "Fri May 22 20:19:15 +0000 2026",
+      "author": "ElevenLabs Developers",
+      "handle": "ElevenLabsDevs",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 245,
+        "reposts": 447,
+        "likes": 3887
+      },
+      "score": 29.6
+    },
+    {
+      "id": "2122529011125670079",
+      "url": "https://x.com/AJamesMcCarthy/status/2122529011125670079",
+      "text": "A gorgeous alignment the night of the catch, couldn’t resist the opportunity to capture @JoshDinner snapping a photo. \n\nA triumph of engineering and a future destination. https://t.co/VKRaRZzYzV",
+      "createdAt": "Tue Nov 17 03:15:25 +0000 2026",
+      "author": "Andrew McCarthy",
+      "handle": "AJamesMcCarthy",
+      "feed": "following",
+      "metrics": {
+        "replies": 5,
+        "reposts": 5,
+        "likes": 119
+      },
+      "score": 29.6
+    },
+    {
+      "id": "2122517652476404056",
+      "url": "https://x.com/__tinygrad__/status/2122517652476404056",
+      "text": "Putting our massive Qwen 3.8 Flash inference capacity to work. How many games/hour do you think we need to be able to do RL well? https://t.co/OuCSO8bAQt",
+      "createdAt": "Tue Nov 17 02:30:17 +0000 2026",
+      "author": "the tiny corp",
+      "handle": "__tinygrad__",
+      "feed": "following",
+      "metrics": {
+        "replies": 8,
+        "reposts": 4,
+        "likes": 112
+      },
+      "score": 29.5
+    },
+    {
+      "id": "2122487181738713559",
+      "url": "https://x.com/packyM/status/2122487181738713559",
+      "text": "I just got access to Claude Duet! It’s cool. It’s kind of like Muse, Instinct, Dot, Quest, Poke, Hark, Grok Bot, OpenClaw, Pally, etc… but more orange. https://t.co/fs5vQjF3NG",
+      "createdAt": "Tue Nov 17 00:29:12 +0000 2026",
+      "author": "Packy McCormick",
+      "handle": "packyM",
+      "feed": "following",
+      "metrics": {
+        "replies": 18,
+        "reposts": 1,
+        "likes": 100
+      },
+      "score": 29.5
+    },
+    {
+      "id": "2122448678526869847",
+      "url": "https://x.com/blakeir/status/2122448678526869847",
+      "text": "Anthropic IPO and GTA 6 launch on the same day.\n\nTwo things with impossible expectations.",
+      "createdAt": "Mon Nov 16 21:56:12 +0000 2026",
+      "author": "Blake Robbins",
+      "handle": "blakeir",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 14,
+        "reposts": 4,
+        "likes": 245
+      },
+      "score": 28.6
+    },
+    {
+      "id": "2122518310306906436",
+      "url": "https://x.com/DejaRu22/status/2122518310306906436",
+      "text": "No kidding, and get this, there is a book about a boy named Harry who discovers he’s a wizard and attends a secret school of magic, where he learns that a dark sorcerer murdered his parents, and that he somehow survived the same curse that killed them, leaving him with a mysterious scar!",
+      "createdAt": "Tue Nov 17 02:32:54 +0000 2026",
+      "author": "DR22 Ω 🪬🎭",
+      "handle": "DejaRu22",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 5,
+        "reposts": 2,
+        "likes": 96
+      },
+      "score": 28.5
+    },
+    {
+      "id": "2122490571969417425",
+      "url": "https://x.com/gumdalf_/status/2122490571969417425",
+      "text": "RT @RKhadi: Can’t emphasize this enough: daily liquidity is a core part of EPIC’s operational design - not your typical “exit penalties des…",
+      "createdAt": "Tue Nov 17 00:42:40 +0000 2026",
+      "author": "Arun",
+      "handle": "gumdalf_",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 0
+      },
+      "score": 28.5
+    },
+    {
+      "id": "2092778537396916461",
+      "url": "https://x.com/Starlink/status/2092778537396916461",
+      "text": "Starlink offers fast, reliable internet in the most rural and remote locations. Portable and easy to set up, Starlink Mini works wherever you are.\n\nOrder online in minutes.",
+      "createdAt": "Thu Aug 27 00:57:39 +0000 2026",
+      "author": "Starlink",
+      "handle": "Starlink",
+      "feed": "following",
+      "metrics": {
+        "replies": 13,
+        "reposts": 5,
+        "likes": 55
+      },
+      "score": 27.9
+    },
+    {
+      "id": "2122494278442086591",
+      "url": "https://x.com/GergelyOrosz/status/2122494278442086591",
+      "text": "I do think this one event will shake up Microsoft much more than anything else could have been.\n\nBtw it's not just Microsoft: Jetbrains was caught just as offguard, just as sudden.\n\nNeither MS nor Jetbrains could believe that 20+ years of IDE development and dev love could evaporate in a blink\n\nBut it did..",
+      "createdAt": "Tue Nov 17 00:57:24 +0000 2026",
+      "author": "Gergely Orosz",
+      "handle": "GergelyOrosz",
+      "feed": "following",
+      "metrics": {
+        "replies": 7,
+        "reposts": 0,
+        "likes": 74
+      },
+      "score": 27.5
+    },
+    {
+      "id": "2122377233834844315",
+      "url": "https://x.com/BoredElonMusk/status/2122377233834844315",
+      "text": "Something that costs money to produce cannot be free.\n\nSpeech can be free.\nHealthcare can not be free.\n\nHope that clears things up.",
+      "createdAt": "Mon Nov 16 17:12:19 +0000 2026",
+      "author": "BORED",
+      "handle": "BoredElonMusk",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 21,
+        "reposts": 5,
+        "likes": 117
+      },
+      "score": 26.4
+    },
+    {
+      "id": "2122423724880413150",
+      "url": "https://x.com/packyM/status/2122423724880413150",
+      "text": "Look, if all of you whiners want to access your bank accounts or whatever, you need to call your bank and demand they spend more on AI to secure themselves. This isn't hard.",
+      "createdAt": "Mon Nov 16 20:17:03 +0000 2026",
+      "author": "Packy McCormick",
+      "handle": "packyM",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 10,
+        "reposts": 4,
+        "likes": 35
+      },
+      "score": 26.3
+    },
+    {
+      "id": "2122458680306094528",
+      "url": "https://x.com/ClockEndH/status/2122458680306094528",
+      "text": "Excuse me?\n\nWhat the absolute fuck do we have on our hands?",
+      "createdAt": "Mon Nov 16 22:35:57 +0000 2026",
+      "author": "H🏆",
+      "handle": "ClockEndH",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 23,
+        "reposts": 56,
+        "likes": 2344
+      },
+      "score": 26.1
+    },
+    {
+      "id": "2122516277411696917",
+      "url": "https://x.com/orangebook/status/2122516277411696917",
+      "text": "Ironically, a lot of people with the habit of constantly judging and looking down on others are simply repeating the behavior that they hated to be on the receiving end of themselves; on the opposite side, the least judgmental people grew up in an environment full of loving and supportive family and friends.",
+      "createdAt": "Tue Nov 17 02:24:49 +0000 2026",
+      "author": "Orange Book 🍊📖",
+      "handle": "orangebook",
+      "feed": "following",
+      "metrics": {
+        "replies": 1,
+        "reposts": 4,
+        "likes": 48
+      },
+      "score": 26
+    },
+    {
+      "id": "2122362141818880278",
+      "url": "https://x.com/LifeMathMoney/status/2122362141818880278",
+      "text": "Lemon Squeezy has been shut down by Stripe (they acquired it earlier).\n\nStripe does not work in many parts of the world, so all I need to do is move hundreds of paying customers over to a new provider by manually sending them new payment links\n\nGood job Stripe. https://t.co/uw2zX8Fr69",
+      "createdAt": "Mon Nov 16 16:12:20 +0000 2026",
+      "author": "LifeMathMoney",
+      "handle": "LifeMathMoney",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 8,
+        "reposts": 1,
+        "likes": 42
+      },
+      "score": 25.9
+    },
+    {
+      "id": "2121629893230211450",
+      "url": "https://x.com/Starlink/status/2121629893230211450",
+      "text": "Get 50% off Starlink kits and service. Connect to fast, reliable internet for streaming, video calls, working from home, and more.\n\nSign up by November 30th",
+      "createdAt": "Sat Nov 14 15:42:39 +0000 2026",
+      "author": "Starlink",
+      "handle": "Starlink",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 10,
+        "reposts": 1,
+        "likes": 37
+      },
+      "score": 25.9
+    },
+    {
+      "id": "2122513453067952399",
+      "url": "https://x.com/orangebook/status/2122513453067952399",
+      "text": "The most difficult part of becoming a better writer is to grow enough courage to be honest and unafraid of being judged; that's what writer's block is often about, it's when you are subconsciously filtering your thoughts because you are worried about what the audience will think, and as you do that, the stream of imagination stops, you think you are uninspired, you think you need to read more or study the greats first, but you are actually just being a coward looking for an excuse to avoid putting yourself in a \"naked\" and vulnerable position.",
+      "createdAt": "Tue Nov 17 02:13:36 +0000 2026",
+      "author": "Orange Book 🍊📖",
+      "handle": "orangebook",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 45
+      },
+      "score": 25.4
+    },
+    {
+      "id": "2122532178403946846",
+      "url": "https://x.com/sidrmsh/status/2122532178403946846",
+      "text": "RT @hrkrshnn: Crazy day in security\n\n1. @Chase, @BankofAmerica, @WellsFargo and @Zelle went down. They claim it's not a hack or security in…",
+      "createdAt": "Tue Nov 17 03:28:00 +0000 2026",
+      "author": "Sid⚡️",
+      "handle": "sidrmsh",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 17,
+        "likes": 0
+      },
+      "score": 25.2
+    },
+    {
+      "id": "2122530016957481439",
+      "url": "https://x.com/saintniko/status/2122530016957481439",
+      "text": "RT @ItsDone2000: 20 Different Gengars 💫 https://t.co/NxECMJlJXc",
+      "createdAt": "Tue Nov 17 03:19:25 +0000 2026",
+      "author": "niko",
+      "handle": "saintniko",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 680,
+        "likes": 0
+      },
+      "score": 25.1
+    },
+    {
+      "id": "2122513453751632156",
+      "url": "https://x.com/batsoupyum/status/2122513453751632156",
+      "text": "I realize everyone is bearish on crypto and NFTs and Chinese spys and a bunch of other shit, but this is spot on 👇\n\nBlockchain is undefeated in a world of AI abundance\n\n(also Kaprekar does have a great collection)",
+      "createdAt": "Tue Nov 17 02:13:36 +0000 2026",
+      "author": "batsoupyum",
+      "handle": "batsoupyum",
+      "feed": "following",
+      "metrics": {
+        "replies": 3,
+        "reposts": 3,
+        "likes": 35
+      },
+      "score": 25.1
+    },
+    {
+      "id": "2122514344072130813",
+      "url": "https://x.com/umzrs/status/2122514344072130813",
+      "text": "SMS is COMPLETELY DIFFERENT to Email Marketing\n\nIt costs more, it’s more personal and you can’t send to customers at the same frequency you can with Email\n\nRealistically you should only ever be using SMS when you are launching a new product or have a big sale / offer you’re trying to push",
+      "createdAt": "Tue Nov 17 02:17:08 +0000 2026",
+      "author": "Umar",
+      "handle": "umzrs",
+      "feed": "following",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 0
+      },
+      "score": 24.8
+    },
+    {
+      "id": "2122463726527709657",
+      "url": "https://x.com/packyM/status/2122463726527709657",
+      "text": "The anti-COVID where we can’t use the internet and get to hang out with each other offline.",
+      "createdAt": "Mon Nov 16 22:56:00 +0000 2026",
+      "author": "Packy McCormick",
+      "handle": "packyM",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 11,
+        "reposts": 6,
+        "likes": 73
+      },
+      "score": 24.6
+    },
+    {
+      "id": "2121629858547585227",
+      "url": "https://x.com/Starlink/status/2121629858547585227",
+      "text": "Get 50% off Starlink kits and service. Connect to fast, reliable internet for streaming, video calls, working from home, and more.\n\nSign up by November 30th",
+      "createdAt": "Sat Nov 14 15:42:30 +0000 2026",
+      "author": "Starlink",
+      "handle": "Starlink",
+      "feed": "following",
+      "metrics": {
+        "replies": 6,
+        "reposts": 4,
+        "likes": 20
+      },
+      "score": 24.5
+    },
+    {
+      "id": "2122389238700200024",
+      "url": "https://x.com/GRITCULT/status/2122389238700200024",
+      "text": "Nobody gets to write your future for you. https://t.co/1GLs7NORXt",
+      "createdAt": "Mon Nov 16 18:00:01 +0000 2026",
+      "author": "GRITCULT",
+      "handle": "GRITCULT",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 6,
+        "reposts": 67,
+        "likes": 1507
+      },
+      "score": 24.4
+    },
+    {
+      "id": "2122449011886244058",
+      "url": "https://x.com/farbood/status/2122449011886244058",
+      "text": "8.2 TB downloaded in the last 31 minutes.",
+      "createdAt": "Mon Nov 16 21:57:32 +0000 2026",
+      "author": "farbood",
+      "handle": "farbood",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 20,
+        "reposts": 28,
+        "likes": 1591
+      },
+      "score": 24.3
+    },
+    {
+      "id": "2122411582835798426",
+      "url": "https://x.com/wabi/status/2122411582835798426",
+      "text": "300k people joined wabi since our launch a couple of weeks ago\n\nhere's what they're saying and doing 🧵",
+      "createdAt": "Mon Nov 16 19:28:48 +0000 2026",
+      "author": "wabi",
+      "handle": "wabi",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 7,
+        "reposts": 1,
+        "likes": 83
+      },
+      "score": 24
+    },
+    {
+      "id": "2122502030250119305",
+      "url": "https://x.com/TodayinHistory/status/2122502030250119305",
+      "text": "Uh oh. And on the anniversary of the first Harry Potter movie release, 25 years ago today.",
+      "createdAt": "Tue Nov 17 01:28:12 +0000 2026",
+      "author": "Today in History",
+      "handle": "TodayinHistory",
+      "feed": "following",
+      "metrics": {
+        "replies": 2,
+        "reposts": 2,
+        "likes": 88
+      },
+      "score": 24
+    },
+    {
+      "id": "2122415895104639336",
+      "url": "https://x.com/adweak/status/2122415895104639336",
+      "text": "BREAKING: Childless Agency Strategist Lectures Huggies CMO Who Has Three Kids What It’s Like To. Be A Busy, Working Mom https://t.co/bv2JS7Se3s",
+      "createdAt": "Mon Nov 16 19:45:56 +0000 2026",
+      "author": "ADWEAK",
+      "handle": "adweak",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 34
+      },
+      "score": 23.8
+    },
+    {
+      "id": "2122484446918271023",
+      "url": "https://x.com/melissa/status/2122484446918271023",
+      "text": "the operating system concept of clipboards is completely inconsistent with how it's actually used. we use it both for like absolutely throwaway ephemeral things. but also, our most trusted, most secret secrets",
+      "createdAt": "Tue Nov 17 00:18:20 +0000 2026",
+      "author": "@melissa",
+      "handle": "melissa",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 28
+      },
+      "score": 23.3
+    },
+    {
+      "id": "2122520470654517645",
+      "url": "https://x.com/orangebook/status/2122520470654517645",
+      "text": "The difficulty isn't in the parenting itself, it's in the marrying the right person.",
+      "createdAt": "Tue Nov 17 02:41:29 +0000 2026",
+      "author": "Orange Book 🍊📖",
+      "handle": "orangebook",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 1,
+        "reposts": 4,
+        "likes": 61
+      },
+      "score": 22.8
+    },
+    {
+      "id": "2122497053007970626",
+      "url": "https://x.com/jessepollak/status/2122497053007970626",
+      "text": "RT @RezaMilani: Introducing Lantern Radio — a fully onchain generative music radio @base \n\n13 stations. Endless original compositions. No p…",
+      "createdAt": "Tue Nov 17 01:08:26 +0000 2026",
+      "author": "jesse.base.eth",
+      "handle": "jessepollak",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 8,
+        "likes": 0
+      },
+      "score": 22
+    },
+    {
+      "id": "2122493274363777041",
+      "url": "https://x.com/a16z/status/2122493274363777041",
+      "text": "RT @theacademysf: It's 2026. \n\nDropping out or going to college shouldn't be the only options. https://t.co/uRFM6GfEP8",
+      "createdAt": "Tue Nov 17 00:53:25 +0000 2026",
+      "author": "a16z",
+      "handle": "a16z",
+      "feed": "following",
+      "metrics": {
+        "replies": 0,
+        "reposts": 20,
+        "likes": 0
+      },
+      "score": 21.9
+    },
+    {
+      "id": "2122414309095719183",
+      "url": "https://x.com/kramnotmark/status/2122414309095719183",
+      "text": "pro tip: unemploy yourself and you can do corporate numbers from the personal account https://t.co/JfpDtxXqus",
+      "createdAt": "Mon Nov 16 19:39:38 +0000 2026",
+      "author": "mark",
+      "handle": "kramnotmark",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 6,
+        "reposts": 1,
+        "likes": 44
+      },
+      "score": 21.8
+    },
+    {
+      "id": "2122517418832732331",
+      "url": "https://x.com/melissa/status/2122517418832732331",
+      "text": "i made a read out loud game for the child, who hates reading out loud. it was an experiment in adding lofi game music to take his focus off the out loud part. so far it's working https://t.co/TLEUVYkR0D",
+      "createdAt": "Tue Nov 17 02:29:21 +0000 2026",
+      "author": "@melissa",
+      "handle": "melissa",
+      "feed": "following",
+      "metrics": {
+        "replies": 4,
+        "reposts": 0,
+        "likes": 15
+      },
+      "score": 21.8
+    },
+    {
+      "id": "2122518641333997698",
+      "url": "https://x.com/BoredElonMusk/status/2122518641333997698",
+      "text": "The cool thing about humans is we’re basically the only species that can visualize doing something that another person is doing and then learn to do that thing.",
+      "createdAt": "Tue Nov 17 02:34:13 +0000 2026",
+      "author": "BORED",
+      "handle": "BoredElonMusk",
+      "feed": "for_you",
+      "metrics": {
+        "replies": 3,
+        "reposts": 0,
+        "likes": 15
+      },
+      "score": 21.4
+    }
+  ]
+}
