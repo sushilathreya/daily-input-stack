@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-17",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-11-17 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "a6e5f54ca79f58d7d0e421aa8a134e2b16cb54ed",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Tuesday, 17 November 2026",
+    "Issue 108",
+    "Own the frame before the category owns you."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 17 November 2026",
+  "gmail_message_id": "01a1e7c0-5383-7dfb-a1a1-519c269223aa",
+  "completed_at_ist": "2026-11-17 09:55:03 IST"
+}
