@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-19",
+  "displayDate": "Thursday, 19 November 2026",
+  "issueNumber": 110,
+  "title": "Be vaguely right before you become precisely wrong.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 5 of <em>Alchemy</em>, Rory Sutherland explains why satisficing can make better decisions than optimizing against an incomplete model of human value.",
+  "meta": {
+    "canon": "Rory Sutherland, <em>Alchemy</em>",
+    "study": "35-45 min",
+    "practice": "one satisficing decision audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A decision can be rationally tidy and practically wrong. Before optimizing, ask what the model leaves out and what a good-enough choice protects."
+  },
+  "canon": {
+    "author": "Rory Sutherland",
+    "work": "Alchemy",
+    "chapter": "Satisficing",
+    "chapterLabel": "Chapter 5, \"Satisficing\"",
+    "field": "human psychology / decision-making / behavioural economics",
+    "pageRange": "PDF pages 193-212; stop before Chapter 6, \"Psychophysics,\" which begins on PDF page 213.",
+    "pageCount": 20,
+    "stopPoint": "Stop at the end of PDF page 212. Do not continue into Chapter 6, \"Psychophysics,\" which begins on PDF page 213.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Alchemy - Rory Sutherland.pdf",
+      "driveUrl": "https://drive.google.com/file/d/1N3T4Qh1LHH6_Fibe-8WlW6COvwEiJyN4/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "native_text_pdf_with_outline_boundary_verification",
+        "tool": "local Alchemy PDF outline and page-object inspection",
+        "nativeTextPages": "The local PDF outline identifies Chapter 5, Satisficing, at PDF page 193 and Chapter 6, Psychophysics, at PDF page 213, yielding the complete 20-page Chapter 5 span on PDF pages 193-212.",
+        "tableOfContentsVerified": true,
+        "notes": "The VPS copy at /home/sushil/studying-the-masters/Books/Alchemy - Rory Sutherland.pdf was checked directly. Canon history records Chapters 1 through 4, so Chapter 5 is the next distinct non-repeated Alchemy chapter."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1N3T4Qh1LHH6_Fibe-8WlW6COvwEiJyN4/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Alchemy - Rory Sutherland.pdf\""
+    },
+    "heading": "Choose the useful answer before polishing the perfect one.",
+    "standfirst": "Read Chapter 5, \"Satisficing,\" from Rory Sutherland's <em>Alchemy</em> on PDF pages 193-212. Study how a good-enough decision can outperform optimization when the objective function misses context, meaning, or human limits.",
+    "readerIntro": "Read this chapter as a study of decisions under incomplete knowledge. Mark where Sutherland distinguishes a genuinely useful threshold from lazy compromise, what hidden value an optimizer may miss, and how people use brands, heuristics, or familiar choices to reduce uncertainty. Then audit one decision: define the minimum outcome that would make it good enough, the missing variable your current model ignores, and the point at which further optimization stops paying. Stop at PDF page 212.",
+    "blocks": [
+      {
+        "label": "01 / Find the threshold",
+        "paragraphs": [
+          "Satisficing is not surrendering standards; it is choosing a threshold that makes a decision usable under real constraints.",
+          "Mark the point where the chapter moves from abstract best-possible performance to a choice that works well enough in context."
+        ]
+      },
+      {
+        "label": "02 / Notice the missing variable",
+        "paragraphs": [
+          "Optimization depends on what the model can see. Notice which human, social, emotional, or contextual value a narrow calculation leaves out.",
+          "Ask whether the apparently irrational choice is protecting a benefit the spreadsheet does not measure."
+        ]
+      },
+      {
+        "label": "03 / Separate compromise from judgment",
+        "paragraphs": [
+          "A good-enough decision can be disciplined when it reflects uncertainty, attention limits, or the cost of searching further.",
+          "Underline the evidence that distinguishes a useful heuristic from an excuse to stop thinking."
+        ]
+      },
+      {
+        "label": "04 / Audit one decision",
+        "paragraphs": [
+          "Choose one product, process, or personal decision that is being optimized beyond its useful threshold.",
+          "Write the minimum acceptable outcome, the hidden value your current model misses, and the next point at which more refinement would no longer matter."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "Satisficing",
+      "vaguely right",
+      "precisely wrong",
+      "brands",
+      "the best is not always the least worst"
+    ],
+    "closeReading": [
+      "What threshold makes the decision good enough rather than merely convenient?",
+      "Which variable or form of value does a narrow optimization model leave out?",
+      "Where does the chapter distinguish a disciplined heuristic from a lazy compromise?",
+      "What familiar brand, rule, or shortcut helps people reduce uncertainty without comparing every option?",
+      "Choose one decision: what would be the minimum acceptable outcome, and when should further optimization stop?"
+    ]
+  },
+  "principle": {
+    "heading": "Optimize the decision that matters, not the metric that is easiest to measure.",
+    "body": "A useful choice sets a credible threshold, accounts for the value the model cannot see, and spends further effort only when the improvement will change the outcome.",
+    "exampleLabel": "One example",
+    "example": "A team choosing project software does not need the platform with the longest feature list. It may choose the tool that clears its adoption threshold, preserves the workflow people actually use, and leaves attention for the work itself.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Pick one decision you are over-optimizing. Write the outcome that would make it good enough, the unmeasured value your current scorecard misses, and the signal that tells you to stop searching."
+  },
+  "output": {
+    "heading": "Make the good-enough choice consciously.",
+    "body": "The aim is not lower standards. It is to recognize when a more precise answer would be less useful than a decision that fits the whole situation."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "collectedAt": "2026-11-19",
+    "heading": "Four current signals on choosing useful thresholds while the world gets noisier.",
+    "fieldNotes": [
+      {
+        "title": "Holiday shoppers want AI help, but not an unbounded handoff",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/holiday-shoppers-ai-discounts-save-hundreds/874309/",
+        "sourceDate": "2026-11-18",
+        "collectedAt": "2026-11-19",
+        "whatHappened": "A Retail Dive report on a survey of more than 1,000 U.S. adults found shoppers expect AI to save about $192 on holiday purchases and reduce shopping time, but 41% had abandoned a cart when a chatbot could not answer basic shipping or inventory questions. Only 18% would let an AI agent make a purchase above $500.",
+        "whyItMatters": "The useful threshold is not full automation. Shoppers want AI to handle comparison and search while the retailer remains accountable for live facts, clear limits, and the final consequential choice.",
+        "watch": "Watch whether commerce agents make the handoff from recommendation to human review explicit, especially when inventory, delivery, refunds, or higher prices are involved."
+      },
+      {
+        "title": "Home improvement retailers turn digital convenience into growth",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/home-depot-lowes-digital-sales-boost-q3-ecommerce/875054/",
+        "sourceDate": "2026-11-18",
+        "collectedAt": "2026-11-19",
+        "whatHappened": "Home Depot reported its sixth consecutive quarter of double-digit online comparable growth, with digital sales up about 13% year over year; Lowe's online sales rose 17.4%. The retailers cited improvements including AI-enabled search, broader assortment, faster checkout and delivery, and marketplace range.",
+        "whyItMatters": "The winning metric is not the presence of AI. It is whether a set of small improvements clears the customer's practical threshold: finding the right item, trusting availability, and getting it with less friction.",
+        "watch": "Watch which operational details sustain digital growth after the novelty of AI-enabled search fades, and whether speed and assortment improve the whole job rather than one click."
+      },
+      {
+        "title": "Brands are using human-made craft as a counter-signal to AI sameness",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/holiday-marketing-hits-inflection-point-in-2026-what-brands-need-to-know/874758/",
+        "sourceDate": "2026-11-17",
+        "collectedAt": "2026-11-19",
+        "whatHappened": "Marketing Dive reports that holiday marketers are balancing AI-assisted discovery with resistance to AI-generated marketing materials. Levi's used stop-motion claymation, requiring four hours of filming per second, while E.l.f. used stop-motion to reinforce its individuality platform.",
+        "whyItMatters": "In a market where output is abundant, visible effort can become part of the product's meaning. The labor is valuable only when it connects to a brand promise customers can recognize, not when it is merely expensive production.",
+        "watch": "Watch whether handcrafted execution improves memory, preference, or loyalty beyond campaign admiration, and whether the signal remains credible when every brand borrows the same nostalgia cue."
+      },
+      {
+        "title": "OpenAI measures progress at a jagged frontier rather than one score",
+        "source": "OpenAI",
+        "url": "https://openai.com/research/index/publication/",
+        "sourceDate": "2026-11-18",
+        "collectedAt": "2026-11-19",
+        "whatHappened": "OpenAI published Research acceleration: The jagged frontier, describing how coding agents are accelerating AI research while performance remains uneven across tasks. The framing focuses on where agents help, where they fail, and what that unevenness implies for recursive self-improvement.",
+        "whyItMatters": "A capability label is too coarse for a real decision. Teams need a task-level threshold: where the agent is dependable enough to delegate, where verification remains mandatory, and where a headline improvement does not change the workflow.",
+        "watch": "Watch whether evaluations become specific enough to guide delegation and review, rather than turning uneven capability into a single reassuring benchmark number."
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-11-19",
+        "sourceDate": "2026-11-19",
+        "feed": "following",
+        "author": "signüll",
+        "handle": "signulll",
+        "title": "A product fragment on turning capability into behavior",
+        "summary": "This fragment is useful because it names the behavioral question behind a new capability. The important test is not whether the feature is impressive, but whether it changes a repeated workflow enough for the user to adopt it.",
+        "text": "the year is 2082. my children and grandchildren are gathered around a new kind of fire. no one knows how it works. it was invented by ai.\n\n\"grandpa, what was life like before super intelligence?\"\n\nwell kids back in 2026 something absolutely extraoridinary was happening. humanity was on the verge of creating intelligence greater than anything that had ever existed before.\n\none of the leading companies in this revolution decided to go public at the time. the venture capitalists were all eagerly awaiting liquidity.\n\ni knew the company rather well. i understood most of the technology, the business model, the landscape, & the implications of what they were building. & what those would mean for society. i read the s1 cover to cover. i believed the company would fundamentally alter the trajectory of the human civilization.\n\n\"so you invested, grandpa?\"\n\nno.\n\nyou see kids, the valuation was a tad too rich for me. while i liked the business, i did not like the multiple.\n\n\"what happened next?\"\n\nwell, they went on to create recursive super intelligence that cured every disease, solved nuclear fusion, colonized three planets, discovered new laws of physics, and even figured out how to make french ppl happy.\n\nthe stock went up 40,000%.\n\n\"but grandpa, surely you bought some along the way right?\"\n\nwell, no. i was waiting for an inevitable pullback.\n\n\"did it ever come?\"\n\nyes in 2047, shares did decline by 12% on disappointing quarterly guidance. unfortunately by then, they were up nearly 28,000%.\n\n\"so that's why our neighbors own their own planet & we live in a rented government provided apartment?\"\n\nyes.\n\n\"but grandpa, you knew they were going to change civilization right?\"\n\ni did but at 80 times forward revenue, a lot of that i thought was priced in.\n\nanyway the important lesson here kids is that i was right about the fundamentals. that's why none of you have generational wealth. but at least your grandfather never overpaid for a stock.\n\noh sorry kids the ai running our household has informed me that this conversation has exceeded our family's intelligence allowance.",
+        "url": "https://x.com/signulll/status/2123234800014401588"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
