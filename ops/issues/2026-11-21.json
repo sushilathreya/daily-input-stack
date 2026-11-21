@@ -1,0 +1,157 @@
+{
+  "date": "2026-11-21",
+  "displayDate": "Saturday, 21 November 2026",
+  "issueNumber": 112,
+  "title": "Make advertising work beyond the moment of exposure.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 9 of <em>How Brands Grow</em>, Byron Sharp examines how brand advertising can build mental availability and influence future buying rather than being judged only by immediate sales response.",
+  "meta": {
+    "canon": "Byron Sharp, <em>How Brands Grow</em>",
+    "study": "35-45 min",
+    "practice": "one advertising-memory audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "An ad can do valuable work before the buyer is ready to buy. Judge the memory structure it builds, not only the response it produces in the moment."
+  },
+  "canon": {
+    "author": "Byron Sharp",
+    "work": "How Brands Grow",
+    "chapter": "The sales response to brand advertising",
+    "chapterLabel": "Chapter 9, \"The sales response to brand advertising\"",
+    "field": "advertising effectiveness / mental availability / brand growth",
+    "pageRange": "PDF pages 183-201; begin at Chapter 9, \"The sales response to brand advertising,\" and stop before Chapter 10, \"How advertising and price promotions cause sales in different ways,\" which begins on PDF page 202.",
+    "pageCount": 19,
+    "stopPoint": "Stop at the end of PDF page 201. Do not continue into Chapter 10, \"How advertising and price promotions cause sales in different ways,\" which begins on PDF page 202.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/How Brands Grow - Byron Sharp.pdf",
+      "driveUrl": "https://drive.google.com/file/d/1v-1gh4_y8s4yauwnVTEpphSBhpEBbBJE/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "scanned_image_pdf_with_outline_and_page_object_boundary_verification",
+        "tool": "local PDF outline and page-object inspection",
+        "nativeTextPages": "The local PDF outline identifies Chapter 9 at page object 1017 and Chapter 10 at page object 1116. The verified local page mapping places these boundaries at PDF pages 183 and 202, yielding the complete 19-page Chapter 9 span on PDF pages 183-201.",
+        "tableOfContentsVerified": true,
+        "notes": "The VPS copy at /home/sushil/studying-the-masters/Books/How Brands Grow - Byron Sharp.pdf was checked directly. Canon history records Chapter 8 on 2026-11-20, so Chapter 9 is the next distinct non-repeated reading."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1v-1gh4_y8s4yauwnVTEpphSBhpEBbBJE/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/How Brands Grow - Byron Sharp.pdf\""
+    },
+    "heading": "Build memory before the buying moment arrives.",
+    "standfirst": "Read Chapter 9, \"The sales response to brand advertising,\" from Byron Sharp's <em>How Brands Grow</em> on PDF pages 183-201. Study how advertising can create future availability and choice without being reduced to an immediate-response mechanism.",
+    "readerIntro": "Read this chapter as a test of what advertising is for. Mark how Sharp separates short-term sales effects from the longer work of building mental availability, how memory and retrieval connect to later buying situations, and where an apparently weak immediate response may still matter. Then audit one advertisement: name the buying situation it should be remembered in, the cue that carries the brand, and the evidence you would use to judge whether the memory is being built. Stop at PDF page 201.",
+    "blocks": [
+      {
+        "label": "01 / Separate response from memory",
+        "paragraphs": [
+          "An advertisement may influence future choice without producing a visible purchase at the moment it is seen.",
+          "Mark where the chapter distinguishes immediate sales response from the longer-term work of making a brand easier to retrieve."
+        ]
+      },
+      {
+        "label": "02 / Find the buying situation",
+        "paragraphs": [
+          "Mental availability matters when a buyer enters a category and a brand is among the options that come to mind.",
+          "Notice which cues connect the brand to the occasions, needs, or category entry points in which it can be chosen."
+        ]
+      },
+      {
+        "label": "03 / Judge the mechanism",
+        "paragraphs": [
+          "Do not ask only whether an ad caused an immediate action; ask what association, familiarity, or retrieval structure it may have strengthened.",
+          "Underline the evidence Sharp uses to challenge a narrow account of advertising effectiveness."
+        ]
+      },
+      {
+        "label": "04 / Audit one advertisement",
+        "paragraphs": [
+          "Choose one advertisement and name the future buying situation in which it should help the brand enter the buyer's consideration set.",
+          "Write the cue that carries the brand, the memory it is trying to build, and one measure that would test whether the association is becoming easier to retrieve."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "The sales response to brand advertising",
+      "mental availability",
+      "memory",
+      "brand advertising",
+      "future buying"
+    ],
+    "closeReading": [
+      "What does Sharp say an advertisement can accomplish when it does not produce an immediate purchase?",
+      "How does mental availability connect advertising exposure to a later buying situation?",
+      "Which cue or association makes the brand easier to retrieve in the category?",
+      "What evidence would distinguish a weak short-term response from a failure to build useful memory?",
+      "Choose one advertisement: what future buying situation should it enter, and how would you test whether it is becoming easier to remember?"
+    ]
+  },
+  "principle": {
+    "heading": "Measure the memory that makes a later choice possible.",
+    "body": "Advertising earns its place when it builds a recognizable, retrievable association that can enter the buyer's mind before the next purchase—not only when it captures an immediate click or sale.",
+    "exampleLabel": "One example",
+    "example": "A household brand may not convert every viewer today, but a consistent distinctive cue can make it easier to recall when the buyer later encounters the need, shelf, search result, or recommendation that opens the category.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Pick one advertisement and write the category entry point it should own, the memory cue that links it to the brand, and the leading indicator you would monitor before sales appear."
+  },
+  "output": {
+    "heading": "Make the next buying moment easier to enter.",
+    "body": "The aim is not to dismiss immediate response, but to see the wider job: advertising should leave a useful memory behind that can work when the buyer is ready."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "collectedAt": "2026-11-21",
+    "heading": "Three current signals about making memory travel across media, products, and platforms.",
+    "fieldNotes": [
+      {
+        "title": "Disney is turning holiday reach into a connected path to action",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/how-disney-helps-brands-interact-and-transact-with-holiday-audiences/875042/",
+        "sourceDate": "2026-11-19",
+        "collectedAt": "2026-11-21",
+        "whatHappened": "Disney's holiday advertising bookings across streaming and linear are pacing 20% ahead of the same point last year. Its StorySync approach joins sponsorships, in-show integrations, custom content, social and influencer work, commerce, experiential activity, and halo enhancements, with new shoppable activations being added.",
+        "whyItMatters": "The campaign is designed to leave more than an impression: a shared cultural moment, a repeated brand cue, and a route to transaction reinforce one another across contexts. The useful memory may be built by the sequence, not by any single ad unit.",
+        "watch": "Whether the added commerce layer preserves the emotional and cultural association that earns attention, or makes the experience feel like a series of disconnected conversion prompts."
+      },
+      {
+        "title": "Meta pauses a crawler policy change to rebuild publisher trust",
+        "source": "Meta Newsroom",
+        "url": "https://about.fb.com/news/2026/11/our-approach-to-updating-our-commercial-terms-of-service/",
+        "sourceDate": "2026-11-18",
+        "collectedAt": "2026-11-21",
+        "whatHappened": "Meta said it put proposed commercial terms updates on hold after concerns from news publishers and other stakeholders about how the changes would apply to web crawlers. It outlined a phased process of listening, revising the language, and consulting again before a possible early-2027 rollout.",
+        "whyItMatters": "A platform's future value proposition depends partly on whether other participants can predict and trust its rules. The pause is a reminder that durable distribution is also a memory problem: partners remember how a platform handled uncertainty.",
+        "watch": "Whether the eventual terms make the distinction between crawler access, publisher value, and product experimentation legible enough for partners to act with confidence."
+      },
+      {
+        "title": "Google makes generative play easier to revisit and share",
+        "source": "Google",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+        "sourceDate": "2026-11-18",
+        "collectedAt": "2026-11-21",
+        "whatHappened": "Google said Genie 4 is rolling out in Project Genie for eligible Google AI Ultra subscribers, with natural-language editing of environments, native audio, longer sessions, and a community gallery for sharing creations.",
+        "whyItMatters": "The product is not asking users to remember only a model name. It is attaching the capability to a repeatable creative loop—make a world, change it in real time, add sound, and share it—so the behavior becomes the retrieval cue.",
+        "watch": "Whether the gallery and longer sessions create a durable habit, or whether the novelty of generation fades before the product owns a clear creative job."
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-11-21",
+        "sourceDate": "2026-11-21",
+        "feed": "for_you",
+        "author": "signüll",
+        "handle": "signulll",
+        "title": "A market fragment on earning attention through a sharper frame",
+        "summary": "This is worth carrying into the work because it connects message, market, and distribution. A fragment clears the bar when it gives you a reusable way to see why attention moves.",
+        "text": "here is a pro tip for those of you that are trying to be better story tellers. & it's completely free.\n\nyou see most ppl create stories in isolation. this is a mistake. cuz you are treating every thing as a standalone entity if you will.\n\neverything you create should be in service of a singular larger unfolding narrative.\n\ne.g. a post from a year ago is not dead, it's just chapter 43 in a larger context. it's a story you can revisit, build upon, challenge, or extend in a meaningful way.\n\nthis is what makes story telling platforms so powerful. imagine you're assigned a potentially large task, what do you do? well you break it into smaller parts, & then build the large part up over time. it's the same principle here. this also works in interviews or any other setting.\n\nyour entire existence should be one unfolding narrative. this is also true for marketing & brands. most if not all of the chief communications officers miss this as well (even though they get paid c suite dollars & you're a lowbie). most important rule is that you should think macro, execute micro.\n\nsome ppl might read it & find this to be obvious (& it's usually the very IQ ppl who think they know everything) but there are like maybe a handful of ppl that actually execute on this well on the planet.",
+        "url": "https://x.com/signulll/status/2123923352993587692"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
