@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-21",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-11-21 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "bebb787b042b69bd89aedb6e3932955589f1ea78",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Saturday, 21 November 2026",
+    "Issue 112",
+    "Make advertising work beyond the moment of exposure."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 21 November 2026",
+  "gmail_message_id": "01a1fc59-c40b-74e7-b2a7-0b3c4592e0d7",
+  "completed_at_ist": "2026-11-21 09:55:03 IST"
+}
