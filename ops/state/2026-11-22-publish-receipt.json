@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-22",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-11-22 12:00:00 IST",
+  "local_verified": true,
+  "git_commit": "084f8b23c4cd7f0a8761893b1ffcf8eed29304fd",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Sunday, 22 November 2026",
+    "Issue 113",
+    "Measure the human meaning your model leaves out."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - Sunday - 22 November 2026",
+  "gmail_message_id": "01a201ed-ff3e-71bc-9f03-ee6274b2992b",
+  "completed_at_ist": "2026-11-22 11:55:04 IST"
+}
