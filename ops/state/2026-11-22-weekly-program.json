@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-22",
+  "week_start": "2026-11-23",
+  "week_end": "2026-11-29",
+  "status": "planned",
+  "theme": "From perception to action: how human signals become persuasion, stories, positions, products, growth, and copy",
+  "days": [
+    {
+      "date": "2026-11-23",
+      "master": "Robert B. Cialdini",
+      "work": "Influence: The Psychology of Persuasion",
+      "chapter_or_section": "Unity: The Principle of Unity — bounded reading of the chapter's opening argument and examples",
+      "fundamental": "People are more readily influenced when a request is framed through a shared identity or sense of belonging.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Influence - Robert Cialdini.pdf",
+      "drive_link": "https://drive.google.com/file/d/1sTpikK8Y7ebUBiSRRkiZoBcbNSh4Dk_Y/view?usp=drivesdk",
+      "fallback_acquire_note": ""
+    },
+    {
+      "date": "2026-11-24",
+      "master": "Robert McKee",
+      "work": "Story: Substance, Structure, Style, and the Principles of Screenwriting",
+      "chapter_or_section": "The Crisis — read the chapter's opening section through the first worked examples; stop before the next chapter",
+      "fundamental": "A crisis forces the protagonist into a decisive choice that reveals character and turns story pressure into action.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Robert McKee - Story .pdf",
+      "drive_link": "https://drive.google.com/file/d/1B1FBVTR0Z2YvQYJ7zoEOgmEI-q8GHetu/view?usp=drivesdk",
+      "fallback_acquire_note": ""
+    },
+    {
+      "date": "2026-11-25",
+      "master": "Al Ries and Jack Trout",
+      "work": "Positioning: The Battle for Your Mind",
+      "chapter_or_section": "Positioning a Product: Milk Duds — read the complete bounded chapter",
+      "fundamental": "A product wins when it occupies a simple, defensible mental position against the alternatives already in the prospect's mind.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Positioning - Al Ries and Jack Trout.pdf",
+      "drive_link": "https://drive.google.com/file/d/1fISuTXG4QmxQ6MrFaI3wxE6eR6EoEh-p/view?usp=drivesdk",
+      "fallback_acquire_note": ""
+    },
+    {
+      "date": "2026-11-26",
+      "master": "Rory Sutherland",
+      "work": "Alchemy",
+      "chapter_or_section": "The Power of Context — bounded reading of the chapter's opening section and core examples",
+      "fundamental": "The context surrounding an offer changes its perceived value, so behavior can shift without changing the underlying object.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Alchemy - Rory Sutherland.pdf",
+      "drive_link": "https://drive.google.com/file/d/1N3T4Qh1LHH6_Fibe-8WlW6COvwEiJyN4/view?usp=drivesdk",
+      "fallback_acquire_note": ""
+    },
+    {
+      "date": "2026-11-27",
+      "master": "Clayton M. Christensen",
+      "work": "The Innovator's Dilemma",
+      "chapter_or_section": "The Technology Progress Paradox — bounded section on why improvement can outrun customer needs",
+      "fundamental": "Sustaining improvement can overshoot what mainstream customers value, opening room for simpler disruptive solutions.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/The Innovator’s Dilemma - Clayton Christensen.pdf",
+      "drive_link": "https://drive.google.com/file/d/1X5-ZodswFwiIg2uFtgLMZNHzmJqCtu8w/view?usp=drivesdk",
+      "fallback_acquire_note": ""
+    },
+    {
+      "date": "2026-11-28",
+      "master": "Sean Ellis and Morgan Brown",
+      "work": "Hacking Growth",
+      "chapter_or_section": "Chapter Two: Determining If Your Product Is Must-Have — bounded reading through the product-market fit survey and interpretation",
+      "fundamental": "Growth becomes durable when a meaningful share of users would be genuinely very disappointed to lose the product.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Hacking Growth.epub",
+      "drive_link": "https://drive.google.com/file/d/1wtU-SZ-6s0zCpw7s_M1XVrGJaLE6m8Mk/view?usp=drivesdk",
+      "fallback_acquire_note": ""
+    },
+    {
+      "date": "2026-11-29",
+      "master": "John Caples",
+      "work": "Tested Advertising Methods",
+      "chapter_or_section": "The Use of Pictures — bounded section on when visual treatment strengthens the selling idea",
+      "fundamental": "Visuals earn their place when they clarify, dramatize, or intensify the promise rather than merely decorate the message.",
+      "local_source_available": true,
+      "source_path": "/home/sushil/studying-the-masters/Books/Tested Advertising Methods.pdf",
+      "drive_link": "https://drive.google.com/file/d/16fm09bdOkdiH8MZwoTKFnOXV16fJcZOZ/view?usp=drivesdk",
+      "fallback_acquire_note": ""
+    }
+  ],
+  "created_at_ist": "2026-11-22T18:01:04+05:30",
+  "created_by": "weekly-program-agent"
+}
