@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-24",
+  "displayDate": "Tuesday, 24 November 2026",
+  "issueNumber": 115,
+  "title": "Make the decisive choice reveal the character.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In the opening section of Chapter 18 of <em>Story</em>, Robert McKee shows how a crisis turns accumulating pressure into a choice that reveals character and changes the direction of the story.",
+  "meta": {
+    "canon": "Robert McKee, <em>Story: Substance, Structure, Style, and the Principles of Screenwriting</em>",
+    "study": "35-45 min",
+    "practice": "one crisis map"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A crisis is not just a louder obstacle. It is the point where pressure removes the easy options and makes a choice disclose what the protagonist values."
+  },
+  "canon": {
+    "author": "Robert McKee",
+    "work": "Story: Substance, Structure, Style, and the Principles of Screenwriting",
+    "chapter": "The Crisis",
+    "chapterLabel": "Chapter 18, \"The Crisis\" (opening section through the first worked examples)",
+    "field": "storytelling / narrative design / decision-making / character",
+    "pageRange": "Opening section of Chapter 18 on PDF pages 409-428 in the local scanned edition; begin at the Chapter 18 opener on PDF page 409 and stop at the end of PDF page 428, before the next chapter.",
+    "pageCount": 20,
+    "stopPoint": "Stop at the end of PDF page 428, after the chapter's opening section and first worked examples. Do not continue into the next chapter or later material.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_scanned_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Robert McKee - Story .pdf",
+      "driveUrl": "https://drive.google.com/file/d/1B1FBVTR0Z2YvQYJ7zoEOgmEI-q8GHetu/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "scanned_pdf_with_page_tree_and_rendered_page_boundary_verification",
+        "tool": "local PDF page-tree inspection and rendered-page boundary verification",
+        "nativeTextPages": "The local McKee PDF is image-only. The established rendered page sequence places Chapter 17, The Principle of Antagonism, on PDF pages 389-408 and Chapter 18, The Crisis, opening on PDF page 409. The bounded opening section runs through PDF page 428.",
+        "tableOfContentsVerified": true,
+        "notes": "The VPS copy was checked directly. Canon history records McKee through Chapter 17, The Principle of Antagonism, on 2026-11-10; Chapter 18 is the next distinct non-repeated McKee reading."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1B1FBVTR0Z2YvQYJ7zoEOgmEI-q8GHetu/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Robert McKee - Story .pdf\""
+    },
+    "heading": "Let pressure make the choice unavoidable.",
+    "standfirst": "Read the opening section of Chapter 18, \"The Crisis,\" from Robert McKee's <em>Story</em> on PDF pages 409-428. Study how a crisis concentrates desire, opposition, and consequence into a choice that reveals character, then stop at PDF page 428.",
+    "readerIntro": "Read this section as a study of decision under pressure. Mark the desire that drives the protagonist, the forces that make the available options costly, and the choice that changes the story's direction. Then map one narrative, offer, or customer decision: name the pressure, the options, the decisive choice, and the consequence. Stop at PDF page 428.",
+    "blocks": [
+      {
+        "label": "01 / Locate the pressure",
+        "paragraphs": [
+          "A crisis gathers the forces that have been building and makes them impossible to ignore.",
+          "Name the desire, opposition, and cost that narrow the protagonist's room to act."
+        ]
+      },
+      {
+        "label": "02 / Separate obstacle from choice",
+        "paragraphs": [
+          "A difficult event is not yet a crisis. The crisis arrives when the protagonist must choose among consequential paths.",
+          "Mark what each option protects, sacrifices, or makes newly possible."
+        ]
+      },
+      {
+        "label": "03 / Read character through action",
+        "paragraphs": [
+          "The pressured choice reveals priorities more clearly than explanation or self-description.",
+          "Notice which value the action makes visible and what consequence the protagonist accepts."
+        ]
+      },
+      {
+        "label": "04 / Map one live decision",
+        "paragraphs": [
+          "Choose one story, pitch, or customer decision. Write the pressure, available options, decisive choice, and resulting change in four lines.",
+          "Strengthen the consequence until the choice teaches the audience something that an easy resolution could not reveal."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "The Crisis",
+      "crisis",
+      "choice",
+      "desire",
+      "consequence",
+      "character"
+    ],
+    "closeReading": [
+      "What makes the chapter's crisis more than a difficult event or a louder obstacle?",
+      "Which forces make the available choices costly rather than merely different?",
+      "What does the protagonist's decisive action reveal that their stated identity does not?",
+      "How do the first worked examples show pressure changing the direction of the story?",
+      "Map one customer or brand narrative: what is the pressure, what are the options, and what consequence makes the choice meaningful?"
+    ]
+  },
+  "principle": {
+    "heading": "Use pressure to make values visible.",
+    "body": "A crisis concentrates desire and opposition until the protagonist must choose. The choice matters because its cost turns an abstract value into visible action.",
+    "exampleLabel": "One example",
+    "example": "A product story becomes more persuasive when the customer must choose between preserving a familiar workflow and accepting a new constraint that unlocks a more important outcome.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one story, offer, or product decision. Write the desire, the opposing pressure, the two or three costly options, the choice, and the consequence. Remove any option that carries no real tradeoff."
+  },
+  "output": {
+    "heading": "Make the choice carry the meaning.",
+    "body": "Do not add pressure for its own sake. Build the decision until the action reveals what matters, changes the situation, and leaves a consequence the audience can feel."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "fieldNotes": [
+      {
+        "title": "Nvidia's board makes a high-cost reversal",
+        "source": "AP News",
+        "url": "https://apnews.com/article/39d4b34ffaa867b4e669893b5fd5028f",
+        "sourceDate": "2026-11-23",
+        "collectedAt": "2026-11-24",
+        "whatHappened": "Nvidia's board reinstated Jensen Huang as CEO days after rejecting his offer to return, following a volatile month for the company and its leadership.",
+        "whyItMatters": "The reversal is a live example of a crisis turning institutional pressure into a consequential choice: the action reveals which continuity, authority, and perceived upside the board values most.",
+        "watch": "Watch whether the reinstatement changes Nvidia's operating decisions and investor narrative, rather than only settling the immediate leadership drama."
+      },
+      {
+        "title": "Cyber Week puts agents inside the shopping decision",
+        "source": "Salesforce",
+        "url": "https://www.salesforce.com/news/stories/cyber-week-ai-sales-2026/",
+        "sourceDate": "2026-11-19",
+        "collectedAt": "2026-11-24",
+        "whatHappened": "Salesforce forecasts $357 billion in global online Cyber Week sales, with $75.8 billion influenced by AI and agents; it says AI-driven traffic to retailer sites is up 104% year over year.",
+        "whyItMatters": "The important shift is not just another shopping forecast: a recommendation agent can become the pressure that narrows a shopper's options and changes which merchant gets chosen.",
+        "watch": "Watch whether agent-influenced orders produce durable repeat behavior or only larger baskets during a promotion-heavy week."
+      },
+      {
+        "title": "OpenAI ships a sharper choice in the chat tab",
+        "source": "OpenAI Help Center",
+        "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+        "sourceDate": "2026-11-23",
+        "collectedAt": "2026-11-24",
+        "whatHappened": "OpenAI says GPT-6.2 is rolling out in ChatGPT's chat tab with stronger instruction following, image understanding, and follow-up behavior for Plus, Pro, Business, and Enterprise tiers.",
+        "whyItMatters": "A model release becomes a product story when it changes the user's available action: better follow-up and trade-off handling can move ChatGPT from answering a question to helping make the decision.",
+        "watch": "Watch for evidence that users delegate more consequential choices, not merely that benchmark or image-understanding scores improve."
+      },
+      {
+        "title": "Google frames Gemini around end-to-end work",
+        "source": "Google DeepMind",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+        "sourceDate": "2026-11-18",
+        "collectedAt": "2026-11-24",
+        "whatHappened": "Google introduced Gemini 4 Neon with a positioning centered on fast end-to-end task completion across software engineering, knowledge work, and science workflows; the post was updated November 23.",
+        "whyItMatters": "The promise is a choice about workflow, not a feature checklist: the user is asked to trade some control for a system that carries more of the task through to completion.",
+        "watch": "Watch where teams accept that tradeoff in practice, and where the cost of review or correction keeps the old workflow in place."
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-11-24",
+        "sourceDate": "2026-11-23",
+        "feed": "for_you",
+        "author": "Orange Book 🍊📖",
+        "handle": "orangebook",
+        "title": "A product fragment on turning capability into behavior",
+        "summary": "This fragment is useful because it names the behavioral question behind a new capability. The important test is not whether the feature is impressive, but whether it changes a repeated workflow enough for the user to adopt it.",
+        "text": "It would be quite the irony if AI makes most people dumber and unable to think by themselves, the same way social media made most people lonelier, and the same way a safer and better society made most people physically and mentally weaker.",
+        "url": "https://x.com/orangebook/status/2124741584348684759"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
