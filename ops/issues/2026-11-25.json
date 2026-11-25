@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-25",
+  "displayDate": "Wednesday, 25 November 2026",
+  "issueNumber": 116,
+  "title": "Position the service around the choice it makes easier.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 18 of <em>Positioning</em>, Al Ries and Jack Trout show how a service can become easier to choose when its position is attached to a clear customer situation and a memorable alternative.",
+  "meta": {
+    "canon": "Al Ries and Jack Trout, <em>Positioning: The Battle for Your Mind</em>",
+    "study": "30-40 min",
+    "practice": "one service position audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A service becomes memorable when its promise helps the buyer make one important comparison quickly. Position the service around the decision it clarifies, not around a catalogue of capabilities."
+  },
+  "canon": {
+    "author": "Al Ries and Jack Trout",
+    "work": "Positioning: The Battle for Your Mind",
+    "chapter": "Positioning a Service: Mailgram",
+    "chapterLabel": "Chapter 18, \"Positioning a Service: Mailgram\"",
+    "field": "brand strategy / service positioning / category design",
+    "pageRange": "PDF pages 262-276 in the local edition; begin at Chapter 18, \"Positioning a Service: Mailgram,\" on PDF page 262 and stop before Chapter 19 begins on PDF page 277.",
+    "pageCount": 15,
+    "stopPoint": "Stop at the end of PDF page 276, before Chapter 19, \"Positioning a Long Island Bank,\" begins on PDF page 277.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Positioning - Al Ries and Jack Trout.pdf",
+      "driveUrl": "https://drive.google.com/file/d/1fISuTXG4QmxQ6MrFaI3wxE6eR6EoEh-p/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "native_text_pdf_with_outline_boundary_verification",
+        "tool": "local Positioning PDF outline and page-object inspection",
+        "nativeTextPages": "The local PDF outline maps Chapter 18, Positioning a Service: Mailgram, to PDF page 262 and Chapter 19, Positioning a Long Island Bank, to PDF page 277. The complete Chapter 18 span is therefore PDF pages 262-276.",
+        "tableOfContentsVerified": true,
+        "notes": "The VPS copy at /home/sushil/studying-the-masters/Books/Positioning - Al Ries and Jack Trout.pdf was checked directly. Canon history records Chapter 17 on 2026-11-23; Chapter 18 is the next distinct non-repeated chapter."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1fISuTXG4QmxQ6MrFaI3wxE6eR6EoEh-p/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Positioning - Al Ries and Jack Trout.pdf\""
+    },
+    "heading": "Make the service easier to choose.",
+    "standfirst": "Read Chapter 18, \"Positioning a Service: Mailgram,\" from Al Ries and Jack Trout's <em>Positioning</em> on PDF pages 262-276. Study how a service earns a memorable position by changing the comparison and clarifying the choice, then stop before Chapter 19.",
+    "readerIntro": "Read this chapter as a study of service positioning. Mark the customer situation the service makes legible, the alternative it is compared against, and the simple association that helps the buyer decide. Then audit one service: name the choice it should make easier, the comparison it should own, and the proof that supports the position. Stop at PDF page 276.",
+    "blocks": [
+      {
+        "label": "01 / Find the customer situation",
+        "paragraphs": [
+          "Start with the decision or problem that makes the service relevant.",
+          "Mark how the chapter turns a broad service description into a specific situation in the buyer's mind."
+        ]
+      },
+      {
+        "label": "02 / Study the comparison",
+        "paragraphs": [
+          "A service position becomes useful when it changes what the buyer compares.",
+          "Notice which alternative the service makes less attractive and why that comparison is memorable."
+        ]
+      },
+      {
+        "label": "03 / Reduce the promise",
+        "paragraphs": [
+          "The strongest service position is usually narrower than the service's full capability set.",
+          "Separate the association that earns recall from the features that merely describe delivery."
+        ]
+      },
+      {
+        "label": "04 / Run one service position audit",
+        "paragraphs": [
+          "Choose one service and write the choice it should make easier for a specific buyer.",
+          "Then name the competing frame, the association to own, and the evidence that makes the position credible."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "Positioning a Service: Mailgram",
+      "service",
+      "comparison",
+      "association",
+      "the mind"
+    ],
+    "closeReading": [
+      "What customer situation gives the service its clearest relevance?",
+      "Which alternative or comparison does the chapter make easier to understand?",
+      "What single association makes the service more memorable than a list of capabilities?",
+      "Where does the chapter show that positioning changes the frame of choice rather than only the wording of the message?",
+      "Choose one service: what decision should it make easier, and what proof would make that position believable?"
+    ]
+  },
+  "principle": {
+    "heading": "Position the service around the decision it clarifies.",
+    "body": "A service earns a useful position when it helps a buyer understand one important choice faster than the alternatives do. The position should organize the comparison before the feature list begins.",
+    "exampleLabel": "One example",
+    "example": "A bookkeeping service can stop presenting itself as a bundle of reports and instead own the position of the weekly cash-clarity service for owners who need to know what they can safely commit to.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one service. Write the customer decision it should make easier, the alternative currently shaping the comparison, the one association you want the buyer to remember, and the proof that supports it. Remove claims that do not strengthen that position."
+  },
+  "output": {
+    "heading": "Make the comparison do the selling.",
+    "body": "Do not describe every capability equally. Give the service one clear situation, one useful comparison, and one defensible association that makes the next choice easier."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "fieldNotes": [
+      {
+        "title": "Heritage alone is no longer closing the sale",
+        "source": "Campaign Asia",
+        "url": "https://www.campaignasia.com/News",
+        "sourceDate": "2026-11-24",
+        "whatHappened": "Campaign Asia's Nov. 24 top story argues that global brands are testing the limits of heritage: Nike has dropped out of the S&P 100, Gucci is in its third year of falling sales, and Puma has posted a loss. Brand strategists are examining what Starbucks and Adidas are doing differently.",
+        "whyItMatters": "The useful position is not 'we use AI' but the particular shopping decision AI helps with, while the brand earns memorability through a credible human distinction. Utility and association are doing different jobs.",
+        "watch": "Watch whether heritage brands can attach their history to a current customer choice, rather than treating recognition itself as a sufficient reason to buy.",
+        "collectedAt": "2026-11-25"
+      },
+      {
+        "title": "Black Friday is becoming a season-long comparison problem",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/black-friday-cyber-monday-shopping-projected-to-slip/875473/",
+        "sourceDate": "2026-11-23",
+        "whatHappened": "Retail Dive reports that 182.7 million consumers are expected to shop over Thanksgiving weekend, down more than 2% year over year, while 60% had already begun holiday shopping by early November. The report also says 59% plan to use AI for shopping tasks such as recommendations, gift ideas, budgeting, and comparison shopping.",
+        "whyItMatters": "When offers arrive early and shoppers compare across retailers with software, a retailer needs a sharper reason to be chosen than simply having a sale. The service position shifts toward the decision it makes easier: value, convenience, confidence, or experience.",
+        "watch": "Watch which retailers can turn an extended promotion calendar into a simple, memorable shopping promise instead of making customers perform the comparison themselves.",
+        "collectedAt": "2026-11-25"
+      },
+      {
+        "title": "Gemini is being positioned as an agent that completes desktop work",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+        "sourceDate": "2026-11-19",
+        "whatHappened": "TechCrunch reports that Gemini's Mac app can navigate native apps and websites to complete multistep tasks, with a live preview and user controls to pause, stop, or approve actions. Google frames the feature around tedious work such as filling forms and organizing files.",
+        "whyItMatters": "The product is being positioned around moments of reduced effort rather than around model capability. That makes the comparison legible: the phone that completes a small task versus the phone that merely exposes another feature list.",
+        "watch": "Watch whether users remember 'computer use' as a category or simply as a reliable answer to a repeated desktop situation.",
+        "collectedAt": "2026-11-25"
+      },
+      {
+        "title": "AI products are racing to own a concrete job",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/",
+        "sourceDate": "2026-11-24",
+        "whatHappened": "TechCrunch's November coverage shows AI products clustering around specific jobs rather than one undifferentiated assistant pitch, including agents for coding changes, commerce, desktop work, and market predictions.",
+        "whyItMatters": "The strategic move is a position before it is a feature: own a situation with a full workflow, then let the capabilities support the association. A narrow category can make a new service easier to compare and remember.",
+        "watch": "Watch whether specialized assistants win through better completion of one journey or get pulled back into the generic-assistant comparison as their feature set expands.",
+        "collectedAt": "2026-11-25"
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-11-25",
+        "sourceDate": "2026-11-25",
+        "feed": "for_you",
+        "author": "signüll",
+        "handle": "signulll",
+        "title": "A product fragment on turning capability into behavior",
+        "summary": "This fragment is useful because it names the behavioral question behind a new capability. The important test is not whether the feature is impressive, but whether it changes a repeated workflow enough for the user to adopt it.",
+        "text": "okay this is pretty incredible.\n\nthe second leading ai company fell slightly behind on coding & enterprise (& their product got very complicated to use) so they recruited & probably heavily paid at least three prominent public facing ppl from the competing product that was made by the number one leading ai company: the person who was leading product, the person who made the desktop app, & the person who promoted it & evangelized it all heavily on x. those are the only ones that we know about. this will be interesting now that the leading ai co is public too.\n\nreminds of steve cohen of the new york mets, pays proven stars like crazy but has yet to win a championship. he just signed a pitcher to $400 million deal & pays another outfielder $750 million. it’ll be interesting to see how experience translates to execution as part of an entirely new culture. i love this because the most interesting question is: can you simply buy culture??\n\nalso i have a new rule on my account, i do not mention any company names or ppl names (that are not obvious public figures), occasionally only product names… there will obviously be exceptions.",
+        "url": "https://x.com/signulll/status/2125386891771994132"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
