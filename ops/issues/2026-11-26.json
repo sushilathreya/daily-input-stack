@@ -1,0 +1,158 @@
+{
+  "date": "2026-11-26",
+  "displayDate": "Thursday, 26 November 2026",
+  "issueNumber": 117,
+  "title": "Change the context before you change the thing.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 7 of <em>Alchemy</em>, Rory Sutherland shows how context, framing, and small changes in choice architecture can alter perceived value without changing the underlying object.",
+  "meta": {
+    "canon": "Rory Sutherland, <em>Alchemy</em>",
+    "study": "35-45 min",
+    "practice": "one context-and-value audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "When an offer is not moving, inspect the surrounding context before adding more features. Meaning, choice, and expectation can change value without changing the object itself."
+  },
+  "canon": {
+    "author": "Rory Sutherland",
+    "work": "Alchemy",
+    "chapter": "How to Be an Alchemist",
+    "chapterLabel": "Chapter 7, \"How to Be an Alchemist\" (opening section and core examples)",
+    "field": "human behaviour / perception / value creation / choice architecture",
+    "pageRange": "PDF pages 246-263 in the local edition; begin at the Chapter 7 opener on PDF page 246 and stop before the Conclusion begins on PDF page 264.",
+    "pageCount": 18,
+    "stopPoint": "Stop at the end of PDF page 263. Do not continue into the Conclusion, which begins on PDF page 264.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Alchemy - Rory Sutherland.pdf",
+      "driveUrl": "https://drive.google.com/file/d/1N3T4Qh1LHH6_Fibe-8WlW6COvwEiJyN4/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "native_text_pdf_with_outline_boundary_verification",
+        "tool": "local raw PDF outline and page-object inspection with Node",
+        "nativeTextPages": "The local PDF outline maps Chapter 7, \"How to Be an Alchemist,\" to page object 275 and the Conclusion, \"On Being a Little Less Logical,\" to page object 293. The established page-object mapping places those boundaries at PDF pages 246 and 264, yielding the complete bounded Chapter 7 reading on PDF pages 246-263.",
+        "tableOfContentsVerified": true,
+        "notes": "The VPS copy at /home/sushil/studying-the-masters/Books/Alchemy - Rory Sutherland.pdf was checked directly. Canon history records Alchemy through Chapter 6, \"Psychophysics,\" on 2026-11-22; Chapter 7 is the next distinct non-repeated reading."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1N3T4Qh1LHH6_Fibe-8WlW6COvwEiJyN4/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Alchemy - Rory Sutherland.pdf\""
+    },
+    "heading": "Make the frame part of the value.",
+    "standfirst": "Read Chapter 7, \"How to Be an Alchemist,\" from Rory Sutherland's <em>Alchemy</em> on PDF pages 246-263. Study how context, expectation, and the design of choices change what an offer means and therefore what it is worth, then stop before the Conclusion.",
+    "readerIntro": "Read this chapter as a study of value that appears around the object rather than inside it. Mark the moments where context changes interpretation, where a small choice changes behaviour, and where an apparently irrational preference reveals a human goal the narrow model misses. Then audit one offer: name the object, the current frame, the behaviour you want, and one contextual change that could make the value easier to perceive. Stop at PDF page 263.",
+    "blocks": [
+      {
+        "label": "01 / Find the value around the object",
+        "paragraphs": [
+          "Start with the underlying object or service, then separate it from the meaning and expectation surrounding it.",
+          "Mark where the chapter shows context changing perceived value without changing the physical substance."
+        ]
+      },
+      {
+        "label": "02 / Study the choice architecture",
+        "paragraphs": [
+          "Small changes in sequence, comparison, permission, or available options can change what people choose.",
+          "Notice which constraint or cue makes the preferred action easier to understand or easier to take."
+        ]
+      },
+      {
+        "label": "03 / Treat irrationality as a clue",
+        "paragraphs": [
+          "An apparently irrational response may be evidence that the person is optimizing for meaning, reassurance, status, or control.",
+          "Ask what human job becomes visible when the narrow functional model is widened."
+        ]
+      },
+      {
+        "label": "04 / Run one context audit",
+        "paragraphs": [
+          "Choose one offer and write the object, the current frame, the behaviour you want, and the context change that could support it.",
+          "Keep the underlying promise honest; change the surrounding meaning or choice only where it creates real usefulness."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "How to Be an Alchemist",
+      "context",
+      "value",
+      "choice",
+      "expectation",
+      "behaviour"
+    ],
+    "closeReading": [
+      "Which examples show context changing perceived value without changing the underlying object?",
+      "What human goal explains a preference that would look irrational under a narrow functional model?",
+      "Where does a small change in choice architecture alter behaviour, and what makes that change credible rather than manipulative?",
+      "How do the chapter's core examples turn meaning, expectation, or comparison into practical design material?",
+      "Choose one offer: what is the object, what is the current frame, and what contextual change could make its value easier to perceive?"
+    ]
+  },
+  "principle": {
+    "heading": "Change the frame before you change the product.",
+    "body": "Perceived value is produced by the object and the context around it. Before adding features or cutting price, inspect the frame, comparison, expectation, and choice architecture that determine what the offer means.",
+    "exampleLabel": "One example",
+    "example": "A workshop can stop selling an hour of instruction and frame the same session as a decision clinic that leaves the participant with one resolved bottleneck and a next action.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one offer. Write the physical or functional object, the current context, the human meaning the buyer is seeking, and one honest change in framing, sequence, comparison, or choice that could increase perceived value."
+  },
+  "output": {
+    "heading": "Design the meaning around the thing.",
+    "body": "Do not confuse contextual value with decoration. Find the surrounding cue, comparison, or choice that helps the person experience the real promise more clearly."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "collectedAt": "2026-11-26",
+    "heading": "Four current signals about making value legible through context, trust, and choice.",
+    "fieldNotes": [
+      {
+        "title": "Coca-Cola retreats from divisive AI holiday creative",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/coca-cola-pivots-from-divisive-ai-generated-ads-for-holiday-campaign/875215/",
+        "sourceDate": "2026-11-19",
+        "collectedAt": "2026-11-26",
+        "whatHappened": "Coca-Cola launched its 2026 holiday campaign with TV, digital, social, experiential, packaging, and partnerships, while moving away from the generative-AI approach used in its recent holiday pushes after those ads proved divisive with consumers.",
+        "whyItMatters": "The underlying product has not changed; the context and production signal around it has. The brand is treating perceived warmth, tradition, and recognisable human participation as part of the value of the seasonal offer.",
+        "watch": "Whether the human-made creative produces stronger brand association and attention than the technically efficient work it replaces, rather than only a short-lived backlash reversal."
+      },
+      {
+        "title": "Meta shows open-weight models entering medical workflows",
+        "source": "Meta Newsroom",
+        "url": "https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs/",
+        "sourceDate": "2026-11-23",
+        "collectedAt": "2026-11-26",
+        "whatHappened": "Meta described researchers using its open-weight models for medical training in virtual reality, epilepsy research, and analysis of rare-disease microscopy images.",
+        "whyItMatters": "The value is framed through a concrete institutional context rather than model novelty: the same general capability becomes meaningful when attached to a difficult, bounded research gap and a human-led workflow.",
+        "watch": "Whether these early-stage projects produce validated clinical or training outcomes, rather than only a compelling context around the models."
+      },
+      {
+        "title": "Supertake turns a market opinion into an investable product",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+        "sourceDate": "2026-11-23",
+        "collectedAt": "2026-11-26",
+        "whatHappened": "TechCrunch reports that Supertake raised $20 million to let users describe a market view in natural language, refine it with an AI agent, and turn the result into an investable portfolio through connected brokerages.",
+        "whyItMatters": "The framing changes the object from ‘choose stocks’ to ‘express a view and see it operationalised.’ That context can make a complex action feel approachable, while the real product burden becomes trust, limits, and consequences.",
+        "watch": "Whether users treat the conversational framing as a useful decision aid or as permission to outsource high-stakes judgment without understanding the portfolio."
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-11-26",
+        "sourceDate": "2026-11-26",
+        "feed": "for_you",
+        "author": "Sar Haribhakti",
+        "handle": "sarthakgh",
+        "title": "A product fragment on turning capability into behavior",
+        "summary": "This fragment is useful because it names the behavioral question behind a new capability. The important test is not whether the feature is impressive, but whether it changes a repeated workflow enough for the user to adopt it.",
+        "text": "Some news: Today’s my last day at Ramp. I got to be a part of a culture that only moves faster (as well as more creatively and ambitiously) as the company grows. A rare feat, and a manifestation of what real AI adoption can enable for organizations. Grateful for my time!\n\nAs for what’s next, I’ll soon join Anthropic as a member of comms staff\n\nWe can and should build towards a future with things like self-driving cars (an example of humans choosing to let AI do the job) can exist *without* surrendering our free will to AI systems in a broader sense as laid out here:",
+        "url": "https://x.com/sarthakgh/status/2125670324192874834"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
