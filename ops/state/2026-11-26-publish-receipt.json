@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-26",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-11-26 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "60e3dba5544234867d9a258a9768d95a2036d4d8",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Thursday, 26 November 2026",
+    "Issue 117",
+    "Change the context before you change the thing."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 26 November 2026",
+  "gmail_message_id": "01a21619-90bc-7522-85be-53963fe68f36",
+  "completed_at_ist": "2026-11-26 09:55:04 IST"
+}
