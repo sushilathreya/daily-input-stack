@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-27",
+  "status": "published_and_emailed",
+  "delivery_status": "on_time",
+  "target_inbox_time_ist": "2026-11-27 10:00:00 IST",
+  "local_verified": true,
+  "git_commit": "fc67eadb65e3fc018428942a88904f074df0ea2a",
+  "github_pages_run_id": "",
+  "live_verified": true,
+  "live_url": "https://sushilathreya.github.io/daily-input-stack/",
+  "live_checks": [
+    "Friday, 27 November 2026",
+    "Issue 118",
+    "Make the visual serve the selling idea."
+  ],
+  "email_recipient": "stickmansubscriptions@gmail.com",
+  "email_sent": true,
+  "email_subject": "Studying the Masters - 27 November 2026",
+  "gmail_message_id": "01a21b3f-eb4c-79f0-ade7-3797bdc2ecf7",
+  "completed_at_ist": "2026-11-27 09:55:03 IST"
+}
