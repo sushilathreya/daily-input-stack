@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-28",
+  "displayDate": "Saturday, 28 November 2026",
+  "issueNumber": 119,
+  "title": "Make the position easier to choose.",
+  "eyebrow": "The Apprentice's Desk",
+  "dek": "In Chapter 19 of <em>Positioning</em>, Al Ries and Jack Trout show how a service can become memorable by owning the comparison that makes its choice easier.",
+  "meta": {
+    "canon": "Al Ries and Jack Trout, <em>Positioning: The Battle for Your Mind</em>",
+    "study": "25-35 min",
+    "practice": "one service-position audit"
+  },
+  "marginNote": {
+    "label": "Apprenticeship Note",
+    "body": "A position earns its keep when it reduces the buyer's work: one situation, one comparison, one association that makes the choice easier to remember."
+  },
+  "canon": {
+    "author": "Al Ries and Jack Trout",
+    "work": "Positioning: The Battle for Your Mind",
+    "chapter": "Positioning a Long Island Bank",
+    "chapterLabel": "Chapter 19, \"Positioning a Long Island Bank\" (bounded opening section)",
+    "field": "brand strategy / service positioning / category design",
+    "pageRange": "PDF pages 277-296 in the local edition; begin at Chapter 19, \"Positioning a Long Island Bank,\" on PDF page 277 and stop at the end of PDF page 296.",
+    "pageCount": 20,
+    "stopPoint": "Stop at the end of PDF page 296. Do not continue beyond this bounded opening section of Chapter 19.",
+    "allowRepeat": false,
+    "source": {
+      "kind": "local_pdf",
+      "localPath": "/Users/sushil/Documents/Operation Alpine Thunder/Books/Positioning - Al Ries and Jack Trout.pdf",
+      "driveUrl": "https://drive.google.com/file/d/1fISuTXG4QmxQ6MrFaI3wxE6eR6EoEh-p/view?usp=drivesdk",
+      "booksFolderUrl": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "parserPreflight": {
+        "status": "manual_verified",
+        "classification": "native_text_pdf_with_outline_boundary_verification",
+        "tool": "local Positioning PDF outline and page-object inspection",
+        "nativeTextPages": "The local PDF outline maps Chapter 19, \"Positioning a Long Island Bank,\" to PDF page 277. The assigned opening section is bounded to PDF pages 277-296, under 60 pages, with an explicit stop point.",
+        "tableOfContentsVerified": true,
+        "notes": "The VPS copy at /home/sushil/studying-the-masters/Books/Positioning - Al Ries and Jack Trout.pdf was checked directly. Canon history records Chapter 18 on 2026-11-25; Chapter 19 is the next distinct source-available chapter."
+      }
+    },
+    "sourceLinks": {
+      "readOnPhone": "https://drive.google.com/file/d/1fISuTXG4QmxQ6MrFaI3wxE6eR6EoEh-p/view?usp=drivesdk",
+      "booksFolder": "https://drive.google.com/drive/folders/1wNzkrAnamBB-7iBDg2DfzRnnIRHVkhqU",
+      "copyOpenCommand": "open \"/Users/sushil/Documents/Operation Alpine Thunder/Books/Positioning - Al Ries and Jack Trout.pdf\""
+    },
+    "heading": "Make the comparison do the work.",
+    "standfirst": "Read the bounded opening of Chapter 19, \"Positioning a Long Island Bank,\" from Al Ries and Jack Trout's <em>Positioning</em> on PDF pages 277-296. Study how a service can claim a simple mental frame against its alternatives, then stop at PDF page 296.",
+    "readerIntro": "Read this section as a study of service positioning. Mark the customer situation the bank makes legible, the comparison it uses to become memorable, and the association that helps the buyer decide. Then audit one service: name the choice it should make easier, the position it should own, and the proof that supports it. Stop at PDF page 296.",
+    "blocks": [
+      {
+        "label": "01 / Find the decision context",
+        "paragraphs": [
+          "Start with the customer situation that makes the service relevant.",
+          "Mark how the chapter narrows a broad banking offer into a choice the buyer can recognize."
+        ]
+      },
+      {
+        "label": "02 / Study the comparison",
+        "paragraphs": [
+          "A service position becomes memorable when it changes what the buyer compares.",
+          "Notice which alternative or expectation the bank is trying to make less relevant, and why that frame matters."
+        ]
+      },
+      {
+        "label": "03 / Reduce the association",
+        "paragraphs": [
+          "Separate the single association that earns recall from the many features that describe delivery.",
+          "Ask what evidence makes the position credible instead of merely distinctive."
+        ]
+      },
+      {
+        "label": "04 / Run one service-position audit",
+        "paragraphs": [
+          "Choose one service and write the decision it should make easier for a specific buyer.",
+          "Then name the comparison, the association to own, and the proof that would make the position believable."
+        ]
+      }
+    ],
+    "passageAnchors": [
+      "Positioning a Long Island Bank",
+      "service",
+      "comparison",
+      "association",
+      "the mind"
+    ],
+    "closeReading": [
+      "What customer situation gives the bank its clearest relevance?",
+      "Which comparison makes the service easier to understand or remember?",
+      "What single association does the chapter try to make available in the buyer's mind?",
+      "Where does the section show that positioning changes the frame of choice rather than only the wording of the message?",
+      "Choose one service: what decision should it make easier, and what proof would make that position credible?"
+    ]
+  },
+  "principle": {
+    "heading": "Own the decision the service simplifies.",
+    "body": "A service becomes easier to choose when it is attached to one recognizable situation and one useful comparison. The position should reduce interpretive work before the feature list begins.",
+    "exampleLabel": "One example",
+    "example": "A bookkeeping service should not lead with every task it can perform. It might own the position of the weekly cash view that lets a small-business owner decide what to do next, then use its features as proof of that promise.",
+    "practiceLabel": "Deliberate practice - 15 minutes",
+    "practice": "Choose one service. Write the customer decision it should make easier, the alternative it should be compared against, the single association it should own, and one piece of proof that supports the position."
+  },
+  "output": {
+    "heading": "Make the choice legible before making the claim larger.",
+    "body": "A clear position gives the buyer a useful shortcut: this is the service for that situation, compared in that way, for that reason."
+  },
+  "signals": {
+    "status": "morning_signals_added",
+    "collectedAt": "2026-11-28",
+    "heading": "Four current signals about making a service easier to find, compare, and trust.",
+    "fieldNotes": [
+      {
+        "title": "OpenAI makes a concrete biological job the frame for model capability",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+        "sourceDate": "2026-11-24",
+        "collectedAt": "2026-11-28",
+        "whatHappened": "OpenAI reported that its GPT-6 models designed protein structures and sequences through reasoning and code, with lab tests finding binding evidence across five targets, while specialized models remained part of some workflow steps.",
+        "whyItMatters": "The capability becomes easier to understand when attached to a specific design job and a visible test. The concrete frame carries more decision value than a general claim of intelligence, while the stated limitation keeps the position credible.",
+        "watch": "Watch whether later work turns the demonstrated component capability into a reliable end-to-end biology workflow, and whether users remember the model for a job rather than for a benchmark adjective."
+      },
+      {
+        "title": "Holiday brands are using handmade craft to make humanity legible",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/brands-turn-to-handmade-craft-handfuls-of-creators-for-holiday-season/875335/",
+        "sourceDate": "2026-11-25",
+        "collectedAt": "2026-11-28",
+        "whatHappened": "Marketing Dive reported that Coca-Cola, Walmart, and Levi's are leaning into handmade craft, creators, and real people as consumers grow weary of AI-generated advertising.",
+        "whyItMatters": "The contrast is doing positioning work: the brands are making human connection and visible effort the comparison that separates their holiday messages from polished sameness. The medium becomes evidence for the association.",
+        "watch": "Watch whether craft produces a distinctive brand memory or becomes another repeatable aesthetic, and whether the human signal connects to a specific customer situation rather than serving as decoration."
+      },
+      {
+        "title": "Retailers are treating operational resilience as part of the offer",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/black-friday-retailers-tech-outages-ai/875541/",
+        "sourceDate": "2026-11-24",
+        "collectedAt": "2026-11-28",
+        "whatHappened": "Retail Dive reported that retailers were entering Black Friday after widespread outages across sectors, prompting caution around major system changes, promotions, stock availability, and data safety.",
+        "whyItMatters": "During peak demand, reliability becomes a choice criterion rather than invisible infrastructure. A retailer can be remembered not just for the deal, but for making the high-stakes shopping moment feel dependable.",
+        "watch": "Watch which retailers turn resilience into a visible customer promise through stock accuracy, checkout continuity, and clear recovery paths when systems fail."
+      },
+      {
+        "title": "Walmart lets an outside AI agent carry the shopping comparison",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+        "sourceDate": "2026-11-24",
+        "collectedAt": "2026-11-28",
+        "whatHappened": "TechCrunch reported that Walmart partnered with Meta so shoppers can use the Muse AI agent to find and purchase Black Friday products, with price comparison and user controls over shopping history and spending.",
+        "whyItMatters": "The retailer is making convenience and comparison available through an intermediary instead of requiring shoppers to begin inside Walmart's own interface. The position now has to survive when another agent explains the choice.",
+        "watch": "Watch whether Walmart's product facts, price confidence, and privacy controls are strong enough for an external agent to recommend it, and whether the convenience changes who owns the customer relationship."
+      }
+    ],
+    "tweets": [
+      {
+        "collectedAt": "2026-11-28",
+        "sourceDate": "2026-11-28",
+        "feed": "following",
+        "author": "Shreyas Doshi",
+        "handle": "shreyas",
+        "title": "Playing Product versus doing product",
+        "summary": "This fragment is useful beside the canon because it names a positioning test for teams: are they performing the symbols of product work, or making a real customer choice easier?",
+        "text": "Sharing something that is way overdue:\nPlaying Product vs. Doing Product\n\nI see people Playing Product all the time, in startups and big companies.\n\nInterestingly, someone can have strong product skills, and yet end up Playing Product. It is mainly about their underlying mindset. https://t.co/RDWIkLcLbt",
+        "url": "https://x.com/shreyas/status/2126489377648070951"
+      }
+    ],
+    "tweetHeading": "One fragment from the timeline worth carrying into the work."
+  }
+}
